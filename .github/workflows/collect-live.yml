@@ -1,0 +1,38 @@
+name: Collect live research
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live-research-collector
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test feed parsing and safety boundaries
+        run: python3 -m unittest discover -s tests/live -p 'test_*.py'
+      - name: Fetch allowlisted RSS feeds (not AI, no auto-approval)
+        run: python3 scripts/live/collect.py
+      - name: Preserve research archive and source health
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add public/live/research.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh source research inbox'
+            git push origin HEAD:main
+          fi

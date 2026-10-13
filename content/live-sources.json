@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    { "id": "pib", "name": "Press Information Bureau", "url": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3", "allowedHosts": ["pib.gov.in"], "enabled": true },
+    { "id": "rbi", "name": "Reserve Bank of India", "url": "https://www.rbi.org.in/pressreleases_rss.xml", "allowedHosts": ["rbi.org.in"], "enabled": true },
+    { "id": "nasa", "name": "NASA", "url": "https://www.nasa.gov/news-release/feed/", "allowedHosts": ["nasa.gov"], "enabled": true }
+  ]
+}

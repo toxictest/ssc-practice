@@ -1,0 +1,43 @@
+{
+  "name": "ssc-cgl-rapid-fire",
+  "private": true,
+  "version": "1.2.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "build": "npm run live:compile && npm run typecheck && vite build && node scripts/build-offline.mjs",
+    "preview": "vite preview",
+    "test:e2e": "playwright test",
+    "check": "npm run test && npm run test:feeds && npm run build",
+    "live:collect": "python3 scripts/live/collect.py",
+    "live:compile": "node scripts/live/compile.mjs",
+    "live:refresh": "npm run live:collect && npm run live:compile",
+    "test:feeds": "python3 -m unittest discover -s tests/live -p \"test_*.py\""
+  },
+  "dependencies": {
+    "clsx": "2.1.1",
+    "framer-motion": "^14.1.0",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "tailwind-merge": "3.4.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.0",
+    "@tailwindcss/vite": "4.1.17",
+    "@types/node": "22.19.17",
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
+    "@vitejs/plugin-react": "5.1.1",
+    "tailwindcss": "4.1.17",
+    "typescript": "5.9.3",
+    "vite": "7.3.7",
+    "vitest": "4.1.11"
+  },
+  "description": "Bilingual SSC CGL practice arcade with local progress and offline support",
+  "engines": {
+    "node": ">=20.19.0"
+  }
+}

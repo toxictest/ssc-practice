@@ -1,0 +1,120 @@
+{
+  "baseline": "Delivered 1.1.0 source archive",
+  "note": "Only App.tsx changed in original src tree, to connect the additive live module; new files listed in LIVE-UPDATES.md.",
+  "files": [
+    {
+      "file": "src/App.tsx",
+      "unchanged": false,
+      "baselineSha256": "572dc8ec97d725185909f4a150910a3f7b2bdeb3f7ee2f53c5cee963b4a92fda",
+      "currentSha256": "26818fe8cda8ded054d7e57c84330c17e7b7705a1efc209aa3d7a51019ab3c02"
+    },
+    {
+      "file": "src/components/ErrorBoundary.tsx",
+      "unchanged": true,
+      "baselineSha256": "a240b634a71282e7a8280b9dca5b72733b6e2ec008faaf9e506a8ef5712d8884",
+      "currentSha256": "a240b634a71282e7a8280b9dca5b72733b6e2ec008faaf9e506a8ef5712d8884"
+    },
+    {
+      "file": "src/components/OfflineStatus.tsx",
+      "unchanged": true,
+      "baselineSha256": "c4230e4efadc6ac54d5f2e8a0444932a4bfdfeaef5f0f8fe9bfc9bd7345694fe",
+      "currentSha256": "c4230e4efadc6ac54d5f2e8a0444932a4bfdfeaef5f0f8fe9bfc9bd7345694fe"
+    },
+    {
+      "file": "src/components/TrainingPanel.tsx",
+      "unchanged": true,
+      "baselineSha256": "3bcd0d29bbe55f4c93e1fe6c05c3c17f9c25322b4174ddae7a2c02be3999bba3",
+      "currentSha256": "3bcd0d29bbe55f4c93e1fe6c05c3c17f9c25322b4174ddae7a2c02be3999bba3"
+    },
+    {
+      "file": "src/engine.ts",
+      "unchanged": true,
+      "baselineSha256": "0bc4a573b932bd8032e8444ac059aa6a60cabdcc267601d4d73455e621c02b7b",
+      "currentSha256": "0bc4a573b932bd8032e8444ac059aa6a60cabdcc267601d4d73455e621c02b7b"
+    },
+    {
+      "file": "src/game/InkParticles.tsx",
+      "unchanged": true,
+      "baselineSha256": "f04d598ba7f8f5a822e3980e868b73e8125f682845061a1402e4e22fad576fdc",
+      "currentSha256": "f04d598ba7f8f5a822e3980e868b73e8125f682845061a1402e4e22fad576fdc"
+    },
+    {
+      "file": "src/game/Screens.tsx",
+      "unchanged": true,
+      "baselineSha256": "f8460dde2128f7ee8940a2e9b70d9c55178c5fbceafc9a766c0cdd69a49c5330",
+      "currentSha256": "f8460dde2128f7ee8940a2e9b70d9c55178c5fbceafc9a766c0cdd69a49c5330"
+    },
+    {
+      "file": "src/game/Sprint.tsx",
+      "unchanged": true,
+      "baselineSha256": "b82112158954f50258ce792b27a2dc24b4543d5a9637690122345f3f8f489150",
+      "currentSha256": "b82112158954f50258ce792b27a2dc24b4543d5a9637690122345f3f8f489150"
+    },
+    {
+      "file": "src/game/fx.ts",
+      "unchanged": true,
+      "baselineSha256": "f2a2e6b98388e8df3625a49211d498652259ea321ce8869bae07c012c2e9fd6a",
+      "currentSha256": "f2a2e6b98388e8df3625a49211d498652259ea321ce8869bae07c012c2e9fd6a"
+    },
+    {
+      "file": "src/game/preferences.ts",
+      "unchanged": true,
+      "baselineSha256": "50618d3062540ff03c16c2ad5df26a05aeaa5b82ffb26126e8a3c47a4eee7565",
+      "currentSha256": "50618d3062540ff03c16c2ad5df26a05aeaa5b82ffb26126e8a3c47a4eee7565"
+    },
+    {
+      "file": "src/game/scores.ts",
+      "unchanged": true,
+      "baselineSha256": "bb1963761293c2ac0568190740543262d67b12ede024ca6ce375813a22d9a87d",
+      "currentSha256": "bb1963761293c2ac0568190740543262d67b12ede024ca6ce375813a22d9a87d"
+    },
+    {
+      "file": "src/game/sprint.ts",
+      "unchanged": true,
+      "baselineSha256": "402f90eced1e89f58d6c058c6f0d8c596bbd9ced841d6053ce1df0f525547874",
+      "currentSha256": "402f90eced1e89f58d6c058c6f0d8c596bbd9ced841d6053ce1df0f525547874"
+    },
+    {
+      "file": "src/gen-verbal.ts",
+      "unchanged": true,
+      "baselineSha256": "3b6ab270dbe797e27c7ff692a5210b488c30e055c10eec848fddca697fbba94c",
+      "currentSha256": "3b6ab270dbe797e27c7ff692a5210b488c30e055c10eec848fddca697fbba94c"
+    },
+    {
+      "file": "src/index.css",
+      "unchanged": true,
+      "baselineSha256": "0096b3aa888108310cf9d52d2866e2f48b4b66d1efc69ffb5e814b944cb77404",
+      "currentSha256": "0096b3aa888108310cf9d52d2866e2f48b4b66d1efc69ffb5e814b944cb77404"
+    },
+    {
+      "file": "src/kit.ts",
+      "unchanged": true,
+      "baselineSha256": "cdd3dac9a2ee38ad916ff317473ad14a4eb0df8a3a5cee9b8a532257dba26b5d",
+      "currentSha256": "cdd3dac9a2ee38ad916ff317473ad14a4eb0df8a3a5cee9b8a532257dba26b5d"
+    },
+    {
+      "file": "src/main.tsx",
+      "unchanged": true,
+      "baselineSha256": "7d4fc9c9a0cdcddec4eed85e7aba005947f20c8151edae14872317ee6f749cdb",
+      "currentSha256": "7d4fc9c9a0cdcddec4eed85e7aba005947f20c8151edae14872317ee6f749cdb"
+    },
+    {
+      "file": "src/utils/cn.ts",
+      "unchanged": true,
+      "baselineSha256": "d1f1e0d62cb8d8d1e04c26e14de842d8a151f75812d81b046c65b5d1fe8e4b27",
+      "currentSha256": "d1f1e0d62cb8d8d1e04c26e14de842d8a151f75812d81b046c65b5d1fe8e4b27"
+    },
+    {
+      "file": "src/utils/keyboard.ts",
+      "unchanged": true,
+      "baselineSha256": "232b83627aea192c7b8d3624188ff04802bdc2ac05c5ff7226d7daa6ff7a078f",
+      "currentSha256": "232b83627aea192c7b8d3624188ff04802bdc2ac05c5ff7226d7daa6ff7a078f"
+    },
+    {
+      "file": "src/vite-env.d.ts",
+      "unchanged": true,
+      "baselineSha256": "65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5",
+      "currentSha256": "65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5"
+    }
+  ]
+}
