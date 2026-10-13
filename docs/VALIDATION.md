@@ -1,5 +1,7 @@
 # Validation report
 
+**Remote deployment subsequently verified:** initial Pages publication, collector execution, collector-triggered redeployment and the public site were checked successfully. See [DEPLOYMENT.md](../DEPLOYMENT.md). Historical local-only notes below describe the state before this setup.
+
 ## 1.2.0 live add-on verification — 13 October 2026
 
 - **28 JavaScript tests passed**, including the original 15 and 13 live-import/selection/publisher tests.

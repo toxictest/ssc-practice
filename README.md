@@ -1,5 +1,7 @@
 # SSC CGL · Rapid Fire Drill
 
+**Live:** https://toxictest.github.io/ssc-practice/ · **[Owner review desk](https://toxictest.github.io/ssc-practice/review.html)** · **[Verified deployment report](DEPLOYMENT.md)**
+
 **Hindi + English aptitude practice. A paper-inspired interface, quick calculation sprints, and progress that stays on your device.**
 
 React 19 · TypeScript · Vite 7 · Tailwind CSS 4 · Offline-ready · GitHub Pages-ready
@@ -101,7 +103,7 @@ GitHub Free par **public repositories** se GitHub Pages available hai; public-re
 
 GitHub → **New repository**:
 
-- Suggested name: `ssc-cgl-rapid-fire`
+- This deployment uses: `ssc-practice`
 - Visibility: **Public**
 - README / license / `.gitignore` auto-add options ko **unchecked** rakhein; files package mein already hain.
 
@@ -109,14 +111,14 @@ GitHub → **New repository**:
 
 ### 2. Project upload karein
 
-Extracted source folder mein terminal kholiye. `YOUR_USERNAME` ko apne actual username se replace karein:
+Extracted source folder mein terminal kholiye. Neeche is repository ka actual URL hai; apne fork ke liye URL badlein:
 
 ```bash
 git init
 git branch -M main
 git add .
 git commit -m "Upgrade SSC CGL practice app and add Pages deployment"
-git remote add origin https://github.com/YOUR_USERNAME/ssc-cgl-rapid-fire.git
+git remote add origin https://github.com/toxictest/ssc-practice.git
 git push -u origin main
 ```
 
@@ -147,7 +149,7 @@ Workflow file: [`.github/workflows/pages.yml`](.github/workflows/pages.yml).
 Project repository ka usual URL:
 
 ```text
-https://YOUR_USERNAME.github.io/ssc-cgl-rapid-fire/
+https://toxictest.github.io/ssc-practice/
 ```
 
 Actual published URL **Settings → Pages** aur successful `deploy` job mein milega. Pehli publication ko kuch minutes lag sakte hain.
@@ -423,4 +425,4 @@ Before public hosting, confirm redistribution rights for original code, imagery 
 
 ---
 
-**Deployment status:** package and workflow are ready; this delivery does **not** mean a repository has been created or a live GitHub Pages deployment has been performed. Publish from your own account using one of the methods above.
+**Deployment status:** GitHub Pages and the collector-to-publication pipeline were configured and verified successfully on 13 October 2026. See [DEPLOYMENT.md](DEPLOYMENT.md) for live links, run records and token-cleanup instructions.

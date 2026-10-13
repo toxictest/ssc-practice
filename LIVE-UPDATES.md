@@ -2,6 +2,8 @@
 
 **Non-AI source collection + owner-reviewed questions + one-button import. Original practice bank retained.**
 
+**Deployed:** https://toxictest.github.io/ssc-practice/ — [verified remote setup and workflow runs](DEPLOYMENT.md).
+
 ## Sabse pehle: kya automatic hai, kya nahi?
 
 | Step | Behavior |
@@ -56,7 +58,7 @@ This requests collection at 00:17, 06:17, 12:17 and 18:17 **UTC** — approximat
 
 A GitHub-token bot commit does not normally trigger another push workflow. The included `workflow_run` connection deliberately starts publication after the collector completes. The collector must succeed; a failed workflow does not start a successful deployment. An upstream feed outage is recorded in the snapshot without destroying older headlines.
 
-**No remote repository or deployment has been performed by this delivery.** Workflows become operational after you upload the package and enable them in your account.
+**This repository is now deployed.** The source upload, initial deployment, manual collector run and collector-triggered publication were verified successfully. See [DEPLOYMENT.md](DEPLOYMENT.md). These instructions remain useful for forks/redeployment.
 
 ## 3. Review and publish new questions
 
