@@ -6,7 +6,8 @@
 ## Live links
 
 - **Practice website:** https://toxictest.github.io/ssc-practice/
-- **Owner review/export desk:** https://toxictest.github.io/ssc-practice/review.html
+- **Owner publishing (GitHub login):** https://github.com/toxictest/ssc-practice/actions/workflows/owner-questions.yml
+- **Legacy owner-access information page (no editor):** https://toxictest.github.io/ssc-practice/review.html
 - **Source repository:** https://github.com/toxictest/ssc-practice
 - **Actions:** https://github.com/toxictest/ssc-practice/actions
 
@@ -45,7 +46,7 @@ To fetch immediately as the owner:
 3. Wait for the collector and the subsequent Pages publication to succeed.
 4. In the website, press **New questions implement**.
 
-To add actual MCQs, use the owner review/export process in [LIVE-UPDATES.md](LIVE-UPDATES.md), then commit the complete reviewed bank to `content/live-questions.json`. News headlines do not automatically become questions.
+To add actual MCQs, use the authenticated owner publishing workflow in [OWNER-ACCESS.md](OWNER-ACCESS.md). News headlines do not automatically become questions.
 
 ## Credential cleanup
 

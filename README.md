@@ -1,12 +1,14 @@
 # SSC CGL · Rapid Fire Drill
 
-**Live:** https://toxictest.github.io/ssc-practice/ · **[Owner review desk](https://toxictest.github.io/ssc-practice/review.html)** · **[Verified deployment report](DEPLOYMENT.md)**
+**Live:** https://toxictest.github.io/ssc-practice/ · **[Owner publishing](https://github.com/toxictest/ssc-practice/actions/workflows/owner-questions.yml)** · **[Verified deployment report](DEPLOYMENT.md)**
 
 **Hindi + English aptitude practice. A paper-inspired interface, quick calculation sprints, and progress that stays on your device.**
 
 React 19 · TypeScript · Vite 7 · Tailwind CSS 4 · Offline-ready · GitHub Pages-ready
 
-> **New in 1.2.0:** “New questions implement” button, scheduled non-AI RSS research inbox, manual owner review/export, and additive approved-question imports. **[Read the Live Updates setup guide](LIVE-UPDATES.md).** The initial snapshot has 40 fetched headlines and **0 approved MCQs**; source collection is automatic, question authoring/approval is not.
+> **Owner-access update:** Public authoring controls have been removed. Question publication now uses a GitHub-authenticated, owner-checked workflow. Read [OWNER-ACCESS.md](OWNER-ACCESS.md).
+
+> **New in 1.2.0:** “New questions implement” button, scheduled non-AI RSS research inbox, GitHub-authenticated owner publishing, and additive approved-question imports. **[Read the Live Updates setup guide](LIVE-UPDATES.md).** The initial snapshot has 40 fetched headlines and **0 approved MCQs**; source collection is automatic, question authoring/approval is not.
 
 ![Rapid Fire Drill desktop preview](docs/desktop-preview.jpg)
 

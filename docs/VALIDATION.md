@@ -1,5 +1,13 @@
 # Validation report
 
+## Owner-access update — 13 October 2026
+
+- 32 JavaScript tests, 6 Python tests and 30 browser checks passed locally.
+- Added server-side denial tests for non-owner, wrong branch and unconfirmed publication; invalid records leave the bank unchanged.
+- Browser checks confirm the legacy public review page has no question inputs/forms and its old authoring script is absent.
+- Repository collaborator check returned only `toxictest` with admin/write access. This is a point-in-time access check, not a guarantee against later permission changes or credential compromise.
+- Real identity enforcement is delegated to GitHub authentication plus server-side actor checks, not a client-side password.
+
 **Remote deployment subsequently verified:** initial Pages publication, collector execution, collector-triggered redeployment and the public site were checked successfully. See [DEPLOYMENT.md](../DEPLOYMENT.md). Historical local-only notes below describe the state before this setup.
 
 ## 1.2.0 live add-on verification — 13 October 2026

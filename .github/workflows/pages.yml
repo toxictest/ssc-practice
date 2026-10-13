@@ -6,7 +6,7 @@ on:
     branches: [main]
   workflow_dispatch:
   workflow_run:
-    workflows: [Collect live research]
+    workflows: [Collect live research, Owner - Publish reviewed question]
     types: [completed]
     branches: [main]
 

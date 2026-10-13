@@ -1,4 +1,4 @@
-import { readFile, writeFile, mkdir, copyFile } from 'node:fs/promises';
+import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { recordErrors } from './schema.mjs';
 const read = async path => JSON.parse(await readFile(path, 'utf8'));
 const bank = await read('content/live-questions.json');
@@ -32,6 +32,4 @@ const bundle = {
 };
 await mkdir('public/live', { recursive: true });
 await writeFile('public/live/questions.json', JSON.stringify(bundle, null, 2) + '\n');
-// The browser importer and standalone review page use exactly the publisher's validator.
-await copyFile('scripts/live/schema.mjs', 'public/live/schema.mjs');
 console.log(`Published ${bundle.questions.length} approved questions; ${bundle.withdrawnIds.length} withdrawn. Drafts stay out of practice.`);

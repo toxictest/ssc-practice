@@ -11,7 +11,7 @@
 | Source collection | GitHub Actions fetches configured RSS/Atom feeds on a six-hour schedule, or when the repository owner manually runs the collector workflow. |
 | Research inbox | Headline, original URL, source name and available publication date are published. Full articles are not scraped or republished. |
 | MCQ creation | **Manual.** A reviewer reads the source and writes/checks the question, four options, answer and explanations. No AI, LLM, auto-summary or auto-translation is used. |
-| Approval | Reviewer explicitly approves; repository owner commits the exported bank. A checkbox alone does not publish anything. |
+| Approval | The authenticated repository owner explicitly confirms review in GitHub; an owner-checked workflow validates and commits the record. |
 | “New questions implement” | Checks the latest deployed release, imports approved records, applies corrections/withdrawals and shows source headlines. |
 | Existing questions | Original generators and bundled bank remain available. |
 
@@ -60,51 +60,21 @@ A GitHub-token bot commit does not normally trigger another push workflow. The i
 
 **This repository is now deployed.** The source upload, initial deployment, manual collector run and collector-triggered publication were verified successfully. See [DEPLOYMENT.md](DEPLOYMENT.md). These instructions remain useful for forks/redeployment.
 
-## 3. Review and publish new questions
+## 3. Owner-only review and publication
 
-### Browser-assisted method
+**The public authoring/export form has been removed.** `review.html` is now an access-information page, not an editor. Actual publishing happens inside GitHub after authentication as the repository owner.
 
-1. On the home page, click **New questions implement**, then **Owner: review sources & prepare MCQs**. Or open `review.html` on your deployed site.
-2. Refresh the inbox. If you have unpublished drafts on another device, first import your repository's **complete** `content/live-questions.json`.
-3. Select **Prepare a question from this source**. Only the source reference is copied; the question/answer fields remain blank.
-4. Open/read the original source. Check whether it is relevant, reliable and permitted for your intended use.
-5. Write English and Hindi question text, four distinct options, correct answer, explanation, recall tip and common mistake. Add category, difficulty, eligible tiers, reviewer name and an **as-of date**.
-6. For changing facts, write a date/event/year into the stem itself. Avoid undated “current minister”, “latest ranking”, etc.
-7. **Save as draft only** if verification is incomplete. Drafts never enter practice.
-8. Confirm source/answer verification, then **Approve & add to export bank**.
-9. **Download full bank JSON**. Review the file/diff and replace `content/live-questions.json` in the source project.
-10. Run checks and push:
+1. Read the original article from the research inbox; author and verify the bilingual MCQ yourself.
+2. Sign in as `toxictest`, open **[Owner - Publish reviewed question](https://github.com/toxictest/ssc-practice/actions/workflows/owner-questions.yml)** and choose **Run workflow → main**.
+3. Paste one complete reviewed record, confirm verification and run.
+4. The workflow checks owner identity on the server, validates and merges the record, commits the bank, and triggers tested publication.
+5. After deployment, press **New questions implement**.
 
-```bash
-npm run check
-git add content/live-questions.json
-git commit -m "Publish reviewed current-affairs questions"
-git push
-```
+Full instructions, safe template, correction/withdrawal procedure and security boundaries: **[OWNER-ACCESS.md](OWNER-ACCESS.md)**.
 
-After the successful Pages deployment, press **New questions implement** in the practice app. Existing visitors must press the button to import the new question-bank release. Ordinary reloads do not perform a fresh internet research job.
+No AI writes or verifies the question. The publisher stamps the authenticated owner's GitHub username and submission time, but this is not automatic factual verification. No password or token is embedded in the public site.
 
-### This is not a secure admin portal
-
-`review.html` is a public **local authoring/export tool**. Anyone may open it or write local drafts. It cannot modify your deployed bank, write to GitHub, or approve content for other users. Publishing requires repository write access through your normal Git workflow. Reviewer names are self-declared metadata, not authenticated identity proof.
-
-Local drafts/form fields are stored in that browser; there is no cloud draft sync. Download backups before switching devices, importing a replacement bank or clearing site data. Never enter credentials, tokens or private documents into this public tool.
-
-### Correct an already published question
-
-- Open/edit its stable ID.
-- Increase `revision` (e.g. 1 → 2).
-- Recheck the source, answer and both languages.
-- Approve/export/commit the full bank again.
-- The button replaces an older installed revision with the newer revision instead of creating a duplicate.
-
-The publisher rejects changed approved content that keeps the same revision.
-
-### Withdraw an incorrect question
-
-Use **Withdraw** in the review bank, then export and publish. Keep its ID/revision tombstone in `content/live-questions.json`; do not silently delete the record. The update button removes explicitly withdrawn live questions on the next successful import.
-
-Previously installed questions can remain available on offline devices until those devices update. The system does not remotely alter a question already being played.
+The earlier public form only edited local drafts and could never directly change the shared website. Old downloaded or cached copies still cannot bypass GitHub permissions. Local draft keys from that version are not deleted automatically.
 
 ## 4. New-question preference and old practice
 
@@ -172,7 +142,7 @@ Authorized RSS/Atom feeds
         ↓ scheduled Python fetch (no AI)
 public/live/research.json ─────────→ on-page research inbox
         ↓ human reading + authoring
-review.html → download full bank → owner repository commit
+GitHub owner workflow → owner/branch/confirmation checks → validated commit
         ↓
 content/live-questions.json
         ↓ validation / approved-only compiler
@@ -190,9 +160,10 @@ New questions implement → local installed bank → additive practice adapter
 | `scripts/live/collect.py` | Standard-library RSS/Atom collection; no Python packages required |
 | `scripts/live/schema.mjs` | Shared structural validator, used by compiler and browser |
 | `scripts/live/compile.mjs` | Builds approved-only bundle and withdrawal metadata |
+| `scripts/live/apply-owner-question.mjs` | Server-side owner check and single-record merge |
 | `public/live/research.json` | Collected headline archive and source health |
 | `public/live/questions.json` | Generated approved subset; do not hand-edit as the canonical source |
-| `public/review.html`, `public/live/review.mjs` | Owner-side local authoring/export page |
+| `public/review.html` | Public access-information page only; no editor |
 | `src/live/*` | Update button, validated importer, separate styles and practice selection adapter |
 | `.github/workflows/collect-live.yml` | Scheduled/manual feed job and archive commit |
 
@@ -200,14 +171,14 @@ New questions implement → local installed bank → additive practice adapter
 
 - `ssc-cgl-approved-live-v1`: installed approved bank and latest publication timestamp.
 - `ssc-cgl-live-seen-v1`: bounded record of served question versions.
-- `ssc-live-review-bank-v1`: local owner draft/export bank.
-- `ssc-live-review-form-v1`: unfinished owner form (verification checkbox is not restored).
+- `ssc-live-review-bank-v1`: legacy local draft/export bank; unused by the new site.
+- `ssc-live-review-form-v1`: legacy unfinished form; unused by the new site.
 
 Original scores/preferences are neither overwritten nor cleared by importing questions. “Reset saved scores” still resets only scores, not the added live bank. These keys are origin-wide like the existing app; separate deployments on the same origin can share them unless you rename the keys.
 
 ### Validation is not fact-checking
 
-The publisher/importer checks IDs, approved status, reviewer/date metadata, HTTPS source links, bilingual fields, four distinct options, a valid answer index, category/difficulty/tiers, bounded sizes and revisions. It cannot prove that an answer is factually correct or that a reviewer genuinely read a source. That responsibility stays with the owner/reviewer.
+The publisher/importer checks IDs, approved status, reviewer/date metadata, HTTPS source links, bilingual fields, four distinct options, a valid answer index, category/difficulty/tiers, bounded sizes and revisions. It cannot prove that an answer is factually correct or that the owner genuinely read a source. The owner workflow authenticates who submitted the record, not its truth. That responsibility stays with the owner/reviewer.
 
 Only explicit withdrawals delete installed live records. Regular updates merge new records and higher revisions; duplicate checks do not grow the bank. Older server snapshots are rejected to prevent a stale cached release from rolling back newer installed data.
 
@@ -241,6 +212,6 @@ Validated locally:
 
 These tests use clearly labelled synthetic fixtures where approval/import must be exercised. **No synthetic test question is published to the real bank.** Real source fetches are tested separately; network success now does not guarantee future source availability.
 
-Not implemented: all-internet crawling, instant per-visitor server-side research, auto-authored MCQs, automatic fact verification, cloud draft accounts, authenticated admin publishing inside the browser, automatic translation, or a real-time delivery SLA.
+Not implemented: all-internet crawling, instant per-visitor server-side research, auto-authored MCQs, automatic fact verification, cloud draft accounts, a separate password-based hosted admin application, automatic translation, or a real-time delivery SLA.
 
 **Compiled static ZIP caveat:** it contains the current snapshot and button, but no scheduled job can run inside a ZIP or GitHub Pages' static runtime. Upload the source package and enable the workflows to keep research snapshots updating. To update a static-only deployment manually, run `npm run live:refresh && npm run build` locally and replace the full compiled output.

@@ -41,7 +41,7 @@ export default function LiveUpdates() {
     <p role="status" className="live-message">{message}</p>
     {open && <div id="live-details">
       <p className="live-note">This button imports the latest owner-approved release. The scheduled server-side collector checks selected feeds every 6 hours; it does not search the entire internet or turn news into MCQs. With enough matching approved items, 3 out of 4 question slots prefer the live bank, unseen versions first. Otherwise original questions fill the gaps.</p>
-      <div className="live-row"><a href={`${import.meta.env.BASE_URL}review.html`} target="_blank" rel="noopener noreferrer">Owner: review sources &amp; prepare MCQs ↗</a><button className="desk-button" onClick={() => setOpen(false)}>Hide update details</button></div>
+      <div className="live-row"><a href="https://github.com/toxictest/ssc-practice/actions/workflows/owner-questions.yml" target="_blank" rel="noopener noreferrer">Owner: manage questions on GitHub ↗</a><button className="desk-button" onClick={() => setOpen(false)}>Hide update details</button></div>
       {research && <>
         <h3>Research inbox — not approved questions</h3>
         <p>Collector checked: {new Date(research.checkedAt).toLocaleString()}. {stale && <strong>Snapshot is over 12 hours old; check the updater workflow.</strong>}</p>
@@ -49,7 +49,7 @@ export default function LiveUpdates() {
         <p className="live-note">Source publication dates are shown when supplied. “First collected” is not the news publication date. Displaying a headline does not verify its facts or exam relevance.</p>
         <ol className="live-headlines">{research.items.slice(0, 20).map(item => <li key={item.id}><a href={item.url} target="_blank" rel="noopener noreferrer">{item.title} ↗</a><small>{item.sourceName} · {item.publishedAt ? new Date(item.publishedAt).toLocaleString() : item.sourceDateText ? `Source date (timezone unspecified): ${item.sourceDateText}` : 'Publication date not provided'} · First collected: {new Date(item.firstSeenAt).toLocaleDateString()}</small></li>)}</ol>
         {!research.items.length && <p>No source headlines have been collected yet.</p>}
-        {research.items.length > 20 && <p>Showing 20 of {research.items.length} retained headlines. The owner review page has the full inbox.</p>}
+        {research.items.length > 20 && <p>Showing 20 of {research.items.length} retained headlines. The complete read-only archive is available in live/research.json.</p>}
       </>}
     </div>}
   </section>;

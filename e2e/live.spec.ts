@@ -61,33 +61,16 @@ test.describe('live update contract', () => {
     await expect(page.locator('.live-updates')).toContainText('1 approved live questions installed');
   });
 
-  test('owner authors manually, drafts stay unpublished, approval requires confirmation, export does not publish', async ({ page }) => {
-    await page.route('**/live/questions.json?*', route => route.fulfill({ json: bundle([]) }));
-    await page.route('**/live/research.json?*', route => route.fulfill({ json: inbox }));
+  test('public review route has no authoring controls and points to GitHub-protected owner publishing', async ({ page }) => {
     await page.goto('review.html');
-    await expect(page.getByText('TEST HEADLINE — not production news', { exact: true })).toBeVisible();
-    await page.getByRole('button', { name: 'Prepare a question from this source' }).click();
-    await expect(page.locator('[name="stem_en"]')).toHaveValue('');
-    await expect(page.locator('[name="sourceUrl"]')).toHaveValue('https://example.org/fixture');
-    await page.getByRole('button', { name: 'Save as draft only' }).click();
-    await expect(page.locator('#bank-info')).toContainText('1 drafts');
-    for (const key of ['topic', 'subtopic', 'stem', 'method', 'hack', 'trap', 'option0', 'option1', 'option2', 'option3']) {
-      await page.locator(`[name="${key}_en"]`).fill(`TEST ${key}`);
-      await page.locator(`[name="${key}_hi"]`).fill(`परीक्षण ${key}`);
-    }
-    await page.locator('[name="asOfDate"]').fill('2026-10-13');
-    await page.locator('[name="reviewedBy"]').fill('Test-only reviewer');
-    await page.locator('[name="answer"]').selectOption('1');
-    await page.getByRole('button', { name: 'Approve & add to export bank' }).click();
-    await expect(page.locator('#status')).toContainText('confirm source/answer verification');
-    await page.locator('#verified').check(); await page.getByRole('button', { name: 'Approve & add to export bank' }).click();
-    await expect(page.locator('#bank-info')).toContainText('1 approved');
-    const event = page.waitForEvent('download'); await page.getByRole('button', { name: 'Download full bank JSON' }).click();
-    expect((await event).suggestedFilename()).toBe('live-questions.json');
-    await page.reload(); await expect(page.locator('[name="stem_en"]')).toHaveValue('TEST stem');
-    await expect(page.locator('#verified')).not.toBeChecked();
-    await page.goto('./'); await expect(page.locator('.live-updates')).toContainText('0 approved live questions installed');
+    await expect(page.getByRole('heading', { name: 'Question editing has moved.' })).toBeVisible();
+    await expect(page.locator('input, textarea, select, form')).toHaveCount(0);
+    await expect(page.getByRole('link', { name: 'Open owner publishing on GitHub ↗' })).toHaveAttribute('href', 'https://github.com/toxictest/ssc-practice/actions/workflows/owner-questions.yml');
+    const oldEditor = await page.request.get('live/review.mjs'); expect(oldEditor.status()).toBe(404);
+    await page.goto('./'); await page.getByRole('button', { name: 'New questions implement' }).click();
+    await expect(page.getByRole('link', { name: 'Owner: manage questions on GitHub ↗' })).toHaveAttribute('href', 'https://github.com/toxictest/ssc-practice/actions/workflows/owner-questions.yml');
   });
+
 });
 
 test.describe('production service worker live-data freshness', () => {

@@ -1,5 +1,14 @@
 # Changelog
 
+## Owner-access hardening — 2026-10-13
+
+- Removed public authoring controls and the standalone authoring script. Legacy `review.html` is informational only.
+- Added GitHub-authenticated owner publishing with both a job-level owner check and a server-side actor/branch/confirmation check.
+- Added owner instructions, single-record merge validation and corrections/withdrawals; no browser token/password.
+- Verified the repository access list contains only the owner with write/admin permission.
+- Added four owner-access regression tests; public-page tests now ensure no editor fields are present.
+- Original practice questions, scoring and the scheduled research collector are unchanged.
+
 ## 1.2.0 — 2026-10-13
 
 ### Additive non-AI live updates

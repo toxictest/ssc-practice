@@ -1,0 +1,51 @@
+name: Owner - Publish reviewed question
+on:
+  workflow_dispatch:
+    inputs:
+      record_json:
+        description: 'One reviewed approved/withdrawn JSON record. Read OWNER-ACCESS.md first.'
+        required: true
+        type: string
+      confirmed:
+        description: 'I am the owner; I verified the source, answer, translations and publication rights.'
+        required: true
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: owner-question-publishing
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    # GitHub first requires write permission to dispatch this workflow.
+    # This extra server-side check rejects non-owner collaborators too.
+    if: github.actor == github.repository_owner && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Verify owner and validate reviewed record
+        env:
+          OWNER_RECORD_JSON: ${{ inputs.record_json }}
+          OWNER_CONFIRMED: ${{ inputs.confirmed }}
+        run: node scripts/live/apply-owner-question.mjs
+      - name: Commit validated owner update
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add content/live-questions.json public/live/questions.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'content: publish owner-reviewed question update'
+            git push origin HEAD:main
+          fi
