@@ -17,6 +17,8 @@ test.describe('live update contract', () => {
   test.beforeEach(async ({ page }) => { await page.emulateMedia({ reducedMotion: 'reduce' }); await page.route('https://fonts.**/*', r => r.abort()); });
 
   test('zero-approved bank shows real collected headlines without pretending they are questions', async ({ page }) => {
+    // Test the empty-bank UI without assuming the owner's production bank stays empty.
+    await page.route('**/live/questions.json?*', route => route.fulfill({ json: bundle([]) }));
     await page.goto('./'); await page.getByRole('button', { name: 'New questions implement' }).click();
     await expect(page.locator('.live-message')).toContainText('No approved MCQs are published yet');
     await expect(page.getByRole('heading', { name: 'Research inbox — not approved questions' })).toBeVisible();
