@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-14T11:59:54Z",
+  "checkedAt": "2026-10-14T17:16:46Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-14T11:59:54Z",
-      "lastSuccessAt": "2026-10-14T11:59:54Z",
+      "checkedAt": "2026-10-14T17:16:46Z",
+      "lastSuccessAt": "2026-10-14T17:16:46Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-14T11:59:54Z",
-      "lastSuccessAt": "2026-10-14T11:59:54Z",
+      "checkedAt": "2026-10-14T17:16:46Z",
+      "lastSuccessAt": "2026-10-14T17:16:46Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,299 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-14T11:59:54Z",
-      "lastSuccessAt": "2026-10-14T11:59:54Z",
+      "checkedAt": "2026-10-14T17:16:46Z",
+      "lastSuccessAt": "2026-10-14T17:16:46Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "78a0abb758315b996d6787e8",
+      "title": "केंद्रीय मंत्री श्री शिवराज सिंह चौहान की पहल पर ​दिल्ली-एनसीआर से बाहर पहली बार विजयवाड़ा में 'राष्ट्रीय सरस मेला': 15 अक्टूबर को राष्ट्रपति श्रीमती द्रौपदी मुर्मु करेंगी शुभारंभ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323619",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "0cec3972a774953cf660deff",
+      "title": "एडवांस्ड केमिकल्स, पेट्रोकेमिकल्स और मटीरियल टेक्नोलॉजीज को रिसर्च, डेवलपमेंट और इनोवेशन (आरडीआई) स्कीम के तहत शामिल किया गया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323634",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "24c41ef7be1f8c7db2a6f28a",
+      "title": "आयुर्वेद अनुसंधान एवं नवाचार को मजबूत करने के लिए एनसीआईएसएम अध्यक्ष ने सीसीआरएएस स्पार्क 5.0 एवं सीसीआरएएस आयुर्शोध 2026 का शुभारंभ किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323636",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "8ecafa1aadfdfa453c20cb4a",
+      "title": "सरकार ने हॉटस्पॉट जिलों में लंबित आपराधिक मकदमों के निपटारे के लिए राष्ट्रीय विधि विश्वविद्यालयों को एकजुट किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323633",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "41b45d44d86ad9e977e361fe",
+      "title": "आईटीआरए, जामनगर आयुर्वेद में कृत्रिम बुद्धिमत्ता पर राष्ट्रीय संगोष्ठी 'आयुटेक नवोन्मेष 2026' का आयोजन करेगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323637",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "b76c48312c509db549eada44",
+      "title": "अखिल भारतीय आयुर्वेद संस्थान, नई दिल्ली में 15 अक्टूबर से शुरू होगा KAUMARACON 2026; उपराष्ट्रपति करेंगे अंतरराष्ट्रीय आयुर्वेद बाल चिकित्सा सम्मेलन का उद्घाटन",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323566",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "3eea8848a7d78faa8a51a980",
+      "title": "भारत और ब्रुनेई दारुस्सलाम ने तीसरी संयुक्त व्यापार समिति की बैठक में द्विपक्षीय व्यापार और आर्थिक सहयोग की समीक्षा की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323597",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "54e6304a5406d92d0d1aaab8",
+      "title": "युद्ध के बदलते स्वरूप के बीच स्वदेशी तकनीक के विकास और उसे अपनाने की गति बढ़ाने के लिए रक्षा क्षेत्र, शिक्षा जगत व रक्षा उद्योग के बीच करीबी सहयोग आवश्यक है: रक्षा मंत्री",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323630",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "85621d3905fde8aab8a085fa",
+      "title": "भारत ने विदेश मंत्रालय–सीएसआईआर तकनीक परिचय कार्यक्रम के ज़रिए 'ग्लोबल साउथ' के देशों के साथ विज्ञान और प्रौद्योगिकी साझेदारी को मज़बूत किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323611",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "2d7d4e221e13ae39a83d3de1",
+      "title": "रक्षा लेखा विभाग ने ‘स्वच्छता ही सेवा’ अभियान के तहत श्रमदान कार्यक्रम का आयोजन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323575",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "eb36ed03956b3a75d9f4342b",
+      "title": "एमसीएल ने सुंदरगढ़ जिले में पांच सीएसआर परियोजनाओं के लिए 22.64 करोड़ रुपये की प्रतिबद्धता जताई",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323578",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "5539d1f1b512641513f8342d",
+      "title": "आधिकारिक सांख्यिकी की पत्रिका ‘सर्वेक्षण’ का 121वां अंक जारी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323631",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "2d220942f0bcbd1b5d9cc0aa",
+      "title": "कनाडा के विदेश मंत्री ने प्रधानमंत्री से मुलाकात की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323553",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "0a82ea9db15c74f000b5af28",
+      "title": "केंद्रीय मंत्री डॉ. जितेंद्र सिंह ने 12वें एनएलईपीसी में 62 युवा इनोवेटर्स को सम्मानित किया; और, कहा -स्कूली छात्र अपने आइडिया को बाजार में बिकने वाले उत्पादों और उद्यमशीलता में बदल रहे हैं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323604",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "7470085ad81290a93b44c48b",
+      "title": "सरकार ने आईडीबीआई बैंक लिमिटेड के रणनीतिक पुनर्गठन को मंजूरी दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323517",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "3b48f440d4e29a0c5a7d1bcb",
+      "title": "राष्ट्रीय विश्व मानक दिवस 2026 समारोह में गुणवत्ता अवसंरचना, स्वच्छ ऊर्जा और उपभोक्ता सुरक्षा पर मुख्य ध्यान",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323521",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "9059ce8157902130dd139151",
+      "title": "दूरसंचार इंजीनियरिंग केंद्र (टीईसी) ने नई दिल्ली में 'विश्व मानक दिवस 2026' मनाया और वैश्विक दूरसंचार मानकीकरण में भारत की अहम भूमिका पर प्रकाश डाला",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323518",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "8f5d15393b56be667625bb2b",
+      "title": "सरकार ने गन्ना किसानों और चीनी क्षेत्र से संबंधित मुद्दों की जांच के लिए समिति का गठन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323529",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "9e4420fa1f913bba4a2e53cc",
+      "title": "दूरसंचार विभाग (डीओटी) संचार साथी के माध्यम से गुम हुए मोबाइल हैंडसेटों की बरामदगी के लिए उत्कृष्ट प्रदर्शन करने वाले राज्यों/केंद्र शासित प्रदेशों, जिला पुलिस और पुलिस स्टेशनों को सम्मानित करेगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323525",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "fb260fd3036c276b513e6598",
+      "title": "डेमोग्राफिक बदलावों पर बनी उच्च-स्तरीय समिति के अध्यक्ष न्यायमूर्ति प्रकाश प्रभाकर नावलेकर (सेवानिवृत) ने नई दिल्ली में समिति का डिजिटल वेब पोर्टल लॉन्च किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2323431",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "17bfa07cc37bf2ec7bc1513f",
+      "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2019-20 Series V due on October 15, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63807",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 14 Oct 2026 19:25:00",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "60e4060dc19ec6f8f8a92ecb",
+      "title": "Conversion/Switch of Government of India Securities",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63806",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 14 Oct 2026 19:20:00",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "4a59834c97c52a076fd695ac",
+      "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on October 15, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63805",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 14 Oct 2026 19:00:00",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "07e53cea639f25f304557811",
+      "title": "NASA’s Space X CRS-35 Launch Jellyfish",
+      "url": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-14T15:18:38+00:00",
+      "sourceDateText": "Wed, 14 Oct 2026 15:18:38 +0000",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "47fad2329e7a41ac4a5a6669",
+      "title": "NASA Develops Batteries to Power Humanity’s Return to Moon",
+      "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-14T14:41:21+00:00",
+      "sourceDateText": "Wed, 14 Oct 2026 14:41:21 +0000",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
+    {
+      "id": "3b2f7a3b6ccfa131981adfba",
+      "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
+      "url": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-14T13:32:25+00:00",
+      "sourceDateText": "Wed, 14 Oct 2026 13:32:25 +0000",
+      "firstSeenAt": "2026-10-14T17:16:46Z",
+      "lastSeenAt": "2026-10-14T17:16:46Z"
+    },
     {
       "id": "e59d0c2d21b6e1182159c86f",
       "title": "सहकारिता मंत्रालय ने बहु-राज्य सहकारी समितियों में पारदर्शिता, जवाबदेही और सुशासन को सुदृढ़ करने के लिए नई लेखापरीक्षा रिपोर्टिंग व्यवस्था को अनिवार्य किया",
@@ -263,7 +549,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 14 Oct 2026 14:25:00",
       "firstSeenAt": "2026-10-14T11:59:54Z",
-      "lastSeenAt": "2026-10-14T11:59:54Z"
+      "lastSeenAt": "2026-10-14T17:16:46Z"
     },
     {
       "id": "6289cc357a665e86e0dd8a0c",
@@ -274,7 +560,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 14 Oct 2026 13:00:00",
       "firstSeenAt": "2026-10-14T11:59:54Z",
-      "lastSeenAt": "2026-10-14T11:59:54Z"
+      "lastSeenAt": "2026-10-14T17:16:46Z"
     },
     {
       "id": "6e334e66e0eb46b0f93e01d4",
@@ -285,7 +571,7 @@
       "publishedAt": "2026-10-14T04:05:00+00:00",
       "sourceDateText": "Wed, 14 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-14T11:59:54Z",
-      "lastSeenAt": "2026-10-14T11:59:54Z"
+      "lastSeenAt": "2026-10-14T17:16:46Z"
     },
     {
       "id": "9759b7394ace506100307ba8",
@@ -296,7 +582,7 @@
       "publishedAt": "2026-10-14T04:01:00+00:00",
       "sourceDateText": "Wed, 14 Oct 2026 04:01:00 +0000",
       "firstSeenAt": "2026-10-14T11:59:54Z",
-      "lastSeenAt": "2026-10-14T11:59:54Z"
+      "lastSeenAt": "2026-10-14T17:16:46Z"
     },
     {
       "id": "5271dd67029eaa1455d3186e",
@@ -318,7 +604,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 14 Oct 2026 10:15:00",
       "firstSeenAt": "2026-10-14T04:59:08Z",
-      "lastSeenAt": "2026-10-14T11:59:54Z"
+      "lastSeenAt": "2026-10-14T17:16:46Z"
     },
     {
       "id": "94919b1c87231828a40d053d",
@@ -329,7 +615,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 14 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-14T04:59:08Z",
-      "lastSeenAt": "2026-10-14T11:59:54Z"
+      "lastSeenAt": "2026-10-14T17:16:46Z"
     },
     {
       "id": "17666ac8cb2e44ce3aa5c86a",
@@ -340,7 +626,7 @@
       "publishedAt": "2026-10-13T20:41:11+00:00",
       "sourceDateText": "Tue, 13 Oct 2026 20:41:11 +0000",
       "firstSeenAt": "2026-10-14T04:59:08Z",
-      "lastSeenAt": "2026-10-14T11:59:54Z"
+      "lastSeenAt": "2026-10-14T17:16:46Z"
     },
     {
       "id": "5fecf4a3277433a3f85eb665",
@@ -571,7 +857,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 13 Oct 2026 19:00:00",
       "firstSeenAt": "2026-10-13T19:19:56Z",
-      "lastSeenAt": "2026-10-14T11:59:54Z"
+      "lastSeenAt": "2026-10-14T17:16:46Z"
     },
     {
       "id": "b017df62841bd87608cbda2f",
@@ -582,7 +868,7 @@
       "publishedAt": "2026-10-13T17:56:08+00:00",
       "sourceDateText": "Tue, 13 Oct 2026 17:56:08 +0000",
       "firstSeenAt": "2026-10-13T19:19:56Z",
-      "lastSeenAt": "2026-10-14T11:59:54Z"
+      "lastSeenAt": "2026-10-14T17:16:46Z"
     },
     {
       "id": "44dbcee82122f9c0d18b3538",
@@ -593,7 +879,7 @@
       "publishedAt": "2026-10-13T17:48:46+00:00",
       "sourceDateText": "Tue, 13 Oct 2026 17:48:46 +0000",
       "firstSeenAt": "2026-10-13T19:19:56Z",
-      "lastSeenAt": "2026-10-14T11:59:54Z"
+      "lastSeenAt": "2026-10-14T17:16:46Z"
     },
     {
       "id": "c0d9b7ae26fda919c7d869a8",
@@ -604,7 +890,7 @@
       "publishedAt": "2026-10-13T17:42:51+00:00",
       "sourceDateText": "Tue, 13 Oct 2026 17:42:51 +0000",
       "firstSeenAt": "2026-10-13T19:19:56Z",
-      "lastSeenAt": "2026-10-14T11:59:54Z"
+      "lastSeenAt": "2026-10-14T17:16:46Z"
     },
     {
       "id": "df1c1b3cdf8fc6f2e3c959af",
@@ -615,7 +901,7 @@
       "publishedAt": "2026-10-13T17:38:37+00:00",
       "sourceDateText": "Tue, 13 Oct 2026 17:38:37 +0000",
       "firstSeenAt": "2026-10-13T19:19:56Z",
-      "lastSeenAt": "2026-10-14T11:59:54Z"
+      "lastSeenAt": "2026-10-14T17:16:46Z"
     },
     {
       "id": "5c49da1eb7e5efefc3dc98db",
@@ -923,7 +1209,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 13 Oct 2026 16:25:00",
       "firstSeenAt": "2026-10-13T11:10:55Z",
-      "lastSeenAt": "2026-10-14T11:59:54Z"
+      "lastSeenAt": "2026-10-14T17:16:46Z"
     },
     {
       "id": "9acf1a61af5f75ffb3fd8ff4",
@@ -934,7 +1220,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 13 Oct 2026 15:50:00",
       "firstSeenAt": "2026-10-13T11:10:55Z",
-      "lastSeenAt": "2026-10-14T11:59:54Z"
+      "lastSeenAt": "2026-10-14T17:16:46Z"
     },
     {
       "id": "c4d335164f5167bb97848303",
