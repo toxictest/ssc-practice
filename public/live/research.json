@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-15T11:36:24Z",
+  "checkedAt": "2026-10-15T17:05:29Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-15T11:36:24Z",
-      "lastSuccessAt": "2026-10-15T11:36:24Z",
+      "checkedAt": "2026-10-15T17:05:29Z",
+      "lastSuccessAt": "2026-10-15T17:05:29Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-15T11:36:24Z",
-      "lastSuccessAt": "2026-10-15T11:36:24Z",
+      "checkedAt": "2026-10-15T17:05:29Z",
+      "lastSuccessAt": "2026-10-15T17:05:29Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,299 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-15T11:36:24Z",
-      "lastSuccessAt": "2026-10-15T11:36:24Z",
+      "checkedAt": "2026-10-15T17:05:29Z",
+      "lastSuccessAt": "2026-10-15T17:05:29Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "11ece84e189d42e358402710",
+      "title": "सुखना आर्द्रभूमि (चंडीगढ़) और सौज झील (उत्तर प्रदेश) को सूची में जोड़े जाने के साथ भारत के रामसर स्थलों की संख्या 103 हुई",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324153",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "ae63803673e7b9f97401d100",
+      "title": "सड़क एवं सड़क परिवहन क्षेत्र पर भारत-जापान संयुक्त कार्य समूह(जेडब्ल्यूजू) का 12वाँ सत्र",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324154",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "145ed0a7af2cc69bf267c15e",
+      "title": "भारतीय तटरक्षक बल और कोरियाई तटरक्षक बल के बीच 14वीं उच्च-स्तरीय बैठक इंचियोन में आयोजित हुई",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324149",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "f6a6b4d46ad65750f3470779",
+      "title": "प्रेस विज्ञप्ति",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324123",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "8b4501b1847276e00b9d127c",
+      "title": "शिल्प समागम मेला 2026 - मैसूरू",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324126",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "8060fe4e2ab35203755c3048",
+      "title": "एशियाई खेल 2026 के प्रतिभागियों के साथ बातचीत के दौरान प्रधानमंत्री के संबोधन का मूल पाठ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324063",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "7a0d58806622e65224f1b599",
+      "title": "केंद्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने असम के मुख्यमंत्री और असम पुलिस को नशीले पदार्थों के खिलाफ निरंतर कार्रवाई और ड्रग नेटवर्क पर निर्णायक प्रहार के लिए बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324048",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "dd53d0d24efc07dc79f964bb",
+      "title": "सीमा शुल्क अधिकारियों ने आईजीआई हवाई अड्डे के एयर कार्गो कॉम्प्लेक्स में बैंकॉक से आयात किए गए 148.67 किलोग्राम हाइड्रोपोनिक मादक पदार्थ का पता लगाया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324145",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "2f588ff48c41dc54cb074cf8",
+      "title": "डीआरआई ने लगभग 6.2 किलोग्राम विदेशी मूल का सोना जब्त किया; बिना मालिक वाले सामान के जरिए सोने की तस्करी के एक परिष्कृत तरीके का भंडाफोड़ किया; तीन लोग गिरफ्तार",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324142",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "2dd198ca509f22fde605d706",
+      "title": "उत्तर प्रदेश स्थित केंद्रीय नारकोटिक्स ब्यूरो (सीबीएन) की इकाई ने अफीम उत्पादकों की शिकायतों के समाधान के लिए जन सुनवाई का आयोजन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324133",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "f4de5d4ebda22edd76313650",
+      "title": "राजस्व आसूचना निदेशालय (डीआरआई) और केंद्रीय नारकोटिक्स ब्यूरो (सीबीएन) ने महाराष्ट्र के धुले जिले के वन्यजीव अभ्यारण्य में 2.87 हेक्टेयर (7.08 एकड़) में उगाई गई अवैध गांजे की खेती को नष्ट किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324130",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "02dbe5f4657a4b6a07030490",
+      "title": "डॉ. मनसुख मांडविया ने एशियाई खेलों की समीक्षा बैठक में राष्ट्रीय खेल महासंघों से चैंपियन तैयार करने की प्रक्रिया को सुदृढ़ करने के लिए कहा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324140",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "3573c727fbdcd4c0fdc0dd64",
+      "title": "केंद्रीय वाणिज्य और उद्योग मंत्री श्री पीयूष गोयल ने वाणिज्य भवन में राष्ट्रीय रणनीतिक व्यापार कमान केंद्र का शुभारंभ किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324092",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "18244064c6b795adcacf22d2",
+      "title": "उपराष्ट्रपति ने KAUMARACON-2026 का उद्घाटन किया; अखिल भारतीय आयुर्वेद संस्थान की कई डिजिटल पहलों का शुभारंभ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324020",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "fd4687c147421abf082bb80f",
+      "title": "‘स्वच्छता से सम्मान, हर वर्ग का उत्थान’",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324094",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "0d189c86d0fd499ae7e86545",
+      "title": "आज मनाया गया महिला किसान दिवस 2026",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324099",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "261b95eaa75a8b2d0e582045",
+      "title": "पैनासिया मेडिकल टेक्नोलॉजीज प्राइवेट लिमिटेड द्वारा स्वदेशी 32-स्लाइस सीटी स्कैनर विकसित करने और व्यावसायीकरण में प्रौद्योगिकी विकास बोर्ड का सहयोग",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324093",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "6629ec68a430826a2772bb6a",
+      "title": "अप्रैल-सितंबर 2026-27 के दौरान कुल निर्यात (वस्तु एवं सेवाएँ) 476.20 अरब अमेरिकी डॉलर होने का अनुमान है, जबकि अप्रैल-सितंबर 2025-26 में यह 418.31 अरब अमेरिकी डॉलर था, जो 13.84 प्रतिशत की अनुमानित वृद्धि दर्शाता है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324095",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "8bbfd9580f19a6fcb8d49bbc",
+      "title": "रक्षा राज्य मंत्री ने असम के गुवाहाटी में राष्ट्रीय कैडेट कोर के राज्य प्रतिनिधियों और अपर महानिदेशकों के विशेष संयुक्त सम्मेलन की अध्यक्षता की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324049",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "d0cd0c1036b49e1347744bb8",
+      "title": "प्रयोगशाला से व्यावहारिक धरातल तक, विचार से वास्तविक परिणाम व सामाजिक प्रभाव तक: केंद्रीय मंत्री डॉ. जितेंद्र सिंह ने उद्योग जगत से भारत की प्रौद्योगिकी यात्रा में सह-निर्माता बनने का आग्रह किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324089",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "3fcb0698b69d58dafcdded5e",
+      "title": "Auction of State Government Securities",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63814",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 15 Oct 2026 17:50:00",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "f08a0d9156aea592d0c0576d",
+      "title": "Developments in India’s Balance of Payments for the Month of August 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63813",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 15 Oct 2026 17:30:00",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "c5bf91bc5dc64e16b07e72fd",
+      "title": "RBI issues Frequently Asked Questions on Foreign Exchange Risk Reserve",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63812",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 15 Oct 2026 17:10:00",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "cc1e4c4496ff0178c93fb001",
+      "title": "NASA Awards Enable Research, Technology to Build Future Workforce",
+      "url": "https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-15T15:57:47+00:00",
+      "sourceDateText": "Thu, 15 Oct 2026 15:57:47 +0000",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "51f04c477c6b6a601f137b07",
+      "title": "Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance",
+      "url": "https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-15T14:57:21+00:00",
+      "sourceDateText": "Thu, 15 Oct 2026 14:57:21 +0000",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
+    {
+      "id": "87e7af3475d1f70728c0c227",
+      "title": "Chandra Finds Possible Origin of ‘Treble Clef’ Waves",
+      "url": "https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-15T14:19:06+00:00",
+      "sourceDateText": "Thu, 15 Oct 2026 14:19:06 +0000",
+      "firstSeenAt": "2026-10-15T17:05:29Z",
+      "lastSeenAt": "2026-10-15T17:05:29Z"
+    },
     {
       "id": "2b8d3e83ced474ebb4213258",
       "title": "केन्द्रीय गृह मंत्री श्री अमित शाह ने प्रधानमंत्री श्री नरेन्द्र मोदी के सेवा और समर्पण के 25 वर्ष पूर्ण होने पर चल रहे 'सेवा संकल्प अभियान' के तहत सामान्य दिव्यांगजनों व नक्सली हिंसा से पीड़ित दिव्यांगजनों को सहायक उपकरण वितरण समारोह को वीडियो कॉन्फ्रेंस के माध्यम से संबोधित किया",
@@ -263,7 +549,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 14:30:00",
       "firstSeenAt": "2026-10-15T11:36:24Z",
-      "lastSeenAt": "2026-10-15T11:36:24Z"
+      "lastSeenAt": "2026-10-15T17:05:29Z"
     },
     {
       "id": "b985dd03fda66273706f98d9",
@@ -274,7 +560,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 11:30:00",
       "firstSeenAt": "2026-10-15T11:36:24Z",
-      "lastSeenAt": "2026-10-15T11:36:24Z"
+      "lastSeenAt": "2026-10-15T17:05:29Z"
     },
     {
       "id": "2f8c9e5c06a649befc60089a",
@@ -285,7 +571,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 10:20:00",
       "firstSeenAt": "2026-10-15T11:36:24Z",
-      "lastSeenAt": "2026-10-15T11:36:24Z"
+      "lastSeenAt": "2026-10-15T17:05:29Z"
     },
     {
       "id": "c946c10f53580b5ddb23be21",
@@ -296,7 +582,7 @@
       "publishedAt": "2026-10-15T04:05:00+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-15T11:36:24Z",
-      "lastSeenAt": "2026-10-15T11:36:24Z"
+      "lastSeenAt": "2026-10-15T17:05:29Z"
     },
     {
       "id": "5f2528424985d275b3746982",
@@ -307,7 +593,7 @@
       "publishedAt": "2026-10-15T04:01:00+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 04:01:00 +0000",
       "firstSeenAt": "2026-10-15T11:36:24Z",
-      "lastSeenAt": "2026-10-15T11:36:24Z"
+      "lastSeenAt": "2026-10-15T17:05:29Z"
     },
     {
       "id": "358a57ecb39ae4faf31f3d8f",
@@ -318,7 +604,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-15T04:47:26Z",
-      "lastSeenAt": "2026-10-15T11:36:24Z"
+      "lastSeenAt": "2026-10-15T17:05:29Z"
     },
     {
       "id": "9ab900e4fa8fe878141f660b",
@@ -329,7 +615,7 @@
       "publishedAt": "2026-10-14T20:13:29+00:00",
       "sourceDateText": "Wed, 14 Oct 2026 20:13:29 +0000",
       "firstSeenAt": "2026-10-14T21:45:29Z",
-      "lastSeenAt": "2026-10-15T11:36:24Z"
+      "lastSeenAt": "2026-10-15T17:05:29Z"
     },
     {
       "id": "13dd6fe9a9252ccd9f9a0090",
@@ -340,7 +626,7 @@
       "publishedAt": "2026-10-14T19:12:51+00:00",
       "sourceDateText": "Wed, 14 Oct 2026 19:12:51 +0000",
       "firstSeenAt": "2026-10-14T21:45:29Z",
-      "lastSeenAt": "2026-10-15T11:36:24Z"
+      "lastSeenAt": "2026-10-15T17:05:29Z"
     },
     {
       "id": "ccb5266bb450f46f27f1162f",
@@ -351,7 +637,7 @@
       "publishedAt": "2026-10-14T16:46:58+00:00",
       "sourceDateText": "Wed, 14 Oct 2026 16:46:58 +0000",
       "firstSeenAt": "2026-10-14T21:45:29Z",
-      "lastSeenAt": "2026-10-15T11:36:24Z"
+      "lastSeenAt": "2026-10-15T17:05:29Z"
     },
     {
       "id": "78a0abb758315b996d6787e8",
@@ -582,7 +868,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 14 Oct 2026 19:25:00",
       "firstSeenAt": "2026-10-14T17:16:46Z",
-      "lastSeenAt": "2026-10-15T11:36:24Z"
+      "lastSeenAt": "2026-10-15T17:05:29Z"
     },
     {
       "id": "60e4060dc19ec6f8f8a92ecb",
@@ -593,7 +879,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 14 Oct 2026 19:20:00",
       "firstSeenAt": "2026-10-14T17:16:46Z",
-      "lastSeenAt": "2026-10-15T11:36:24Z"
+      "lastSeenAt": "2026-10-15T17:05:29Z"
     },
     {
       "id": "4a59834c97c52a076fd695ac",
@@ -604,7 +890,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 14 Oct 2026 19:00:00",
       "firstSeenAt": "2026-10-14T17:16:46Z",
-      "lastSeenAt": "2026-10-15T11:36:24Z"
+      "lastSeenAt": "2026-10-15T17:05:29Z"
     },
     {
       "id": "07e53cea639f25f304557811",
@@ -615,7 +901,7 @@
       "publishedAt": "2026-10-14T15:18:38+00:00",
       "sourceDateText": "Wed, 14 Oct 2026 15:18:38 +0000",
       "firstSeenAt": "2026-10-14T17:16:46Z",
-      "lastSeenAt": "2026-10-15T11:36:24Z"
+      "lastSeenAt": "2026-10-15T17:05:29Z"
     },
     {
       "id": "47fad2329e7a41ac4a5a6669",
@@ -626,7 +912,7 @@
       "publishedAt": "2026-10-14T14:41:21+00:00",
       "sourceDateText": "Wed, 14 Oct 2026 14:41:21 +0000",
       "firstSeenAt": "2026-10-14T17:16:46Z",
-      "lastSeenAt": "2026-10-15T11:36:24Z"
+      "lastSeenAt": "2026-10-15T17:05:29Z"
     },
     {
       "id": "3b2f7a3b6ccfa131981adfba",
