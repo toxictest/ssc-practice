@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-16T11:30:36Z",
+  "checkedAt": "2026-10-16T16:43:38Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-16T11:30:36Z",
-      "lastSuccessAt": "2026-10-16T11:30:36Z",
+      "checkedAt": "2026-10-16T16:43:38Z",
+      "lastSuccessAt": "2026-10-16T16:43:38Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-16T11:30:36Z",
-      "lastSuccessAt": "2026-10-16T11:30:36Z",
+      "checkedAt": "2026-10-16T16:43:38Z",
+      "lastSuccessAt": "2026-10-16T16:43:38Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,299 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-16T11:30:36Z",
-      "lastSuccessAt": "2026-10-16T11:30:36Z",
+      "checkedAt": "2026-10-16T16:43:38Z",
+      "lastSuccessAt": "2026-10-16T16:43:38Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "273a23eb14ec3324875b6e79",
+      "title": "सम्मिलित भू-वैज्ञानिक परीक्षा, 2026",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324562",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "7ff0906d11b000c06cad95f6",
+      "title": "सीएक्यूएम ने एनसीआर में निर्देश संख्या 98 के अंतर्गत आने वाले सभी उद्योगों के लिए पीटीजेड कैमरा-आधारित रिमोट मॉनिटरिंग का विस्तार किया है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324594",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "1870999dc9efdf8782466c89",
+      "title": "सीएक्यूएम की टीम ने धान कटाई सीज़न 2026 के दौरान प्रवर्तन उपायों की समीक्षा के लिए पंजाब के मोगा जिले का दौरा किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324579",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "25199f15753c94ca330d020a",
+      "title": "केंद्रीय मंत्री हरदीप सिंह पुरी ने एसआरसीसी के शताब्दी सम्मेलन ‘विकसित भारत की राह’ के समापन सत्र को संबोधित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324577",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "83cd168b147a318bcb60aaab",
+      "title": "अखिल भारतीय आयुर्वेद संस्थान में दस वर्षों में 37.74 लाख से अधिक मरीजों का उपचार, आयुर्वेद आधारित सेवाओं का बढ़ा दायरा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324521",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "914bf1972626fa2608a0244f",
+      "title": "केंद्रीय मंत्री अश्विनी वैष्णव ने रेल भवन में एशियाई खेल 2026 में स्वर्ण पदक विजेता भारतीय महिला कबड्डी टीम से मुलाकात की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324546",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "d0c4c80115f538ce98f80175",
+      "title": "उपराष्ट्रपति ने कोझिकोड में ‘नवरात्रि सर्गोत्सवम 2026’ का उद्घाटन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324558",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "c990f26404b4377c657c8dd4",
+      "title": "केंद्रीय संस्कृति एवं पर्यटन मंत्री श्री गजेंद्र सिंह शेखावत 19 अक्टूबर 2026 को नई दिल्ली में वर्ष 2024 और 2025 के लिए उस्ताद बिस्मिल्लाह खान युवा पुरस्कार प्रदान करेंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324513",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "f5306a3a9f8b2e2010abfef0",
+      "title": "हिमाचल के धर्मशाला में ई-गवर्नेंस सुधारों पर दो दिवसीय राष्ट्रीय सम्मेलन शुरू",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324530",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "71d472e4fd1d7256603f47f1",
+      "title": "पीएम-अजय 'आदर्श ग्राम', सामाजिक-आर्थिक परियोजनाओं और शैक्षिक अवसंरचना के माध्यम से समावेशी विकास को बढ़ावा दे रहा है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324580",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "4e586da0bd6b1629b7a8fefc",
+      "title": "महिला किसान दिवस पर सांची में श्री शिवराज सिंह चौहान का संवाद, 46 ग्रामीण सड़कों का भी किया भूमिपूजन",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324467",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "d04e11456271d710d46a9779",
+      "title": "ईसीएल ने ‘विशेष अभियान 6’ के तहत कबाड़ के निपटान से 2.21 करोड़ रुपये अर्जित किए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324498",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "9cdd5b9a842cdc561b39a41e",
+      "title": "गुजरात के सुरेंद्रनगर जिले में, एक महिला के किसी दूसरे पुरुष के साथ रहने से नाराज होकर उसके पति और परिवार वालों ने उसके साथ मारपीट की और अमानवीय व्यवहार किया, भारत के राष्ट्रीय मानवाधिकार आयोग ने इस घटना स्वतः संज्ञान लिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324504",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "8f5f4aba0815790c7283b32e",
+      "title": "भारत के राष्ट्रीय मानवाधिकार आयोग (एनएचआरसी) ने राजस्थान के उदयपुर जिले में एक सरकारी स्कूल की जर्जर इमारत की कक्षा में छत का प्लास्टर गिरने से तीन छात्रों के घायल होने की घटना पर स्वतः संज्ञान लिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324496",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "2d89e200a22d200063c3bd34",
+      "title": "राष्ट्रीय मानवाधिकार आयोग ने महाराष्ट्र के नासिक जिले में रासायनिक अपशिष्टों के रिसाव से बोरवेल का पानी दूषित होने की खबर पर स्वतः संज्ञान लिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324482",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "bf2b822c3a3d05283ee68e4c",
+      "title": "एनएचएआई ने सार्वजनिक धन की सुरक्षा के लिए चित्तौड़गढ़–उदयपुर राष्ट्रीय राजमार्ग परियोजना में मध्यस्थता मामले में सफलतापूर्वक अपना पक्ष रखा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324501",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "5d94762f847a7331d9fa18cb",
+      "title": "खान मंत्रालय ने विशेष अभियान 6 के पहले पखवाड़े के दौरान सतत विकास के सर्वोत्तम तरीकों का प्रदर्शन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324453",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "eb89485529be50c5abe33894",
+      "title": "विशेष अभियान संख्या 6 के अंतर्गत खाद्य एवं सार्वजनिक वितरण विभाग की मध्य अभियान प्रगति",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324506",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "1d87e411476cb802313ad974",
+      "title": "केन्द्रीय गृह मंत्री श्री अमित शाह ने कहा - पंजाब आज नशे, गैंगस्टरवाद व संगठित अपराध के बढ़ते खतरे से जूझ रहा है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324402",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "4a9289c04ac6243c17d3d0a4",
+      "title": "डीएफएस ने सार्वजनिक क्षेत्र के बैंकों, सार्वजनिक क्षेत्र की बीमा कंपनियों और सार्वजनिक वित्तीय संस्थानों के लिए आरक्षण नीति पर कार्यशाला का आयोजन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324460",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "603dc17137881361888149d3",
+      "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2020-21 Series VII due on October 19, 2026 (October 20, 2026, being a holiday)",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63822",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 16 Oct 2026 18:30:00",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "ee8b3f8a1545e4018802d367",
+      "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63821",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 16 Oct 2026 17:25:00",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "8b731fa92e1e958c11896b0e",
+      "title": "RBI approves amalgamation of Indian branches of Emirates NBD Bank P.J.S.C. with RBL Bank Limited",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63820",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 16 Oct 2026 17:05:00",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "03682ed48d7f49fb2123f754",
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63819",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 16 Oct 2026 17:00:00",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "3b5dbc13df98572c87640b0c",
+      "title": "I Am Artemis: Allison Mjoen",
+      "url": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-16T14:24:29+00:00",
+      "sourceDateText": "Fri, 16 Oct 2026 14:24:29 +0000",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
+    {
+      "id": "5c0d8f6486aaa5554d1507cf",
+      "title": "NASA’s Hubble Spies Spiral’s Edge",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-16T12:42:08+00:00",
+      "sourceDateText": "Fri, 16 Oct 2026 12:42:08 +0000",
+      "firstSeenAt": "2026-10-16T16:43:38Z",
+      "lastSeenAt": "2026-10-16T16:43:38Z"
+    },
     {
       "id": "2b68eb70ae73519b9a34d80b",
       "title": "उपराष्ट्रपति श्री सीपी राधाकृष्णन ने कारवार में भारतीय नौसेना के पहले स्वदेशी बहुउद्देशीय पोत आईएनएस “समर्थक” का शुभारंभ किया",
@@ -219,7 +505,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 16 Oct 2026 15:00:00",
       "firstSeenAt": "2026-10-16T11:30:36Z",
-      "lastSeenAt": "2026-10-16T11:30:36Z"
+      "lastSeenAt": "2026-10-16T16:43:38Z"
     },
     {
       "id": "220bf75113f02b81df4e3ad2",
@@ -230,7 +516,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 16 Oct 2026 13:15:00",
       "firstSeenAt": "2026-10-16T11:30:36Z",
-      "lastSeenAt": "2026-10-16T11:30:36Z"
+      "lastSeenAt": "2026-10-16T16:43:38Z"
     },
     {
       "id": "876f2e365ccffb939aea3c04",
@@ -241,7 +527,7 @@
       "publishedAt": "2026-10-16T04:05:00+00:00",
       "sourceDateText": "Fri, 16 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-16T11:30:36Z",
-      "lastSeenAt": "2026-10-16T11:30:36Z"
+      "lastSeenAt": "2026-10-16T16:43:38Z"
     },
     {
       "id": "072d14671b798f80555ca405",
@@ -252,7 +538,7 @@
       "publishedAt": "2026-10-16T04:00:00+00:00",
       "sourceDateText": "Fri, 16 Oct 2026 04:00:00 +0000",
       "firstSeenAt": "2026-10-16T11:30:36Z",
-      "lastSeenAt": "2026-10-16T11:30:36Z"
+      "lastSeenAt": "2026-10-16T16:43:38Z"
     },
     {
       "id": "e4ea6d00ead2d3e3d681e80f",
@@ -263,7 +549,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 16 Oct 2026 09:55:00",
       "firstSeenAt": "2026-10-16T04:37:37Z",
-      "lastSeenAt": "2026-10-16T11:30:36Z"
+      "lastSeenAt": "2026-10-16T16:43:38Z"
     },
     {
       "id": "7cea09e28a1bda73b1ccebe9",
@@ -274,7 +560,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 16 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-16T04:37:37Z",
-      "lastSeenAt": "2026-10-16T11:30:36Z"
+      "lastSeenAt": "2026-10-16T16:43:38Z"
     },
     {
       "id": "5bec57b9a7067a09102b13da",
@@ -296,7 +582,7 @@
       "publishedAt": "2026-10-15T19:58:08+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 19:58:08 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-16T11:30:36Z"
+      "lastSeenAt": "2026-10-16T16:43:38Z"
     },
     {
       "id": "8323fcf5aec48f650bdcf68e",
@@ -307,7 +593,7 @@
       "publishedAt": "2026-10-15T17:59:22+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 17:59:22 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-16T11:30:36Z"
+      "lastSeenAt": "2026-10-16T16:43:38Z"
     },
     {
       "id": "249fd8d9e74a7921bc415ffe",
@@ -318,7 +604,7 @@
       "publishedAt": "2026-10-15T17:30:00+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 17:30:00 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-16T11:30:36Z"
+      "lastSeenAt": "2026-10-16T16:43:38Z"
     },
     {
       "id": "ec7a3b45638121f8120d77cb",
@@ -329,7 +615,7 @@
       "publishedAt": "2026-10-15T16:42:10+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 16:42:10 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-16T11:30:36Z"
+      "lastSeenAt": "2026-10-16T16:43:38Z"
     },
     {
       "id": "4071bf79af1fe83d5836bb01",
@@ -340,7 +626,7 @@
       "publishedAt": "2026-10-15T16:13:08+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 16:13:08 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-16T11:30:36Z"
+      "lastSeenAt": "2026-10-16T16:43:38Z"
     },
     {
       "id": "11ece84e189d42e358402710",
@@ -571,7 +857,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 17:50:00",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-16T11:30:36Z"
+      "lastSeenAt": "2026-10-16T16:43:38Z"
     },
     {
       "id": "f08a0d9156aea592d0c0576d",
@@ -582,7 +868,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 17:30:00",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-16T11:30:36Z"
+      "lastSeenAt": "2026-10-16T16:43:38Z"
     },
     {
       "id": "c5bf91bc5dc64e16b07e72fd",
@@ -604,7 +890,7 @@
       "publishedAt": "2026-10-15T15:57:47+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 15:57:47 +0000",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-16T11:30:36Z"
+      "lastSeenAt": "2026-10-16T16:43:38Z"
     },
     {
       "id": "51f04c477c6b6a601f137b07",
