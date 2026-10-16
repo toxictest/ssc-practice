@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-15T21:27:58Z",
+  "checkedAt": "2026-10-16T04:37:37Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-15T21:27:58Z",
-      "lastSuccessAt": "2026-10-15T21:27:58Z",
+      "checkedAt": "2026-10-16T04:37:37Z",
+      "lastSuccessAt": "2026-10-16T04:37:37Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-15T21:27:58Z",
-      "lastSuccessAt": "2026-10-15T21:27:58Z",
+      "checkedAt": "2026-10-16T04:37:37Z",
+      "lastSuccessAt": "2026-10-16T04:37:37Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,35 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-15T21:27:58Z",
-      "lastSuccessAt": "2026-10-15T21:27:58Z",
+      "checkedAt": "2026-10-16T04:37:37Z",
+      "lastSuccessAt": "2026-10-16T04:37:37Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "e4ea6d00ead2d3e3d681e80f",
+      "title": "Result of Underwriting Auction conducted on October 16, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63816",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 16 Oct 2026 09:55:00",
+      "firstSeenAt": "2026-10-16T04:37:37Z",
+      "lastSeenAt": "2026-10-16T04:37:37Z"
+    },
+    {
+      "id": "7cea09e28a1bda73b1ccebe9",
+      "title": "Money Market Operations as on October 15, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63815",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 16 Oct 2026 09:00:00",
+      "firstSeenAt": "2026-10-16T04:37:37Z",
+      "lastSeenAt": "2026-10-16T04:37:37Z"
+    },
     {
       "id": "5bec57b9a7067a09102b13da",
       "title": "केंद्रीय संस्कृति एवं पर्यटन मंत्री श्री गजेंद्र सिंह शेखावत ने राष्ट्रीय आधुनिक कला संग्रहालय (एनजीएमए) में तक्षणम प्रदर्शनी का उद्घाटन किया, इस प्रदर्शनी में 150 कलाकारों की 250 से भी अधिक कलाकृतियों व मूर्तियों को एक साथ प्रदर्शित किया गया है",
@@ -43,7 +65,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "1f13d15fe2d8a8f6f8e8227d",
@@ -54,7 +76,7 @@
       "publishedAt": "2026-10-15T19:58:08+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 19:58:08 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "8323fcf5aec48f650bdcf68e",
@@ -65,7 +87,7 @@
       "publishedAt": "2026-10-15T17:59:22+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 17:59:22 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "249fd8d9e74a7921bc415ffe",
@@ -76,7 +98,7 @@
       "publishedAt": "2026-10-15T17:30:00+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 17:30:00 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "ec7a3b45638121f8120d77cb",
@@ -87,7 +109,7 @@
       "publishedAt": "2026-10-15T16:42:10+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 16:42:10 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "4071bf79af1fe83d5836bb01",
@@ -98,7 +120,7 @@
       "publishedAt": "2026-10-15T16:13:08+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 16:13:08 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "11ece84e189d42e358402710",
@@ -109,7 +131,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "ae63803673e7b9f97401d100",
@@ -120,7 +142,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "145ed0a7af2cc69bf267c15e",
@@ -131,7 +153,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "f6a6b4d46ad65750f3470779",
@@ -142,7 +164,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "8b4501b1847276e00b9d127c",
@@ -153,7 +175,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "8060fe4e2ab35203755c3048",
@@ -164,7 +186,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "7a0d58806622e65224f1b599",
@@ -175,7 +197,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "dd53d0d24efc07dc79f964bb",
@@ -186,7 +208,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "2f588ff48c41dc54cb074cf8",
@@ -197,7 +219,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "2dd198ca509f22fde605d706",
@@ -208,7 +230,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "f4de5d4ebda22edd76313650",
@@ -219,7 +241,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "02dbe5f4657a4b6a07030490",
@@ -230,7 +252,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "3573c727fbdcd4c0fdc0dd64",
@@ -241,7 +263,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "18244064c6b795adcacf22d2",
@@ -252,7 +274,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "fd4687c147421abf082bb80f",
@@ -263,7 +285,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "0d189c86d0fd499ae7e86545",
@@ -274,7 +296,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "261b95eaa75a8b2d0e582045",
@@ -285,7 +307,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "6629ec68a430826a2772bb6a",
@@ -296,7 +318,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "8bbfd9580f19a6fcb8d49bbc",
@@ -307,7 +329,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "d0cd0c1036b49e1347744bb8",
@@ -329,7 +351,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 17:50:00",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "f08a0d9156aea592d0c0576d",
@@ -340,7 +362,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 17:30:00",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "c5bf91bc5dc64e16b07e72fd",
@@ -351,7 +373,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 17:10:00",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "cc1e4c4496ff0178c93fb001",
@@ -362,7 +384,7 @@
       "publishedAt": "2026-10-15T15:57:47+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 15:57:47 +0000",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "51f04c477c6b6a601f137b07",
@@ -373,7 +395,7 @@
       "publishedAt": "2026-10-15T14:57:21+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 14:57:21 +0000",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "87e7af3475d1f70728c0c227",
@@ -384,7 +406,7 @@
       "publishedAt": "2026-10-15T14:19:06+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 14:19:06 +0000",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "2b8d3e83ced474ebb4213258",
@@ -615,7 +637,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 14:30:00",
       "firstSeenAt": "2026-10-15T11:36:24Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "b985dd03fda66273706f98d9",
@@ -626,7 +648,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 11:30:00",
       "firstSeenAt": "2026-10-15T11:36:24Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "2f8c9e5c06a649befc60089a",
@@ -637,7 +659,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 10:20:00",
       "firstSeenAt": "2026-10-15T11:36:24Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "c946c10f53580b5ddb23be21",
@@ -648,7 +670,7 @@
       "publishedAt": "2026-10-15T04:05:00+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-15T11:36:24Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "5f2528424985d275b3746982",
@@ -659,7 +681,7 @@
       "publishedAt": "2026-10-15T04:01:00+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 04:01:00 +0000",
       "firstSeenAt": "2026-10-15T11:36:24Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "358a57ecb39ae4faf31f3d8f",
@@ -670,7 +692,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-15T04:47:26Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "9ab900e4fa8fe878141f660b",
@@ -934,7 +956,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 14 Oct 2026 19:25:00",
       "firstSeenAt": "2026-10-14T17:16:46Z",
-      "lastSeenAt": "2026-10-15T21:27:58Z"
+      "lastSeenAt": "2026-10-16T04:37:37Z"
     },
     {
       "id": "60e4060dc19ec6f8f8a92ecb",
