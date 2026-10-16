@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-16T04:37:37Z",
+  "checkedAt": "2026-10-16T11:30:36Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-16T04:37:37Z",
-      "lastSuccessAt": "2026-10-16T04:37:37Z",
+      "checkedAt": "2026-10-16T11:30:36Z",
+      "lastSuccessAt": "2026-10-16T11:30:36Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-16T04:37:37Z",
-      "lastSuccessAt": "2026-10-16T04:37:37Z",
+      "checkedAt": "2026-10-16T11:30:36Z",
+      "lastSuccessAt": "2026-10-16T11:30:36Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,233 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-16T04:37:37Z",
-      "lastSuccessAt": "2026-10-16T04:37:37Z",
+      "checkedAt": "2026-10-16T11:30:36Z",
+      "lastSuccessAt": "2026-10-16T11:30:36Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "2b68eb70ae73519b9a34d80b",
+      "title": "उपराष्ट्रपति श्री सीपी राधाकृष्णन ने कारवार में भारतीय नौसेना के पहले स्वदेशी बहुउद्देशीय पोत आईएनएस “समर्थक” का शुभारंभ किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324356",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T11:30:36Z",
+      "lastSeenAt": "2026-10-16T11:30:36Z"
+    },
+    {
+      "id": "b5d19fee5d6d00c7deca528a",
+      "title": "भारत की क्वांटम प्रौद्योगिकी और सुरक्षित संचार क्षमता सुदृढ़ बनाने की दिशा में प्रौद्योगिकी विकास बोर्ड ने अनुसंधान, विकास एवं नवाचार सहायता के लिए क्यूएनयू लैब्स के साथ 150 करोड़ रूपए का समझौता किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324378",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T11:30:36Z",
+      "lastSeenAt": "2026-10-16T11:30:36Z"
+    },
+    {
+      "id": "86b0d2583a0c930cabe673bb",
+      "title": "आयुष नवाचार के पेटेंट आवेदनों में आठ गुना वृद्धि",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324332",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T11:30:36Z",
+      "lastSeenAt": "2026-10-16T11:30:36Z"
+    },
+    {
+      "id": "9f5c47841212c3c7d6982a34",
+      "title": "भाषिनी और आईआईएससी बेंगलुरु: सौराष्ट्र भाषा के लिए टेक्स्ट-टू-स्पीच मॉडल",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324358",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T11:30:36Z",
+      "lastSeenAt": "2026-10-16T11:30:36Z"
+    },
+    {
+      "id": "4fd4de4cd7d22b86d0d4b179",
+      "title": "एनएफएससी फेलोशिप ने अजय कुमार को पीएचडी करने में सक्षम बनाया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324323",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T11:30:36Z",
+      "lastSeenAt": "2026-10-16T11:30:36Z"
+    },
+    {
+      "id": "af3b5460a121254db88a54fb",
+      "title": "पूर्वोत्तर क्षेत्र में प्याज की उपलब्धता बढ़ाने के लिए पहली बार कांदा एक्सप्रेस अगरतला पहुंचेगी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324299",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T11:30:36Z",
+      "lastSeenAt": "2026-10-16T11:30:36Z"
+    },
+    {
+      "id": "7824ccfee917067b05b5732d",
+      "title": "पोलैंड के युवा प्रतिनिधिमंडल का जामसाहेब स्मारक युवा विनिमय कार्यक्रम का दूसरा संस्करण सफलतापूर्वक संपन्न",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324295",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T11:30:36Z",
+      "lastSeenAt": "2026-10-16T11:30:36Z"
+    },
+    {
+      "id": "c4ac13b69a5a20265922b4d7",
+      "title": "भारत के जलमार्गों का विकास: एक सुरक्षित और बेहतर जलमार्ग नेटवर्क का निर्माण",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324237",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T11:30:36Z",
+      "lastSeenAt": "2026-10-16T11:30:36Z"
+    },
+    {
+      "id": "1b99f0efcf572c3599ccb73d",
+      "title": "एपीडा ने तमिलनाडु से बुल्गारिया को 1.755 मीट्रिक टन जैविक ताड़ के गुड़ के पाउडर के निर्यात में सहायता प्रदान की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324261",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T11:30:36Z",
+      "lastSeenAt": "2026-10-16T11:30:36Z"
+    },
+    {
+      "id": "4311ac517837276436c0f488",
+      "title": "वस्त्र मंत्रालय ने विशेष अभियान 6 के अंतर्गत साइबर सुरक्षा एवं सुरक्षित डिजिटल निपटान और ई-कचरा प्रबंधन जागरूकता पर कार्यशालाओं का आयोजन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324262",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T11:30:36Z",
+      "lastSeenAt": "2026-10-16T11:30:36Z"
+    },
+    {
+      "id": "37e1ed4f0735c0047ed2cc9a",
+      "title": "प्रधानमंत्री ने नवरात्रि के दौरान मां कात्यायनी की पूजा की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324239",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T11:30:36Z",
+      "lastSeenAt": "2026-10-16T11:30:36Z"
+    },
+    {
+      "id": "4ded9d6e23f4aef5728c8314",
+      "title": "प्रधानमंत्री ने मां जगदाम्बिका की सभी रूपों में दिव्य उपस्थिति का गुणगान करते हुए संस्कृत सुभाषितम् साझा किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324225",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T11:30:36Z",
+      "lastSeenAt": "2026-10-16T11:30:36Z"
+    },
+    {
+      "id": "a709820f16800a28e24de957",
+      "title": "विधि और न्याय मंत्रालय के विधायी विभाग ने विशेष अभियान 6 के अंतर्गत ई-कचरा निपटान पर कार्यशाला का आयोजन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324189",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T11:30:36Z",
+      "lastSeenAt": "2026-10-16T11:30:36Z"
+    },
+    {
+      "id": "a4540379c746f927cf223939",
+      "title": "केंद्रीय वित्त एवं कॉरपोरेट कार्य मंत्री श्रीमती निर्मला सीतारमण ने आज थाईलैंड के बैंकॉक में विश्व बैंक की विकास समिति के 114वीं पूर्ण बैठक में हिस्सा लिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324192",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T11:30:36Z",
+      "lastSeenAt": "2026-10-16T11:30:36Z"
+    },
+    {
+      "id": "c8deaafed7bd3fa9c7c21ed5",
+      "title": "12 और 13 अक्टूबर, 2026 को हरियाणा के गुरुग्राम में 'दीनदयाल अंत्योदय योजना-राष्ट्रीय ग्रामीण आजीविका मिशन' के तहत 'डिजिटल डेटा प्रणालियों को सुदृढ़ करने और साक्ष्य-आधारित शिक्षा' पर राष्ट्रीय कार्यशाला का आयोजन किया गया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324194",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T11:30:36Z",
+      "lastSeenAt": "2026-10-16T11:30:36Z"
+    },
+    {
+      "id": "756dcc1c02236b3aef4c3796",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने एशियाई खेल 2026 में भाग लेने वाले भारतीय एथलीट दल से बातचीत की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324190",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T11:30:36Z",
+      "lastSeenAt": "2026-10-16T11:30:36Z"
+    },
+    {
+      "id": "304720cb33996ffe5a65c063",
+      "title": "Government Stock - Full Auction Results",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63818",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 16 Oct 2026 15:00:00",
+      "firstSeenAt": "2026-10-16T11:30:36Z",
+      "lastSeenAt": "2026-10-16T11:30:36Z"
+    },
+    {
+      "id": "220bf75113f02b81df4e3ad2",
+      "title": "Government Stock - Auction Results: Cut-off",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63817",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 16 Oct 2026 13:15:00",
+      "firstSeenAt": "2026-10-16T11:30:36Z",
+      "lastSeenAt": "2026-10-16T11:30:36Z"
+    },
+    {
+      "id": "876f2e365ccffb939aea3c04",
+      "title": "APOD: 2026 October 16 – Chasing the International Space Station",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-16T04:05:00+00:00",
+      "sourceDateText": "Fri, 16 Oct 2026 04:05:00 +0000",
+      "firstSeenAt": "2026-10-16T11:30:36Z",
+      "lastSeenAt": "2026-10-16T11:30:36Z"
+    },
+    {
+      "id": "072d14671b798f80555ca405",
+      "title": "Isaias Dims the Gulf Coast",
+      "url": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-16T04:00:00+00:00",
+      "sourceDateText": "Fri, 16 Oct 2026 04:00:00 +0000",
+      "firstSeenAt": "2026-10-16T11:30:36Z",
+      "lastSeenAt": "2026-10-16T11:30:36Z"
+    },
     {
       "id": "e4ea6d00ead2d3e3d681e80f",
       "title": "Result of Underwriting Auction conducted on October 16, 2026",
@@ -43,7 +263,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 16 Oct 2026 09:55:00",
       "firstSeenAt": "2026-10-16T04:37:37Z",
-      "lastSeenAt": "2026-10-16T04:37:37Z"
+      "lastSeenAt": "2026-10-16T11:30:36Z"
     },
     {
       "id": "7cea09e28a1bda73b1ccebe9",
@@ -54,7 +274,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 16 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-16T04:37:37Z",
-      "lastSeenAt": "2026-10-16T04:37:37Z"
+      "lastSeenAt": "2026-10-16T11:30:36Z"
     },
     {
       "id": "5bec57b9a7067a09102b13da",
@@ -65,7 +285,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-16T04:37:37Z"
+      "lastSeenAt": "2026-10-16T11:30:36Z"
     },
     {
       "id": "1f13d15fe2d8a8f6f8e8227d",
@@ -76,7 +296,7 @@
       "publishedAt": "2026-10-15T19:58:08+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 19:58:08 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-16T04:37:37Z"
+      "lastSeenAt": "2026-10-16T11:30:36Z"
     },
     {
       "id": "8323fcf5aec48f650bdcf68e",
@@ -87,7 +307,7 @@
       "publishedAt": "2026-10-15T17:59:22+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 17:59:22 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-16T04:37:37Z"
+      "lastSeenAt": "2026-10-16T11:30:36Z"
     },
     {
       "id": "249fd8d9e74a7921bc415ffe",
@@ -98,7 +318,7 @@
       "publishedAt": "2026-10-15T17:30:00+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 17:30:00 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-16T04:37:37Z"
+      "lastSeenAt": "2026-10-16T11:30:36Z"
     },
     {
       "id": "ec7a3b45638121f8120d77cb",
@@ -109,7 +329,7 @@
       "publishedAt": "2026-10-15T16:42:10+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 16:42:10 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-16T04:37:37Z"
+      "lastSeenAt": "2026-10-16T11:30:36Z"
     },
     {
       "id": "4071bf79af1fe83d5836bb01",
@@ -120,7 +340,7 @@
       "publishedAt": "2026-10-15T16:13:08+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 16:13:08 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-16T04:37:37Z"
+      "lastSeenAt": "2026-10-16T11:30:36Z"
     },
     {
       "id": "11ece84e189d42e358402710",
@@ -131,7 +351,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-16T04:37:37Z"
+      "lastSeenAt": "2026-10-16T11:30:36Z"
     },
     {
       "id": "ae63803673e7b9f97401d100",
@@ -142,7 +362,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-16T04:37:37Z"
+      "lastSeenAt": "2026-10-16T11:30:36Z"
     },
     {
       "id": "145ed0a7af2cc69bf267c15e",
@@ -153,7 +373,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-16T04:37:37Z"
+      "lastSeenAt": "2026-10-16T11:30:36Z"
     },
     {
       "id": "f6a6b4d46ad65750f3470779",
@@ -351,7 +571,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 17:50:00",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-16T04:37:37Z"
+      "lastSeenAt": "2026-10-16T11:30:36Z"
     },
     {
       "id": "f08a0d9156aea592d0c0576d",
@@ -362,7 +582,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 17:30:00",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-16T04:37:37Z"
+      "lastSeenAt": "2026-10-16T11:30:36Z"
     },
     {
       "id": "c5bf91bc5dc64e16b07e72fd",
@@ -373,7 +593,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 17:10:00",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-16T04:37:37Z"
+      "lastSeenAt": "2026-10-16T11:30:36Z"
     },
     {
       "id": "cc1e4c4496ff0178c93fb001",
@@ -384,7 +604,7 @@
       "publishedAt": "2026-10-15T15:57:47+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 15:57:47 +0000",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-16T04:37:37Z"
+      "lastSeenAt": "2026-10-16T11:30:36Z"
     },
     {
       "id": "51f04c477c6b6a601f137b07",
@@ -395,7 +615,7 @@
       "publishedAt": "2026-10-15T14:57:21+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 14:57:21 +0000",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-16T04:37:37Z"
+      "lastSeenAt": "2026-10-16T11:30:36Z"
     },
     {
       "id": "87e7af3475d1f70728c0c227",
@@ -406,7 +626,7 @@
       "publishedAt": "2026-10-15T14:19:06+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 14:19:06 +0000",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-16T04:37:37Z"
+      "lastSeenAt": "2026-10-16T11:30:36Z"
     },
     {
       "id": "2b8d3e83ced474ebb4213258",
@@ -637,7 +857,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 14:30:00",
       "firstSeenAt": "2026-10-15T11:36:24Z",
-      "lastSeenAt": "2026-10-16T04:37:37Z"
+      "lastSeenAt": "2026-10-16T11:30:36Z"
     },
     {
       "id": "b985dd03fda66273706f98d9",
@@ -648,7 +868,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 11:30:00",
       "firstSeenAt": "2026-10-15T11:36:24Z",
-      "lastSeenAt": "2026-10-16T04:37:37Z"
+      "lastSeenAt": "2026-10-16T11:30:36Z"
     },
     {
       "id": "2f8c9e5c06a649befc60089a",
@@ -659,7 +879,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 10:20:00",
       "firstSeenAt": "2026-10-15T11:36:24Z",
-      "lastSeenAt": "2026-10-16T04:37:37Z"
+      "lastSeenAt": "2026-10-16T11:30:36Z"
     },
     {
       "id": "c946c10f53580b5ddb23be21",
