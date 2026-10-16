@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-16T16:43:38Z",
+  "checkedAt": "2026-10-16T21:16:03Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-16T16:43:38Z",
-      "lastSuccessAt": "2026-10-16T16:43:38Z",
+      "checkedAt": "2026-10-16T21:16:03Z",
+      "lastSuccessAt": "2026-10-16T21:16:03Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-16T16:43:38Z",
-      "lastSuccessAt": "2026-10-16T16:43:38Z",
+      "checkedAt": "2026-10-16T21:16:03Z",
+      "lastSuccessAt": "2026-10-16T21:16:03Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,46 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-16T16:43:38Z",
-      "lastSuccessAt": "2026-10-16T16:43:38Z",
+      "checkedAt": "2026-10-16T21:16:03Z",
+      "lastSuccessAt": "2026-10-16T21:16:03Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "395deb47f74b8be53e3d4da0",
+      "title": "ITRA, जामनगर ने मनाया छठा स्थापना दिवस ‘ITRA दिवस’; आयुर्वेद शिक्षा, अनुसंधान और जन स्वास्थ्य के क्षेत्र में संस्थान की उपलब्धियों को किया रेखांकित",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2324605",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-16T21:16:03Z",
+      "lastSeenAt": "2026-10-16T21:16:03Z"
+    },
+    {
+      "id": "472f9f8e7d3f265b598f26b0",
+      "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+      "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-16T20:14:39+00:00",
+      "sourceDateText": "Fri, 16 Oct 2026 20:14:39 +0000",
+      "firstSeenAt": "2026-10-16T21:16:03Z",
+      "lastSeenAt": "2026-10-16T21:16:03Z"
+    },
+    {
+      "id": "f899e30222bf644bedc9f6c9",
+      "title": "Artemis II Heat Shield After Splashdown",
+      "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-16T16:28:01+00:00",
+      "sourceDateText": "Fri, 16 Oct 2026 16:28:01 +0000",
+      "firstSeenAt": "2026-10-16T21:16:03Z",
+      "lastSeenAt": "2026-10-16T21:16:03Z"
+    },
     {
       "id": "273a23eb14ec3324875b6e79",
       "title": "सम्मिलित भू-वैज्ञानिक परीक्षा, 2026",
@@ -43,7 +76,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "7ff0906d11b000c06cad95f6",
@@ -54,7 +87,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "1870999dc9efdf8782466c89",
@@ -65,7 +98,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "25199f15753c94ca330d020a",
@@ -76,7 +109,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "83cd168b147a318bcb60aaab",
@@ -87,7 +120,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "914bf1972626fa2608a0244f",
@@ -98,7 +131,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "d0c4c80115f538ce98f80175",
@@ -109,7 +142,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "c990f26404b4377c657c8dd4",
@@ -120,7 +153,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "f5306a3a9f8b2e2010abfef0",
@@ -131,7 +164,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "71d472e4fd1d7256603f47f1",
@@ -142,7 +175,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "4e586da0bd6b1629b7a8fefc",
@@ -153,7 +186,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "d04e11456271d710d46a9779",
@@ -164,7 +197,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "9cdd5b9a842cdc561b39a41e",
@@ -175,7 +208,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "8f5f4aba0815790c7283b32e",
@@ -186,7 +219,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "2d89e200a22d200063c3bd34",
@@ -197,7 +230,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "bf2b822c3a3d05283ee68e4c",
@@ -208,7 +241,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "5d94762f847a7331d9fa18cb",
@@ -219,7 +252,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "eb89485529be50c5abe33894",
@@ -230,7 +263,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "1d87e411476cb802313ad974",
@@ -241,7 +274,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "4a9289c04ac6243c17d3d0a4",
@@ -263,7 +296,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 16 Oct 2026 18:30:00",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "ee8b3f8a1545e4018802d367",
@@ -274,7 +307,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 16 Oct 2026 17:25:00",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "8b731fa92e1e958c11896b0e",
@@ -285,7 +318,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 16 Oct 2026 17:05:00",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "03682ed48d7f49fb2123f754",
@@ -296,7 +329,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 16 Oct 2026 17:00:00",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "3b5dbc13df98572c87640b0c",
@@ -307,7 +340,7 @@
       "publishedAt": "2026-10-16T14:24:29+00:00",
       "sourceDateText": "Fri, 16 Oct 2026 14:24:29 +0000",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "5c0d8f6486aaa5554d1507cf",
@@ -318,7 +351,7 @@
       "publishedAt": "2026-10-16T12:42:08+00:00",
       "sourceDateText": "Fri, 16 Oct 2026 12:42:08 +0000",
       "firstSeenAt": "2026-10-16T16:43:38Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "2b68eb70ae73519b9a34d80b",
@@ -505,7 +538,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 16 Oct 2026 15:00:00",
       "firstSeenAt": "2026-10-16T11:30:36Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "220bf75113f02b81df4e3ad2",
@@ -516,7 +549,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 16 Oct 2026 13:15:00",
       "firstSeenAt": "2026-10-16T11:30:36Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "876f2e365ccffb939aea3c04",
@@ -527,7 +560,7 @@
       "publishedAt": "2026-10-16T04:05:00+00:00",
       "sourceDateText": "Fri, 16 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-16T11:30:36Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "072d14671b798f80555ca405",
@@ -538,7 +571,7 @@
       "publishedAt": "2026-10-16T04:00:00+00:00",
       "sourceDateText": "Fri, 16 Oct 2026 04:00:00 +0000",
       "firstSeenAt": "2026-10-16T11:30:36Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "e4ea6d00ead2d3e3d681e80f",
@@ -549,7 +582,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 16 Oct 2026 09:55:00",
       "firstSeenAt": "2026-10-16T04:37:37Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "7cea09e28a1bda73b1ccebe9",
@@ -560,7 +593,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 16 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-16T04:37:37Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "5bec57b9a7067a09102b13da",
@@ -582,7 +615,7 @@
       "publishedAt": "2026-10-15T19:58:08+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 19:58:08 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "8323fcf5aec48f650bdcf68e",
@@ -593,7 +626,7 @@
       "publishedAt": "2026-10-15T17:59:22+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 17:59:22 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "249fd8d9e74a7921bc415ffe",
@@ -604,7 +637,7 @@
       "publishedAt": "2026-10-15T17:30:00+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 17:30:00 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "ec7a3b45638121f8120d77cb",
@@ -615,7 +648,7 @@
       "publishedAt": "2026-10-15T16:42:10+00:00",
       "sourceDateText": "Thu, 15 Oct 2026 16:42:10 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "4071bf79af1fe83d5836bb01",
@@ -857,7 +890,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 17:50:00",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "f08a0d9156aea592d0c0576d",
@@ -868,7 +901,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 15 Oct 2026 17:30:00",
       "firstSeenAt": "2026-10-15T17:05:29Z",
-      "lastSeenAt": "2026-10-16T16:43:38Z"
+      "lastSeenAt": "2026-10-16T21:16:03Z"
     },
     {
       "id": "c5bf91bc5dc64e16b07e72fd",
