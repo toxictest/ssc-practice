@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-19T13:26:14Z",
+  "checkedAt": "2026-10-19T22:24:23Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-19T13:26:14Z",
-      "lastSuccessAt": "2026-10-19T13:26:14Z",
+      "checkedAt": "2026-10-19T22:24:23Z",
+      "lastSuccessAt": "2026-10-19T22:24:23Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-19T13:26:14Z",
-      "lastSuccessAt": "2026-10-19T13:26:14Z",
+      "checkedAt": "2026-10-19T22:24:23Z",
+      "lastSuccessAt": "2026-10-19T22:24:23Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,277 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-19T13:26:14Z",
-      "lastSuccessAt": "2026-10-19T13:26:14Z",
+      "checkedAt": "2026-10-19T22:24:23Z",
+      "lastSuccessAt": "2026-10-19T22:24:23Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "acecf2d1c4b4ca0acd94e179",
+      "title": "प्रधानमंत्री ने एशियन पैरा गेम्स 2026 में महिलाओं की 1500 मीटर टी12/13 स्पर्धा में रजत पदक जीतने पर राधा वेंकटेश को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325335",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "983c6c1c570d8478d723c3b8",
+      "title": "प्रधानमंत्री ने एशियन पैरा गेम्स 2026 में महिलाओं की 1500 मीटर टी12/13 स्पर्धा में स्वर्ण पदक जीतने पर सौम्या को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325336",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "77d785bde854a959b1d6477a",
+      "title": "प्रधानमंत्री ने एशियन पैरा गेम्स 2026 में पुरुषों की भाला फेंक (जैवलिन थ्रो) एफ46 स्पर्धा में रजत पदक जीतने पर अजीत सिंह को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325337",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "33dbc4dff7f85f670d3c073d",
+      "title": "प्रधानमंत्री ने एशियन पैरा गेम्स 2026 में पुरुषों की भाला फेंक (जैवलिन थ्रो) एफ46 स्पर्धा में स्वर्ण पदक जीतने पर रिंकू हुड्डा को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325338",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "393f0c9b194e5c22970e7c8a",
+      "title": "सम्मिलित रक्षा सेवा परीक्षा (II), 2026 – लिखित परीक्षा परिणाम की घोषणा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325341",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "de824fa9112c1d8464fdd328",
+      "title": "केन्‍द्रीय मंत्री डॉ. वीरेन्‍द्र कुमार ने सामाजिक न्याय और अधिकारिता मंत्रालय के अंतर्गत आने वाले प्रभागों, ब्यूरो और संस्थानों के कामकाज की समीक्षा की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325342",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "7369409a47dcfe2131c577d6",
+      "title": "भारत और सऊदी अरब ने द्विपक्षीय विद्युत इंटरकनेक्शन पहल पर चर्चा की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325285",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "f9655591390c2c6f2fc36c95",
+      "title": "भारत और ऑस्ट्रेलिया के बीच संयुक्त सैन्य अभ्यास ‘ऑस्ट्राहिंद’ के पांचवें संस्करण की शुरुआत तिरुवनंतपुरम में हुई",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325343",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "ecdcae54ca565d3ab9083408",
+      "title": "सीएसआईआर-एनआईएससीपीआर ने पुस्तकालयों के लिए लाइब्रेरी ऑटोमेशन, डिजिटाइजेशन और आर्टिफिशियल इंटेलिजेंस पर दो सप्ताह का कौशल प्रशिक्षण कार्यक्रम सफलतापूर्वक संपन्न किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325284",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "c2b7917d060136757ac82159",
+      "title": "भारत-न्यूजीलैंड मुक्त व्यापार समझौता (एफटीए) 20 अक्टूबर 2026 को विजय दशमी के अवसर पर लागू होगा, जिससे भारतीय निर्यातकों के लिए नए अवसर खुलेंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325286",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "4e54fdef4dc0c49a3e97edd0",
+      "title": "वित्तीय समावेशन (एफआई) योजनाओं का व्यापक अभियान 21 अक्टूबर 2026 से 31 दिसंबर 2026 तक जारी रहेगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325262",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "f054d002c3fd193888db70aa",
+      "title": "दशहरा की पूर्व संध्या पर भारत की राष्ट्रपति की शुभकामनाएं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325229",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "4014a866e04629032865dcf3",
+      "title": "भारतीय मानक ब्यूरो (बीआईएस) ने गुणवत्ता मानकों के साथ आयुष (आयुष) को बढ़ावा देने के लिए देशव्यापी संवाद सत्रों का आयोजन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325292",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "bbda74848030d2b798e1895d",
+      "title": "नमस्ते के अंतर्गत सफलता की एक कहानी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325243",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "7c1b9a9647f102d424908b48",
+      "title": "विशेष अभियान 6.0 के अंतर्गत सर्वोत्तम कार्यप्रणालियों को अपनाना: महिला एवं बाल विकास मंत्रालय के वरिष्ठ अधिकारियों के लिए कृत्रिम बुद्धिमत्ता कार्यशाला का आयोजन",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325242",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "00d4abe74620b68835514f12",
+      "title": "केंद्रीय सामाजिक न्याय अधिकारिता सचिव श्री सुधांश पंत ने कर्नाटक के मैसूरु में केंद्र सरकार की प्रमुख योजनाओं, कार्यक्रमों, पहलों की समीक्षा की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325245",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "e6f31747f4b39709ff524b91",
+      "title": "स्वावलंबन 2026 - पूर्वावलोकन प्रेस वार्ता",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325258",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "37b54f0f2558901f505e8b9c",
+      "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on October 21, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63833",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Mon, 19 Oct 2026 19:05:00",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "6cab8ea372fc6c9dbee3b31f",
+      "title": "NASA Improves Shock, Vibration Analysis",
+      "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-19T19:28:32+00:00",
+      "sourceDateText": "Mon, 19 Oct 2026 19:28:32 +0000",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "e15503340f1d14f14895e9f7",
+      "title": "Software",
+      "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-19T18:11:40+00:00",
+      "sourceDateText": "Mon, 19 Oct 2026 18:11:40 +0000",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "134d7d2f1a2e8c4cf0f1643a",
+      "title": "Experimental Facilities",
+      "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-19T18:08:52+00:00",
+      "sourceDateText": "Mon, 19 Oct 2026 18:08:52 +0000",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "a66ace63ea8798dc317d813e",
+      "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
+      "url": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-19T18:01:51+00:00",
+      "sourceDateText": "Mon, 19 Oct 2026 18:01:51 +0000",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "c6f3ba05ddf4993df9adc494",
+      "title": "Instrumentation",
+      "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-19T16:37:45+00:00",
+      "sourceDateText": "Mon, 19 Oct 2026 16:37:45 +0000",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
+    {
+      "id": "fbdb630466dd91a3bd9dc628",
+      "title": "Martian Dawn",
+      "url": "https://www.nasa.gov/image-article/martian-dawn/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-19T16:03:51+00:00",
+      "sourceDateText": "Mon, 19 Oct 2026 16:03:51 +0000",
+      "firstSeenAt": "2026-10-19T22:24:23Z",
+      "lastSeenAt": "2026-10-19T22:24:23Z"
+    },
     {
       "id": "a4c5b80348e1ba9c2597f76e",
       "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह पुलिस स्मृति दिवस के उपलक्ष्य में बुधवार, 21 अक्टूबर 2026 को नई दिल्ली स्थित राष्ट्रीय पुलिस स्मारक पर शहीद पुलिसकर्मियों को श्रद्धांजलि अर्पित करेंगे",
@@ -43,7 +307,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T13:26:14Z"
+      "lastSeenAt": "2026-10-19T22:24:23Z"
     },
     {
       "id": "5374dde63972603d46c68945",
@@ -54,7 +318,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T13:26:14Z"
+      "lastSeenAt": "2026-10-19T22:24:23Z"
     },
     {
       "id": "5e0f4ffa7f2536d31e142d47",
@@ -65,7 +329,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T13:26:14Z"
+      "lastSeenAt": "2026-10-19T22:24:23Z"
     },
     {
       "id": "3bf8de2296985f3be57f1878",
@@ -263,7 +527,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 17:55:00",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T13:26:14Z"
+      "lastSeenAt": "2026-10-19T22:24:23Z"
     },
     {
       "id": "fa78e610c8e7aa804e193cab",
@@ -274,7 +538,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 17:30:00",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T13:26:14Z"
+      "lastSeenAt": "2026-10-19T22:24:23Z"
     },
     {
       "id": "7874a3e01bcb2e0d3c9fa213",
@@ -285,7 +549,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 16:05:00",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T13:26:14Z"
+      "lastSeenAt": "2026-10-19T22:24:23Z"
     },
     {
       "id": "8eb5b28f5c0e2210c8ad93a5",
@@ -296,7 +560,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 15:50:00",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T13:26:14Z"
+      "lastSeenAt": "2026-10-19T22:24:23Z"
     },
     {
       "id": "0247f4dd3efe4c57abe9001f",
@@ -307,7 +571,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 14:50:00",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T13:26:14Z"
+      "lastSeenAt": "2026-10-19T22:24:23Z"
     },
     {
       "id": "5fb618f33124820e0b78e573",
@@ -318,7 +582,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 11:10:00",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T13:26:14Z"
+      "lastSeenAt": "2026-10-19T22:24:23Z"
     },
     {
       "id": "6a7d579d933e1bd8622c4a6d",
@@ -329,7 +593,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 11:05:00",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T13:26:14Z"
+      "lastSeenAt": "2026-10-19T22:24:23Z"
     },
     {
       "id": "bb73ec67823bd9725990984f",
@@ -340,7 +604,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 10:25:00",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T13:26:14Z"
+      "lastSeenAt": "2026-10-19T22:24:23Z"
     },
     {
       "id": "72e72c0e61b865e545626d1c",
@@ -351,7 +615,7 @@
       "publishedAt": "2026-10-19T04:05:00+00:00",
       "sourceDateText": "Mon, 19 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T13:26:14Z"
+      "lastSeenAt": "2026-10-19T22:24:23Z"
     },
     {
       "id": "abadf9dc76d73a46863a94f1",
@@ -362,7 +626,7 @@
       "publishedAt": "2026-10-19T04:01:00+00:00",
       "sourceDateText": "Mon, 19 Oct 2026 04:01:00 +0000",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T13:26:14Z"
+      "lastSeenAt": "2026-10-19T22:24:23Z"
     },
     {
       "id": "22b463420fcd7f48b76dac98",
@@ -373,7 +637,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-19T04:48:08Z",
-      "lastSeenAt": "2026-10-19T13:26:14Z"
+      "lastSeenAt": "2026-10-19T22:24:23Z"
     },
     {
       "id": "4c80dd3bbb22a394432d6bfb",
@@ -571,7 +835,7 @@
       "publishedAt": "2026-10-18T04:05:00+00:00",
       "sourceDateText": "Sun, 18 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-18T11:14:30Z",
-      "lastSeenAt": "2026-10-19T13:26:14Z"
+      "lastSeenAt": "2026-10-19T22:24:23Z"
     },
     {
       "id": "6bea3d1807868c2e0d61c569",
@@ -901,7 +1165,7 @@
       "publishedAt": "2026-10-17T04:05:00+00:00",
       "sourceDateText": "Sat, 17 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-17T10:50:30Z",
-      "lastSeenAt": "2026-10-19T13:26:14Z"
+      "lastSeenAt": "2026-10-19T22:24:23Z"
     },
     {
       "id": "7a824bc11187a79f1e9ab918",
