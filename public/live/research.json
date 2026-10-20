@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-19T22:24:23Z",
+  "checkedAt": "2026-10-20T04:56:51Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-19T22:24:23Z",
-      "lastSuccessAt": "2026-10-19T22:24:23Z",
+      "checkedAt": "2026-10-20T04:56:51Z",
+      "lastSuccessAt": "2026-10-20T04:56:51Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-19T22:24:23Z",
-      "lastSuccessAt": "2026-10-19T22:24:23Z",
+      "checkedAt": "2026-10-20T04:56:51Z",
+      "lastSuccessAt": "2026-10-20T04:56:51Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,101 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-19T22:24:23Z",
-      "lastSuccessAt": "2026-10-19T22:24:23Z",
+      "checkedAt": "2026-10-20T04:56:51Z",
+      "lastSuccessAt": "2026-10-20T04:56:51Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "5779951cad89ead95865a2d1",
+      "title": "प्रधानमंत्री ने एशियन पैरा गेम्स 2026 में पुरुषों की 100 मीटर फ्रीस्टाइल S13 स्पर्धा में रजत पदक जीतने पर रवि के. बुडिगिना को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325363",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-20T04:56:51Z",
+      "lastSeenAt": "2026-10-20T04:56:51Z"
+    },
+    {
+      "id": "13f9916ee2ec8430b4f42517",
+      "title": "प्रधानमंत्री ने एशियाई पैरा गेम्स 2026 में पुरुषों की लंबी कूद T47 स्पर्धा में स्वर्ण पदक जीतने पर निषाद कुमार को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325365",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-20T04:56:51Z",
+      "lastSeenAt": "2026-10-20T04:56:51Z"
+    },
+    {
+      "id": "6e673a251a13d2d108f76c69",
+      "title": "प्रधानमंत्री ने एशियाई पैरा गेम्स 2026 में महिलाओं के J2 -52 किलोग्राम जूडो इवेंट में रजत पदक जीतने पर कोकिला को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325362",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-20T04:56:51Z",
+      "lastSeenAt": "2026-10-20T04:56:51Z"
+    },
+    {
+      "id": "f1d9bc72ff5d50ed36b7083f",
+      "title": "डीआरआई ने गांजे की तस्करी के एक बड़े प्रयास को नाकाम किया; नेपाल से तस्करी करके लाया गया 591 किलोग्राम गांजा जब्त किया गया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325364",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-20T04:56:51Z",
+      "lastSeenAt": "2026-10-20T04:56:51Z"
+    },
+    {
+      "id": "a11818000159d7a4a48e975b",
+      "title": "मिजोरम में डीआरआई ने कुल 8.64 करोड़ रुपये कीमत की 43 लाख से अधिक विदेशी मूल की तस्करी की सिगरेट जब्त की; एक शख्स गिरफ्तार",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325361",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-20T04:56:51Z",
+      "lastSeenAt": "2026-10-20T04:56:51Z"
+    },
+    {
+      "id": "ad78dbc76c86778deedcbcaf",
+      "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-20T04:05:00+00:00",
+      "sourceDateText": "Tue, 20 Oct 2026 04:05:00 +0000",
+      "firstSeenAt": "2026-10-20T04:56:51Z",
+      "lastSeenAt": "2026-10-20T04:56:51Z"
+    },
+    {
+      "id": "912c1c41fe798f96e2f40e20",
+      "title": "The Human Fingerprint on Earth’s Water Cycle",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-20T04:01:00+00:00",
+      "sourceDateText": "Tue, 20 Oct 2026 04:01:00 +0000",
+      "firstSeenAt": "2026-10-20T04:56:51Z",
+      "lastSeenAt": "2026-10-20T04:56:51Z"
+    },
+    {
+      "id": "fe8504ef1cfe76365871e423",
+      "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-20T01:21:38+00:00",
+      "sourceDateText": "Tue, 20 Oct 2026 01:21:38 +0000",
+      "firstSeenAt": "2026-10-20T04:56:51Z",
+      "lastSeenAt": "2026-10-20T04:56:51Z"
+    },
     {
       "id": "acecf2d1c4b4ca0acd94e179",
       "title": "प्रधानमंत्री ने एशियन पैरा गेम्स 2026 में महिलाओं की 1500 मीटर टी12/13 स्पर्धा में रजत पदक जीतने पर राधा वेंकटेश को बधाई दी",
@@ -43,7 +131,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "983c6c1c570d8478d723c3b8",
@@ -54,7 +142,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "77d785bde854a959b1d6477a",
@@ -65,7 +153,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "33dbc4dff7f85f670d3c073d",
@@ -76,7 +164,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "393f0c9b194e5c22970e7c8a",
@@ -87,7 +175,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "de824fa9112c1d8464fdd328",
@@ -98,7 +186,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "7369409a47dcfe2131c577d6",
@@ -109,7 +197,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "f9655591390c2c6f2fc36c95",
@@ -120,7 +208,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "ecdcae54ca565d3ab9083408",
@@ -131,7 +219,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "c2b7917d060136757ac82159",
@@ -142,7 +230,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "4e54fdef4dc0c49a3e97edd0",
@@ -153,7 +241,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "f054d002c3fd193888db70aa",
@@ -164,7 +252,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "4014a866e04629032865dcf3",
@@ -175,7 +263,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "bbda74848030d2b798e1895d",
@@ -186,7 +274,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "7c1b9a9647f102d424908b48",
@@ -197,7 +285,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "00d4abe74620b68835514f12",
@@ -230,7 +318,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 19:05:00",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "6cab8ea372fc6c9dbee3b31f",
@@ -241,7 +329,7 @@
       "publishedAt": "2026-10-19T19:28:32+00:00",
       "sourceDateText": "Mon, 19 Oct 2026 19:28:32 +0000",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "e15503340f1d14f14895e9f7",
@@ -252,7 +340,7 @@
       "publishedAt": "2026-10-19T18:11:40+00:00",
       "sourceDateText": "Mon, 19 Oct 2026 18:11:40 +0000",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "134d7d2f1a2e8c4cf0f1643a",
@@ -263,7 +351,7 @@
       "publishedAt": "2026-10-19T18:08:52+00:00",
       "sourceDateText": "Mon, 19 Oct 2026 18:08:52 +0000",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "a66ace63ea8798dc317d813e",
@@ -274,7 +362,7 @@
       "publishedAt": "2026-10-19T18:01:51+00:00",
       "sourceDateText": "Mon, 19 Oct 2026 18:01:51 +0000",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "c6f3ba05ddf4993df9adc494",
@@ -285,7 +373,7 @@
       "publishedAt": "2026-10-19T16:37:45+00:00",
       "sourceDateText": "Mon, 19 Oct 2026 16:37:45 +0000",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "fbdb630466dd91a3bd9dc628",
@@ -296,7 +384,7 @@
       "publishedAt": "2026-10-19T16:03:51+00:00",
       "sourceDateText": "Mon, 19 Oct 2026 16:03:51 +0000",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "a4c5b80348e1ba9c2597f76e",
@@ -527,7 +615,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 17:55:00",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "fa78e610c8e7aa804e193cab",
@@ -538,7 +626,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 17:30:00",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "7874a3e01bcb2e0d3c9fa213",
@@ -549,7 +637,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 16:05:00",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "8eb5b28f5c0e2210c8ad93a5",
@@ -560,7 +648,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 15:50:00",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "0247f4dd3efe4c57abe9001f",
@@ -571,7 +659,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 14:50:00",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "5fb618f33124820e0b78e573",
@@ -582,7 +670,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 11:10:00",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "6a7d579d933e1bd8622c4a6d",
@@ -593,7 +681,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 11:05:00",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "bb73ec67823bd9725990984f",
@@ -604,7 +692,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 10:25:00",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "72e72c0e61b865e545626d1c",
@@ -615,7 +703,7 @@
       "publishedAt": "2026-10-19T04:05:00+00:00",
       "sourceDateText": "Mon, 19 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "abadf9dc76d73a46863a94f1",
@@ -637,7 +725,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-19T04:48:08Z",
-      "lastSeenAt": "2026-10-19T22:24:23Z"
+      "lastSeenAt": "2026-10-20T04:56:51Z"
     },
     {
       "id": "4c80dd3bbb22a394432d6bfb",
