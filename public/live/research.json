@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-21T04:55:52Z",
+  "checkedAt": "2026-10-21T11:57:02Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-21T04:55:52Z",
-      "lastSuccessAt": "2026-10-21T04:55:52Z",
+      "checkedAt": "2026-10-21T11:57:02Z",
+      "lastSuccessAt": "2026-10-21T11:57:02Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-21T04:55:52Z",
-      "lastSuccessAt": "2026-10-21T04:55:52Z",
+      "checkedAt": "2026-10-21T11:57:02Z",
+      "lastSuccessAt": "2026-10-21T11:57:02Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,277 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-21T04:55:52Z",
-      "lastSuccessAt": "2026-10-21T04:55:52Z",
+      "checkedAt": "2026-10-21T11:57:02Z",
+      "lastSuccessAt": "2026-10-21T11:57:02Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "a72f86db18bd219b51693321",
+      "title": "ऊपर सोलर पैनल, नीचे लहलहाएगी फसल: भारत मंडपम में 7वें एग्रीवोल्टाइक वर्ल्ड कॉन्फ्रेंस का केंद्रीय मंत्री श्री शिवराज सिंह चौहान ने किया शुभारंभ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326049",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "c765cd36a0d8b10e4844608a",
+      "title": "विशेष अभियान 6 के दौरान सैन्य विभाग ने 2.46 लाख से अधिक फाइलों की समीक्षा की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326047",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "bcba472e2d753f830177bf2a",
+      "title": "केंद्रीय मंत्री डॉ. जितेंद्र सिंह ने विशेष अभियान 6.0 के तहत डीओपीटी में ई-कचरा निपटान गतिविधि में भाग लिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326037",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "d623c7e7846ce3c0e68eb4c1",
+      "title": "सशस्त्र बल मुख्यालय संघ ने प्रधानमंत्री श्री नरेन्‍द्र मोदी के नेतृत्व में समय पर पदोन्नति दिए जाने की सराहना की; डॉ. जितेंद्र सिंह के साथ कर्मचारियों के मुद्दों पर चर्चा की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326044",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "d5aea93a236b25ed41739e35",
+      "title": "रक्षा मंत्रालय ने भारतीय सेना के लिए उन्नत कम ऊंचाई वाले हल्के वज़न के रडारों की खरीद हेतु 770 करोड़ रुपये के अनुबंध पर हस्ताक्षर किए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326048",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "e8a0b53f22995b4c68296f1c",
+      "title": "भारत की राष्ट्रपति ने 65वीं राष्ट्रीय कला प्रदर्शनी के चयनित कलाकारों को ललित कला अकादमी पुरस्कार प्रदान किए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325919",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "f0971036b771d82b36bf6403",
+      "title": "सेना कमांडरों का सम्मेलन आज से",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326017",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "9cb8ecb7759d2873860c0505",
+      "title": "प्रधानमंत्री ने तिरु वुम्मिडी एतिराज जी के निधन पर शोक व्यक्त किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325997",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "fc8a16f80b26076b10df1c45",
+      "title": "14वां इंडिया केम 2026 में 22 अक्टूबर से मुंबई में वैश्विक रसायन और पेट्रोकेमिकल उद्योग के दिग्‍गज जुटेंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326031",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "8b706c3ad4f2a96acdaa5fd8",
+      "title": "विधि आयोग 'सहकारी संघवाद और कानून संबंधी सुधार: राष्ट्रीय और राज्यों के परिप्रेक्ष्य' विषय पर राष्ट्रीय सम्मेलन आयोजित करेगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326034",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "8cccd929c07e02b99bef698a",
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज पुलिस स्मृति दिवस के अवसर पर राष्ट्रीय पुलिस स्मारक पर शहीद पुलिसकर्मियों को श्रद्धांजलि अर्पित की और समारोह को संबोधित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325850",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "682acbfb5ebfef75309cebbd",
+      "title": "सीसीओ की सुविकल्प पहल सतत खनन पुनरुपयोग को बढ़ावा देती है और इसे स्कॉच गोल्ड अवार्ड 2026 प्राप्त हुआ है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325899",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "3bb243737f22feecc91f8065",
+      "title": "प्रधानमंत्री ने केंद्रीय मंत्री श्री शिवराज सिंह चौहान द्वारा लिखित एक लेख साझा किया; लेख में कृषि को बदलने और किसानों के जीवन स्तर को बेहतर बनाने में प्रौद्योगिकी और अनुसंधान की भूमिका का उल्‍लेख",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325848",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "f5e8012c73c1f7d7ff301730",
+      "title": "संघ लोक सेवा आयोग ने सितंबर 2026 माह के लिए भर्ती परिणामों की घोषणा की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325840",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "7fc415abaa8a451a6bade8e5",
+      "title": "प्रधानमंत्री ने केंद्रीय मंत्रियों श्री प्रल्हाद जोशी और श्री शिवराज सिंह चौहान द्वारा लिखित एक लेख साझा किया; इस लेख में किसानों की आय बढ़ाने और ग्रामीण समृद्धि को आगे बढ़ाने में कृषि-वोल्टेइक तकनीकों की क्षमता का उल्‍लेख किया गया है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325839",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "4018fd03405236863bca0081",
+      "title": "सरस मेला 2026",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325719",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "29eb53b0720bc67976af131b",
+      "title": "प्रधानमंत्री ने पुलिस स्मृति दिवस पर बहादुर पुलिसकर्मियों के प्रति कृतज्ञता व्‍यक्‍त की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325737",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "086e0bd08f1dc0064369d087",
+      "title": "प्रधानमंत्री ने श्रेष्‍ठ व्‍यक्तियों की अटूट कृतज्ञता और परोपकारिता को दर्शाने वाले संस्कृत सुभाषितम् को साझा किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325746",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "be5669822fccbb40f66dc20d",
+      "title": "प्रधानमंत्री ने एशियाई पैरा गेम्स में स्वर्ण पदक जीतने पर निषाद कुमार को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2325902",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "b07d036c76d26c0ae4b4fedd",
+      "title": "Minutes of the Monetary Policy Committee Meeting, October 5 to 7, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63839",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 21 Oct 2026 17:00:00",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "649ee6e70cfc10260a775173",
+      "title": "Treasury Bills: Full Auction Result",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63838",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 21 Oct 2026 15:00:00",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "5040a09a20742761840753f0",
+      "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63837",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 21 Oct 2026 14:25:00",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "4bcf08dd0a90b0f6a4da7f25",
+      "title": "Money Market Operations as on October 20, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63836",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 21 Oct 2026 10:45:00",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
+    {
+      "id": "061a7d4ccc126e603f540d53",
+      "title": "Result of the Overnight Variable Rate Repo (VRR) auction held on October 21, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63835",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 21 Oct 2026 10:25:00",
+      "firstSeenAt": "2026-10-21T11:57:02Z",
+      "lastSeenAt": "2026-10-21T11:57:02Z"
+    },
     {
       "id": "5850ff9aef69cbee8726b425",
       "title": "प्रधानमंत्री ने एशियाई पैरा खेलों में कांस्य पदक जीतने पर होकातो होतोझे सेमा को बधाई दी",
@@ -43,7 +307,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-21T04:55:52Z",
-      "lastSeenAt": "2026-10-21T04:55:52Z"
+      "lastSeenAt": "2026-10-21T11:57:02Z"
     },
     {
       "id": "c6ec6122e16324731d2b8161",
@@ -131,7 +395,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 21 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-21T04:55:52Z",
-      "lastSeenAt": "2026-10-21T04:55:52Z"
+      "lastSeenAt": "2026-10-21T11:57:02Z"
     },
     {
       "id": "9ad6259a554b0ed372092a97",
@@ -142,7 +406,7 @@
       "publishedAt": "2026-10-21T04:05:00+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-21T04:55:52Z",
-      "lastSeenAt": "2026-10-21T04:55:52Z"
+      "lastSeenAt": "2026-10-21T11:57:02Z"
     },
     {
       "id": "d4799de2fda612bbfb5f737e",
@@ -153,7 +417,7 @@
       "publishedAt": "2026-10-21T04:01:00+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 04:01:00 +0000",
       "firstSeenAt": "2026-10-21T04:55:52Z",
-      "lastSeenAt": "2026-10-21T04:55:52Z"
+      "lastSeenAt": "2026-10-21T11:57:02Z"
     },
     {
       "id": "d84f2255ba8f65011711f109",
@@ -164,7 +428,7 @@
       "publishedAt": "2026-10-20T18:11:33+00:00",
       "sourceDateText": "Tue, 20 Oct 2026 18:11:33 +0000",
       "firstSeenAt": "2026-10-20T21:41:07Z",
-      "lastSeenAt": "2026-10-21T04:55:52Z"
+      "lastSeenAt": "2026-10-21T11:57:02Z"
     },
     {
       "id": "e88bc96c3d6c426f2005d577",
@@ -384,7 +648,7 @@
       "publishedAt": "2026-10-20T16:02:35+00:00",
       "sourceDateText": "Tue, 20 Oct 2026 16:02:35 +0000",
       "firstSeenAt": "2026-10-20T17:14:07Z",
-      "lastSeenAt": "2026-10-21T04:55:52Z"
+      "lastSeenAt": "2026-10-21T11:57:02Z"
     },
     {
       "id": "e94a5ee8d763551ad13c6280",
@@ -395,7 +659,7 @@
       "publishedAt": "2026-10-20T15:00:10+00:00",
       "sourceDateText": "Tue, 20 Oct 2026 15:00:10 +0000",
       "firstSeenAt": "2026-10-20T17:14:07Z",
-      "lastSeenAt": "2026-10-21T04:55:52Z"
+      "lastSeenAt": "2026-10-21T11:57:02Z"
     },
     {
       "id": "a98449d413b9a678ecf429ed",
@@ -406,7 +670,7 @@
       "publishedAt": "2026-10-20T14:44:09+00:00",
       "sourceDateText": "Tue, 20 Oct 2026 14:44:09 +0000",
       "firstSeenAt": "2026-10-20T17:14:07Z",
-      "lastSeenAt": "2026-10-21T04:55:52Z"
+      "lastSeenAt": "2026-10-21T11:57:02Z"
     },
     {
       "id": "31d3aecd0cd7af5a4faf3dd1",
@@ -417,7 +681,7 @@
       "publishedAt": "2026-10-20T14:21:42+00:00",
       "sourceDateText": "Tue, 20 Oct 2026 14:21:42 +0000",
       "firstSeenAt": "2026-10-20T17:14:07Z",
-      "lastSeenAt": "2026-10-21T04:55:52Z"
+      "lastSeenAt": "2026-10-21T11:57:02Z"
     },
     {
       "id": "71ed56d281caffabba99924b",
@@ -538,7 +802,7 @@
       "publishedAt": "2026-10-20T04:05:00+00:00",
       "sourceDateText": "Tue, 20 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-20T04:56:51Z",
-      "lastSeenAt": "2026-10-21T04:55:52Z"
+      "lastSeenAt": "2026-10-21T11:57:02Z"
     },
     {
       "id": "912c1c41fe798f96e2f40e20",
@@ -549,7 +813,7 @@
       "publishedAt": "2026-10-20T04:01:00+00:00",
       "sourceDateText": "Tue, 20 Oct 2026 04:01:00 +0000",
       "firstSeenAt": "2026-10-20T04:56:51Z",
-      "lastSeenAt": "2026-10-21T04:55:52Z"
+      "lastSeenAt": "2026-10-21T11:57:02Z"
     },
     {
       "id": "fe8504ef1cfe76365871e423",
@@ -758,7 +1022,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 19:05:00",
       "firstSeenAt": "2026-10-19T22:24:23Z",
-      "lastSeenAt": "2026-10-21T04:55:52Z"
+      "lastSeenAt": "2026-10-21T11:57:02Z"
     },
     {
       "id": "6cab8ea372fc6c9dbee3b31f",
@@ -1055,7 +1319,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 17:55:00",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-21T04:55:52Z"
+      "lastSeenAt": "2026-10-21T11:57:02Z"
     },
     {
       "id": "fa78e610c8e7aa804e193cab",
@@ -1066,7 +1330,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 17:30:00",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-21T04:55:52Z"
+      "lastSeenAt": "2026-10-21T11:57:02Z"
     },
     {
       "id": "7874a3e01bcb2e0d3c9fa213",
@@ -1077,7 +1341,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 19 Oct 2026 16:05:00",
       "firstSeenAt": "2026-10-19T13:26:14Z",
-      "lastSeenAt": "2026-10-21T04:55:52Z"
+      "lastSeenAt": "2026-10-21T11:57:02Z"
     },
     {
       "id": "8eb5b28f5c0e2210c8ad93a5",
@@ -2320,7 +2584,7 @@
       "publishedAt": "2026-10-20T20:21:36+00:00",
       "sourceDateText": "Tue, 20 Oct 2026 20:21:36 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-21T04:55:52Z"
+      "lastSeenAt": "2026-10-21T11:57:02Z"
     },
     {
       "id": "4071bf79af1fe83d5836bb01",
