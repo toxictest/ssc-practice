@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-22T04:56:05Z",
+  "checkedAt": "2026-10-22T11:59:15Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-22T04:56:05Z",
-      "lastSuccessAt": "2026-10-22T04:56:05Z",
+      "checkedAt": "2026-10-22T11:59:15Z",
+      "lastSuccessAt": "2026-10-22T11:59:15Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-22T04:56:05Z",
-      "lastSuccessAt": "2026-10-22T04:56:05Z",
+      "checkedAt": "2026-10-22T11:59:15Z",
+      "lastSuccessAt": "2026-10-22T11:59:15Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,189 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-22T04:56:05Z",
-      "lastSuccessAt": "2026-10-22T04:56:05Z",
+      "checkedAt": "2026-10-22T11:59:15Z",
+      "lastSuccessAt": "2026-10-22T11:59:15Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "e8599cb07f224354d843c533",
+      "title": "​हरियाणा के करनाल में 'खेत बचाओ अभियान' के दौरान केंद्रीय कृषि मंत्री श्री शिवराज सिंह चौहान ने चौपाल में किया किसानों से सीधा संवाद",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326683",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T11:59:15Z",
+      "lastSeenAt": "2026-10-22T11:59:15Z"
+    },
+    {
+      "id": "9166d4a3455916d7b59583bd",
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह आज दिल्ली में यमुना पुनरुद्धार से जुड़ी ₹8,941 करोड़ की परियोजनाओं के लोकार्पण एवं शिलान्यास समारोह में शामिल हुए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326664",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T11:59:15Z",
+      "lastSeenAt": "2026-10-22T11:59:15Z"
+    },
+    {
+      "id": "844b978f9817b601586bb8b4",
+      "title": "संविधान सदन के केंद्रीय कक्ष में 26-27 अक्तूबर 2026 को आयोजित किया जाएगा 12वां ब्रिक्स संसदीय मंच: लोक सभा अध्यक्ष",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326633",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T11:59:15Z",
+      "lastSeenAt": "2026-10-22T11:59:15Z"
+    },
+    {
+      "id": "8d2570294812972dda78e7e5",
+      "title": "विज्ञान एवं प्रौद्योगिकी विभाग ने विशेष अभियान 6 को अभियान के बीच (16 अक्टूबर, 2026 तक) महत्वपूर्ण उपलब्धियों के साथ और तेज कर दिया है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326672",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T11:59:15Z",
+      "lastSeenAt": "2026-10-22T11:59:15Z"
+    },
+    {
+      "id": "ce69988dcace8ded1bc81976",
+      "title": "प्रधानमंत्री 23 अक्टूबर को चिन्मय अमृत महोत्सव वैश्विक सम्मेलन का उद्घाटन करेंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326650",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T11:59:15Z",
+      "lastSeenAt": "2026-10-22T11:59:15Z"
+    },
+    {
+      "id": "0f2ee36977a60f2a76a2b252",
+      "title": "एसएईइंडिया नई दिल्ली में एशियापैसिफिक के मोबिलिटी इंजीनियरिंग समुदाय के मंच एपीएसी 23 की मेजबानी करेगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326680",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T11:59:15Z",
+      "lastSeenAt": "2026-10-22T11:59:15Z"
+    },
+    {
+      "id": "dac4879a2deaf3ed46e017f2",
+      "title": "परिणामों की सूची: पोलैंड के प्रधानमंत्री की भारत की राजकीय यात्रा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326641",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T11:59:15Z",
+      "lastSeenAt": "2026-10-22T11:59:15Z"
+    },
+    {
+      "id": "1389c19fcdfcaada5b04eb1b",
+      "title": "पोलैंड के प्रधानमंत्री के साथ संयुक्त प्रेस वक्तव्य के दौरान प्रधानमंत्री का प्रेस वक्तव्य",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326550",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T11:59:15Z",
+      "lastSeenAt": "2026-10-22T11:59:15Z"
+    },
+    {
+      "id": "8832d509ec607e9c10cd6d42",
+      "title": "उपराष्ट्रपति श्री सी. पी. राधाकृष्णन ने नई दिल्ली में सहकारी संघवाद और विधिक सुधारों पर आयोजित सम्मेलन का उद्घाटन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326563",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T11:59:15Z",
+      "lastSeenAt": "2026-10-22T11:59:15Z"
+    },
+    {
+      "id": "e166dc6cde72044ddfb3f25a",
+      "title": "कृषि अनुसंधान और शिक्षा विभाग के सचिव ने वैश्विक भागीदारी के माध्यम से कृषि उच्चतर शिक्षा की पुनर्कल्पना करने का आह्वान किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326622",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T11:59:15Z",
+      "lastSeenAt": "2026-10-22T11:59:15Z"
+    },
+    {
+      "id": "31b591becf46cfae5353282e",
+      "title": "प्रधानमंत्री दक्षता और कुशलता संपन्न हितग्राही (पीएम-दक्ष) योजना पर तथ्यात्मक रिपोर्ट",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326516",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T11:59:15Z",
+      "lastSeenAt": "2026-10-22T11:59:15Z"
+    },
+    {
+      "id": "909b036c101bae5d46f3c5f2",
+      "title": "मत्स्य निवेशक एवं निर्यातक कॉन्क्लेव 2026 अंतर्देशीय मत्स्य पालन में निवेश, मूल्यवर्धन और निर्यात के अवसरों पर केंद्रित होगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326429",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T11:59:15Z",
+      "lastSeenAt": "2026-10-22T11:59:15Z"
+    },
+    {
+      "id": "49a1a2103497f0fc4f477e8f",
+      "title": "Reserve Money for the fortnight ended on October 15, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63846",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 22 Oct 2026 17:05:00",
+      "firstSeenAt": "2026-10-22T11:59:15Z",
+      "lastSeenAt": "2026-10-22T11:59:15Z"
+    },
+    {
+      "id": "7c6f2089e863a478bd7668f1",
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Suri Friends’ Union Co-operative Bank Ltd., Suri, West Bengal – Extension of period",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63845",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 22 Oct 2026 17:00:00",
+      "firstSeenAt": "2026-10-22T11:59:15Z",
+      "lastSeenAt": "2026-10-22T11:59:15Z"
+    },
+    {
+      "id": "cf64f2196056bf12f77a708d",
+      "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on October 23, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63844",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 22 Oct 2026 11:45:00",
+      "firstSeenAt": "2026-10-22T11:59:15Z",
+      "lastSeenAt": "2026-10-22T11:59:15Z"
+    },
+    {
+      "id": "907fcd11e4e7eb94df547b5f",
+      "title": "Result of the Overnight Variable Rate Repo (VRR) auction held on October 22, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63843",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 22 Oct 2026 10:25:00",
+      "firstSeenAt": "2026-10-22T11:59:15Z",
+      "lastSeenAt": "2026-10-22T11:59:15Z"
+    },
     {
       "id": "02252604559cf522a1ada5ac",
       "title": "प्रधानमंत्री ने विनम्रता और निरंतर सीखते रहने के महत्व को रेखांकित करते हुए एक संस्कृत सुभाषितम् साझा किया",
@@ -43,7 +219,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "54e9a6a917c78bd2ee1563b1",
@@ -54,7 +230,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "41c993a3cef79a892dcf9a07",
@@ -65,7 +241,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "e5438e611e4ae06ad5afaab6",
@@ -76,7 +252,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "e73116dc36015a1dcdb34877",
@@ -87,7 +263,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "d39a0a8c0fee7a3e93967298",
@@ -98,7 +274,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "026f781cfccaea6dbe05d8bc",
@@ -109,7 +285,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "b3f26c67f567b464cc5b7f92",
@@ -153,7 +329,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 22 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "813711696cd81a60554dd3e0",
@@ -164,7 +340,7 @@
       "publishedAt": "2026-10-22T04:05:00+00:00",
       "sourceDateText": "Thu, 22 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "c5b220ee62288fba840c5e23",
@@ -175,7 +351,7 @@
       "publishedAt": "2026-10-22T04:01:00+00:00",
       "sourceDateText": "Thu, 22 Oct 2026 04:01:00 +0000",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "62608a955487172577129e83",
@@ -186,7 +362,7 @@
       "publishedAt": "2026-10-22T00:00:16+00:00",
       "sourceDateText": "Thu, 22 Oct 2026 00:00:16 +0000",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "5097c0971b6330ab9e04a0c3",
@@ -197,7 +373,7 @@
       "publishedAt": "2026-10-21T20:51:50+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 20:51:50 +0000",
       "firstSeenAt": "2026-10-21T21:46:27Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "a51b31652d0be7c6128274ff",
@@ -208,7 +384,7 @@
       "publishedAt": "2026-10-21T18:35:56+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 18:35:56 +0000",
       "firstSeenAt": "2026-10-21T21:46:27Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "29a7a8f2bddb4741b9f6addd",
@@ -219,7 +395,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-21T17:16:48Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "56c3500bdcec77dc6a02ffe5",
@@ -439,7 +615,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 21 Oct 2026 19:10:00",
       "firstSeenAt": "2026-10-21T17:16:48Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "863031012e820eefce38e4b7",
@@ -450,7 +626,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 21 Oct 2026 17:30:00",
       "firstSeenAt": "2026-10-21T17:16:48Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "33222bfd33ec78e17b398f35",
@@ -461,7 +637,7 @@
       "publishedAt": "2026-10-21T16:31:11+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 16:31:11 +0000",
       "firstSeenAt": "2026-10-21T17:16:48Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "b4310e6ca41665911096bbed",
@@ -472,7 +648,7 @@
       "publishedAt": "2026-10-21T15:50:44+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 15:50:44 +0000",
       "firstSeenAt": "2026-10-21T17:16:48Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "a6bac8b60a7ca68cfc913d49",
@@ -483,7 +659,7 @@
       "publishedAt": "2026-10-21T15:05:08+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 15:05:08 +0000",
       "firstSeenAt": "2026-10-21T17:16:48Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "c02b4a8f65149aabc47dc32c",
@@ -494,7 +670,7 @@
       "publishedAt": "2026-10-21T12:17:58+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 12:17:58 +0000",
       "firstSeenAt": "2026-10-21T17:16:48Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "a72f86db18bd219b51693321",
@@ -714,7 +890,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 21 Oct 2026 17:00:00",
       "firstSeenAt": "2026-10-21T11:57:02Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "649ee6e70cfc10260a775173",
@@ -725,7 +901,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 21 Oct 2026 15:00:00",
       "firstSeenAt": "2026-10-21T11:57:02Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "5040a09a20742761840753f0",
@@ -736,7 +912,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 21 Oct 2026 14:25:00",
       "firstSeenAt": "2026-10-21T11:57:02Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "4bcf08dd0a90b0f6a4da7f25",
@@ -868,7 +1044,7 @@
       "publishedAt": "2026-10-21T04:05:00+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-21T04:55:52Z",
-      "lastSeenAt": "2026-10-22T04:56:05Z"
+      "lastSeenAt": "2026-10-22T11:59:15Z"
     },
     {
       "id": "d4799de2fda612bbfb5f737e",
