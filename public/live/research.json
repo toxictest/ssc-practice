@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-22T11:59:15Z",
+  "checkedAt": "2026-10-22T17:15:09Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-22T11:59:15Z",
-      "lastSuccessAt": "2026-10-22T11:59:15Z",
+      "checkedAt": "2026-10-22T17:15:09Z",
+      "lastSuccessAt": "2026-10-22T17:15:09Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-22T11:59:15Z",
-      "lastSuccessAt": "2026-10-22T11:59:15Z",
+      "checkedAt": "2026-10-22T17:15:09Z",
+      "lastSuccessAt": "2026-10-22T17:15:09Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,266 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-22T11:59:15Z",
-      "lastSuccessAt": "2026-10-22T11:59:15Z",
+      "checkedAt": "2026-10-22T17:15:09Z",
+      "lastSuccessAt": "2026-10-22T17:15:09Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "a4eb6dab471979fec915875c",
+      "title": "एनडीटीवी वर्ल्ड समिट में भाग लेने के दौरान प्रधानमंत्री के संबोधन का मूल पाठ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326987",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "af4f5e40f4432fa431af41f1",
+      "title": "सीसीआई ने इंटीग्रेस प्राइवेट लिमिटेड द्वारा यूनिवर्सल न्यूट्रीसाइंस की शेयर पूंजी के अधिग्रहण और इससे जुड़े लेनदेन को मंजूरी दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326983",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "ceced00202b0660b7712a5f1",
+      "title": "सीसीआई ने ‘मेबैक एशिया होल्डिंग्स II प्राइवेट लिमिटेड’ द्वारा ‘सहृदय हेल्थ केयर’ की 100% इक्विटी शेयर पूंजी के अधिग्रहण को मंजूरी दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326969",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "396ecdd880c2dcf6b0aea0bd",
+      "title": "अनुसूचित जनजाति के युवाओं के लिए आजीविका के अवसरों को सुदृढ़ करने हेतु त्रिपक्षीय समझौता ज्ञापन पर हस्ताक्षर",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326911",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "db487e30fcde2bbab825631b",
+      "title": "पीएम दक्ष योजना के तहत 2020-21 से 2023-24 के दौरान 1,87,305 उम्मीदवारों को प्रशिक्षित किया गया और 96,162 को रोजगार दिलाया गया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326924",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "cf1cc9fffd46226dc8747f2a",
+      "title": "एग्रीवोल्टाइक्स विश्व सम्मेलन 2026",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326964",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "efb155430a5035ce3cf296e5",
+      "title": "केंद्रीय मंत्री श्री सर्बानंद सोनोवाल ने पोलैंड की कंपनियों को भारत में निर्माण, नवाचार और विकास के अवसरों का लाभ उठाने के लिए आमंत्रित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326955",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "9f0fcc38fb538fba99059eee",
+      "title": "सीएक्यूएम ने पंजाब और हरियाणा में वायु प्रदूषण नियंत्रण उपायों की समीक्षा की, जमीनी स्तर पर तुरंत कार्रवाई करने का आह्वान किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326967",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "4691b0eba800b571ef1c61f3",
+      "title": "प्रधानमंत्री ने एशियाई पैरा खेलों में कांस्य पदक जीतने पर रवि कार्तिक बुडिगिना को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326952",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "fe4ea8e5ba70bc6f335ebe0a",
+      "title": "प्रधानमंत्री ने एशियाई पैरा खेलों में कांस्य पदक जीतने पर राहुल को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326960",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "36914ca37d4820a86874e435",
+      "title": "प्रधानमंत्री ने एशियाई पैरा खेलों में रजत पदक जीतने पर वरुण सिंह भाटी को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326919",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "3cfc66ad8df61242e57626a4",
+      "title": "प्रधानमंत्री ने एशियन पैरा गेम्स में स्वर्ण पदक जीतने पर शैलेश कुमार को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326922",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "63488c55dd714516a8807963",
+      "title": "​\"इंसान को भी बचाओ और खेत को भी बचाओ\": करनाल के तरावड़ी से केंद्रीय मंत्री श्री शिवराज सिंह चौहान ने किया राष्ट्रव्यापी 'खेत बचाओ अभियान' का आगाज",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326794",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "bb10177ee2828bf34487c654",
+      "title": "प्रधानमंत्री ने एशियन पैरा गेम्स में कांस्य पदक जीतने पर नवीन शिवकुमार और सूर्यकांत यादव को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326920",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "b86207b94fd544c85627ef4e",
+      "title": "प्रधानमंत्री ने एशियन पैरा गेम्स में रजत पदक जीतने पर जयंती को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326907",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "89abd768e97226f879297be3",
+      "title": "प्रधानमंत्री ने एशियन पैरा गेम्स में रजत पदक जीतने पर तेजलबेन दामोर को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326863",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "4ce6eeeef53a2b5199cc22b9",
+      "title": "प्रधानमंत्री ने एशियन पैरा गेम्स में स्वर्ण पदक जीतने पर अंजनाबेन को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326868",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "a6a3cb9b23cabec9dede348c",
+      "title": "केंद्रीय पर्यावरण मंत्री ने सीआईआई सम्मेलन में भारत की सर्कुलर इकोनॉमी को आगे बढ़ाने के लिए सरकार, उद्योग जगत और शहरी स्थानीय निकायों से मिलकर प्रयास करने का आह्वान किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326859",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "195c51a854ecb7fa7d95a6c1",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने एशियाई पैरा खेलों में कांस्य पदक जीतने पर मनीषा रामदास को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326861",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "b1751239823f32d1f4150119",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने एशियाई पैरा खेलों में रजत पदक जीतने पर कपिल कुमार को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2326848",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "d18095f79895946fe79d8b71",
+      "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on October 23, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63848",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 22 Oct 2026 19:10:00",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "52bcb93fc6b7578644b84b44",
+      "title": "Final redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for final redemption of SGB 2018-19 Series-II due on October 23, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63847",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 22 Oct 2026 18:30:00",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
+    {
+      "id": "960268508750b6c65e3ce821",
+      "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-22T16:20:37+00:00",
+      "sourceDateText": "Thu, 22 Oct 2026 16:20:37 +0000",
+      "firstSeenAt": "2026-10-22T17:15:09Z",
+      "lastSeenAt": "2026-10-22T17:15:09Z"
+    },
     {
       "id": "e8599cb07f224354d843c533",
       "title": "​हरियाणा के करनाल में 'खेत बचाओ अभियान' के दौरान केंद्रीय कृषि मंत्री श्री शिवराज सिंह चौहान ने चौपाल में किया किसानों से सीधा संवाद",
@@ -175,7 +428,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 22 Oct 2026 17:05:00",
       "firstSeenAt": "2026-10-22T11:59:15Z",
-      "lastSeenAt": "2026-10-22T11:59:15Z"
+      "lastSeenAt": "2026-10-22T17:15:09Z"
     },
     {
       "id": "7c6f2089e863a478bd7668f1",
@@ -186,7 +439,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 22 Oct 2026 17:00:00",
       "firstSeenAt": "2026-10-22T11:59:15Z",
-      "lastSeenAt": "2026-10-22T11:59:15Z"
+      "lastSeenAt": "2026-10-22T17:15:09Z"
     },
     {
       "id": "cf64f2196056bf12f77a708d",
@@ -197,7 +450,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 22 Oct 2026 11:45:00",
       "firstSeenAt": "2026-10-22T11:59:15Z",
-      "lastSeenAt": "2026-10-22T11:59:15Z"
+      "lastSeenAt": "2026-10-22T17:15:09Z"
     },
     {
       "id": "907fcd11e4e7eb94df547b5f",
@@ -208,7 +461,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 22 Oct 2026 10:25:00",
       "firstSeenAt": "2026-10-22T11:59:15Z",
-      "lastSeenAt": "2026-10-22T11:59:15Z"
+      "lastSeenAt": "2026-10-22T17:15:09Z"
     },
     {
       "id": "02252604559cf522a1ada5ac",
@@ -329,7 +582,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 22 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-22T11:59:15Z"
+      "lastSeenAt": "2026-10-22T17:15:09Z"
     },
     {
       "id": "813711696cd81a60554dd3e0",
@@ -340,7 +593,7 @@
       "publishedAt": "2026-10-22T04:05:00+00:00",
       "sourceDateText": "Thu, 22 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-22T11:59:15Z"
+      "lastSeenAt": "2026-10-22T17:15:09Z"
     },
     {
       "id": "c5b220ee62288fba840c5e23",
@@ -351,7 +604,7 @@
       "publishedAt": "2026-10-22T04:01:00+00:00",
       "sourceDateText": "Thu, 22 Oct 2026 04:01:00 +0000",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-22T11:59:15Z"
+      "lastSeenAt": "2026-10-22T17:15:09Z"
     },
     {
       "id": "62608a955487172577129e83",
@@ -362,7 +615,7 @@
       "publishedAt": "2026-10-22T00:00:16+00:00",
       "sourceDateText": "Thu, 22 Oct 2026 00:00:16 +0000",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-22T11:59:15Z"
+      "lastSeenAt": "2026-10-22T17:15:09Z"
     },
     {
       "id": "5097c0971b6330ab9e04a0c3",
@@ -373,7 +626,7 @@
       "publishedAt": "2026-10-21T20:51:50+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 20:51:50 +0000",
       "firstSeenAt": "2026-10-21T21:46:27Z",
-      "lastSeenAt": "2026-10-22T11:59:15Z"
+      "lastSeenAt": "2026-10-22T17:15:09Z"
     },
     {
       "id": "a51b31652d0be7c6128274ff",
@@ -384,7 +637,7 @@
       "publishedAt": "2026-10-21T18:35:56+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 18:35:56 +0000",
       "firstSeenAt": "2026-10-21T21:46:27Z",
-      "lastSeenAt": "2026-10-22T11:59:15Z"
+      "lastSeenAt": "2026-10-22T17:15:09Z"
     },
     {
       "id": "29a7a8f2bddb4741b9f6addd",
@@ -615,7 +868,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 21 Oct 2026 19:10:00",
       "firstSeenAt": "2026-10-21T17:16:48Z",
-      "lastSeenAt": "2026-10-22T11:59:15Z"
+      "lastSeenAt": "2026-10-22T17:15:09Z"
     },
     {
       "id": "863031012e820eefce38e4b7",
@@ -626,7 +879,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 21 Oct 2026 17:30:00",
       "firstSeenAt": "2026-10-21T17:16:48Z",
-      "lastSeenAt": "2026-10-22T11:59:15Z"
+      "lastSeenAt": "2026-10-22T17:15:09Z"
     },
     {
       "id": "33222bfd33ec78e17b398f35",
@@ -637,7 +890,7 @@
       "publishedAt": "2026-10-21T16:31:11+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 16:31:11 +0000",
       "firstSeenAt": "2026-10-21T17:16:48Z",
-      "lastSeenAt": "2026-10-22T11:59:15Z"
+      "lastSeenAt": "2026-10-22T17:15:09Z"
     },
     {
       "id": "b4310e6ca41665911096bbed",
@@ -648,7 +901,7 @@
       "publishedAt": "2026-10-21T15:50:44+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 15:50:44 +0000",
       "firstSeenAt": "2026-10-21T17:16:48Z",
-      "lastSeenAt": "2026-10-22T11:59:15Z"
+      "lastSeenAt": "2026-10-22T17:15:09Z"
     },
     {
       "id": "a6bac8b60a7ca68cfc913d49",
@@ -659,7 +912,7 @@
       "publishedAt": "2026-10-21T15:05:08+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 15:05:08 +0000",
       "firstSeenAt": "2026-10-21T17:16:48Z",
-      "lastSeenAt": "2026-10-22T11:59:15Z"
+      "lastSeenAt": "2026-10-22T17:15:09Z"
     },
     {
       "id": "c02b4a8f65149aabc47dc32c",
@@ -670,7 +923,7 @@
       "publishedAt": "2026-10-21T12:17:58+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 12:17:58 +0000",
       "firstSeenAt": "2026-10-21T17:16:48Z",
-      "lastSeenAt": "2026-10-22T11:59:15Z"
+      "lastSeenAt": "2026-10-22T17:15:09Z"
     },
     {
       "id": "a72f86db18bd219b51693321",
@@ -890,7 +1143,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 21 Oct 2026 17:00:00",
       "firstSeenAt": "2026-10-21T11:57:02Z",
-      "lastSeenAt": "2026-10-22T11:59:15Z"
+      "lastSeenAt": "2026-10-22T17:15:09Z"
     },
     {
       "id": "649ee6e70cfc10260a775173",
