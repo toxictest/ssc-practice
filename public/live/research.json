@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-22T21:41:08Z",
+  "checkedAt": "2026-10-23T04:58:06Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-22T21:41:08Z",
-      "lastSuccessAt": "2026-10-22T21:41:08Z",
+      "checkedAt": "2026-10-23T04:58:06Z",
+      "lastSuccessAt": "2026-10-23T04:58:06Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-22T21:41:08Z",
-      "lastSuccessAt": "2026-10-22T21:41:08Z",
+      "checkedAt": "2026-10-23T04:58:06Z",
+      "lastSuccessAt": "2026-10-23T04:58:06Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,178 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-22T21:41:08Z",
-      "lastSuccessAt": "2026-10-22T21:41:08Z",
+      "checkedAt": "2026-10-23T04:58:06Z",
+      "lastSuccessAt": "2026-10-23T04:58:06Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "49222f1c6d5004bd3701e231",
+      "title": "भविष्य के लिए तैयार डेटा लीडर्सः सांख्यिकी एवं कार्यक्रम कार्यान्वयन मंत्रालय (एमओएसपीआई) की समिति द्वारा क्षमता निर्माण संबंधी व्यापक सिफारिशें",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327080",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T04:58:06Z",
+      "lastSeenAt": "2026-10-23T04:58:06Z"
+    },
+    {
+      "id": "84389fe6b8b57bc670d99e4a",
+      "title": "उत्तराखंड के राज्यपाल ने प्रधानमंत्री से मुलाकात की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327067",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T04:58:06Z",
+      "lastSeenAt": "2026-10-23T04:58:06Z"
+    },
+    {
+      "id": "79cbbbae2de04debf70568f4",
+      "title": "प्रधानमंत्री ने एशियन पैरा गेम्स में कांस्य पदक जीतने पर स्वातिक पाटिल को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327076",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T04:58:06Z",
+      "lastSeenAt": "2026-10-23T04:58:06Z"
+    },
+    {
+      "id": "8713e4eecdf5c9c5655385c7",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने नई दिल्ली में एनडीटीवी वर्ल्ड समिट 2026 को संबोधित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327071",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T04:58:06Z",
+      "lastSeenAt": "2026-10-23T04:58:06Z"
+    },
+    {
+      "id": "de31b173ee564c2869f58135",
+      "title": "प्रधानमंत्री ने एशियन पैरा गेम्स में स्वर्ण पदक जीतने पर सोलाईराज धर्मराज को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327075",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T04:58:06Z",
+      "lastSeenAt": "2026-10-23T04:58:06Z"
+    },
+    {
+      "id": "a17453e518a3ca85efb1ced5",
+      "title": "प्रधानमंत्री ने एशियन पैरा गेम्स में कांस्य पदक जीतने पर रवन्नी वलसानैनी को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327074",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T04:58:06Z",
+      "lastSeenAt": "2026-10-23T04:58:06Z"
+    },
+    {
+      "id": "315bd6cee1d7216e68d14947",
+      "title": "प्रधानमंत्री ने एशियन पैरा गेम्स में कांस्य पदक जीतने पर तेजस नंदकुमार को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327073",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T04:58:06Z",
+      "lastSeenAt": "2026-10-23T04:58:06Z"
+    },
+    {
+      "id": "ee5d4fcfd53f813ea4e19b64",
+      "title": "प्रधानमंत्री ने एशियन पैरा गेम्स में स्वर्ण पदक जीतने पर दिलीप को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327072",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T04:58:06Z",
+      "lastSeenAt": "2026-10-23T04:58:06Z"
+    },
+    {
+      "id": "a08cd17e041adb33367d35ca",
+      "title": "'मानव जीवन और कृषि भूमि दोनों को बचाएं': केंद्रीय मंत्री श्री शिवराज सिंह चौहान ने करनाल के तरावड़ी से राष्ट्रव्यापी 'खेत बचाओ अभियान' का शुभारंभ किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327081",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T04:58:06Z",
+      "lastSeenAt": "2026-10-23T04:58:06Z"
+    },
+    {
+      "id": "835277a79140b6c91d629c57",
+      "title": "8-दिवसीय शिल्प समागम मेला 2026 जारी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327077",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T04:58:06Z",
+      "lastSeenAt": "2026-10-23T04:58:06Z"
+    },
+    {
+      "id": "a452fc4ec85ec2b5b405c885",
+      "title": "केंद्रीय सामाजिक न्याय और अधिकारिता मंत्रालय के सचिव श्री सुधांश पंत ने जम्मू-कश्मीर में जमीनी स्तर पर कल्याणकारी कामों और नशीली दवाओं के दुरुपयोग के खिलाफ सरकार के दृष्टिकोण की सराहना की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327082",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T04:58:06Z",
+      "lastSeenAt": "2026-10-23T04:58:06Z"
+    },
+    {
+      "id": "82ddd6860eacf998b7571759",
+      "title": "Result of Underwriting Auction conducted on October 23, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63850",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 23 Oct 2026 09:55:00",
+      "firstSeenAt": "2026-10-23T04:58:06Z",
+      "lastSeenAt": "2026-10-23T04:58:06Z"
+    },
+    {
+      "id": "42b90bcd0d3a71ff6e11c809",
+      "title": "Money Market Operations as on October 22, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63849",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 23 Oct 2026 09:00:00",
+      "firstSeenAt": "2026-10-23T04:58:06Z",
+      "lastSeenAt": "2026-10-23T04:58:06Z"
+    },
+    {
+      "id": "9e94dc14396e553b1da26f39",
+      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-22T21:39:58+00:00",
+      "sourceDateText": "Thu, 22 Oct 2026 21:39:58 +0000",
+      "firstSeenAt": "2026-10-23T04:58:06Z",
+      "lastSeenAt": "2026-10-23T04:58:06Z"
+    },
+    {
+      "id": "78a0ff249a66802c1204d926",
+      "title": "Spiral’s Edge",
+      "url": "https://www.nasa.gov/image-article/spirals-edge/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-22T21:35:38+00:00",
+      "sourceDateText": "Thu, 22 Oct 2026 21:35:38 +0000",
+      "firstSeenAt": "2026-10-23T04:58:06Z",
+      "lastSeenAt": "2026-10-23T04:58:06Z"
+    },
     {
       "id": "a4eb6dab471979fec915875c",
       "title": "एनडीटीवी वर्ल्ड समिट में भाग लेने के दौरान प्रधानमंत्री के संबोधन का मूल पाठ",
@@ -43,7 +208,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-22T17:15:09Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "af4f5e40f4432fa431af41f1",
@@ -54,7 +219,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-22T17:15:09Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "ceced00202b0660b7712a5f1",
@@ -65,7 +230,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-22T17:15:09Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "396ecdd880c2dcf6b0aea0bd",
@@ -76,7 +241,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-22T17:15:09Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "db487e30fcde2bbab825631b",
@@ -87,7 +252,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-22T17:15:09Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "cf1cc9fffd46226dc8747f2a",
@@ -98,7 +263,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-22T17:15:09Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "efb155430a5035ce3cf296e5",
@@ -109,7 +274,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-22T17:15:09Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "9f0fcc38fb538fba99059eee",
@@ -120,7 +285,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-22T17:15:09Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "4691b0eba800b571ef1c61f3",
@@ -131,7 +296,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-22T17:15:09Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "fe4ea8e5ba70bc6f335ebe0a",
@@ -263,7 +428,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 22 Oct 2026 19:10:00",
       "firstSeenAt": "2026-10-22T17:15:09Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "52bcb93fc6b7578644b84b44",
@@ -274,7 +439,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 22 Oct 2026 18:30:00",
       "firstSeenAt": "2026-10-22T17:15:09Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "960268508750b6c65e3ce821",
@@ -285,7 +450,7 @@
       "publishedAt": "2026-10-22T16:20:37+00:00",
       "sourceDateText": "Thu, 22 Oct 2026 16:20:37 +0000",
       "firstSeenAt": "2026-10-22T17:15:09Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "e8599cb07f224354d843c533",
@@ -428,7 +593,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 22 Oct 2026 17:05:00",
       "firstSeenAt": "2026-10-22T11:59:15Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "7c6f2089e863a478bd7668f1",
@@ -439,7 +604,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 22 Oct 2026 17:00:00",
       "firstSeenAt": "2026-10-22T11:59:15Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "cf64f2196056bf12f77a708d",
@@ -450,7 +615,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 22 Oct 2026 11:45:00",
       "firstSeenAt": "2026-10-22T11:59:15Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "907fcd11e4e7eb94df547b5f",
@@ -461,7 +626,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 22 Oct 2026 10:25:00",
       "firstSeenAt": "2026-10-22T11:59:15Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "02252604559cf522a1ada5ac",
@@ -582,7 +747,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 22 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "813711696cd81a60554dd3e0",
@@ -593,7 +758,7 @@
       "publishedAt": "2026-10-22T04:05:00+00:00",
       "sourceDateText": "Thu, 22 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "c5b220ee62288fba840c5e23",
@@ -604,7 +769,7 @@
       "publishedAt": "2026-10-22T04:01:00+00:00",
       "sourceDateText": "Thu, 22 Oct 2026 04:01:00 +0000",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "62608a955487172577129e83",
@@ -615,7 +780,7 @@
       "publishedAt": "2026-10-22T00:00:16+00:00",
       "sourceDateText": "Thu, 22 Oct 2026 00:00:16 +0000",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "5097c0971b6330ab9e04a0c3",
@@ -626,7 +791,7 @@
       "publishedAt": "2026-10-21T20:51:50+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 20:51:50 +0000",
       "firstSeenAt": "2026-10-21T21:46:27Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "a51b31652d0be7c6128274ff",
@@ -637,7 +802,7 @@
       "publishedAt": "2026-10-21T18:35:56+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 18:35:56 +0000",
       "firstSeenAt": "2026-10-21T21:46:27Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "29a7a8f2bddb4741b9f6addd",
@@ -868,7 +1033,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 21 Oct 2026 19:10:00",
       "firstSeenAt": "2026-10-21T17:16:48Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "863031012e820eefce38e4b7",
@@ -890,7 +1055,7 @@
       "publishedAt": "2026-10-21T16:31:11+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 16:31:11 +0000",
       "firstSeenAt": "2026-10-21T17:16:48Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "b4310e6ca41665911096bbed",
@@ -901,7 +1066,7 @@
       "publishedAt": "2026-10-21T15:50:44+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 15:50:44 +0000",
       "firstSeenAt": "2026-10-21T17:16:48Z",
-      "lastSeenAt": "2026-10-22T21:41:08Z"
+      "lastSeenAt": "2026-10-23T04:58:06Z"
     },
     {
       "id": "a6bac8b60a7ca68cfc913d49",
