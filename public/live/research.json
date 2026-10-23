@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-23T04:58:06Z",
+  "checkedAt": "2026-10-23T11:45:09Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-23T04:58:06Z",
-      "lastSuccessAt": "2026-10-23T04:58:06Z",
+      "checkedAt": "2026-10-23T11:45:09Z",
+      "lastSuccessAt": "2026-10-23T11:45:09Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-23T04:58:06Z",
-      "lastSuccessAt": "2026-10-23T04:58:06Z",
+      "checkedAt": "2026-10-23T11:45:09Z",
+      "lastSuccessAt": "2026-10-23T11:45:09Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,310 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-23T04:58:06Z",
-      "lastSuccessAt": "2026-10-23T04:58:06Z",
+      "checkedAt": "2026-10-23T11:45:09Z",
+      "lastSuccessAt": "2026-10-23T11:45:09Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "616f37db7fa163e7445d74b2",
+      "title": "भारत की राष्ट्रपति बस्तर दशहरा के अवसर पर जगदलपुर, छत्तीसगढ़ में एक सार्वजनिक कार्यक्रम में शामिल हुईं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327385",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "dd9b70f1cde52c27fd9cef9b",
+      "title": "भारत-रूस द्विपक्षीय नौसैनिक अभ्यास (इंद्र 2026) का समापन",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327375",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "3bda53e3d793816cb747ff4c",
+      "title": "भाकृअनुप-सिरकॉट ने कपास चुनने वाले श्रमिकों के लिए सुरक्षात्मक दस्तानों के प्रौद्योगिकी हस्तांतरण हेतु समझौता ज्ञापन पर हस्ताक्षर किए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327350",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "815e9f173c7525ad178ddb5a",
+      "title": "वायु सेना प्रमुख ने एयर विंग एनसीसी कैडेट के साथ उड़ान भरी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327379",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "e4022bca5ee9dd4ef56bd908",
+      "title": "केंद्रीय मंत्री डॉ. जितेंद्र सिंह ने कहा कि क्षमता विकास आयोग की परिकल्पना प्रधानमंत्री श्री नरेन्द्र मोदी जी ने की थी, जिन्होंने 2014 में पदभार संभालने के तुरंत बाद शासन सुधारों की एक श्रृंखला शुरू की थी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327426",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "eab97324211da35111779597",
+      "title": "संसद परिसर के प्रेरणा स्थल पर रानी चेन्नम्मा की जयंती और 202वां विजयोत्सव भव्यता के साथ मनाया गया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327338",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "4187b6ed523716a1a72eee26",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी जी के विजन के अनुरूप देश में वाइब्रेंट सिविल डिफेंस नेटवर्क के निर्माण का कार्य शुरू होने जा रहा है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327333",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "afb359e7f4354e23c85f19ef",
+      "title": "विशेष अभियान 6: जल संसाधन, नदी विकास और गंगा संरक्षण विभाग की उपलब्धियां",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327369",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "b6f6f2c519b6b16136b543c4",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने चिन्मय अमृत महोत्सव वैश्विक सम्मेलन का उद्घाटन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327345",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "33055efa58ab502eac866cdf",
+      "title": "बैंकिंग अनुप्रयोगों के लिए स्वदेशी क्वांटम प्रौद्योगिकियों को बढ़ावा देने की दिशा में सी-डेक और बैंक ऑफ इंडिया ने हाथ मिलाया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327342",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "0ae774b525ed9b05a0dd4cae",
+      "title": "चिन्मय अमृत महोत्सव वैश्विक सम्मेलन के उद्घाटन समारोह में प्रधानमंत्री के संबोधन का मूल पाठ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327232",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "3ab57bd88c6a760d5db5b1f2",
+      "title": "भारतीय नौसेना विज्ञान, प्रौद्योगिकी और शैक्षणिक सहयोग की संभावनाओं पर विचार-विमर्श के लिए हिंद-प्रशांत क्षेत्रीय संवाद 2026 की मेजबानी करेगी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327320",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "403d659f5a02608f10d6f137",
+      "title": "वस्त्र मंत्रालय ने विशेष अभियान 6 के तहत भारतीय कपास निगम की महत्वपूर्ण उपलब्धियों का उल्लेख किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327321",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "6cd5884ccc16aa66d064180b",
+      "title": "जनवरी 2027 से पीएलएफएस अनुसूची और अनुमान प्रक्रिया में परिवर्तन - विषय पर टिप्पणियां आमंत्रित हैं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327318",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "6b6390cdc46e3ccbe49d1f5a",
+      "title": "इस्पात मंत्रालय आयात से संबंधित समस्याओं पर 28 अक्टूबर को 'ओपन हाउस' आयोजित करेगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327282",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "c6fdabdaf0fc2913f1a6711d",
+      "title": "नेशनल एकेडमी ऑफ एग्रीकल्चरल साइंसेज ने विश्व खाद्य पुरस्कार फाउंडेशन संगोष्ठी 2026 में भारत की कृषि उत्कृष्टता का प्रदर्शन किया; भारतीय छात्र ने ग्लोबल यूथ इंस्टीट्यूट पुरस्कार जीता",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327344",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "4d3f18388354a7eed46ffffb",
+      "title": "एग्री-वोल्टेइक्स",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327188",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "40bf2586bb1cef46d3afad94",
+      "title": "प्रधानमंत्री ने स्वतंत्रता के वास्तविक महत्व को रेखांकित करते हुए संस्कृत सुभाषितम् साझा किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327221",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "04a5cafff58c3c3e68f8315e",
+      "title": "प्रधानमंत्री ने एशियाई पैरा खेलों में कांस्य पदक जीतने पर हैनी को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327155",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "c58d2ec3be34256d011d848f",
+      "title": "Money Supply for the fortnight ended on October 15, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63856",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 23 Oct 2026 17:05:00",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "7629f05f36e62d134d0c33ef",
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63855",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 23 Oct 2026 17:00:00",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "9b7cbca549d169c48fec7892",
+      "title": "RBI issues guidelines on the implementation of Leverage Ratio 2017 Standard",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63854",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 23 Oct 2026 16:30:00",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "91ded245e2bdf1c9a2d3ed79",
+      "title": "Government Stock - Full Auction Results",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63853",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 23 Oct 2026 16:20:00",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "0be3991c01b5f660000aa108",
+      "title": "Government Stock - Auction Results: Cut-off",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63852",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 23 Oct 2026 14:05:00",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "553f3218a3ea6b92202cdf96",
+      "title": "Result of the 3-day Variable Rate Repo (VRR) auction held on October 23, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63851",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 23 Oct 2026 10:25:00",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "b0849f04c9f3097c024436bd",
+      "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-23T04:05:00+00:00",
+      "sourceDateText": "Fri, 23 Oct 2026 04:05:00 +0000",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
+    {
+      "id": "ec3bc3e869d143fdc02d121b",
+      "title": "El Niño Then and Now",
+      "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-23T04:00:00+00:00",
+      "sourceDateText": "Fri, 23 Oct 2026 04:00:00 +0000",
+      "firstSeenAt": "2026-10-23T11:45:09Z",
+      "lastSeenAt": "2026-10-23T11:45:09Z"
+    },
     {
       "id": "49222f1c6d5004bd3701e231",
       "title": "भविष्य के लिए तैयार डेटा लीडर्सः सांख्यिकी एवं कार्यक्रम कार्यान्वयन मंत्रालय (एमओएसपीआई) की समिति द्वारा क्षमता निर्माण संबंधी व्यापक सिफारिशें",
@@ -43,7 +340,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-23T04:58:06Z",
-      "lastSeenAt": "2026-10-23T04:58:06Z"
+      "lastSeenAt": "2026-10-23T11:45:09Z"
     },
     {
       "id": "84389fe6b8b57bc670d99e4a",
@@ -164,7 +461,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 23 Oct 2026 09:55:00",
       "firstSeenAt": "2026-10-23T04:58:06Z",
-      "lastSeenAt": "2026-10-23T04:58:06Z"
+      "lastSeenAt": "2026-10-23T11:45:09Z"
     },
     {
       "id": "42b90bcd0d3a71ff6e11c809",
@@ -175,7 +472,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 23 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-23T04:58:06Z",
-      "lastSeenAt": "2026-10-23T04:58:06Z"
+      "lastSeenAt": "2026-10-23T11:45:09Z"
     },
     {
       "id": "9e94dc14396e553b1da26f39",
@@ -186,7 +483,7 @@
       "publishedAt": "2026-10-22T21:39:58+00:00",
       "sourceDateText": "Thu, 22 Oct 2026 21:39:58 +0000",
       "firstSeenAt": "2026-10-23T04:58:06Z",
-      "lastSeenAt": "2026-10-23T04:58:06Z"
+      "lastSeenAt": "2026-10-23T11:45:09Z"
     },
     {
       "id": "78a0ff249a66802c1204d926",
@@ -197,7 +494,7 @@
       "publishedAt": "2026-10-22T21:35:38+00:00",
       "sourceDateText": "Thu, 22 Oct 2026 21:35:38 +0000",
       "firstSeenAt": "2026-10-23T04:58:06Z",
-      "lastSeenAt": "2026-10-23T04:58:06Z"
+      "lastSeenAt": "2026-10-23T11:45:09Z"
     },
     {
       "id": "a4eb6dab471979fec915875c",
@@ -428,7 +725,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 22 Oct 2026 19:10:00",
       "firstSeenAt": "2026-10-22T17:15:09Z",
-      "lastSeenAt": "2026-10-23T04:58:06Z"
+      "lastSeenAt": "2026-10-23T11:45:09Z"
     },
     {
       "id": "52bcb93fc6b7578644b84b44",
@@ -439,7 +736,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 22 Oct 2026 18:30:00",
       "firstSeenAt": "2026-10-22T17:15:09Z",
-      "lastSeenAt": "2026-10-23T04:58:06Z"
+      "lastSeenAt": "2026-10-23T11:45:09Z"
     },
     {
       "id": "960268508750b6c65e3ce821",
@@ -450,7 +747,7 @@
       "publishedAt": "2026-10-22T16:20:37+00:00",
       "sourceDateText": "Thu, 22 Oct 2026 16:20:37 +0000",
       "firstSeenAt": "2026-10-22T17:15:09Z",
-      "lastSeenAt": "2026-10-23T04:58:06Z"
+      "lastSeenAt": "2026-10-23T11:45:09Z"
     },
     {
       "id": "e8599cb07f224354d843c533",
@@ -758,7 +1055,7 @@
       "publishedAt": "2026-10-22T04:05:00+00:00",
       "sourceDateText": "Thu, 22 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-23T04:58:06Z"
+      "lastSeenAt": "2026-10-23T11:45:09Z"
     },
     {
       "id": "c5b220ee62288fba840c5e23",
@@ -769,7 +1066,7 @@
       "publishedAt": "2026-10-22T04:01:00+00:00",
       "sourceDateText": "Thu, 22 Oct 2026 04:01:00 +0000",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-23T04:58:06Z"
+      "lastSeenAt": "2026-10-23T11:45:09Z"
     },
     {
       "id": "62608a955487172577129e83",
@@ -780,7 +1077,7 @@
       "publishedAt": "2026-10-22T00:00:16+00:00",
       "sourceDateText": "Thu, 22 Oct 2026 00:00:16 +0000",
       "firstSeenAt": "2026-10-22T04:56:05Z",
-      "lastSeenAt": "2026-10-23T04:58:06Z"
+      "lastSeenAt": "2026-10-23T11:45:09Z"
     },
     {
       "id": "5097c0971b6330ab9e04a0c3",
@@ -791,7 +1088,7 @@
       "publishedAt": "2026-10-21T20:51:50+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 20:51:50 +0000",
       "firstSeenAt": "2026-10-21T21:46:27Z",
-      "lastSeenAt": "2026-10-23T04:58:06Z"
+      "lastSeenAt": "2026-10-23T11:45:09Z"
     },
     {
       "id": "a51b31652d0be7c6128274ff",
@@ -802,7 +1099,7 @@
       "publishedAt": "2026-10-21T18:35:56+00:00",
       "sourceDateText": "Wed, 21 Oct 2026 18:35:56 +0000",
       "firstSeenAt": "2026-10-21T21:46:27Z",
-      "lastSeenAt": "2026-10-23T04:58:06Z"
+      "lastSeenAt": "2026-10-23T11:45:09Z"
     },
     {
       "id": "29a7a8f2bddb4741b9f6addd",
