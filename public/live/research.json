@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-24T04:42:56Z",
+  "checkedAt": "2026-10-24T11:08:38Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-24T04:42:56Z",
-      "lastSuccessAt": "2026-10-24T04:42:56Z",
+      "checkedAt": "2026-10-24T11:08:38Z",
+      "lastSuccessAt": "2026-10-24T11:08:38Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-24T04:42:56Z",
-      "lastSuccessAt": "2026-10-24T04:42:56Z",
+      "checkedAt": "2026-10-24T11:08:38Z",
+      "lastSuccessAt": "2026-10-24T11:08:38Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,189 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-24T04:42:56Z",
-      "lastSuccessAt": "2026-10-24T04:42:56Z",
+      "checkedAt": "2026-10-24T11:08:38Z",
+      "lastSuccessAt": "2026-10-24T11:08:38Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "1a1798ca780c238ba32ad24d",
+      "title": "लखनऊ में 26 अक्टूबर को श्रम संहिता, श्रम कल्याण और सामाजिक सुरक्षा पर दो दिवसीय राज्य स्तरीय 'श्रम संवाद' कार्यक्रम",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327954",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-24T11:08:38Z",
+      "lastSeenAt": "2026-10-24T11:08:38Z"
+    },
+    {
+      "id": "9352e71cb8b067f126296091",
+      "title": "​ऐतिहासिक उपलब्धि: पीएम मोदी का संकल्प हुआ साकार, 11 करोड़ किसानों को मिला फार्मर आईडी का सुरक्षा कवच",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327890",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-24T11:08:38Z",
+      "lastSeenAt": "2026-10-24T11:08:38Z"
+    },
+    {
+      "id": "df7f38290f2f2050c8dda9b0",
+      "title": "प्रधानमंत्री 25 अक्टूबर को उत्तर प्रदेश और ओडिशा का दौरा करेंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327952",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-24T11:08:38Z",
+      "lastSeenAt": "2026-10-24T11:08:38Z"
+    },
+    {
+      "id": "5c9653e8364fa051939ba717",
+      "title": "विकसित भारत- जी राम जी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327846",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-24T11:08:38Z",
+      "lastSeenAt": "2026-10-24T11:08:38Z"
+    },
+    {
+      "id": "acfd3f7cf32c2be5e9afd619",
+      "title": "वाणिज्य और उद्योग मंत्री श्री पीयूष गोयल ने बर्लिन में जर्मन उद्योग जगत के प्रमुखों और शोध संस्थानों के प्रतिनिधियों के साथ बैठक की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327867",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-24T11:08:38Z",
+      "lastSeenAt": "2026-10-24T11:08:38Z"
+    },
+    {
+      "id": "26f7d396bfcd6f3d086ea7e6",
+      "title": "जीआरपी प्रमुखों का 8वां अखिल भारतीय सम्मेलन नई दिल्ली में समाप्त हुआ, सम्मेलन में आसूचना आधारित पुलिस व्यवस्था और आरपीएफ, जीआरपी और राज्य पुलिस के मध्य मजबूत समन्वय पर जोर दिया गया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327891",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-24T11:08:38Z",
+      "lastSeenAt": "2026-10-24T11:08:38Z"
+    },
+    {
+      "id": "1eb964ccd2023140fbca90bc",
+      "title": "प्रधानमंत्री ने भारत-तिब्बत सीमा पुलिस (आईटीबीपी) कर्मियों को स्थापना दिवस की शुभकामनाएं दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327847",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-24T11:08:38Z",
+      "lastSeenAt": "2026-10-24T11:08:38Z"
+    },
+    {
+      "id": "62eccd2ce6d33f88d517a2f7",
+      "title": "प्रधानमंत्री ने एशियाई पैरा खेलों में कांस्य पदक जीतने पर राकेशभाई भट्ट को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327832",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-24T11:08:38Z",
+      "lastSeenAt": "2026-10-24T11:08:38Z"
+    },
+    {
+      "id": "ee7b7e0b10ecadcc137256c3",
+      "title": "प्रधानमंत्री ने एशियाई पैरा खेलों में कांस्य पदक जीतने पर नवदीप को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327824",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-24T11:08:38Z",
+      "lastSeenAt": "2026-10-24T11:08:38Z"
+    },
+    {
+      "id": "4c226c6abaa4245c6a7ac2f8",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने एशियाई पैरा खेलों में कांस्य पदक जीतने पर हिमांशु नंदल को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327815",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-24T11:08:38Z",
+      "lastSeenAt": "2026-10-24T11:08:38Z"
+    },
+    {
+      "id": "475922ed4daa24d04af2efbe",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने एशियाई पैरा खेलों में स्वर्ण पदक जीतने पर थुलसिमथी मुरुगेसन और मानसी जोशी को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327830",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-24T11:08:38Z",
+      "lastSeenAt": "2026-10-24T11:08:38Z"
+    },
+    {
+      "id": "11690698e83e4835b2113d3c",
+      "title": "प्रधानमंत्री ने एशियाई पैरा खेलों में रजत पदक जीतने पर नितेश कुमार और तुलसीमति मुरुगेसन को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327821",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-24T11:08:38Z",
+      "lastSeenAt": "2026-10-24T11:08:38Z"
+    },
+    {
+      "id": "be654ad4945be2f3401d6858",
+      "title": "प्रधानमंत्री ने एशियाई पैरा खेलों में स्वर्ण पदक जीतने और नया विश्व रिकॉर्ड बनाने पर मोना अग्रवाल को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327817",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-24T11:08:38Z",
+      "lastSeenAt": "2026-10-24T11:08:38Z"
+    },
+    {
+      "id": "f533e876638b26269ce2d4b9",
+      "title": "सीएसआईआर-सीआरआरआई ने नई दिल्ली में भारतीय हवाई अड्डा फुटपाथ संगोष्ठी (आईएपीएस 2026) का उद्घाटन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327833",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-24T11:08:38Z",
+      "lastSeenAt": "2026-10-24T11:08:38Z"
+    },
+    {
+      "id": "14000274358779ccb45467ab",
+      "title": "प्रस्तावित ब्रॉडबैंड पब्लिक प्रोटेक्शन एंड डिजास्टर रिलीफ (बीबी-पीपीडीआर) सिस्टम के लिए नेटवर्क डिज़ाइन पर आम जनता की राय और हितधारकों के सुझाव आमंत्रित करना",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2327897",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-24T11:08:38Z",
+      "lastSeenAt": "2026-10-24T11:08:38Z"
+    },
+    {
+      "id": "8360b681ee239812a57244cb",
+      "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-24T04:05:00+00:00",
+      "sourceDateText": "Sat, 24 Oct 2026 04:05:00 +0000",
+      "firstSeenAt": "2026-10-24T11:08:38Z",
+      "lastSeenAt": "2026-10-24T11:08:38Z"
+    },
     {
       "id": "dfa3fdca5f1c10c780fa8ec6",
       "title": "प्रधानमंत्री ने निमिषा चक्कुंगलपरम्बिल सुरेश को एशियाई पैरा खेल में रजत पदक जीतने पर बधाई दी",
@@ -43,7 +219,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-24T04:42:56Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "2a06fdf37f34219bd86ed287",
@@ -54,7 +230,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-24T04:42:56Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "bbb55a975c210728c8597173",
@@ -65,7 +241,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-24T04:42:56Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "7d2e2c681a30719be6d485eb",
@@ -76,7 +252,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-24T04:42:56Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "26dc26a727cfd9f56b15c98e",
@@ -120,7 +296,7 @@
       "publishedAt": "2026-10-23T22:39:39+00:00",
       "sourceDateText": "Fri, 23 Oct 2026 22:39:39 +0000",
       "firstSeenAt": "2026-10-24T04:42:56Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "452bf28ae114f7dcaeafc6cf",
@@ -131,7 +307,7 @@
       "publishedAt": "2026-10-23T22:37:53+00:00",
       "sourceDateText": "Fri, 23 Oct 2026 22:37:53 +0000",
       "firstSeenAt": "2026-10-24T04:42:56Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "e6e32e1c0407b5f795182fdf",
@@ -142,7 +318,7 @@
       "publishedAt": "2026-10-23T21:51:19+00:00",
       "sourceDateText": "Fri, 23 Oct 2026 21:51:19 +0000",
       "firstSeenAt": "2026-10-24T04:42:56Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "4971038088bc6ce1b7125343",
@@ -153,7 +329,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-23T21:27:52Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "39658d94e60cb0b39d101280",
@@ -197,7 +373,7 @@
       "publishedAt": "2026-10-23T18:57:04+00:00",
       "sourceDateText": "Fri, 23 Oct 2026 18:57:04 +0000",
       "firstSeenAt": "2026-10-23T21:27:52Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "2dbe5da910a8a7ed254b6158",
@@ -208,7 +384,7 @@
       "publishedAt": "2026-10-23T17:50:21+00:00",
       "sourceDateText": "Fri, 23 Oct 2026 17:50:21 +0000",
       "firstSeenAt": "2026-10-23T21:27:52Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "edb8dfb4319dc70b98626a27",
@@ -439,7 +615,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 23 Oct 2026 19:25:00",
       "firstSeenAt": "2026-10-23T17:13:12Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "32fd8f23e8ed0ffda443be4f",
@@ -450,7 +626,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 23 Oct 2026 18:40:00",
       "firstSeenAt": "2026-10-23T17:13:12Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "fe86471738cd1ce5a565b752",
@@ -461,7 +637,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 23 Oct 2026 17:50:00",
       "firstSeenAt": "2026-10-23T17:13:12Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "863d5991f071622f0fc4b919",
@@ -472,7 +648,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 23 Oct 2026 17:30:00",
       "firstSeenAt": "2026-10-23T17:13:12Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "1407af04b8146cc44a6c7564",
@@ -483,7 +659,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 23 Oct 2026 17:20:00",
       "firstSeenAt": "2026-10-23T17:13:12Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "616f37db7fa163e7445d74b2",
@@ -703,7 +879,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 23 Oct 2026 17:05:00",
       "firstSeenAt": "2026-10-23T11:45:09Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "7629f05f36e62d134d0c33ef",
@@ -714,7 +890,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 23 Oct 2026 17:00:00",
       "firstSeenAt": "2026-10-23T11:45:09Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "9b7cbca549d169c48fec7892",
@@ -725,7 +901,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 23 Oct 2026 16:30:00",
       "firstSeenAt": "2026-10-23T11:45:09Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "91ded245e2bdf1c9a2d3ed79",
@@ -736,7 +912,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 23 Oct 2026 16:20:00",
       "firstSeenAt": "2026-10-23T11:45:09Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "0be3991c01b5f660000aa108",
@@ -747,7 +923,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 23 Oct 2026 14:05:00",
       "firstSeenAt": "2026-10-23T11:45:09Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "553f3218a3ea6b92202cdf96",
@@ -769,7 +945,7 @@
       "publishedAt": "2026-10-23T04:05:00+00:00",
       "sourceDateText": "Fri, 23 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-23T11:45:09Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "ec3bc3e869d143fdc02d121b",
@@ -780,7 +956,7 @@
       "publishedAt": "2026-10-23T04:00:00+00:00",
       "sourceDateText": "Fri, 23 Oct 2026 04:00:00 +0000",
       "firstSeenAt": "2026-10-23T11:45:09Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "49222f1c6d5004bd3701e231",
@@ -934,7 +1110,7 @@
       "publishedAt": "2026-10-22T21:39:58+00:00",
       "sourceDateText": "Thu, 22 Oct 2026 21:39:58 +0000",
       "firstSeenAt": "2026-10-23T04:58:06Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "78a0ff249a66802c1204d926",
@@ -945,7 +1121,7 @@
       "publishedAt": "2026-10-22T21:35:38+00:00",
       "sourceDateText": "Thu, 22 Oct 2026 21:35:38 +0000",
       "firstSeenAt": "2026-10-23T04:58:06Z",
-      "lastSeenAt": "2026-10-24T04:42:56Z"
+      "lastSeenAt": "2026-10-24T11:08:38Z"
     },
     {
       "id": "a4eb6dab471979fec915875c",
