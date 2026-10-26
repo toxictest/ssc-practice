@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-26T04:54:03Z",
+  "checkedAt": "2026-10-26T13:11:08Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-26T04:54:03Z",
-      "lastSuccessAt": "2026-10-26T04:54:03Z",
+      "checkedAt": "2026-10-26T13:11:08Z",
+      "lastSuccessAt": "2026-10-26T13:11:08Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-26T04:54:03Z",
-      "lastSuccessAt": "2026-10-26T04:54:03Z",
+      "checkedAt": "2026-10-26T13:11:08Z",
+      "lastSuccessAt": "2026-10-26T13:11:08Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,310 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-26T04:54:03Z",
-      "lastSuccessAt": "2026-10-26T04:54:03Z",
+      "checkedAt": "2026-10-26T13:11:08Z",
+      "lastSuccessAt": "2026-10-26T13:11:08Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "a0fdebb4d20cd7883150c140",
+      "title": "रेल मंत्री एवं पश्चिम बंगाल के मुख्यमंत्री ने जयपुर (खातीपुरा) - टाटानगर - सांतरागाछी एक्सप्रेस ट्रेन का हरी झंडी दिखाकर किया शुभारंभ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328605",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "a6b0ab77eec1f8cffd40f169",
+      "title": "डॉ. जितेन्‍द्र सिंह ने लोकनायक भवन परिसर और पेंशन एवं पेंशनभोगी कल्याण विभाग के कार्यालयों में विशेष स्वच्छता अभियान की समीक्षा की; ‘सफाई’ कर्मचारियों को सम्मानित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328638",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "ebae45062b215b4f1ba12225",
+      "title": "पत्तन, पोत परिवहन और जलमार्ग मंत्रालय ने विशेष अभियान 6 के अंतर्गत स्वच्छता अभियानों को सुदृढ़ किया और सुशासन को बढ़ावा दिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328615",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "0040b7b39c5289fff986f116",
+      "title": "नशे से आज़ादी तक करीमगंज असम के राहुल शर्मा का नशे की लत से उबरते हुए पुनर्वास तक का सफ़र",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328596",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "6fe80994f21bf2fa202ad1a7",
+      "title": "सतर्कता जागरूकता सप्ताह के अवसर पर विधायी विभाग और विधिक मामलों के विभाग ने सत्यनिष्ठा की शपथ ली",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328616",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "30f771987dedeec95f51bf47",
+      "title": "कोयला मंत्रालय के अंतर्गत केंद्रीय सार्वजनिक क्षेत्र के उपक्रमों ने 'विशेष स्वच्छता अभियान 6' के तहत बड़ी उपलब्धियां हासिल की हैं; 130.16 लाख वर्ग फुट क्षेत्र की सफाई की गई और कबाड़ (स्क्रैप) के निपटान से 53.94 करोड़ रुपये की कमाई हुई",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328598",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "fe90d2fd7bfd4e5df74448bc",
+      "title": "नवीन एवं नवीकरणीय ऊर्जा मंत्रालय ने विशेष अभियान 6.0 के अंतर्गत स्वच्छता और फाइल निपटान की प्रगति की समीक्षा की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328617",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "059cdaecbc559e9c014a64db",
+      "title": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्रालय ने ईमानदारी की शपथ के साथ सतर्कता जागरूकता सप्ताह 2026 मनाया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328594",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "c28937efbdf94290286e969a",
+      "title": "रक्षा अधिग्रहण परिषद ने रक्षा बलों के लिए 2.12 लाख करोड़ रुपये के पूंजी अधिग्रहण प्रस्तावों को मंजूरी दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328597",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "f730c84f6875f332ab7f7f49",
+      "title": "भारतीय दूरसंचार नियामक प्राधिकरण ने एप्लिकेशन-आधारित रैखिक टेलीविजन वितरण सेवाओं के प्राधिकरण ढांचे पर अपनी सिफारिशें जारी की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328614",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "f471fcfbba2679e1e09acc9b",
+      "title": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्रालय ने विशेष अभियान 6 की प्रगति और कायाकल्प गतिविधियों की तैयारियों की समीक्षा की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328595",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "d486daebb21e5bd8bb4ac82a",
+      "title": "आईएनएस त्रिशूल इटली के सिविटावेकिया शहर पहुंचा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328531",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "8c7375e2a3e4dbdb93a89b81",
+      "title": "लोकसभा अध्यक्ष ने 12वें BRICS संसदीय फोरम, 2026 का उद्घाटन किया; जन-केंद्रित विकास के लिए संसदों को सशक्त बनाने पर दिया जोर",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328446",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "df93eb382a6580e9d0c08452",
+      "title": "सतर्कता जागरूकता सप्ताह 2026",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328515",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "dd6bc0519f42e32eeb6e0697",
+      "title": "कैबिनेट सचिव डॉ. टी.वी. सोमनाथन ने बंगाल की खाड़ी में आने वाले चक्रवात से निपटने की तैयारियों की समीक्षा के लिए राष्ट्रीय संकट प्रबंधन समिति (NCMC) की बैठक की अध्यक्षता की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328453",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "312ac7ee2499f21d3bc65d23",
+      "title": "राष्ट्रीय विदेश छात्रवृत्ति: युक्ति (बदला हुआ नाम) की बाधाओं से वैश्विक अवसरों तक यात्रा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328498",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "72366c1fb61ba4cde60c53c6",
+      "title": "उपराष्‍ट्रपति श्री सीपी राधाकृष्णन ने डॉ. एनटीआर विश्वविद्यालय के रूबी जयंती समारोह में कहा, चिकित्सा अनुसंधान का उपयोग मानवता की स्वास्थ्य संबंधी चुनौतियों के समाधान के लिए होना चाहिए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328525",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "60685311f8d570207a9296d3",
+      "title": "12वें BRICS संसदीय मंच, 2026 में माननीय लोक सभा अध्यक्ष श्री ओम बिरला के संबोधन का मूल पाठ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328426",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "60614bfd233fe8c54a156dc0",
+      "title": "गवर्नमेंट ई-मार्केटप्लेस (जीईएम) ने देश की सांस्कृतिक विरासत को दिखाने और स्थानीय कारीगरों को समर्थन देने के लिए 'आभार कलेक्शन' को बढ़ावा दिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328493",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "250255d341aa604b82ec1db8",
+      "title": "सीबीएसई नई दिल्ली में 'स्कूली शिक्षा से रोज़गार तक की राह सुगम बनाने' के विषय पर चौथे राष्ट्रीय शिखर सम्मेलन का आयोजन कर रहा है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328496",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "a6a73ce1357a8092de46dcb8",
+      "title": "Auction of Government of India Dated Securities",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63868",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Mon, 26 Oct 2026 18:20:00",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "7e1408eac7ae1096954e949a",
+      "title": "Overseas Direct Investment for September 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63867",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Mon, 26 Oct 2026 17:45:00",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "d5bb48033bfcaaef209d8384",
+      "title": "Money Market Operations as on October 25, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63866",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Mon, 26 Oct 2026 10:50:00",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "6b616953f3cf44052f3a543b",
+      "title": "Money Market Operations as on October 24, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63865",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Mon, 26 Oct 2026 10:45:00",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "770f5db7ae9c219c43f171f0",
+      "title": "Result of the 4-day Variable Rate Repo (VRR) auction held on October 26, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63864",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Mon, 26 Oct 2026 10:25:00",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "9e129dbd1a89bbfc66db156a",
+      "title": "2026 October 26 – M42: The Great Nebula in Orion",
+      "url": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-26T04:05:00+00:00",
+      "sourceDateText": "Mon, 26 Oct 2026 04:05:00 +0000",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
+    {
+      "id": "6def4011590735dd7489e397",
+      "title": "Hunting Red Leaves with Satellites",
+      "url": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-26T04:01:00+00:00",
+      "sourceDateText": "Mon, 26 Oct 2026 04:01:00 +0000",
+      "firstSeenAt": "2026-10-26T13:11:08Z",
+      "lastSeenAt": "2026-10-26T13:11:08Z"
+    },
     {
       "id": "24bd32af2b6ce1a968da77b8",
       "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने अपने 'मन की बात' कार्यक्रम में खादी एवं ग्रामोद्योग क्षेत्र की उपलब्धियों को रेखांकित कर कारीगरों का मनोबल बढ़ाया",
@@ -76,7 +373,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 26 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-26T04:54:03Z",
-      "lastSeenAt": "2026-10-26T04:54:03Z"
+      "lastSeenAt": "2026-10-26T13:11:08Z"
     },
     {
       "id": "1049d8cf2bab27d7117f841c",
@@ -208,7 +505,7 @@
       "publishedAt": null,
       "sourceDateText": "Sun, 25 Oct 2026 19:50:00",
       "firstSeenAt": "2026-10-25T16:28:40Z",
-      "lastSeenAt": "2026-10-26T04:54:03Z"
+      "lastSeenAt": "2026-10-26T13:11:08Z"
     },
     {
       "id": "bec2b16f93979f7cd4985d46",
@@ -274,7 +571,7 @@
       "publishedAt": "2026-10-25T08:19:48+00:00",
       "sourceDateText": "Sun, 25 Oct 2026 08:19:48 +0000",
       "firstSeenAt": "2026-10-25T11:38:31Z",
-      "lastSeenAt": "2026-10-26T04:54:03Z"
+      "lastSeenAt": "2026-10-26T13:11:08Z"
     },
     {
       "id": "00146df942c2edf5c30e1de1",
@@ -604,7 +901,7 @@
       "publishedAt": "2026-10-24T04:05:00+00:00",
       "sourceDateText": "Sat, 24 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-24T11:08:38Z",
-      "lastSeenAt": "2026-10-26T04:54:03Z"
+      "lastSeenAt": "2026-10-26T13:11:08Z"
     },
     {
       "id": "dfa3fdca5f1c10c780fa8ec6",
@@ -692,7 +989,7 @@
       "publishedAt": "2026-10-23T22:39:39+00:00",
       "sourceDateText": "Fri, 23 Oct 2026 22:39:39 +0000",
       "firstSeenAt": "2026-10-24T04:42:56Z",
-      "lastSeenAt": "2026-10-26T04:54:03Z"
+      "lastSeenAt": "2026-10-26T13:11:08Z"
     },
     {
       "id": "452bf28ae114f7dcaeafc6cf",
@@ -703,7 +1000,7 @@
       "publishedAt": "2026-10-23T22:37:53+00:00",
       "sourceDateText": "Fri, 23 Oct 2026 22:37:53 +0000",
       "firstSeenAt": "2026-10-24T04:42:56Z",
-      "lastSeenAt": "2026-10-26T04:54:03Z"
+      "lastSeenAt": "2026-10-26T13:11:08Z"
     },
     {
       "id": "e6e32e1c0407b5f795182fdf",
@@ -714,7 +1011,7 @@
       "publishedAt": "2026-10-23T21:51:19+00:00",
       "sourceDateText": "Fri, 23 Oct 2026 21:51:19 +0000",
       "firstSeenAt": "2026-10-24T04:42:56Z",
-      "lastSeenAt": "2026-10-26T04:54:03Z"
+      "lastSeenAt": "2026-10-26T13:11:08Z"
     },
     {
       "id": "4971038088bc6ce1b7125343",
@@ -769,7 +1066,7 @@
       "publishedAt": "2026-10-23T18:57:04+00:00",
       "sourceDateText": "Fri, 23 Oct 2026 18:57:04 +0000",
       "firstSeenAt": "2026-10-23T21:27:52Z",
-      "lastSeenAt": "2026-10-26T04:54:03Z"
+      "lastSeenAt": "2026-10-26T13:11:08Z"
     },
     {
       "id": "2dbe5da910a8a7ed254b6158",
@@ -780,7 +1077,7 @@
       "publishedAt": "2026-10-23T17:50:21+00:00",
       "sourceDateText": "Fri, 23 Oct 2026 17:50:21 +0000",
       "firstSeenAt": "2026-10-23T21:27:52Z",
-      "lastSeenAt": "2026-10-26T04:54:03Z"
+      "lastSeenAt": "2026-10-26T13:11:08Z"
     },
     {
       "id": "edb8dfb4319dc70b98626a27",
@@ -1011,7 +1308,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 23 Oct 2026 19:25:00",
       "firstSeenAt": "2026-10-23T17:13:12Z",
-      "lastSeenAt": "2026-10-26T04:54:03Z"
+      "lastSeenAt": "2026-10-26T13:11:08Z"
     },
     {
       "id": "32fd8f23e8ed0ffda443be4f",
@@ -1022,7 +1319,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 23 Oct 2026 18:40:00",
       "firstSeenAt": "2026-10-23T17:13:12Z",
-      "lastSeenAt": "2026-10-26T04:54:03Z"
+      "lastSeenAt": "2026-10-26T13:11:08Z"
     },
     {
       "id": "fe86471738cd1ce5a565b752",
@@ -1033,7 +1330,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 23 Oct 2026 17:50:00",
       "firstSeenAt": "2026-10-23T17:13:12Z",
-      "lastSeenAt": "2026-10-26T04:54:03Z"
+      "lastSeenAt": "2026-10-26T13:11:08Z"
     },
     {
       "id": "863d5991f071622f0fc4b919",
@@ -1341,7 +1638,7 @@
       "publishedAt": "2026-10-23T04:05:00+00:00",
       "sourceDateText": "Fri, 23 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-23T11:45:09Z",
-      "lastSeenAt": "2026-10-26T04:54:03Z"
+      "lastSeenAt": "2026-10-26T13:11:08Z"
     },
     {
       "id": "ec3bc3e869d143fdc02d121b",
