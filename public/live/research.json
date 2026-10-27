@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-27T05:11:44Z",
+  "checkedAt": "2026-10-27T12:19:31Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-27T05:11:44Z",
-      "lastSuccessAt": "2026-10-27T05:11:44Z",
+      "checkedAt": "2026-10-27T12:19:31Z",
+      "lastSuccessAt": "2026-10-27T12:19:31Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-27T05:11:44Z",
-      "lastSuccessAt": "2026-10-27T05:11:44Z",
+      "checkedAt": "2026-10-27T12:19:31Z",
+      "lastSuccessAt": "2026-10-27T12:19:31Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,266 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-27T05:11:44Z",
-      "lastSuccessAt": "2026-10-27T05:11:44Z",
+      "checkedAt": "2026-10-27T12:19:31Z",
+      "lastSuccessAt": "2026-10-27T12:19:31Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "f466eb2684695ce32e693e78",
+      "title": "संयुक्त घोषणा 12वाँ ब्रिक्स संसदीय मंच नई दिल्ली, भारत 26-27 अक्टूबर 2026",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329067",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "3278161f6ce274372baa2528",
+      "title": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय 31 अक्टूबर को छठे विशेष अभियान के समापन पर एकता दौड़ आयोजित करेगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329058",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "b235c1aaa8bd9672d4acc109",
+      "title": "आयुष मंत्रालय ने विशेष अभियान 6.0 के तहत 309 लोक शिकायतों का निपटारा किया, 220 स्वच्छता अभियान चलाए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329049",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "2bc8c6b6493d077944ba76c8",
+      "title": "कॉरपोरेट कार्य मंत्रालय विशेष स्वच्छता अभियान 6 के अंतर्गत निर्धारित लक्ष्यों से आगे बढ़ने के लिए प्रयास कर रहा है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329060",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "d36ca112d330b69acb7886a7",
+      "title": "नशे की लत से सुधार तक: एक युवा की नई शुरुआत की कहानी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329055",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "c8c73fde6ddb7b35a1e5b625",
+      "title": "संयुक्त घोषणा-पत्र को अंगीकृत करने के बाद नई दिल्ली में 12वां ब्रिक्स संसदीय मंच संपन्न हुआ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328979",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "5163bc9eed24f34257df024a",
+      "title": "वस्त्र मंत्रालय ने विशेष अभियान 6 के तहत केंद्रीय रेशम बोर्ड की महत्वपूर्ण उपलब्धियों पर प्रकाश डाला",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328995",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "f586e656f9862bb4e130c7ac",
+      "title": "दूरसंचार विभाग ने छठे विशेष अभियान के लक्ष्यों के अनुरूप उल्लेखनीय उपलब्धियां दर्ज कीं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329046",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "3ca21b63d92d7f43f47a0d9c",
+      "title": "भारत-इंडोनेशिया संयुक्त विशेष बल अभ्यास",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328998",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "77c2c31a440bd0c5ff406284",
+      "title": "ईसीएल ने स्वच्छता लक्ष्यों को पार किया, विशेष अभियान-6 के तहत महत्वेपूर्ण उपलब्धिकयां अर्जित कीं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329000",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "6df3d3972e2f2611e8b1acdc",
+      "title": "12वें BRICS संसदीय मंच, 2026 के समापन सत्र में माननीय लोक सभा अध्यक्ष श्री ओम बिरला जी के संबोधन का मूल पाठ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328948",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "19a299161835a2383641dcbc",
+      "title": "सितंबर 2026 के अंत तक दूरसंचार सदस्यता संबंधी मुख्य आंकड़े",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329004",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "9d4260f7d61ed00e6251e096",
+      "title": "भारत खेल को स्वच्छ बनाने के लिए दृढ़प्रतिज्ञ: खेल में डोपिंग के विरुद्ध यूनेस्को अंतरराष्ट्रीय सम्मेलन के तहत कॉप10 ब्यूरो की बैठक में डॉ. मनसुख मांडविया का वक्तव्य",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329032",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "1aee27797753ee16a52d6e8e",
+      "title": "अखिल भारतीय आयुर्वेद संस्थान की रिपोर्ट के अनुसार फरीदाबाद में बुजुर्गों की जीवन गुणवत्ता और संज्ञानात्मक स्वास्थ्य में सुधार के उत्साहजनक संकेत",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328927",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "c9e7a571f6dd26702264a6b2",
+      "title": "आईसीएआर-एमजीआईएफआरआई ने खेत बचाओ अभियान 2026 के तहत मृदा स्वास्थ्य, संतुलित उर्वरक उपयोग और निरंतर बागवानी प्रबंधन को बढ़ावा दिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329027",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "bfd73f128ff7a2c04e968508",
+      "title": "राष्ट्रीय मानव अधिकार आयोग, भारत ने ‘कार्यस्थल और सार्वजनिक स्थानों पर महिलाओं की सुरक्षा’ के संबंध में एक परामर्श जारी किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329011",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "e54090935d1bdb5b404a4fd3",
+      "title": "आर्मेनिया के येरेवन में आयोजित सीबीडी कॉप-17 में, भारत ने जैव विविधता संरक्षण और वैश्विक जैव विविधता ढांचे को प्रभावी ढंग से लागू करने के प्रति प्रतिबद्धता दोहराई",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329061",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "64b3b863b8a4b0b435c547cc",
+      "title": "केंद्रीय शिक्षा मंत्री, श्री प्रल्हाद जोशी, 28 अक्टूबर, 2026 को विकसित भारत बिल्डाथॉन 2025 के विजेताओं को सम्मानित करेंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329008",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "90cb84eb6f3e5735b742d041",
+      "title": "भारत की राष्ट्रपति ने श्री के. आर. नारायणन की जयंती पर पुष्पांजलि अर्पित की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328853",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "d6e4ebfa005bb26c271b5dad",
+      "title": "केंद्रीय सतर्कता आयोग ने सतर्कता जागरूकता सप्ताह 2026 मनाया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2328880",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "e41bfdd63abc7dcab59fa11b",
+      "title": "State Government Securities - Full Auction Result",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63871",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Tue, 27 Oct 2026 16:20:00",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "54a6ba18573db108f49d1771",
+      "title": "Result of Yield/Price Based Auction of State Government Securities",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63870",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Tue, 27 Oct 2026 14:50:00",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
+    {
+      "id": "53cb4bae6e918f63c0b47239",
+      "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
+      "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-27T07:07:51+00:00",
+      "sourceDateText": "Tue, 27 Oct 2026 07:07:51 +0000",
+      "firstSeenAt": "2026-10-27T12:19:31Z",
+      "lastSeenAt": "2026-10-27T12:19:31Z"
+    },
     {
       "id": "43929dc7b648fe275d72db53",
       "title": "Money Market Operations as on October 26, 2026",
@@ -43,7 +296,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 27 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-27T05:11:44Z",
-      "lastSeenAt": "2026-10-27T05:11:44Z"
+      "lastSeenAt": "2026-10-27T12:19:31Z"
     },
     {
       "id": "cdbd5ceb87f55bd02ddadeb0",
@@ -54,7 +307,7 @@
       "publishedAt": "2026-10-27T04:05:00+00:00",
       "sourceDateText": "Tue, 27 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-27T05:11:44Z",
-      "lastSeenAt": "2026-10-27T05:11:44Z"
+      "lastSeenAt": "2026-10-27T12:19:31Z"
     },
     {
       "id": "3a3dad32dd0ee3f0a309cd8c",
@@ -65,7 +318,7 @@
       "publishedAt": "2026-10-27T04:00:00+00:00",
       "sourceDateText": "Tue, 27 Oct 2026 04:00:00 +0000",
       "firstSeenAt": "2026-10-27T05:11:44Z",
-      "lastSeenAt": "2026-10-27T05:11:44Z"
+      "lastSeenAt": "2026-10-27T12:19:31Z"
     },
     {
       "id": "577fd304a66d204d40f29381",
@@ -76,7 +329,7 @@
       "publishedAt": "2026-10-26T22:48:12+00:00",
       "sourceDateText": "Mon, 26 Oct 2026 22:48:12 +0000",
       "firstSeenAt": "2026-10-27T05:11:44Z",
-      "lastSeenAt": "2026-10-27T05:11:44Z"
+      "lastSeenAt": "2026-10-27T12:19:31Z"
     },
     {
       "id": "1d47b524fe5b87a7e3c9fbee",
@@ -296,7 +549,7 @@
       "publishedAt": "2026-10-26T21:07:28+00:00",
       "sourceDateText": "Mon, 26 Oct 2026 21:07:28 +0000",
       "firstSeenAt": "2026-10-26T22:43:28Z",
-      "lastSeenAt": "2026-10-27T05:11:44Z"
+      "lastSeenAt": "2026-10-27T12:19:31Z"
     },
     {
       "id": "83b9dd1ec61f14fb08ebbc20",
@@ -307,7 +560,7 @@
       "publishedAt": "2026-10-26T20:53:13+00:00",
       "sourceDateText": "Mon, 26 Oct 2026 20:53:13 +0000",
       "firstSeenAt": "2026-10-26T22:43:28Z",
-      "lastSeenAt": "2026-10-27T05:11:44Z"
+      "lastSeenAt": "2026-10-27T12:19:31Z"
     },
     {
       "id": "c1f263340d4afb79776f35d3",
@@ -318,7 +571,7 @@
       "publishedAt": "2026-10-26T20:52:24+00:00",
       "sourceDateText": "Mon, 26 Oct 2026 20:52:24 +0000",
       "firstSeenAt": "2026-10-26T22:43:28Z",
-      "lastSeenAt": "2026-10-27T05:11:44Z"
+      "lastSeenAt": "2026-10-27T12:19:31Z"
     },
     {
       "id": "ba3544ba46311085efc19b18",
@@ -329,7 +582,7 @@
       "publishedAt": "2026-10-26T19:28:08+00:00",
       "sourceDateText": "Mon, 26 Oct 2026 19:28:08 +0000",
       "firstSeenAt": "2026-10-26T22:43:28Z",
-      "lastSeenAt": "2026-10-27T05:11:44Z"
+      "lastSeenAt": "2026-10-27T12:19:31Z"
     },
     {
       "id": "89b82efc97f5f84f999a2d91",
@@ -340,7 +593,7 @@
       "publishedAt": "2026-10-26T17:13:44+00:00",
       "sourceDateText": "Mon, 26 Oct 2026 17:13:44 +0000",
       "firstSeenAt": "2026-10-26T22:43:28Z",
-      "lastSeenAt": "2026-10-27T05:11:44Z"
+      "lastSeenAt": "2026-10-27T12:19:31Z"
     },
     {
       "id": "2ae86c2e6dfae3ef87c98d24",
@@ -351,7 +604,7 @@
       "publishedAt": "2026-10-26T15:25:47+00:00",
       "sourceDateText": "Mon, 26 Oct 2026 15:25:47 +0000",
       "firstSeenAt": "2026-10-26T22:43:28Z",
-      "lastSeenAt": "2026-10-27T05:11:44Z"
+      "lastSeenAt": "2026-10-27T12:19:31Z"
     },
     {
       "id": "4e6f5c4fdf0aa6532ef9c967",
@@ -593,7 +846,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 26 Oct 2026 18:20:00",
       "firstSeenAt": "2026-10-26T13:11:08Z",
-      "lastSeenAt": "2026-10-27T05:11:44Z"
+      "lastSeenAt": "2026-10-27T12:19:31Z"
     },
     {
       "id": "7e1408eac7ae1096954e949a",
@@ -604,7 +857,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 26 Oct 2026 17:45:00",
       "firstSeenAt": "2026-10-26T13:11:08Z",
-      "lastSeenAt": "2026-10-27T05:11:44Z"
+      "lastSeenAt": "2026-10-27T12:19:31Z"
     },
     {
       "id": "d5bb48033bfcaaef209d8384",
@@ -615,7 +868,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 26 Oct 2026 10:50:00",
       "firstSeenAt": "2026-10-26T13:11:08Z",
-      "lastSeenAt": "2026-10-27T05:11:44Z"
+      "lastSeenAt": "2026-10-27T12:19:31Z"
     },
     {
       "id": "6b616953f3cf44052f3a543b",
@@ -626,7 +879,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 26 Oct 2026 10:45:00",
       "firstSeenAt": "2026-10-26T13:11:08Z",
-      "lastSeenAt": "2026-10-27T05:11:44Z"
+      "lastSeenAt": "2026-10-27T12:19:31Z"
     },
     {
       "id": "770f5db7ae9c219c43f171f0",
@@ -637,7 +890,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 26 Oct 2026 10:25:00",
       "firstSeenAt": "2026-10-26T13:11:08Z",
-      "lastSeenAt": "2026-10-27T05:11:44Z"
+      "lastSeenAt": "2026-10-27T12:19:31Z"
     },
     {
       "id": "9e129dbd1a89bbfc66db156a",
@@ -703,7 +956,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 26 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-26T04:54:03Z",
-      "lastSeenAt": "2026-10-27T05:11:44Z"
+      "lastSeenAt": "2026-10-27T12:19:31Z"
     },
     {
       "id": "1049d8cf2bab27d7117f841c",
@@ -835,7 +1088,7 @@
       "publishedAt": null,
       "sourceDateText": "Sun, 25 Oct 2026 19:50:00",
       "firstSeenAt": "2026-10-25T16:28:40Z",
-      "lastSeenAt": "2026-10-27T05:11:44Z"
+      "lastSeenAt": "2026-10-27T12:19:31Z"
     },
     {
       "id": "bec2b16f93979f7cd4985d46",
