@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-28T05:48:59Z",
+  "checkedAt": "2026-10-28T13:02:20Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-28T05:48:59Z",
-      "lastSuccessAt": "2026-10-28T05:48:59Z",
+      "checkedAt": "2026-10-28T13:02:20Z",
+      "lastSuccessAt": "2026-10-28T13:02:20Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-28T05:48:59Z",
-      "lastSuccessAt": "2026-10-28T05:48:59Z",
+      "checkedAt": "2026-10-28T13:02:20Z",
+      "lastSuccessAt": "2026-10-28T13:02:20Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,277 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-28T05:48:59Z",
-      "lastSuccessAt": "2026-10-28T05:48:59Z",
+      "checkedAt": "2026-10-28T13:02:20Z",
+      "lastSuccessAt": "2026-10-28T13:02:20Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "2c19642f3c8dfe4b30de3c37",
+      "title": "वित्तीय बाधाओं से वैश्विक नवाचार तक : महत्वाकांक्षा और अवसर की एक यात्रा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329683",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "ace607020aef84b5a11d5eb1",
+      "title": "भारत-दक्षिण कोरिया द्विपक्षीय नौसैनिक अभ्यास में भाग लेने के लिए आईएनएस सह्याद्रि बुसान पहुंचा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329618",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "e9a6f49aba2d8afd8b420579",
+      "title": "ट्राई ने सितंबर 2026 के महीने के दौरान उत्तर प्रदेश पूर्वी (यूपीई) एलएसए के तहत गोंडा, बहराईच, श्रावस्ती और बलरामपुर शहर, प्रयागराज से गोंडा और गोंडा से बहराईच राजमार्ग पर मोबाइल नेटवर्क की गुणवत्ता का आकलन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329645",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "3c45d9e016233e72569b876d",
+      "title": "सामाजिक न्याय एवं अधिकारिता विभाग ने ‘निवारक सतर्कता और सरकारी क्षेत्र में भ्रष्टाचार से निपटने में सतर्कता प्रशासन की भूमिका’ विषय पर विशेषज्ञ व्याख्यान आयोजित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329617",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "3663ddffdb0a44216fa642c2",
+      "title": "एमसीएल ने विशेष अभियान 6.0 के तहत ई-कचरा प्रबंधन को बढ़ावा देने के लिए नुक्कड़ नाटक का मंचन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329600",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "98fdd9104e51be9796a887c6",
+      "title": "भारत ने आर्मेनिया के येरेवन में सीबीडी सीओपी-17 में जैव विविधता संरक्षण, जैव सुरक्षा तथा पहुंच एवं लाभ साझाकरण पर चार प्रमुख प्रकाशन जारी किए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329615",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "2e42beb9b8952540ca00a784",
+      "title": "सितंबर 2026 महीने के लिए औद्योगिक उत्पादन सूचकांक (आईआईपी) और उपयोग-आधारित सूचकांक के त्वरित अनुमान (आधार 2022-23=100)",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329614",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "a302f04d6bff00ecff505e3c",
+      "title": "केन्‍द्रीय मंत्रिमंडल ने वर्ष 2026-27 से 2030-31 के लिए केन्‍द्र प्रायोजित योजना के रूप में प्रधानमंत्री विकसित ग्राम स्वराज योजना को मंजूरी दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329608",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "146e07d5511bb63536715ef5",
+      "title": "केंद्रीय मंत्रिमंडल ने विश्व स्तर पर प्रतिस्पर्धी खेल विनिर्माण परितंत्र विकसित करने के लिए खेलो इंडिया खेल उपकरण विनिर्माण योजना को मंजूरी दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329621",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "6618ad54e4a448f0ee8f7d9d",
+      "title": "कैबिनेट ने कंटेनर विनिर्माण संवर्धन योजना को मंजूरी दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329556",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "b5f0ce0e87d9aceae9ad86c4",
+      "title": "कैबिनेट ने केंद्र सरकार के कर्मचारियों के लिए महंगाई भत्ते और पेंशनभोगियों के लिए महंगाई राहत को मंजूरी दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329553",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "14578f83c2d0a1eb856af934",
+      "title": "कैबिनेट ने केंद्र सरकार के कर्मचारियों के लिए महंगाई भत्ते और पेंशनभोगियों के लिए महंगाई राहत को मंजूरी दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329551",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "f8f37b1fd3708a91a4021e8d",
+      "title": "केन्‍द्रीय मंत्रिमंडल ने वर्ष 2026-27 से 2030-31 के लिए केन्‍द्र प्रायोजित योजना के रूप में प्रधानमंत्री विकसित ग्राम स्वराज योजना को मंजूरी दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329605",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "c1af1084d011507989ffbba4",
+      "title": "केंद्रीय मंत्रिमंडल ने विश्व स्तर पर प्रतिस्पर्धी खेल विनिर्माण परितंत्र विकसित करने के लिए खेलो इंडिया खेल उपकरण विनिर्माण योजना को मंजूरी दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329620",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "603a802302bcccd88318b5d4",
+      "title": "कैबिनेट ने कंटेनर विनिर्माण संवर्धन योजना को मंजूरी दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329555",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "d726c914669d5c237f4a5f69",
+      "title": "खेल और शिक्षा मंत्रालयों ने स्वच्छ खेल के मूल्यों को हर कक्षा तक पहुंचाने के लिए यूनेस्‍को के साथ ऐतिहासिक समझौता ज्ञापन पर हस्‍ताक्षर किए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329569",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "f2925145fd98a2b4b3bed2bf",
+      "title": "गृह मंत्रालय के राजभाषा विभाग में विशेष अभियान 6 के अंतर्गत फाइलों के डिजिटलीकरण एवं कार्यालयों की स्वच्छता पर विशेष जोर",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329460",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "09d22373f0e1eeab9965b783",
+      "title": "रक्षा मंत्री ने फिलीपींस में एडीएमएम-प्लस के मौके पर अमेरिकी सेक्रेटरी ऑफ वार से मुलाकात की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329469",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "2bbf8a9231f5c856c56860bf",
+      "title": "केंद्रीय विद्युत और नवीन एवं नवीकरणीय ऊर्जा राज्य मंत्री श्री श्रीपद येसो नाइक ने सिंगापुर अंतर्राष्ट्रीय ऊर्जा सप्ताह 2026 में भारतीय प्रतिनिधिमंडल का नेतृत्व किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329587",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "118d70a29f1ecfdb220e685b",
+      "title": "केंद्रीय मंत्री सर्बानंद सोनोवाल की सियोल में एचडी हुंडई के चेयरमैन चुंग की-सन से मुलाकात के बाद भारत के थूथुकुडी मेगा शिपयार्ड में काम में तेजी आई है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329473",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "d6247d7fc42597532f60709f",
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Lokapavani Mahila Sahakari Bank Niyamitha, Mandya - Extension of Period",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63878",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 28 Oct 2026 17:50:00",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "b3e21b4f1e985b737695cdaa",
+      "title": "Treasury Bills: Full Auction Result",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63877",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 28 Oct 2026 14:50:00",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "6f553e8def3a601c91042682",
+      "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63876",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 28 Oct 2026 13:55:00",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
+    {
+      "id": "47cd528ce50805877f028cc4",
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Sonpeth Nagari Sahakari Bank Maryadit, Sonpeth, Dist. Parbhani – Extension of Period",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63875",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 28 Oct 2026 13:20:00",
+      "firstSeenAt": "2026-10-28T13:02:20Z",
+      "lastSeenAt": "2026-10-28T13:02:20Z"
+    },
     {
       "id": "0d0644aaad791decbcbe85da",
       "title": "नागर विमानन मंत्रालय ने चक्रवात \"अर्नब\" की स्थिति और परिचालन तैयारियों की समीक्षा की",
@@ -153,7 +417,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 28 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-28T05:48:59Z",
-      "lastSeenAt": "2026-10-28T05:48:59Z"
+      "lastSeenAt": "2026-10-28T13:02:20Z"
     },
     {
       "id": "04104e8e8863440fcbde70e4",
@@ -164,7 +428,7 @@
       "publishedAt": "2026-10-28T05:39:46+00:00",
       "sourceDateText": "Wed, 28 Oct 2026 05:39:46 +0000",
       "firstSeenAt": "2026-10-28T05:48:59Z",
-      "lastSeenAt": "2026-10-28T05:48:59Z"
+      "lastSeenAt": "2026-10-28T13:02:20Z"
     },
     {
       "id": "232bbc9efcfd689d012ccde5",
@@ -175,7 +439,7 @@
       "publishedAt": "2026-10-28T04:05:00+00:00",
       "sourceDateText": "Wed, 28 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-28T05:48:59Z",
-      "lastSeenAt": "2026-10-28T05:48:59Z"
+      "lastSeenAt": "2026-10-28T13:02:20Z"
     },
     {
       "id": "aa30c4ded451b6799c25d918",
@@ -186,7 +450,7 @@
       "publishedAt": "2026-10-28T04:01:00+00:00",
       "sourceDateText": "Wed, 28 Oct 2026 04:01:00 +0000",
       "firstSeenAt": "2026-10-28T05:48:59Z",
-      "lastSeenAt": "2026-10-28T05:48:59Z"
+      "lastSeenAt": "2026-10-28T13:02:20Z"
     },
     {
       "id": "c7cb30eea53cdd07a680d778",
@@ -417,7 +681,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 27 Oct 2026 18:15:00",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-28T05:48:59Z"
+      "lastSeenAt": "2026-10-28T13:02:20Z"
     },
     {
       "id": "1cc7eac1106df01be9cd9d3b",
@@ -428,7 +692,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 27 Oct 2026 17:50:00",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-28T05:48:59Z"
+      "lastSeenAt": "2026-10-28T13:02:20Z"
     },
     {
       "id": "71e6962cecf66d3a764e4945",
@@ -439,7 +703,7 @@
       "publishedAt": "2026-10-27T19:27:22+00:00",
       "sourceDateText": "Tue, 27 Oct 2026 19:27:22 +0000",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-28T05:48:59Z"
+      "lastSeenAt": "2026-10-28T13:02:20Z"
     },
     {
       "id": "6f7b94d4e0f7d4bc45e8caf6",
@@ -450,7 +714,7 @@
       "publishedAt": "2026-10-27T17:58:57+00:00",
       "sourceDateText": "Tue, 27 Oct 2026 17:58:57 +0000",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-28T05:48:59Z"
+      "lastSeenAt": "2026-10-28T13:02:20Z"
     },
     {
       "id": "f466eb2684695ce32e693e78",
@@ -681,7 +945,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 27 Oct 2026 16:20:00",
       "firstSeenAt": "2026-10-27T12:19:31Z",
-      "lastSeenAt": "2026-10-28T05:48:59Z"
+      "lastSeenAt": "2026-10-28T13:02:20Z"
     },
     {
       "id": "54a6ba18573db108f49d1771",
@@ -692,7 +956,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 27 Oct 2026 14:50:00",
       "firstSeenAt": "2026-10-27T12:19:31Z",
-      "lastSeenAt": "2026-10-28T05:48:59Z"
+      "lastSeenAt": "2026-10-28T13:02:20Z"
     },
     {
       "id": "53cb4bae6e918f63c0b47239",
@@ -703,7 +967,7 @@
       "publishedAt": "2026-10-27T07:07:51+00:00",
       "sourceDateText": "Tue, 27 Oct 2026 07:07:51 +0000",
       "firstSeenAt": "2026-10-27T12:19:31Z",
-      "lastSeenAt": "2026-10-28T05:48:59Z"
+      "lastSeenAt": "2026-10-28T13:02:20Z"
     },
     {
       "id": "43929dc7b648fe275d72db53",
@@ -714,7 +978,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 27 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-27T05:11:44Z",
-      "lastSeenAt": "2026-10-28T05:48:59Z"
+      "lastSeenAt": "2026-10-28T13:02:20Z"
     },
     {
       "id": "cdbd5ceb87f55bd02ddadeb0",
@@ -725,7 +989,7 @@
       "publishedAt": "2026-10-27T04:05:00+00:00",
       "sourceDateText": "Tue, 27 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-27T05:11:44Z",
-      "lastSeenAt": "2026-10-28T05:48:59Z"
+      "lastSeenAt": "2026-10-28T13:02:20Z"
     },
     {
       "id": "3a3dad32dd0ee3f0a309cd8c",
@@ -736,7 +1000,7 @@
       "publishedAt": "2026-10-27T04:00:00+00:00",
       "sourceDateText": "Tue, 27 Oct 2026 04:00:00 +0000",
       "firstSeenAt": "2026-10-27T05:11:44Z",
-      "lastSeenAt": "2026-10-28T05:48:59Z"
+      "lastSeenAt": "2026-10-28T13:02:20Z"
     },
     {
       "id": "577fd304a66d204d40f29381",
@@ -747,7 +1011,7 @@
       "publishedAt": "2026-10-26T22:48:12+00:00",
       "sourceDateText": "Mon, 26 Oct 2026 22:48:12 +0000",
       "firstSeenAt": "2026-10-27T05:11:44Z",
-      "lastSeenAt": "2026-10-28T05:48:59Z"
+      "lastSeenAt": "2026-10-28T13:02:20Z"
     },
     {
       "id": "1d47b524fe5b87a7e3c9fbee",
@@ -967,7 +1231,7 @@
       "publishedAt": "2026-10-26T21:07:28+00:00",
       "sourceDateText": "Mon, 26 Oct 2026 21:07:28 +0000",
       "firstSeenAt": "2026-10-26T22:43:28Z",
-      "lastSeenAt": "2026-10-28T05:48:59Z"
+      "lastSeenAt": "2026-10-28T13:02:20Z"
     },
     {
       "id": "83b9dd1ec61f14fb08ebbc20",
