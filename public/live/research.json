@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-27T22:19:05Z",
+  "checkedAt": "2026-10-28T05:48:59Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-27T22:19:05Z",
-      "lastSuccessAt": "2026-10-27T22:19:05Z",
+      "checkedAt": "2026-10-28T05:48:59Z",
+      "lastSuccessAt": "2026-10-28T05:48:59Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-27T22:19:05Z",
-      "lastSuccessAt": "2026-10-27T22:19:05Z",
+      "checkedAt": "2026-10-28T05:48:59Z",
+      "lastSuccessAt": "2026-10-28T05:48:59Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,167 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-27T22:19:05Z",
-      "lastSuccessAt": "2026-10-27T22:19:05Z",
+      "checkedAt": "2026-10-28T05:48:59Z",
+      "lastSuccessAt": "2026-10-28T05:48:59Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "0d0644aaad791decbcbe85da",
+      "title": "नागर विमानन मंत्रालय ने चक्रवात \"अर्नब\" की स्थिति और परिचालन तैयारियों की समीक्षा की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329282",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T05:48:59Z",
+      "lastSeenAt": "2026-10-28T05:48:59Z"
+    },
+    {
+      "id": "fdbf6a2e29d970c7461d9789",
+      "title": "प्रधानमंत्री से लिकटेंस्टीन के हेरेडिटरी प्रिंस एलॉइस ने मुलाकात की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329276",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T05:48:59Z",
+      "lastSeenAt": "2026-10-28T05:48:59Z"
+    },
+    {
+      "id": "d34184fade6b035b37527079",
+      "title": "नागरिक उड्डयन मंत्रालय ने आने वाले सर्दियों के मौसम में कोहरे से निपटने की तैयारियां सुनिश्चित करने को लेकर पहली बैठक आयोजित की; इस दौरान यात्रियों को होने वाली असुविधा को कम करने पर जोर दिया गया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329283",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T05:48:59Z",
+      "lastSeenAt": "2026-10-28T05:48:59Z"
+    },
+    {
+      "id": "d16bfffcf083942c2b2c36f1",
+      "title": "गोवा में 29वीं ऊर्जा प्रौद्योगिकी बैठक का उद्घाटन किया गया, इस दौरान नवाचार और भारत की ऊर्जा सुरक्षा प्राथमिकताओं पर प्रकाश डाला गया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329284",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T05:48:59Z",
+      "lastSeenAt": "2026-10-28T05:48:59Z"
+    },
+    {
+      "id": "b09fe21f3742b11ea9ff7a90",
+      "title": "केन्द्रीय सचिव श्री सुधांश पंत ने गुवाहाटी में शिल्प समागम मेले का दौरा किया; कारीगरों के स्टॉलों और मंत्रालय के पवेलियन का जायजा लिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329287",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T05:48:59Z",
+      "lastSeenAt": "2026-10-28T05:48:59Z"
+    },
+    {
+      "id": "21eb397d98e8fd7070a3057a",
+      "title": "केंद्रीय वाणिज्य एवं उद्योग मंत्री श्री पीयूष गोयल की नीदरलैंड यात्रा से मजबूत हुई भारत-नीदरलैंड व्यापार और निवेश साझेदारी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329280",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T05:48:59Z",
+      "lastSeenAt": "2026-10-28T05:48:59Z"
+    },
+    {
+      "id": "b02616d3a8405f71c7255816",
+      "title": "केंद्रीय शिक्षा मंत्री श्री प्रल्हाद जोशी ने नई दिल्ली में सीबीएसई अनुभव केंद्र का उद्घाटन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329279",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T05:48:59Z",
+      "lastSeenAt": "2026-10-28T05:48:59Z"
+    },
+    {
+      "id": "826f3e6c0e827d91e58b4e4a",
+      "title": "भारत ने बुसान में जहाज निर्माण आपूर्ति श्रृंखला से लेकर जहाज पुनर्चक्रण तक अपने समुद्री सहयोग का विस्तार किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329285",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T05:48:59Z",
+      "lastSeenAt": "2026-10-28T05:48:59Z"
+    },
+    {
+      "id": "fc7a1c4039af7bd2d255949b",
+      "title": "केंद्रीय राज्य मंत्री रक्षा खडसे ने खेल कूटनीति और युवा विकास को आगे बढ़ाने में भारत-न्यूजीलैंड रग्बी सीरीज की भूमिका पर प्रकाश डाला",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329281",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T05:48:59Z",
+      "lastSeenAt": "2026-10-28T05:48:59Z"
+    },
+    {
+      "id": "29243bd616933e5755e057cc",
+      "title": "अगली पीढ़ी के अपतटीय गश्ती पोत (यार्ड 1283, सृष्टि) का जलावतरण",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329278",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T05:48:59Z",
+      "lastSeenAt": "2026-10-28T05:48:59Z"
+    },
+    {
+      "id": "564f4abfd42da56982333e3a",
+      "title": "Money Market Operations as on October 27, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63874",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 28 Oct 2026 09:00:00",
+      "firstSeenAt": "2026-10-28T05:48:59Z",
+      "lastSeenAt": "2026-10-28T05:48:59Z"
+    },
+    {
+      "id": "04104e8e8863440fcbde70e4",
+      "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-28T05:39:46+00:00",
+      "sourceDateText": "Wed, 28 Oct 2026 05:39:46 +0000",
+      "firstSeenAt": "2026-10-28T05:48:59Z",
+      "lastSeenAt": "2026-10-28T05:48:59Z"
+    },
+    {
+      "id": "232bbc9efcfd689d012ccde5",
+      "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-28T04:05:00+00:00",
+      "sourceDateText": "Wed, 28 Oct 2026 04:05:00 +0000",
+      "firstSeenAt": "2026-10-28T05:48:59Z",
+      "lastSeenAt": "2026-10-28T05:48:59Z"
+    },
+    {
+      "id": "aa30c4ded451b6799c25d918",
+      "title": "The Land of the Standing-Up Rocks",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-28T04:01:00+00:00",
+      "sourceDateText": "Wed, 28 Oct 2026 04:01:00 +0000",
+      "firstSeenAt": "2026-10-28T05:48:59Z",
+      "lastSeenAt": "2026-10-28T05:48:59Z"
+    },
     {
       "id": "c7cb30eea53cdd07a680d778",
       "title": "भारत की राष्ट्रपति ने लिकटेंस्टाइन के वंशानुगत राजकुमार एलोइस और राजकुमारी सोफी की मेज़बानी की",
@@ -43,7 +197,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "10e86c91f9ff3458f52d2756",
@@ -54,7 +208,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "096309f6aecf12840e886bb9",
@@ -65,7 +219,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "481e0d085ec67b250d62bea4",
@@ -76,7 +230,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "037400f3f4b4a71b21ce8747",
@@ -87,7 +241,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "7f810510c6d53e116b325905",
@@ -98,7 +252,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "5e395fd99ebc66e3992c755e",
@@ -109,7 +263,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "0d6cfc36e46e6742b3553cae",
@@ -120,7 +274,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "fb6f8d9109eee90f371f4f7a",
@@ -131,7 +285,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "1d33afd495e26d50799c83b7",
@@ -142,7 +296,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "96caeea81c9a4452fc8c8899",
@@ -263,7 +417,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 27 Oct 2026 18:15:00",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "1cc7eac1106df01be9cd9d3b",
@@ -274,7 +428,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 27 Oct 2026 17:50:00",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "71e6962cecf66d3a764e4945",
@@ -285,7 +439,7 @@
       "publishedAt": "2026-10-27T19:27:22+00:00",
       "sourceDateText": "Tue, 27 Oct 2026 19:27:22 +0000",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "6f7b94d4e0f7d4bc45e8caf6",
@@ -296,7 +450,7 @@
       "publishedAt": "2026-10-27T17:58:57+00:00",
       "sourceDateText": "Tue, 27 Oct 2026 17:58:57 +0000",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "f466eb2684695ce32e693e78",
@@ -527,7 +681,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 27 Oct 2026 16:20:00",
       "firstSeenAt": "2026-10-27T12:19:31Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "54a6ba18573db108f49d1771",
@@ -538,7 +692,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 27 Oct 2026 14:50:00",
       "firstSeenAt": "2026-10-27T12:19:31Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "53cb4bae6e918f63c0b47239",
@@ -549,7 +703,7 @@
       "publishedAt": "2026-10-27T07:07:51+00:00",
       "sourceDateText": "Tue, 27 Oct 2026 07:07:51 +0000",
       "firstSeenAt": "2026-10-27T12:19:31Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "43929dc7b648fe275d72db53",
@@ -560,7 +714,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 27 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-27T05:11:44Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "cdbd5ceb87f55bd02ddadeb0",
@@ -571,7 +725,7 @@
       "publishedAt": "2026-10-27T04:05:00+00:00",
       "sourceDateText": "Tue, 27 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-27T05:11:44Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "3a3dad32dd0ee3f0a309cd8c",
@@ -582,7 +736,7 @@
       "publishedAt": "2026-10-27T04:00:00+00:00",
       "sourceDateText": "Tue, 27 Oct 2026 04:00:00 +0000",
       "firstSeenAt": "2026-10-27T05:11:44Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "577fd304a66d204d40f29381",
@@ -593,7 +747,7 @@
       "publishedAt": "2026-10-26T22:48:12+00:00",
       "sourceDateText": "Mon, 26 Oct 2026 22:48:12 +0000",
       "firstSeenAt": "2026-10-27T05:11:44Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "1d47b524fe5b87a7e3c9fbee",
@@ -813,7 +967,7 @@
       "publishedAt": "2026-10-26T21:07:28+00:00",
       "sourceDateText": "Mon, 26 Oct 2026 21:07:28 +0000",
       "firstSeenAt": "2026-10-26T22:43:28Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "83b9dd1ec61f14fb08ebbc20",
@@ -1110,7 +1264,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 26 Oct 2026 18:20:00",
       "firstSeenAt": "2026-10-26T13:11:08Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "7e1408eac7ae1096954e949a",
@@ -1121,7 +1275,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 26 Oct 2026 17:45:00",
       "firstSeenAt": "2026-10-26T13:11:08Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "d5bb48033bfcaaef209d8384",
@@ -1132,7 +1286,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 26 Oct 2026 10:50:00",
       "firstSeenAt": "2026-10-26T13:11:08Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "6b616953f3cf44052f3a543b",
@@ -1143,7 +1297,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 26 Oct 2026 10:45:00",
       "firstSeenAt": "2026-10-26T13:11:08Z",
-      "lastSeenAt": "2026-10-27T22:19:05Z"
+      "lastSeenAt": "2026-10-28T05:48:59Z"
     },
     {
       "id": "770f5db7ae9c219c43f171f0",
