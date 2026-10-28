@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-28T13:02:20Z",
+  "checkedAt": "2026-10-28T22:39:30Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-28T13:02:20Z",
-      "lastSuccessAt": "2026-10-28T13:02:20Z",
+      "checkedAt": "2026-10-28T22:39:30Z",
+      "lastSuccessAt": "2026-10-28T22:39:30Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-28T13:02:20Z",
-      "lastSuccessAt": "2026-10-28T13:02:20Z",
+      "checkedAt": "2026-10-28T22:39:30Z",
+      "lastSuccessAt": "2026-10-28T22:39:30Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,277 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-28T13:02:20Z",
-      "lastSuccessAt": "2026-10-28T13:02:20Z",
+      "checkedAt": "2026-10-28T22:39:30Z",
+      "lastSuccessAt": "2026-10-28T22:39:30Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "243895a9bc93fa24061589a2",
+      "title": "'GeM संवाद 2026' में सूक्ष्म और लघु उद्यमों के लिए सार्वजनिक खरीद को अधिक सुलभ और किफायती बनाने वाले सुधारों की जानकारी दी गई",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329825",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "5653372763a19c86deb7542b",
+      "title": "रक्षा मंत्री ने 13वीं आसियान रक्षा मंत्रियों की बैठक-प्लस से इतर सिंगापुर के रक्षा मंत्री के साथ द्विपक्षीय वार्ता की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329828",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "7c4364e7f29937f7580ad54e",
+      "title": "एमएसडीई ने सभी सीपीएसई से परिणामों एवं समावेशन पर ध्यान केन्द्रित करते हुए अप्रेंटिसशिप संबंधी जुड़ाव में तेजी लाने का आह्वान किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329808",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "89b527a029730fcc9523d11c",
+      "title": "दूरसंचार विभाग ने ईएसटीआईसी 2026 में इंटेलिजेंट नेटवर्क्स एंड क्वांटम कम्युनिकेशन पर विषयगत सत्र का नेतृत्व किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329804",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "35419eb55d57e653266dd0f3",
+      "title": "नवीन एवं नवीकरणीय ऊर्जा मंत्रालय ने ‘विशेष अभियान 6.0’ के तहत ई-कचरा प्रबंधन के प्रयासों को तेज़ किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329759",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "70ad814bfede28323dce6ff9",
+      "title": "लोकसभा अध्यक्ष ने लोकतंत्र में विचारों की भिन्नता के बावजूद आपसी सम्मान बनाए रखने की आवश्यकता पर जोर दिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329727",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "ea78a6269329b111907f7e30",
+      "title": "केंद्रीय शिक्षा राज्य मंत्री ने 'विकसित भारत बिल्डाथॉन 2025' के विजेताओं को सम्मानित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329789",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "ad6360e1dee75920588dc168",
+      "title": "उपराष्ट्रपति और राज्यसभा के सभापति श्री सी. पी. राधाकृष्णन ने यूरोपीय संसद की विदेश मामलों की समिति के प्रतिनिधिमंडल से मुलाकात की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329752",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "69cf646b92a8842fa1911fd2",
+      "title": "पेट्रोलियम और प्राकृतिक गैस मंत्रालय ने विशेष अभियान 6 के तहत उल्लेखनीय प्रगति की है, 3.42 लाख वर्ग फुट से अधिक स्थान खाली कराया और स्क्रैप के निपटान से 49.46 करोड़ रुपए अर्जित किए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329724",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "d4cf9d01dec68f3197324f36",
+      "title": "एनपीपीए ने कैंसर रोधी 543 ब्रांड की दवाओं के संशोधित एमआरपी जारी किए; सूची को लगातार अपडेट किया जाएगा; नई कीमतें 9 नवंबर, 2026 से प्रभावी होंगी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329745",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "0b3a4517a3745628f2c391e3",
+      "title": "प्रधानमंत्री 2 नवंबर, 2026 को भारत नवीकरणीय ऊर्जा शिखर सम्मेलन और एक्सपो 2026 का उद्घाटन करेंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329788",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "7e2716a13040992f81ea657e",
+      "title": "भारी उद्योग मंत्रालय और इसके केंद्रीय सार्वजनिक क्षेत्र के उद्यमों (सीपीएसई) एवं स्वायत्त निकायों (एबी) ने स्वच्छता ही सेवा (एसएचएस) 2026 और विशेष अभियान 6 का आयोजन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329747",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "942650687e008b7cba2e6681",
+      "title": "सड़क से स्वावलंबन तक",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329734",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "a5a4274a321a39928c720310",
+      "title": "वस्त्र मंत्रालय 1 नवंबर 2026 से नए आवेदन स्वीकार करने के लिए पीएलआई योजना पोर्टल खोलेगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329715",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "08201dc4ff29b638225bec30",
+      "title": "भारत को वैश्विक कंटेनर विनिर्माण केंद्र बनाने के लिए मंत्रिमंडल ने 10,000 करोड़ रुपये की योजना को मंजूरी दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329766",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "436edba6492ea091f4a2b093",
+      "title": "कार्पोरेट कार्य मंत्रालय के स्वच्छता अभियान 'विशेष अभियान 6.0' के तहत ई-कचरा प्रबंधन और रीसाइक्लिंग पहलों से 10,50,520 रुपये का महत्वपूर्ण राजस्व प्राप्त हुआ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329703",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "828e4a2b165abfab51f42243",
+      "title": "भारतीय पाक कला संस्थान ने बीबीए और एमबीए पाठ्यक्रमों की मान्यता के लिए जवाहरलाल नेहरू विश्वविद्यालय के साथ समझौता ज्ञापन पर हस्ताक्षर किये",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329707",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "410324b6acafc09fa6b667dd",
+      "title": "सरकार स्वदेशी नवाचारों को बाजार तक पहुंचाने हेतु स्टार्टअप और उद्योग जगत के बीच जुड़ाव को बढ़ावा दे रही है: केन्द्रीय मंत्री डॉ. जितेंद्र सिंह",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329721",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "29779de50ca2c62979a43807",
+      "title": "पदार्थ निर्भरता से आत्मनिर्भरता तक: करीमनगर, तेलंगाना के नील की उबरने की यात्रा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329704",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "04fe104cafb4728a8ec1182c",
+      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-28T21:50:01+00:00",
+      "sourceDateText": "Wed, 28 Oct 2026 21:50:01 +0000",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "132dca1045a75f55eca4de31",
+      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-28T18:59:44+00:00",
+      "sourceDateText": "Wed, 28 Oct 2026 18:59:44 +0000",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "23fc4b02995c7c16a20c4e7a",
+      "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
+      "url": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-28T18:00:28+00:00",
+      "sourceDateText": "Wed, 28 Oct 2026 18:00:28 +0000",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "64d1caf6b34e6ea87b274387",
+      "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-28T16:25:29+00:00",
+      "sourceDateText": "Wed, 28 Oct 2026 16:25:29 +0000",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
+    {
+      "id": "8ca2f0d9390b6938593a40f5",
+      "title": "Webb Sees Turbulent Star Nursery",
+      "url": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-28T15:33:10+00:00",
+      "sourceDateText": "Wed, 28 Oct 2026 15:33:10 +0000",
+      "firstSeenAt": "2026-10-28T22:39:30Z",
+      "lastSeenAt": "2026-10-28T22:39:30Z"
+    },
     {
       "id": "2c19642f3c8dfe4b30de3c37",
       "title": "वित्तीय बाधाओं से वैश्विक नवाचार तक : महत्वाकांक्षा और अवसर की एक यात्रा",
@@ -43,7 +307,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-28T13:02:20Z",
-      "lastSeenAt": "2026-10-28T13:02:20Z"
+      "lastSeenAt": "2026-10-28T22:39:30Z"
     },
     {
       "id": "ace607020aef84b5a11d5eb1",
@@ -263,7 +527,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 28 Oct 2026 17:50:00",
       "firstSeenAt": "2026-10-28T13:02:20Z",
-      "lastSeenAt": "2026-10-28T13:02:20Z"
+      "lastSeenAt": "2026-10-28T22:39:30Z"
     },
     {
       "id": "b3e21b4f1e985b737695cdaa",
@@ -274,7 +538,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 28 Oct 2026 14:50:00",
       "firstSeenAt": "2026-10-28T13:02:20Z",
-      "lastSeenAt": "2026-10-28T13:02:20Z"
+      "lastSeenAt": "2026-10-28T22:39:30Z"
     },
     {
       "id": "6f553e8def3a601c91042682",
@@ -285,7 +549,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 28 Oct 2026 13:55:00",
       "firstSeenAt": "2026-10-28T13:02:20Z",
-      "lastSeenAt": "2026-10-28T13:02:20Z"
+      "lastSeenAt": "2026-10-28T22:39:30Z"
     },
     {
       "id": "47cd528ce50805877f028cc4",
@@ -296,7 +560,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 28 Oct 2026 13:20:00",
       "firstSeenAt": "2026-10-28T13:02:20Z",
-      "lastSeenAt": "2026-10-28T13:02:20Z"
+      "lastSeenAt": "2026-10-28T22:39:30Z"
     },
     {
       "id": "0d0644aaad791decbcbe85da",
@@ -417,7 +681,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 28 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-28T05:48:59Z",
-      "lastSeenAt": "2026-10-28T13:02:20Z"
+      "lastSeenAt": "2026-10-28T22:39:30Z"
     },
     {
       "id": "04104e8e8863440fcbde70e4",
@@ -428,7 +692,7 @@
       "publishedAt": "2026-10-28T05:39:46+00:00",
       "sourceDateText": "Wed, 28 Oct 2026 05:39:46 +0000",
       "firstSeenAt": "2026-10-28T05:48:59Z",
-      "lastSeenAt": "2026-10-28T13:02:20Z"
+      "lastSeenAt": "2026-10-28T22:39:30Z"
     },
     {
       "id": "232bbc9efcfd689d012ccde5",
@@ -439,7 +703,7 @@
       "publishedAt": "2026-10-28T04:05:00+00:00",
       "sourceDateText": "Wed, 28 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-28T05:48:59Z",
-      "lastSeenAt": "2026-10-28T13:02:20Z"
+      "lastSeenAt": "2026-10-28T22:39:30Z"
     },
     {
       "id": "aa30c4ded451b6799c25d918",
@@ -450,7 +714,7 @@
       "publishedAt": "2026-10-28T04:01:00+00:00",
       "sourceDateText": "Wed, 28 Oct 2026 04:01:00 +0000",
       "firstSeenAt": "2026-10-28T05:48:59Z",
-      "lastSeenAt": "2026-10-28T13:02:20Z"
+      "lastSeenAt": "2026-10-28T22:39:30Z"
     },
     {
       "id": "c7cb30eea53cdd07a680d778",
@@ -681,7 +945,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 27 Oct 2026 18:15:00",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-28T13:02:20Z"
+      "lastSeenAt": "2026-10-28T22:39:30Z"
     },
     {
       "id": "1cc7eac1106df01be9cd9d3b",
@@ -692,7 +956,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 27 Oct 2026 17:50:00",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-28T13:02:20Z"
+      "lastSeenAt": "2026-10-28T22:39:30Z"
     },
     {
       "id": "71e6962cecf66d3a764e4945",
@@ -703,7 +967,7 @@
       "publishedAt": "2026-10-27T19:27:22+00:00",
       "sourceDateText": "Tue, 27 Oct 2026 19:27:22 +0000",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-28T13:02:20Z"
+      "lastSeenAt": "2026-10-28T22:39:30Z"
     },
     {
       "id": "6f7b94d4e0f7d4bc45e8caf6",
@@ -714,7 +978,7 @@
       "publishedAt": "2026-10-27T17:58:57+00:00",
       "sourceDateText": "Tue, 27 Oct 2026 17:58:57 +0000",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-28T13:02:20Z"
+      "lastSeenAt": "2026-10-28T22:39:30Z"
     },
     {
       "id": "f466eb2684695ce32e693e78",
@@ -945,7 +1209,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 27 Oct 2026 16:20:00",
       "firstSeenAt": "2026-10-27T12:19:31Z",
-      "lastSeenAt": "2026-10-28T13:02:20Z"
+      "lastSeenAt": "2026-10-28T22:39:30Z"
     },
     {
       "id": "54a6ba18573db108f49d1771",
@@ -956,7 +1220,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 27 Oct 2026 14:50:00",
       "firstSeenAt": "2026-10-27T12:19:31Z",
-      "lastSeenAt": "2026-10-28T13:02:20Z"
+      "lastSeenAt": "2026-10-28T22:39:30Z"
     },
     {
       "id": "53cb4bae6e918f63c0b47239",
@@ -978,7 +1242,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 27 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-27T05:11:44Z",
-      "lastSeenAt": "2026-10-28T13:02:20Z"
+      "lastSeenAt": "2026-10-28T22:39:30Z"
     },
     {
       "id": "cdbd5ceb87f55bd02ddadeb0",
