@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-28T22:39:30Z",
+  "checkedAt": "2026-10-29T05:54:16Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-28T22:39:30Z",
-      "lastSuccessAt": "2026-10-28T22:39:30Z",
+      "checkedAt": "2026-10-29T05:54:16Z",
+      "lastSuccessAt": "2026-10-29T05:54:16Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-28T22:39:30Z",
-      "lastSuccessAt": "2026-10-28T22:39:30Z",
+      "checkedAt": "2026-10-29T05:54:16Z",
+      "lastSuccessAt": "2026-10-29T05:54:16Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,101 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-28T22:39:30Z",
-      "lastSuccessAt": "2026-10-28T22:39:30Z",
+      "checkedAt": "2026-10-29T05:54:16Z",
+      "lastSuccessAt": "2026-10-29T05:54:16Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "ec8f17f673a092480b23de58",
+      "title": "भारत की सांस्कृतिक चेतना और ज्ञान परंपराएं इसकी सभ्यतागत निरंतरता का आधार हैं: श्री गजेंद्र सिंह शेखावत",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329862",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-29T05:54:16Z",
+      "lastSeenAt": "2026-10-29T05:54:16Z"
+    },
+    {
+      "id": "b838bb7a1dc70b802c44fa16",
+      "title": "विशेष अभियान 6.0: औषध विभाग ने ई-कचरा प्रबंधन, स्वच्छता एवं जगह के कुशल उपयोग पर ध्यान केंद्रित किया; 14,700 स्वच्छता अभियान चलाया गया, कार्यालय की 2,200 वर्ग फुट जगह खाली हुआ और कार्यालय के कबाड़ निपटान से 2.30 लाख रुपये का राजस्व अर्जित हुआ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329865",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-29T05:54:16Z",
+      "lastSeenAt": "2026-10-29T05:54:16Z"
+    },
+    {
+      "id": "e179afd8aafb28f0fe626662",
+      "title": "28 से 30 अक्टूबर 2026 तक केरल के तिरुवनंतपुरम में 'राज्य स्तरीय औद्योगिक उत्पादन सूचकांक' के आधार वर्ष में संशोधन पर कार्यशाला का आयोजन",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329860",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-29T05:54:16Z",
+      "lastSeenAt": "2026-10-29T05:54:16Z"
+    },
+    {
+      "id": "c53adac4008a4c7bf9dd5d60",
+      "title": "केंद्रीय सचिव श्री सुधांश पंत ने असम में कल्याणकारी योजनाओं के क्रियान्वयन की समीक्षा की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2329863",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-29T05:54:16Z",
+      "lastSeenAt": "2026-10-29T05:54:16Z"
+    },
+    {
+      "id": "a44248b2885a8325fe723cef",
+      "title": "Money Market Operations as on October 28, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63879",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 29 Oct 2026 09:00:00",
+      "firstSeenAt": "2026-10-29T05:54:16Z",
+      "lastSeenAt": "2026-10-29T05:54:16Z"
+    },
+    {
+      "id": "684a0e80dde93c2c3a3cb67a",
+      "title": "APOD: 29 October 2026 – The Horns of Venus",
+      "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-29T04:05:00+00:00",
+      "sourceDateText": "Thu, 29 Oct 2026 04:05:00 +0000",
+      "firstSeenAt": "2026-10-29T05:54:16Z",
+      "lastSeenAt": "2026-10-29T05:54:16Z"
+    },
+    {
+      "id": "e9bfba10ec085dbed72d2bc5",
+      "title": "Arnab Strikes India",
+      "url": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-29T04:01:00+00:00",
+      "sourceDateText": "Thu, 29 Oct 2026 04:01:00 +0000",
+      "firstSeenAt": "2026-10-29T05:54:16Z",
+      "lastSeenAt": "2026-10-29T05:54:16Z"
+    },
+    {
+      "id": "2d88ce8f7f5eb856fd301077",
+      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+      "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-29T02:49:59+00:00",
+      "sourceDateText": "Thu, 29 Oct 2026 02:49:59 +0000",
+      "firstSeenAt": "2026-10-29T05:54:16Z",
+      "lastSeenAt": "2026-10-29T05:54:16Z"
+    },
     {
       "id": "243895a9bc93fa24061589a2",
       "title": "'GeM संवाद 2026' में सूक्ष्म और लघु उद्यमों के लिए सार्वजनिक खरीद को अधिक सुलभ और किफायती बनाने वाले सुधारों की जानकारी दी गई",
@@ -43,7 +131,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "5653372763a19c86deb7542b",
@@ -54,7 +142,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "7c4364e7f29937f7580ad54e",
@@ -65,7 +153,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "89b527a029730fcc9523d11c",
@@ -76,7 +164,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "35419eb55d57e653266dd0f3",
@@ -87,7 +175,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "70ad814bfede28323dce6ff9",
@@ -98,7 +186,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "ea78a6269329b111907f7e30",
@@ -109,7 +197,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "ad6360e1dee75920588dc168",
@@ -120,7 +208,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "69cf646b92a8842fa1911fd2",
@@ -131,7 +219,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "d4cf9d01dec68f3197324f36",
@@ -142,7 +230,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "0b3a4517a3745628f2c391e3",
@@ -153,7 +241,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "7e2716a13040992f81ea657e",
@@ -164,7 +252,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "942650687e008b7cba2e6681",
@@ -175,7 +263,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "a5a4274a321a39928c720310",
@@ -186,7 +274,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "08201dc4ff29b638225bec30",
@@ -197,7 +285,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "436edba6492ea091f4a2b093",
@@ -208,7 +296,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "828e4a2b165abfab51f42243",
@@ -252,7 +340,7 @@
       "publishedAt": "2026-10-28T21:50:01+00:00",
       "sourceDateText": "Wed, 28 Oct 2026 21:50:01 +0000",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "132dca1045a75f55eca4de31",
@@ -263,7 +351,7 @@
       "publishedAt": "2026-10-28T18:59:44+00:00",
       "sourceDateText": "Wed, 28 Oct 2026 18:59:44 +0000",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "23fc4b02995c7c16a20c4e7a",
@@ -274,7 +362,7 @@
       "publishedAt": "2026-10-28T18:00:28+00:00",
       "sourceDateText": "Wed, 28 Oct 2026 18:00:28 +0000",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "64d1caf6b34e6ea87b274387",
@@ -285,7 +373,7 @@
       "publishedAt": "2026-10-28T16:25:29+00:00",
       "sourceDateText": "Wed, 28 Oct 2026 16:25:29 +0000",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "8ca2f0d9390b6938593a40f5",
@@ -296,7 +384,7 @@
       "publishedAt": "2026-10-28T15:33:10+00:00",
       "sourceDateText": "Wed, 28 Oct 2026 15:33:10 +0000",
       "firstSeenAt": "2026-10-28T22:39:30Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "2c19642f3c8dfe4b30de3c37",
@@ -527,7 +615,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 28 Oct 2026 17:50:00",
       "firstSeenAt": "2026-10-28T13:02:20Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "b3e21b4f1e985b737695cdaa",
@@ -538,7 +626,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 28 Oct 2026 14:50:00",
       "firstSeenAt": "2026-10-28T13:02:20Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "6f553e8def3a601c91042682",
@@ -549,7 +637,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 28 Oct 2026 13:55:00",
       "firstSeenAt": "2026-10-28T13:02:20Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "47cd528ce50805877f028cc4",
@@ -560,7 +648,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 28 Oct 2026 13:20:00",
       "firstSeenAt": "2026-10-28T13:02:20Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "0d0644aaad791decbcbe85da",
@@ -681,7 +769,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 28 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-28T05:48:59Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "04104e8e8863440fcbde70e4",
@@ -692,7 +780,7 @@
       "publishedAt": "2026-10-28T05:39:46+00:00",
       "sourceDateText": "Wed, 28 Oct 2026 05:39:46 +0000",
       "firstSeenAt": "2026-10-28T05:48:59Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "232bbc9efcfd689d012ccde5",
@@ -703,7 +791,7 @@
       "publishedAt": "2026-10-28T04:05:00+00:00",
       "sourceDateText": "Wed, 28 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-28T05:48:59Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "aa30c4ded451b6799c25d918",
@@ -945,7 +1033,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 27 Oct 2026 18:15:00",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "1cc7eac1106df01be9cd9d3b",
@@ -956,7 +1044,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 27 Oct 2026 17:50:00",
       "firstSeenAt": "2026-10-27T22:19:05Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "71e6962cecf66d3a764e4945",
@@ -1209,7 +1297,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 27 Oct 2026 16:20:00",
       "firstSeenAt": "2026-10-27T12:19:31Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "54a6ba18573db108f49d1771",
@@ -1220,7 +1308,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 27 Oct 2026 14:50:00",
       "firstSeenAt": "2026-10-27T12:19:31Z",
-      "lastSeenAt": "2026-10-28T22:39:30Z"
+      "lastSeenAt": "2026-10-29T05:54:16Z"
     },
     {
       "id": "53cb4bae6e918f63c0b47239",
