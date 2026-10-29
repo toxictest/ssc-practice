@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-29T13:09:39Z",
+  "checkedAt": "2026-10-29T22:48:13Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-29T13:09:39Z",
-      "lastSuccessAt": "2026-10-29T13:09:39Z",
+      "checkedAt": "2026-10-29T22:48:13Z",
+      "lastSuccessAt": "2026-10-29T22:48:13Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-29T13:09:39Z",
-      "lastSuccessAt": "2026-10-29T13:09:39Z",
+      "checkedAt": "2026-10-29T22:48:13Z",
+      "lastSuccessAt": "2026-10-29T22:48:13Z",
       "count": 10,
       "error": null
     },
@@ -26,14 +26,179 @@
       "id": "nasa",
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
-      "ok": true,
-      "checkedAt": "2026-10-29T13:09:39Z",
+      "ok": false,
+      "checkedAt": "2026-10-29T22:48:13Z",
       "lastSuccessAt": "2026-10-29T13:09:39Z",
-      "count": 10,
-      "error": null
+      "count": 0,
+      "error": "Oversized XML or prohibited DTD/entity declaration"
     }
   ],
   "items": [
+    {
+      "id": "d0e4745a92353af065e9a686",
+      "title": "कार्यस्‍थल पर असुरक्षित परिस्थितियों से सुरक्षा और सम्मान तक का सफर: एनएएमएएसटीई योजना के अंतर्गत सफलता की एक कहानी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330254",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-29T22:48:13Z",
+      "lastSeenAt": "2026-10-29T22:48:13Z"
+    },
+    {
+      "id": "dd044cf6293c8f2d05c13dc4",
+      "title": "AIIA-iCAINE के छठे स्थापना दिवस पर राष्ट्रीय आयुर्वेद AI चैलेंज का शुभारंभ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330196",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-29T22:48:13Z",
+      "lastSeenAt": "2026-10-29T22:48:13Z"
+    },
+    {
+      "id": "71d58884e2be25b969b490e7",
+      "title": "इंडिया पोस्ट और यूटीआई म्यूचुअल फंड ने पैन-इंडिया केवाईसी सत्यापन सेवाओं का विस्तार करने के लिए अपनी साझेदारी को मजबूत किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330259",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-29T22:48:13Z",
+      "lastSeenAt": "2026-10-29T22:48:13Z"
+    },
+    {
+      "id": "a56724d2c106e69f66ab8076",
+      "title": "डॉ. जितेंद्र सिंह के प्रौद्योगिकी के माध्यम से परिवर्तन के आह्वान के साथ 'ईएसटीआईसी 2026' संपन्न हुआ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330261",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-29T22:48:13Z",
+      "lastSeenAt": "2026-10-29T22:48:13Z"
+    },
+    {
+      "id": "7e027bf088b4bdf50e0c0179",
+      "title": "केंद्रीय शिक्षा मंत्री श्री प्रल्हाद जोशी ने राष्ट्रीय शैक्षिक योजना एवं प्रशासन संस्थान (एनआईईपीए) के नए शैक्षणिक भवन का उद्घाटन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330211",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-29T22:48:13Z",
+      "lastSeenAt": "2026-10-29T22:48:13Z"
+    },
+    {
+      "id": "384f0a398c8b85b07ef6c522",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी कल गुजरात के बनासकांठा में पीएम-किसान की 24वीं किस्त जारी करेंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330251",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-29T22:48:13Z",
+      "lastSeenAt": "2026-10-29T22:48:13Z"
+    },
+    {
+      "id": "e0fd214078efc76f28c5790f",
+      "title": "दिव्यांगों के लिए राष्ट्रीय करियर सेवा केंद्र (एनसीएससी-डीए) दिवाली मेले में दिव्यांगजनों की शिल्प कौशल और उद्यमशीलता प्रतिभा का प्रदर्शन",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330206",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-29T22:48:13Z",
+      "lastSeenAt": "2026-10-29T22:48:13Z"
+    },
+    {
+      "id": "e3f769cac3a25082ddbe5efb",
+      "title": "विशेष अभियान 6 के तहत उर्वरक विभाग और इसके सार्वजनिक क्षेत्र के उपक्रमों ने उल्लेखनीय प्रगति की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330228",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-29T22:48:13Z",
+      "lastSeenAt": "2026-10-29T22:48:13Z"
+    },
+    {
+      "id": "70e63e7913f839dededf791c",
+      "title": "केंद्रीय मंत्री श्री राजीव रंजन सिंह कल नई दिल्ली में जन योजना अभियान 2026-27 पर राष्ट्रीय कार्यशाला का उद्घाटन करेंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330198",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-29T22:48:13Z",
+      "lastSeenAt": "2026-10-29T22:48:13Z"
+    },
+    {
+      "id": "d6417e5299071d726bf544de",
+      "title": "केंद्रीय स्वास्थ्य मंत्री श्री जेपी नड्डा ने एम्स, नई दिल्ली में विशेष अभियान 6 के अंतर्गत स्वच्छता पहलकदमियों की समीक्षा की; रोगियों और तीमारदारों के लिए नवनिर्मित आश्रय का निरीक्षण किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330201",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-29T22:48:13Z",
+      "lastSeenAt": "2026-10-29T22:48:13Z"
+    },
+    {
+      "id": "8257a395e6e0b6c40bd5d306",
+      "title": "नई दिल्ली में ‘ऐनहेंसिंग कोस्‍टल रीजीलिएंस थ्रू अडेप्टिव स्‍ट्रेटेजीज’ विषय पर राष्ट्रीय कार्यशाला का उद्घाटन",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330186",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-29T22:48:13Z",
+      "lastSeenAt": "2026-10-29T22:48:13Z"
+    },
+    {
+      "id": "b7e04109dde0a49a08573b2b",
+      "title": "नर्मदा नियंत्रण प्राधिकरण की समीक्षा समिति की 15वीं बैठक में अटॉर्नी जनरल की राय और 7 जुलाई 2026 के समझौता ज्ञापन को मंजूरी दी गई। साथ ही वित्त वर्ष 2026-27 में एनडब्ल्यूडीटी अवॉर्ड परियोजनाओं के बकाया भुगतान की प्रक्रिया स्वीकृत की गई",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330210",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-29T22:48:13Z",
+      "lastSeenAt": "2026-10-29T22:48:13Z"
+    },
+    {
+      "id": "cfb57622f6affe28cb2c8559",
+      "title": "दूरसंचार विभाग के डीजीटी मुख्यालय के दूरसंचार-सीएसआईआरटी ने राष्ट्रीय साइबर सुरक्षा जागरूकता माह 2026 के हिस्से के रूप में \"साइबर स्वच्छता की संस्कृति का निर्माण\" विषय पर जागरूकता वेबिनार का आयोजन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330177",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-29T22:48:13Z",
+      "lastSeenAt": "2026-10-29T22:48:13Z"
+    },
+    {
+      "id": "cdd602cb9e96e17f27202e34",
+      "title": "अनुसंधान को समर्थन, ज्ञान को अग्रसर करना — शैक्षणिक उपलब्धि की एक यात्रा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330213",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-29T22:48:13Z",
+      "lastSeenAt": "2026-10-29T22:48:13Z"
+    },
+    {
+      "id": "348e599dce27b040ab480e40",
+      "title": "वस्त्र मंत्रालय ने छठे विशेष अभियान के तहत भारतीय जूट निगम की व्यापक जनभागीदारी और स्वच्छता गतिविधियों की सराहना की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330179",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-29T22:48:13Z",
+      "lastSeenAt": "2026-10-29T22:48:13Z"
+    },
     {
       "id": "5c482d20c20c07f4820a863f",
       "title": "भारतीय रेल ने 31 अक्टूबर, 2026 को विशेष अभियान 6 के समापन से पहले प्रमुख लक्ष्यों को पार किया",
@@ -43,7 +208,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-29T13:09:39Z",
-      "lastSeenAt": "2026-10-29T13:09:39Z"
+      "lastSeenAt": "2026-10-29T22:48:13Z"
     },
     {
       "id": "c00a28befc7f1887b07a746c",
@@ -54,7 +219,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-29T13:09:39Z",
-      "lastSeenAt": "2026-10-29T13:09:39Z"
+      "lastSeenAt": "2026-10-29T22:48:13Z"
     },
     {
       "id": "8216c694a9a5c47993ce6547",
@@ -65,7 +230,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-29T13:09:39Z",
-      "lastSeenAt": "2026-10-29T13:09:39Z"
+      "lastSeenAt": "2026-10-29T22:48:13Z"
     },
     {
       "id": "686c3b0fe528c63ced0717c6",
@@ -76,7 +241,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-29T13:09:39Z",
-      "lastSeenAt": "2026-10-29T13:09:39Z"
+      "lastSeenAt": "2026-10-29T22:48:13Z"
     },
     {
       "id": "3bd365c00f46145f2fee8c98",
@@ -263,7 +428,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 29 Oct 2026 17:45:00",
       "firstSeenAt": "2026-10-29T13:09:39Z",
-      "lastSeenAt": "2026-10-29T13:09:39Z"
+      "lastSeenAt": "2026-10-29T22:48:13Z"
     },
     {
       "id": "b9d58034f89ed51579102384",
@@ -274,7 +439,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 29 Oct 2026 17:20:00",
       "firstSeenAt": "2026-10-29T13:09:39Z",
-      "lastSeenAt": "2026-10-29T13:09:39Z"
+      "lastSeenAt": "2026-10-29T22:48:13Z"
     },
     {
       "id": "7c5d8d1378a86c68832c1a60",
@@ -285,7 +450,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 29 Oct 2026 17:05:00",
       "firstSeenAt": "2026-10-29T13:09:39Z",
-      "lastSeenAt": "2026-10-29T13:09:39Z"
+      "lastSeenAt": "2026-10-29T22:48:13Z"
     },
     {
       "id": "eb0f48a5beabd7ead00bb3cc",
@@ -296,7 +461,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 29 Oct 2026 17:05:00",
       "firstSeenAt": "2026-10-29T13:09:39Z",
-      "lastSeenAt": "2026-10-29T13:09:39Z"
+      "lastSeenAt": "2026-10-29T22:48:13Z"
     },
     {
       "id": "2ecaa01f3fdb9bf5490e3782",
@@ -307,7 +472,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 29 Oct 2026 12:05:00",
       "firstSeenAt": "2026-10-29T13:09:39Z",
-      "lastSeenAt": "2026-10-29T13:09:39Z"
+      "lastSeenAt": "2026-10-29T22:48:13Z"
     },
     {
       "id": "ec8f17f673a092480b23de58",
@@ -362,7 +527,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 29 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-29T05:54:16Z",
-      "lastSeenAt": "2026-10-29T13:09:39Z"
+      "lastSeenAt": "2026-10-29T22:48:13Z"
     },
     {
       "id": "684a0e80dde93c2c3a3cb67a",
@@ -890,7 +1055,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 28 Oct 2026 17:50:00",
       "firstSeenAt": "2026-10-28T13:02:20Z",
-      "lastSeenAt": "2026-10-29T13:09:39Z"
+      "lastSeenAt": "2026-10-29T22:48:13Z"
     },
     {
       "id": "b3e21b4f1e985b737695cdaa",
@@ -901,7 +1066,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 28 Oct 2026 14:50:00",
       "firstSeenAt": "2026-10-28T13:02:20Z",
-      "lastSeenAt": "2026-10-29T13:09:39Z"
+      "lastSeenAt": "2026-10-29T22:48:13Z"
     },
     {
       "id": "6f553e8def3a601c91042682",
@@ -912,7 +1077,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 28 Oct 2026 13:55:00",
       "firstSeenAt": "2026-10-28T13:02:20Z",
-      "lastSeenAt": "2026-10-29T13:09:39Z"
+      "lastSeenAt": "2026-10-29T22:48:13Z"
     },
     {
       "id": "47cd528ce50805877f028cc4",
@@ -923,7 +1088,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 28 Oct 2026 13:20:00",
       "firstSeenAt": "2026-10-28T13:02:20Z",
-      "lastSeenAt": "2026-10-29T13:09:39Z"
+      "lastSeenAt": "2026-10-29T22:48:13Z"
     },
     {
       "id": "0d0644aaad791decbcbe85da",
