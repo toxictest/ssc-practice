@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-30T13:02:23Z",
+  "checkedAt": "2026-10-30T22:25:34Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-30T13:02:23Z",
-      "lastSuccessAt": "2026-10-30T13:02:23Z",
+      "checkedAt": "2026-10-30T22:25:34Z",
+      "lastSuccessAt": "2026-10-30T22:25:34Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-30T13:02:23Z",
-      "lastSuccessAt": "2026-10-30T13:02:23Z",
+      "checkedAt": "2026-10-30T22:25:34Z",
+      "lastSuccessAt": "2026-10-30T22:25:34Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,277 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-30T13:02:23Z",
-      "lastSuccessAt": "2026-10-30T13:02:23Z",
+      "checkedAt": "2026-10-30T22:25:34Z",
+      "lastSuccessAt": "2026-10-30T22:25:34Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "9552cd90bb07904d7cbd65d9",
+      "title": "पुस्तकें जीवन को बदलने और समाज में सकारात्मक परिवर्तन लाने का सशक्त माध्यम हैं: लोक सभा अध्यक्ष",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330688",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "6137e632618b294b8083db3f",
+      "title": "मसौदा दूरसंचार (प्रसारण एवं केबल) सेवा डीआरएम आधारित डिजिटल एड्रेसेबल प्रणालियों के ऑडिट मैनुअल, 2026’ पर हितधारकों से टिप्पणियां जमा करने की अंतिम तिथि बढ़ाई गई",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330669",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "6721b05a442de8c7e19157fc",
+      "title": "भारतीय नौसेना का पोत आईएनएस तरकश मॉरीशस के पोर्ट लुईस बंदरगाह पहुंचा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330667",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "11a0a46a18981be3703e4ef6",
+      "title": "विशेष अभियान 6: जल संसाधन, नदी विकास और गंगा संरक्षण विभाग की उपलब्धियां",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330652",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "4513c060c9cd5f4189ae0a48",
+      "title": "युवाओं में चुनावी जागरूकता बढ़ाने के लिए 21 राज्यों और केंद्र शासित प्रदेशों में ‘विकसित भारत युवा संवाद: अपना वोट जानें’ के 46 कार्यक्रम आयोजित किए गए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330655",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "eb98970603ddf3b374452eb8",
+      "title": "व्यावसायिक जोखिमों से गरिमापूर्ण कार्य की ओर",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330671",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "9b968b61a66257fcb5eb067b",
+      "title": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्रालय के सहयोग से, डाक विभाग ने स्तन कैंसर के प्रति जागरूकता बढ़ाने के लिए स्मारक डाक टिकट जारी किए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330674",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "976f9eff2a1ecc0156a044ad",
+      "title": "भारत सरकार ने ‘विकसित भारत के लिए बैंकिंग पर उच्च स्तरीय समिति’ का गठन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330631",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "b20982bedfd816b569ab6bba",
+      "title": "भारत की राष्ट्रपति 31 अक्तूबर से 1 नवंबर, 2026 तक महाराष्ट्र और हरियाणा का दौरा करेंगी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330591",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "9a15e8248b33cdceaf9f055c",
+      "title": "एबीपी के तहत तमिलनाडु में भारतनेट नेटवर्क के उपयोग के लिए, डिजिटल भारत निधि, दूरसंचार विभाग, तमिलनाडु सरकार एवं तमिलनाडु फाइबरनेट कॉर्पोरेशन के बीच समझौता",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330639",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "af05b6eefe23b0be358737c5",
+      "title": "आर्थिक चुनौतियों से शोध के सपनों तक का सफर",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330605",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "a23d98c7a48b375b8387cbf8",
+      "title": "'एट द टॉप, बुर्ज खलीफा' और 'रिसॉर्ट्स वर्ल्ड सेंटोसा' में ऑनलाइन बुकिंग के लिए यूपीआई की सुविधा शुरू",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330601",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "6092f15ce012ef387fbe4e5a",
+      "title": "एयर मार्शल इंदरपाल सिंह वालिया को वायुसेना का उप प्रमुख नियुक्त किया गया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330632",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "b608c8deed650b1722ef20a1",
+      "title": "डाक विभाग ने स्तन कैंसर जागरूकता पर विशेष स्मारक डाक टिकट जारी किए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330604",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "36df99da6650ee4ff34e944c",
+      "title": "'नशा मुक्त युवा, विकसित भारत क्विज़' में 7,597 से अधिक नागरिकों ने भाग लिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330602",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "6d66c588d6f679f6d658c816",
+      "title": "निफ्ट ने 'विशेष अभियान 6' के तहत स्वच्छता, सतत विकास और हरित परिसर को बढ़ावा देने की दिशा में महत्वपूर्ण उपलब्धियां हासिल कीं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330651",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "eed59327ab0bd9b14578f710",
+      "title": "एनसीएलटी के न्यायिक एवं तकनीकी सदस्यों की नियुक्ति प्रक्रिया में एमसीए केवल प्रशासनिक भूमिका निभाता है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330596",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "23fd248f1b9ca17feb95ccb7",
+      "title": "ग्रामीण विकास विभाग में हिंदी पखवाड़ा 2026 का समापन, विभिन्न प्रतियोगिताओं के विजेताओं को किया गया सम्मानित",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330545",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "b5b194ba06aceab388671521",
+      "title": "ईस्टर्न कोलफील्ड्स लिमिटेड ने खनन से निकले कबाड़ का उपयोग कर युद्धपोत का मॉडल तैयार किया और इसके माध्यम से भारतीय नौसेना के प्रति आभार व्यक्त किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330606",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "b044852e90a0d851d2835c2e",
+      "title": "प्रधानमंत्री पुरस्कार (पीएमए) के अंतर्गत सम्मानित पहलों की सततता एवं प्रतिकृति विषय पर राष्ट्रीय सुशासन वेबिनार श्रृंखला का 41वां वेबिनार 30 अक्टूबर, 2026 को आयोजित किया गया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330590",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "1a162d626b2f05640669b444",
+      "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2021-22 Series VII due on November 02, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63897",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 30 Oct 2026 18:40:00",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "41fa33a940a90fd4f50dce1c",
+      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+      "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-30T19:31:02+00:00",
+      "sourceDateText": "Fri, 30 Oct 2026 19:31:02 +0000",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "9fe773cbfea8af218499ce45",
+      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+      "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-30T15:56:26+00:00",
+      "sourceDateText": "Fri, 30 Oct 2026 15:56:26 +0000",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
+    {
+      "id": "7aa6dab0376044f6c887c5ca",
+      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-30T14:51:21+00:00",
+      "sourceDateText": "Fri, 30 Oct 2026 14:51:21 +0000",
+      "firstSeenAt": "2026-10-30T22:25:34Z",
+      "lastSeenAt": "2026-10-30T22:25:34Z"
+    },
     {
       "id": "0236ad4d2b46ae862ab7d84c",
       "title": "केन्द्रीय सामाजिक न्याय और अधिकारिता मंत्री द्वारा एलिम्को की समीक्षा एवं अवलोकन",
@@ -230,7 +494,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 18:10:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-30T13:02:23Z"
+      "lastSeenAt": "2026-10-30T22:25:34Z"
     },
     {
       "id": "981f7206b94615c2650dd16b",
@@ -241,7 +505,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:40:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-30T13:02:23Z"
+      "lastSeenAt": "2026-10-30T22:25:34Z"
     },
     {
       "id": "be2014d70b6e4cfff4f2ac39",
@@ -252,7 +516,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:35:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-30T13:02:23Z"
+      "lastSeenAt": "2026-10-30T22:25:34Z"
     },
     {
       "id": "3fe92c3d66f855d57b8d635c",
@@ -263,7 +527,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:30:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-30T13:02:23Z"
+      "lastSeenAt": "2026-10-30T22:25:34Z"
     },
     {
       "id": "eaff7ec7e6b0a7188ed26953",
@@ -274,7 +538,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:10:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-30T13:02:23Z"
+      "lastSeenAt": "2026-10-30T22:25:34Z"
     },
     {
       "id": "8513a545b70edde203d431b6",
@@ -285,7 +549,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:00:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-30T13:02:23Z"
+      "lastSeenAt": "2026-10-30T22:25:34Z"
     },
     {
       "id": "8c08b1212e1fd1742613fbde",
@@ -296,7 +560,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:00:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-30T13:02:23Z"
+      "lastSeenAt": "2026-10-30T22:25:34Z"
     },
     {
       "id": "6e95cd0102c52a7302612377",
@@ -307,7 +571,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 15:40:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-30T13:02:23Z"
+      "lastSeenAt": "2026-10-30T22:25:34Z"
     },
     {
       "id": "9a9cda54fc737e514eed670a",
@@ -318,7 +582,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 14:30:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-30T13:02:23Z"
+      "lastSeenAt": "2026-10-30T22:25:34Z"
     },
     {
       "id": "cf83ba876333ba2e913de39f",
@@ -329,7 +593,7 @@
       "publishedAt": "2026-10-30T10:00:00+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 10:00:00 +0000",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-30T13:02:23Z"
+      "lastSeenAt": "2026-10-30T22:25:34Z"
     },
     {
       "id": "54bf7f64308abd73684cc366",
@@ -439,7 +703,7 @@
       "publishedAt": "2026-10-30T04:05:00+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-30T13:02:23Z"
+      "lastSeenAt": "2026-10-30T22:25:34Z"
     },
     {
       "id": "9917aa7e49dd71d1691678ce",
@@ -450,7 +714,7 @@
       "publishedAt": "2026-10-30T04:01:00+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 04:01:00 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-30T13:02:23Z"
+      "lastSeenAt": "2026-10-30T22:25:34Z"
     },
     {
       "id": "de440a44154745f5e3789dff",
@@ -461,7 +725,7 @@
       "publishedAt": "2026-10-30T00:07:39+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 00:07:39 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-30T13:02:23Z"
+      "lastSeenAt": "2026-10-30T22:25:34Z"
     },
     {
       "id": "9bbd0b7e75642bb10626ecd1",
@@ -472,7 +736,7 @@
       "publishedAt": "2026-10-29T23:32:35+00:00",
       "sourceDateText": "Thu, 29 Oct 2026 23:32:35 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-30T13:02:23Z"
+      "lastSeenAt": "2026-10-30T22:25:34Z"
     },
     {
       "id": "ed6e3d4d78aea9350fe3c6ab",
@@ -483,7 +747,7 @@
       "publishedAt": "2026-10-29T21:44:23+00:00",
       "sourceDateText": "Thu, 29 Oct 2026 21:44:23 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-30T13:02:23Z"
+      "lastSeenAt": "2026-10-30T22:25:34Z"
     },
     {
       "id": "4b2c059bd94e7ed8fd721e38",
@@ -494,7 +758,7 @@
       "publishedAt": "2026-10-29T18:18:09+00:00",
       "sourceDateText": "Thu, 29 Oct 2026 18:18:09 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-30T13:02:23Z"
+      "lastSeenAt": "2026-10-30T22:25:34Z"
     },
     {
       "id": "6a8e8f4a60c542051cae5797",
