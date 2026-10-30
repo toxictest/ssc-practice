@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-29T22:48:13Z",
+  "checkedAt": "2026-10-30T05:55:05Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-29T22:48:13Z",
-      "lastSuccessAt": "2026-10-29T22:48:13Z",
+      "checkedAt": "2026-10-30T05:55:05Z",
+      "lastSuccessAt": "2026-10-30T05:55:05Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-29T22:48:13Z",
-      "lastSuccessAt": "2026-10-29T22:48:13Z",
+      "checkedAt": "2026-10-30T05:55:05Z",
+      "lastSuccessAt": "2026-10-30T05:55:05Z",
       "count": 10,
       "error": null
     },
@@ -26,14 +26,223 @@
       "id": "nasa",
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
-      "ok": false,
-      "checkedAt": "2026-10-29T22:48:13Z",
-      "lastSuccessAt": "2026-10-29T13:09:39Z",
-      "count": 0,
-      "error": "Oversized XML or prohibited DTD/entity declaration"
+      "ok": true,
+      "checkedAt": "2026-10-30T05:55:05Z",
+      "lastSuccessAt": "2026-10-30T05:55:05Z",
+      "count": 10,
+      "error": null
     }
   ],
   "items": [
+    {
+      "id": "54bf7f64308abd73684cc366",
+      "title": "ماہی پروری کا شعبہ اب پیداوار سے آگے بڑھنے کی راہ پر گامزن: مچھلی کی قدر افزائی کے کاروبار اور متحرک فروخت کے نظام سے بھارت کی نیلی معیشت کو نئی جہت ملنے کی توقع",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330314",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T05:55:05Z",
+      "lastSeenAt": "2026-10-30T05:55:05Z"
+    },
+    {
+      "id": "9cbae0144c16e02983ba6ff8",
+      "title": "आईडीबीआई बैंक लिमिटेड के रणनीतिक पुनर्गठन की प्रक्रिया पर स्पष्टीकरण",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330296",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T05:55:05Z",
+      "lastSeenAt": "2026-10-30T05:55:05Z"
+    },
+    {
+      "id": "261623e56ceee840192c332d",
+      "title": "केंद्रीय वाणिज्य एवं उद्योग मंत्री श्री पीयूष गोयल ने तेलंगाना से एफटीए का अधिक से अधिक उपयोग करने का आह्वान किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330295",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T05:55:05Z",
+      "lastSeenAt": "2026-10-30T05:55:05Z"
+    },
+    {
+      "id": "77d15c5cd9a30795c3003cc7",
+      "title": "राष्ट्रीय लघु उद्योग निगम लिमिटेड (एनएसआईसी) ने वित्त वर्ष 2025-26 के लिए भारत सरकार को लाभांश प्रदान किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330294",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T05:55:05Z",
+      "lastSeenAt": "2026-10-30T05:55:05Z"
+    },
+    {
+      "id": "baa674718fa9b94475ca1a2d",
+      "title": "माय भारत(MY Bharat) ने 12 राज्यों/केंद्रशासित प्रदेशों में 23 ‘विकसित भारत युवा संवाद: अपना वोट जानें’ कार्यक्रम आयोजित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330292",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T05:55:05Z",
+      "lastSeenAt": "2026-10-30T05:55:05Z"
+    },
+    {
+      "id": "51a18d8d5a6efd185bd47c9a",
+      "title": "8-दिवसीय ‘शिल्प समागम मेला 2026’ असम के गुवाहाटी में सफलतापूर्वक संपन्न",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330293",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T05:55:05Z",
+      "lastSeenAt": "2026-10-30T05:55:05Z"
+    },
+    {
+      "id": "fd51bda6a60314afddaaf755",
+      "title": "Scheduled Banks’ Statement of Position in India as on October 15, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63887",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 30 Oct 2026 10:35:00",
+      "firstSeenAt": "2026-10-30T05:55:05Z",
+      "lastSeenAt": "2026-10-30T05:55:05Z"
+    },
+    {
+      "id": "fe2c5a6a675df5d688633838",
+      "title": "Result of Underwriting Auction conducted on October 30, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63886",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 30 Oct 2026 10:05:00",
+      "firstSeenAt": "2026-10-30T05:55:05Z",
+      "lastSeenAt": "2026-10-30T05:55:05Z"
+    },
+    {
+      "id": "f4f6255368995ac14d8afb4f",
+      "title": "Money Market Operations as on October 29, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63885",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 30 Oct 2026 09:00:00",
+      "firstSeenAt": "2026-10-30T05:55:05Z",
+      "lastSeenAt": "2026-10-30T05:55:05Z"
+    },
+    {
+      "id": "e51da67c2ef8263b3c33ce35",
+      "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-30T04:05:00+00:00",
+      "sourceDateText": "Fri, 30 Oct 2026 04:05:00 +0000",
+      "firstSeenAt": "2026-10-30T05:55:05Z",
+      "lastSeenAt": "2026-10-30T05:55:05Z"
+    },
+    {
+      "id": "9917aa7e49dd71d1691678ce",
+      "title": "Vega Island Frozen in Fright",
+      "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-30T04:01:00+00:00",
+      "sourceDateText": "Fri, 30 Oct 2026 04:01:00 +0000",
+      "firstSeenAt": "2026-10-30T05:55:05Z",
+      "lastSeenAt": "2026-10-30T05:55:05Z"
+    },
+    {
+      "id": "de440a44154745f5e3789dff",
+      "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
+      "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-30T00:07:39+00:00",
+      "sourceDateText": "Fri, 30 Oct 2026 00:07:39 +0000",
+      "firstSeenAt": "2026-10-30T05:55:05Z",
+      "lastSeenAt": "2026-10-30T05:55:05Z"
+    },
+    {
+      "id": "9bbd0b7e75642bb10626ecd1",
+      "title": "Slice of Martian Meteorite Teghaza 001",
+      "url": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-29T23:32:35+00:00",
+      "sourceDateText": "Thu, 29 Oct 2026 23:32:35 +0000",
+      "firstSeenAt": "2026-10-30T05:55:05Z",
+      "lastSeenAt": "2026-10-30T05:55:05Z"
+    },
+    {
+      "id": "ed6e3d4d78aea9350fe3c6ab",
+      "title": "Halloween Aboard the International Space Station",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-29T21:44:23+00:00",
+      "sourceDateText": "Thu, 29 Oct 2026 21:44:23 +0000",
+      "firstSeenAt": "2026-10-30T05:55:05Z",
+      "lastSeenAt": "2026-10-30T05:55:05Z"
+    },
+    {
+      "id": "4b2c059bd94e7ed8fd721e38",
+      "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+      "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-29T18:18:09+00:00",
+      "sourceDateText": "Thu, 29 Oct 2026 18:18:09 +0000",
+      "firstSeenAt": "2026-10-30T05:55:05Z",
+      "lastSeenAt": "2026-10-30T05:55:05Z"
+    },
+    {
+      "id": "6a8e8f4a60c542051cae5797",
+      "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
+      "url": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-29T18:00:35+00:00",
+      "sourceDateText": "Thu, 29 Oct 2026 18:00:35 +0000",
+      "firstSeenAt": "2026-10-30T05:55:05Z",
+      "lastSeenAt": "2026-10-30T05:55:05Z"
+    },
+    {
+      "id": "dbf41850dbaefd91e251b867",
+      "title": "NIH–NASA QuSAFE Challenge",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-29T17:44:37+00:00",
+      "sourceDateText": "Thu, 29 Oct 2026 17:44:37 +0000",
+      "firstSeenAt": "2026-10-30T05:55:05Z",
+      "lastSeenAt": "2026-10-30T05:55:05Z"
+    },
+    {
+      "id": "624e1e1e3d1bccd57060f312",
+      "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
+      "url": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-29T15:21:23+00:00",
+      "sourceDateText": "Thu, 29 Oct 2026 15:21:23 +0000",
+      "firstSeenAt": "2026-10-30T05:55:05Z",
+      "lastSeenAt": "2026-10-30T05:55:05Z"
+    },
+    {
+      "id": "dddd54e7732bfe4132ea0bf9",
+      "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
+      "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-29T15:10:18+00:00",
+      "sourceDateText": "Thu, 29 Oct 2026 15:10:18 +0000",
+      "firstSeenAt": "2026-10-30T05:55:05Z",
+      "lastSeenAt": "2026-10-30T05:55:05Z"
+    },
     {
       "id": "d0e4745a92353af065e9a686",
       "title": "कार्यस्‍थल पर असुरक्षित परिस्थितियों से सुरक्षा और सम्मान तक का सफर: एनएएमएएसटीई योजना के अंतर्गत सफलता की एक कहानी",
@@ -43,7 +252,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-29T22:48:13Z",
-      "lastSeenAt": "2026-10-29T22:48:13Z"
+      "lastSeenAt": "2026-10-30T05:55:05Z"
     },
     {
       "id": "dd044cf6293c8f2d05c13dc4",
@@ -54,7 +263,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-29T22:48:13Z",
-      "lastSeenAt": "2026-10-29T22:48:13Z"
+      "lastSeenAt": "2026-10-30T05:55:05Z"
     },
     {
       "id": "71d58884e2be25b969b490e7",
@@ -65,7 +274,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-29T22:48:13Z",
-      "lastSeenAt": "2026-10-29T22:48:13Z"
+      "lastSeenAt": "2026-10-30T05:55:05Z"
     },
     {
       "id": "a56724d2c106e69f66ab8076",
@@ -76,7 +285,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-29T22:48:13Z",
-      "lastSeenAt": "2026-10-29T22:48:13Z"
+      "lastSeenAt": "2026-10-30T05:55:05Z"
     },
     {
       "id": "7e027bf088b4bdf50e0c0179",
@@ -87,7 +296,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-29T22:48:13Z",
-      "lastSeenAt": "2026-10-29T22:48:13Z"
+      "lastSeenAt": "2026-10-30T05:55:05Z"
     },
     {
       "id": "384f0a398c8b85b07ef6c522",
@@ -98,7 +307,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-29T22:48:13Z",
-      "lastSeenAt": "2026-10-29T22:48:13Z"
+      "lastSeenAt": "2026-10-30T05:55:05Z"
     },
     {
       "id": "e0fd214078efc76f28c5790f",
@@ -109,7 +318,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-29T22:48:13Z",
-      "lastSeenAt": "2026-10-29T22:48:13Z"
+      "lastSeenAt": "2026-10-30T05:55:05Z"
     },
     {
       "id": "e3f769cac3a25082ddbe5efb",
@@ -120,7 +329,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-29T22:48:13Z",
-      "lastSeenAt": "2026-10-29T22:48:13Z"
+      "lastSeenAt": "2026-10-30T05:55:05Z"
     },
     {
       "id": "70e63e7913f839dededf791c",
@@ -131,7 +340,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-29T22:48:13Z",
-      "lastSeenAt": "2026-10-29T22:48:13Z"
+      "lastSeenAt": "2026-10-30T05:55:05Z"
     },
     {
       "id": "d6417e5299071d726bf544de",
@@ -142,7 +351,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-29T22:48:13Z",
-      "lastSeenAt": "2026-10-29T22:48:13Z"
+      "lastSeenAt": "2026-10-30T05:55:05Z"
     },
     {
       "id": "8257a395e6e0b6c40bd5d306",
@@ -153,7 +362,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-29T22:48:13Z",
-      "lastSeenAt": "2026-10-29T22:48:13Z"
+      "lastSeenAt": "2026-10-30T05:55:05Z"
     },
     {
       "id": "b7e04109dde0a49a08573b2b",
@@ -164,7 +373,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-29T22:48:13Z",
-      "lastSeenAt": "2026-10-29T22:48:13Z"
+      "lastSeenAt": "2026-10-30T05:55:05Z"
     },
     {
       "id": "cfb57622f6affe28cb2c8559",
@@ -175,7 +384,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-29T22:48:13Z",
-      "lastSeenAt": "2026-10-29T22:48:13Z"
+      "lastSeenAt": "2026-10-30T05:55:05Z"
     },
     {
       "id": "cdd602cb9e96e17f27202e34",
@@ -428,7 +637,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 29 Oct 2026 17:45:00",
       "firstSeenAt": "2026-10-29T13:09:39Z",
-      "lastSeenAt": "2026-10-29T22:48:13Z"
+      "lastSeenAt": "2026-10-30T05:55:05Z"
     },
     {
       "id": "b9d58034f89ed51579102384",
@@ -439,7 +648,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 29 Oct 2026 17:20:00",
       "firstSeenAt": "2026-10-29T13:09:39Z",
-      "lastSeenAt": "2026-10-29T22:48:13Z"
+      "lastSeenAt": "2026-10-30T05:55:05Z"
     },
     {
       "id": "7c5d8d1378a86c68832c1a60",
@@ -450,7 +659,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 29 Oct 2026 17:05:00",
       "firstSeenAt": "2026-10-29T13:09:39Z",
-      "lastSeenAt": "2026-10-29T22:48:13Z"
+      "lastSeenAt": "2026-10-30T05:55:05Z"
     },
     {
       "id": "eb0f48a5beabd7ead00bb3cc",
@@ -461,7 +670,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 29 Oct 2026 17:05:00",
       "firstSeenAt": "2026-10-29T13:09:39Z",
-      "lastSeenAt": "2026-10-29T22:48:13Z"
+      "lastSeenAt": "2026-10-30T05:55:05Z"
     },
     {
       "id": "2ecaa01f3fdb9bf5490e3782",
@@ -472,7 +681,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 29 Oct 2026 12:05:00",
       "firstSeenAt": "2026-10-29T13:09:39Z",
-      "lastSeenAt": "2026-10-29T22:48:13Z"
+      "lastSeenAt": "2026-10-30T05:55:05Z"
     },
     {
       "id": "ec8f17f673a092480b23de58",
@@ -527,7 +736,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 29 Oct 2026 09:00:00",
       "firstSeenAt": "2026-10-29T05:54:16Z",
-      "lastSeenAt": "2026-10-29T22:48:13Z"
+      "lastSeenAt": "2026-10-30T05:55:05Z"
     },
     {
       "id": "684a0e80dde93c2c3a3cb67a",
@@ -1055,7 +1264,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 28 Oct 2026 17:50:00",
       "firstSeenAt": "2026-10-28T13:02:20Z",
-      "lastSeenAt": "2026-10-29T22:48:13Z"
+      "lastSeenAt": "2026-10-30T05:55:05Z"
     },
     {
       "id": "b3e21b4f1e985b737695cdaa",
