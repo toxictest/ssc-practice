@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-30T05:55:05Z",
+  "checkedAt": "2026-10-30T13:02:23Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-30T05:55:05Z",
-      "lastSuccessAt": "2026-10-30T05:55:05Z",
+      "checkedAt": "2026-10-30T13:02:23Z",
+      "lastSuccessAt": "2026-10-30T13:02:23Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-30T05:55:05Z",
-      "lastSuccessAt": "2026-10-30T05:55:05Z",
+      "checkedAt": "2026-10-30T13:02:23Z",
+      "lastSuccessAt": "2026-10-30T13:02:23Z",
       "count": 10,
       "error": null
     },
@@ -27,23 +27,320 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-30T05:55:05Z",
-      "lastSuccessAt": "2026-10-30T05:55:05Z",
+      "checkedAt": "2026-10-30T13:02:23Z",
+      "lastSuccessAt": "2026-10-30T13:02:23Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
     {
+      "id": "0236ad4d2b46ae862ab7d84c",
+      "title": "केन्द्रीय सामाजिक न्याय और अधिकारिता मंत्री द्वारा एलिम्को की समीक्षा एवं अवलोकन",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330474",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "817c9e8a5f3dc8ac8616ee0f",
+      "title": "डीआरआई ने म्यांमार से जुड़े मादक पदार्थों की तस्करी के नेटवर्क को बड़ा झटका दिया; पूर्वोत्तर में 50 किलोग्राम मेथामफेटामाइन की गोलियों और क्रिस्टल मेथ की भारी खेप जब्त की गई; चार गिरफ्तार",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330504",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "f6844556a83bde316becb665",
+      "title": "भारतीय दूरसंचार विनियामक प्राधिकरण",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330502",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "67bc1fe76fcdfca694d26f81",
+      "title": "पीएम-किसान की 24वीं किस्त",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330416",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "0bd99c5cf97ee2eb5ac7b2f3",
+      "title": "गुजरात के बनासकांठा में विकास परियोजनाओं के शुभारंभ के अवसर पर प्रधानमंत्री के भाषण का मूल पाठ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330412",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "2874c0ccb9c4b6db98371abe",
+      "title": "ट्राई ने सितंबर 2026 के दौरान अदोनी-मंत्रालयम और हैदराबाद के आसपास के क्षेत्रों में किए गए स्‍वतंत्र ड्राइव टेस्ट (आईडीटी) के निष्कर्ष जारी किए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330491",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "7ac967b8adb07493be59d4e8",
+      "title": "विकसित भारत @2047 के लक्ष्य की प्राप्ति के लिए उपराष्ट्रपति ने समग्र ग्रामीण विकास पर दिया जोर; गांधीग्राम ग्रामीण संस्थान के स्वर्ण जयंती समारोह एवं 39वें दीक्षांत समारोह में हुए शामिल",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330418",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "d377f5d76c40310b5c22fa04",
+      "title": "ट्राई ने अगस्त 2026 में जम्मू-कश्मीर एलएसए के तहत लेह और आस-पास के इलाकों में मोबाइल नेटवर्क क्वालिटी का आकलन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330426",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "61f10f75c04804722f2883ad",
+      "title": "भारत 12 से 17 अप्रैल, 2027 तक नई दिल्ली में आईसीएआर-सीजीआईएआर विज्ञान एवं साझेदारी सप्ताह 2027 की मेजबानी करेगा; इसमें 5,000 से अधिक प्रतिनिधियों के भाग लेने की उम्मीद है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330436",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "70cb132926e06151571df366",
+      "title": "पेंशन और पेंशनभोगी कल्याण विभाग 1 से 30 नवंबर, 2026 तक 'राष्ट्रव्यापी डिजिटल जीवन प्रमाण पत्र (डीएलसी) अभियान-5' आयोजित कर रहा है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330373",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "5fd2425fc9a1862e231e2543",
+      "title": "व्यापार एवं आर्थिक सहयोग को सुदृढ़ करने के लिए भारत-बेल्जियम-लक्जमबर्ग आर्थिक संघ के संयुक्त आर्थिक आयोग का 19वां सत्र लक्जमबर्ग में आयोजित",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330364",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "816b33784191516498d8165b",
+      "title": "प्रधानमंत्री ने ज्ञान, विवेक और अच्छे आचरण के महत्व का उल्‍लेख करते हुए एक संस्कृत सुभाषितम् साझा किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330362",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "32ce77988686b12bee9fc1b2",
+      "title": "भारतीय नौसेना का प्रथम प्रशिक्षण स्क्वाड्रन कोलंबो, श्रीलंका से रवाना",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330338",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "9cd87df96b95bafc217e35d0",
+      "title": "डीआरआई ने उत्तर प्रदेश में सिंथेटिक ड्रग्स बनाने वाली एक बड़ी गुप्त प्रयोगशाला का भंडाफोड़ किया; लगभग 1,100 किलोग्राम मादक पदार्थ और इसे बनाने वाले रसायन जब्त किए; दो लोगों को गिरफ्तार किया गया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330365",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "20b5de268a2f65868ea7fd58",
+      "title": "भगवान बुद्ध के पवित्र अवशेष अरुणाचल प्रदेश में 31 अक्टूबर से 21 नवंबर 2026 तक सार्वजनिक पूजा के लिए रखे जाएंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330366",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "8eaa75ad28da256d93cc90b9",
+      "title": "सरकार ने श्रम संहिता के तहत असंगठित कामगारों और गिग एवं प्लेटफॉर्म कामगारों के लिए राष्ट्रीय सामाजिक सुरक्षा बोर्ड को अधिसूचित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330385",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "bef447da672589b77ecde680",
+      "title": "अरुणाचल प्रदेश के तवांग में 14वें अंतरराष्ट्रीय पर्यटन मार्ट का शुभांरभ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330363",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "622233cd333e1b591f66a1b1",
+      "title": "Auction of State Government Securities",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63896",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 30 Oct 2026 18:10:00",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "981f7206b94615c2650dd16b",
+      "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63895",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 30 Oct 2026 17:40:00",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "be2014d70b6e4cfff4f2ac39",
+      "title": "Lending and Deposit Rates of Scheduled Commercial Banks – October 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63894",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 30 Oct 2026 17:35:00",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "3fe92c3d66f855d57b8d635c",
+      "title": "Monthly Data on India’s International Trade in Services for the Month of September 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63893",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 30 Oct 2026 17:30:00",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "eaff7ec7e6b0a7188ed26953",
+      "title": "625 th Meeting of Central Board of the Reserve Bank of India",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63892",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 30 Oct 2026 17:10:00",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "8513a545b70edde203d431b6",
+      "title": "Sectoral Deployment of Bank Credit – September 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63891",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 30 Oct 2026 17:00:00",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "8c08b1212e1fd1742613fbde",
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63890",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 30 Oct 2026 17:00:00",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "6e95cd0102c52a7302612377",
+      "title": "Government Stock - Full Auction Results",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63889",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 30 Oct 2026 15:40:00",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "9a9cda54fc737e514eed670a",
+      "title": "Government Stock - Auction Results: Cut-off",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63888",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 30 Oct 2026 14:30:00",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
+      "id": "cf83ba876333ba2e913de39f",
+      "title": "November’s Night Sky Notes: Light-Day Away",
+      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-10-30T10:00:00+00:00",
+      "sourceDateText": "Fri, 30 Oct 2026 10:00:00 +0000",
+      "firstSeenAt": "2026-10-30T13:02:23Z",
+      "lastSeenAt": "2026-10-30T13:02:23Z"
+    },
+    {
       "id": "54bf7f64308abd73684cc366",
-      "title": "ماہی پروری کا شعبہ اب پیداوار سے آگے بڑھنے کی راہ پر گامزن: مچھلی کی قدر افزائی کے کاروبار اور متحرک فروخت کے نظام سے بھارت کی نیلی معیشت کو نئی جہت ملنے کی توقع",
+      "title": "मत्स्य पालन क्षेत्र अब केवल उत्पादन तक सीमित नहीं, बल्कि मूल्य संवर्धन, उद्यमों और मोबाइल विपणन के माध्यम से भारत की उच्च मूल्य वाली नीली अर्थव्यवस्था को नई दिशा देने की ओर अग्रसर",
       "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330314",
       "sourceId": "pib",
       "sourceName": "Press Information Bureau",
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-30T05:55:05Z"
+      "lastSeenAt": "2026-10-30T13:02:23Z"
     },
     {
       "id": "9cbae0144c16e02983ba6ff8",
@@ -54,7 +351,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-30T05:55:05Z"
+      "lastSeenAt": "2026-10-30T13:02:23Z"
     },
     {
       "id": "261623e56ceee840192c332d",
@@ -65,7 +362,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-30T05:55:05Z"
+      "lastSeenAt": "2026-10-30T13:02:23Z"
     },
     {
       "id": "77d15c5cd9a30795c3003cc7",
@@ -109,7 +406,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 10:35:00",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-30T05:55:05Z"
+      "lastSeenAt": "2026-10-30T13:02:23Z"
     },
     {
       "id": "fe2c5a6a675df5d688633838",
@@ -142,7 +439,7 @@
       "publishedAt": "2026-10-30T04:05:00+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-30T05:55:05Z"
+      "lastSeenAt": "2026-10-30T13:02:23Z"
     },
     {
       "id": "9917aa7e49dd71d1691678ce",
@@ -153,7 +450,7 @@
       "publishedAt": "2026-10-30T04:01:00+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 04:01:00 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-30T05:55:05Z"
+      "lastSeenAt": "2026-10-30T13:02:23Z"
     },
     {
       "id": "de440a44154745f5e3789dff",
@@ -164,7 +461,7 @@
       "publishedAt": "2026-10-30T00:07:39+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 00:07:39 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-30T05:55:05Z"
+      "lastSeenAt": "2026-10-30T13:02:23Z"
     },
     {
       "id": "9bbd0b7e75642bb10626ecd1",
@@ -175,7 +472,7 @@
       "publishedAt": "2026-10-29T23:32:35+00:00",
       "sourceDateText": "Thu, 29 Oct 2026 23:32:35 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-30T05:55:05Z"
+      "lastSeenAt": "2026-10-30T13:02:23Z"
     },
     {
       "id": "ed6e3d4d78aea9350fe3c6ab",
@@ -186,7 +483,7 @@
       "publishedAt": "2026-10-29T21:44:23+00:00",
       "sourceDateText": "Thu, 29 Oct 2026 21:44:23 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-30T05:55:05Z"
+      "lastSeenAt": "2026-10-30T13:02:23Z"
     },
     {
       "id": "4b2c059bd94e7ed8fd721e38",
@@ -197,7 +494,7 @@
       "publishedAt": "2026-10-29T18:18:09+00:00",
       "sourceDateText": "Thu, 29 Oct 2026 18:18:09 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-30T05:55:05Z"
+      "lastSeenAt": "2026-10-30T13:02:23Z"
     },
     {
       "id": "6a8e8f4a60c542051cae5797",
@@ -208,7 +505,7 @@
       "publishedAt": "2026-10-29T18:00:35+00:00",
       "sourceDateText": "Thu, 29 Oct 2026 18:00:35 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-30T05:55:05Z"
+      "lastSeenAt": "2026-10-30T13:02:23Z"
     },
     {
       "id": "dbf41850dbaefd91e251b867",
@@ -219,7 +516,7 @@
       "publishedAt": "2026-10-29T17:44:37+00:00",
       "sourceDateText": "Thu, 29 Oct 2026 17:44:37 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-30T05:55:05Z"
+      "lastSeenAt": "2026-10-30T13:02:23Z"
     },
     {
       "id": "624e1e1e3d1bccd57060f312",
@@ -230,7 +527,7 @@
       "publishedAt": "2026-10-29T15:21:23+00:00",
       "sourceDateText": "Thu, 29 Oct 2026 15:21:23 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-30T05:55:05Z"
+      "lastSeenAt": "2026-10-30T13:02:23Z"
     },
     {
       "id": "dddd54e7732bfe4132ea0bf9",
