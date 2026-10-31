@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-31T05:51:34Z",
+  "checkedAt": "2026-10-31T12:40:28Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-31T05:51:34Z",
-      "lastSuccessAt": "2026-10-31T05:51:34Z",
+      "checkedAt": "2026-10-31T12:40:28Z",
+      "lastSuccessAt": "2026-10-31T12:40:28Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-31T05:51:34Z",
-      "lastSuccessAt": "2026-10-31T05:51:34Z",
+      "checkedAt": "2026-10-31T12:40:28Z",
+      "lastSuccessAt": "2026-10-31T12:40:28Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,233 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-31T05:51:34Z",
-      "lastSuccessAt": "2026-10-31T05:51:34Z",
+      "checkedAt": "2026-10-31T12:40:28Z",
+      "lastSuccessAt": "2026-10-31T12:40:28Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "887b439f7ea5d65d4fd0315e",
+      "title": "आवासन और शहरी कार्य मंत्रालय ने स्वच्छ दिल्ली के लिए एक साझा रोडमैप तैयार करने हेतु सहभागी कार्यशाला आयोजित की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330917",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T12:40:28Z",
+      "lastSeenAt": "2026-10-31T12:40:28Z"
+    },
+    {
+      "id": "7372e53230403aaee784f515",
+      "title": "एयर चीफ मार्शल आशुतोष दीक्षित पीवीएसएम, एवीएसएम, वीएम, वीएसएम ने भारतीय वायु सेना के वायु सेना प्रमुख के रूप में आधिकारिक तौर पर कार्यभार ग्रहण किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330911",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T12:40:28Z",
+      "lastSeenAt": "2026-10-31T12:40:28Z"
+    },
+    {
+      "id": "9981490c7a320e574c67746a",
+      "title": "केंद्रीय मंत्री डॉ. जितेंद्र सिंह ने गवर्नेंस में समावेशी क्षमता निर्माण के लिए आईआईपीए की देशव्यापी पहुंच की स्थिति बताई",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330909",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T12:40:28Z",
+      "lastSeenAt": "2026-10-31T12:40:28Z"
+    },
+    {
+      "id": "212c22bc7a940de3b1c5bc0a",
+      "title": "संसदीय कार्य मंत्रालय ने स्वच्छता, रिकॉर्ड प्रबंधन और डिजिटल शासन पर ध्यान केंद्रित करते हुए 'विशेष अभियान 6.0' का समापन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330914",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T12:40:28Z",
+      "lastSeenAt": "2026-10-31T12:40:28Z"
+    },
+    {
+      "id": "03ee2240ba5b5624b2dfbe75",
+      "title": "भारत सरकार ने कपास के आयात पर सीमा शुल्क में छूट को 31 दिसंबर 2026 तक बढ़ाया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330875",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T12:40:28Z",
+      "lastSeenAt": "2026-10-31T12:40:28Z"
+    },
+    {
+      "id": "b82aa6e409b6cb7faa599267",
+      "title": "भारतीय प्रतिस्पर्धा आयोग ने अडानी एनर्जी सॉल्यूशंस लिमिटेड (अधिग्रहणकर्ता) द्वारा इंटेलीस्मार्ट इंफ्रास्ट्रक्चर (लक्ष्य कंपनी) की इक्विटी शेयर पूंजी के अधिग्रहण को मंजूरी दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330901",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T12:40:28Z",
+      "lastSeenAt": "2026-10-31T12:40:28Z"
+    },
+    {
+      "id": "da1bb41479041505ebefc8d2",
+      "title": "सीसीआई ने एमआईएच पेमेंट्स होल्डिंग्स बी.वी. द्वारा नवी लिमिटेड में कुछ शेयरधारिता के अधिग्रहण को मंजूरी दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330902",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T12:40:28Z",
+      "lastSeenAt": "2026-10-31T12:40:28Z"
+    },
+    {
+      "id": "0a73dc717e6091a0f1149ba8",
+      "title": "भारतीय प्रतिस्पर्धा आयोग(सीसीआई) ने सैफायर फूड्स इंडिया के देवयानी इंटरनेशनल में विलय तथा संबंधित लेन-देन को मंजूरी दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330872",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T12:40:28Z",
+      "lastSeenAt": "2026-10-31T12:40:28Z"
+    },
+    {
+      "id": "d6605c2b3ff4539ee12b00ff",
+      "title": "भारतीय प्रतिस्पर्धा आयोग(सीसीआई) ने आदित्य बिड़ला रिन्यूएबल्स लिमिटेड(अधिग्रहणकर्ता) द्वारा सोलेनर्जी पावर(लक्षित कंपनी) की 100% जारी शेयर पूंजी के अधिग्रहण को मंजूरी दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330893",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T12:40:28Z",
+      "lastSeenAt": "2026-10-31T12:40:28Z"
+    },
+    {
+      "id": "71469359ced04813f3edd312",
+      "title": "सीसीआई ने वेगा एसएएस द्वारा वोडाफोन ग्रुप पीएलसी में कुछ हिस्सेदारी के अधिग्रहण को मंजूरी दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330899",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T12:40:28Z",
+      "lastSeenAt": "2026-10-31T12:40:28Z"
+    },
+    {
+      "id": "b05bd4c8024150281410e7b8",
+      "title": "एमसीए ने स्वच्छता पर राष्ट्रव्यापी विशेष अभियान 6.0 सफलतापूर्वक सम्पन्न किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330890",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T12:40:28Z",
+      "lastSeenAt": "2026-10-31T12:40:28Z"
+    },
+    {
+      "id": "2f013e3716ffef9c47b6f144",
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज नई दिल्ली में सरदार वल्लभभाई पटेल की 151वीं जयंती के अवसर पर राष्ट्रीय एकता दिवस पर आयोजित 'एकता दौड़' का शुभारंभ किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330811",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T12:40:28Z",
+      "lastSeenAt": "2026-10-31T12:40:28Z"
+    },
+    {
+      "id": "33b9cc047ae03f8dd1234d76",
+      "title": "लोकसभा अध्यक्ष ने भारत के आध्यात्मिक पुनर्जागरण, सामाजिक परिवर्तन और राष्ट्र निर्माण में गायत्री परिवार के योगदान की सराहना की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330790",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T12:40:28Z",
+      "lastSeenAt": "2026-10-31T12:40:28Z"
+    },
+    {
+      "id": "ca4b107a9ccd82e6b4151621",
+      "title": "कृषि अनुसंधान एवं शिक्षा विभाग/भारतीय कृषि अनुसंधान परिषद ने 'विशेष अभियान 6.0' को और तेज किया; इसके तहत संस्थानों में साफ-सफाई, स्‍थायी अपशिष्ट प्रबंधन और बेहतर कार्यालय वातावरण को बढ़ावा दिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330912",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T12:40:28Z",
+      "lastSeenAt": "2026-10-31T12:40:28Z"
+    },
+    {
+      "id": "107e0a5c6bdfec0345d90220",
+      "title": "आयुष मंत्रालय ने राष्ट्रीय एकता दिवस 2026 पर 'एकता के लिए योग' को बढ़ावा दिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330892",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T12:40:28Z",
+      "lastSeenAt": "2026-10-31T12:40:28Z"
+    },
+    {
+      "id": "058a06c1d87bcf8d595a3b58",
+      "title": "भारत की राष्ट्रपति ने सरदार वल्लभभाई पटेल की जयंती पर पुष्पांजलि अर्पित की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330758",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T12:40:28Z",
+      "lastSeenAt": "2026-10-31T12:40:28Z"
+    },
+    {
+      "id": "069dc139fdfe2ea3ef3e6e7f",
+      "title": "केंद्रीय स्वास्थ्य मंत्री श्री जे.पी.नड्डा ने सरदार वल्लभ भाई पटेल की जयंती के उपलक्ष्य में राष्ट्रीय एकता दिवस की शपथ दिलाई",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330805",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T12:40:28Z",
+      "lastSeenAt": "2026-10-31T12:40:28Z"
+    },
+    {
+      "id": "aec1b28c47c38b9dcbe66029",
+      "title": "केंद्रीय मंत्री श्री राजीव रंजन सिंह ने नई दिल्ली में जन योजना अभियान पर राष्ट्रीय कार्यशाला में 'आत्मनिर्भर पंचायतों' के निर्माण के लिए मज़बूत प्रयास करने का आग्रह किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330837",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T12:40:28Z",
+      "lastSeenAt": "2026-10-31T12:40:28Z"
+    },
+    {
+      "id": "0606879adaabeb8d470a925f",
+      "title": "प्रधानमंत्री ने सरदार वल्लभभाई पटेल की जयंती पर उन्हें श्रद्धांजलि अर्पित की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330783",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T12:40:28Z",
+      "lastSeenAt": "2026-10-31T12:40:28Z"
+    },
+    {
+      "id": "a9052dcc85dd0e0f21ffc9d6",
+      "title": "माननीय प्रधानमंत्री ने गुजरात के एकता नगर में भारत पर्व 2026 में सीसीआईसी पवेलियन का दौरा किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330799",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T12:40:28Z",
+      "lastSeenAt": "2026-10-31T12:40:28Z"
+    },
     {
       "id": "e8c7f0914291bdb509dca4a4",
       "title": "विभिन्न राज्यों/संघशासित प्रदेशों/CAPFs/CPOs के 490 कर्मियों को वर्ष 2026 के लिए 'केन्द्रीय गृहमंत्री दक्षता पदक'",
@@ -120,7 +340,7 @@
       "publishedAt": "2026-10-31T04:05:00+00:00",
       "sourceDateText": "Sat, 31 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-31T05:51:34Z",
-      "lastSeenAt": "2026-10-31T05:51:34Z"
+      "lastSeenAt": "2026-10-31T12:40:28Z"
     },
     {
       "id": "9552cd90bb07904d7cbd65d9",
@@ -351,7 +571,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 18:40:00",
       "firstSeenAt": "2026-10-30T22:25:34Z",
-      "lastSeenAt": "2026-10-31T05:51:34Z"
+      "lastSeenAt": "2026-10-31T12:40:28Z"
     },
     {
       "id": "41fa33a940a90fd4f50dce1c",
@@ -362,7 +582,7 @@
       "publishedAt": "2026-10-30T19:31:02+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 19:31:02 +0000",
       "firstSeenAt": "2026-10-30T22:25:34Z",
-      "lastSeenAt": "2026-10-31T05:51:34Z"
+      "lastSeenAt": "2026-10-31T12:40:28Z"
     },
     {
       "id": "9fe773cbfea8af218499ce45",
@@ -373,7 +593,7 @@
       "publishedAt": "2026-10-30T15:56:26+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 15:56:26 +0000",
       "firstSeenAt": "2026-10-30T22:25:34Z",
-      "lastSeenAt": "2026-10-31T05:51:34Z"
+      "lastSeenAt": "2026-10-31T12:40:28Z"
     },
     {
       "id": "7aa6dab0376044f6c887c5ca",
@@ -384,7 +604,7 @@
       "publishedAt": "2026-10-30T14:51:21+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 14:51:21 +0000",
       "firstSeenAt": "2026-10-30T22:25:34Z",
-      "lastSeenAt": "2026-10-31T05:51:34Z"
+      "lastSeenAt": "2026-10-31T12:40:28Z"
     },
     {
       "id": "0236ad4d2b46ae862ab7d84c",
@@ -582,7 +802,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 18:10:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-31T05:51:34Z"
+      "lastSeenAt": "2026-10-31T12:40:28Z"
     },
     {
       "id": "981f7206b94615c2650dd16b",
@@ -593,7 +813,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:40:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-31T05:51:34Z"
+      "lastSeenAt": "2026-10-31T12:40:28Z"
     },
     {
       "id": "be2014d70b6e4cfff4f2ac39",
@@ -604,7 +824,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:35:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-31T05:51:34Z"
+      "lastSeenAt": "2026-10-31T12:40:28Z"
     },
     {
       "id": "3fe92c3d66f855d57b8d635c",
@@ -615,7 +835,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:30:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-31T05:51:34Z"
+      "lastSeenAt": "2026-10-31T12:40:28Z"
     },
     {
       "id": "eaff7ec7e6b0a7188ed26953",
@@ -626,7 +846,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:10:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-31T05:51:34Z"
+      "lastSeenAt": "2026-10-31T12:40:28Z"
     },
     {
       "id": "8513a545b70edde203d431b6",
@@ -637,7 +857,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:00:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-31T05:51:34Z"
+      "lastSeenAt": "2026-10-31T12:40:28Z"
     },
     {
       "id": "8c08b1212e1fd1742613fbde",
@@ -648,7 +868,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:00:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-31T05:51:34Z"
+      "lastSeenAt": "2026-10-31T12:40:28Z"
     },
     {
       "id": "6e95cd0102c52a7302612377",
@@ -659,7 +879,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 15:40:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-31T05:51:34Z"
+      "lastSeenAt": "2026-10-31T12:40:28Z"
     },
     {
       "id": "9a9cda54fc737e514eed670a",
@@ -670,7 +890,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 14:30:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-31T05:51:34Z"
+      "lastSeenAt": "2026-10-31T12:40:28Z"
     },
     {
       "id": "cf83ba876333ba2e913de39f",
@@ -681,7 +901,7 @@
       "publishedAt": "2026-10-30T10:00:00+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 10:00:00 +0000",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-31T05:51:34Z"
+      "lastSeenAt": "2026-10-31T12:40:28Z"
     },
     {
       "id": "54bf7f64308abd73684cc366",
@@ -791,7 +1011,7 @@
       "publishedAt": "2026-10-30T04:05:00+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-31T05:51:34Z"
+      "lastSeenAt": "2026-10-31T12:40:28Z"
     },
     {
       "id": "9917aa7e49dd71d1691678ce",
@@ -802,7 +1022,7 @@
       "publishedAt": "2026-10-30T04:01:00+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 04:01:00 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-31T05:51:34Z"
+      "lastSeenAt": "2026-10-31T12:40:28Z"
     },
     {
       "id": "de440a44154745f5e3789dff",
@@ -813,7 +1033,7 @@
       "publishedAt": "2026-10-30T00:07:39+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 00:07:39 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-31T05:51:34Z"
+      "lastSeenAt": "2026-10-31T12:40:28Z"
     },
     {
       "id": "9bbd0b7e75642bb10626ecd1",
@@ -824,7 +1044,7 @@
       "publishedAt": "2026-10-29T23:32:35+00:00",
       "sourceDateText": "Thu, 29 Oct 2026 23:32:35 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-31T05:51:34Z"
+      "lastSeenAt": "2026-10-31T12:40:28Z"
     },
     {
       "id": "ed6e3d4d78aea9350fe3c6ab",
@@ -835,7 +1055,7 @@
       "publishedAt": "2026-10-29T21:44:23+00:00",
       "sourceDateText": "Thu, 29 Oct 2026 21:44:23 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-31T05:51:34Z"
+      "lastSeenAt": "2026-10-31T12:40:28Z"
     },
     {
       "id": "4b2c059bd94e7ed8fd721e38",
