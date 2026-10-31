@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-31T12:40:28Z",
+  "checkedAt": "2026-10-31T21:40:27Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-10-31T12:40:28Z",
-      "lastSuccessAt": "2026-10-31T12:40:28Z",
+      "checkedAt": "2026-10-31T21:40:27Z",
+      "lastSuccessAt": "2026-10-31T21:40:27Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-10-31T12:40:28Z",
-      "lastSuccessAt": "2026-10-31T12:40:28Z",
+      "checkedAt": "2026-10-31T21:40:27Z",
+      "lastSuccessAt": "2026-10-31T21:40:27Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,189 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-10-31T12:40:28Z",
-      "lastSuccessAt": "2026-10-31T12:40:28Z",
+      "checkedAt": "2026-10-31T21:40:27Z",
+      "lastSuccessAt": "2026-10-31T21:40:27Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "03219281a1a5f1a6599f16e4",
+      "title": "राष्ट्रीय एकता दिवस के दौरान प्रधानमंत्री के भाषण का मूल पाठ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331036",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T21:40:27Z",
+      "lastSeenAt": "2026-10-31T21:40:27Z"
+    },
+    {
+      "id": "fc21945bef3fc9e902df71fd",
+      "title": "भारत की राष्ट्रपति नासिक में सिंहस्थ महाकुंभ के ध्वज-स्तंभ पूजन, ध्वजा पूजन और ध्वजारोहण समारोह में सम्मिलित हुईं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331007",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T21:40:27Z",
+      "lastSeenAt": "2026-10-31T21:40:27Z"
+    },
+    {
+      "id": "c1d7165284d2345ac2c9d7c0",
+      "title": "केंद्र सरकार ने राज्य सरकारों को कर हस्तांतरण के रूप में 1,09,019 करोड़ रुपये जारी किए। आगामी त्योहारों के मौसम को देखते हुए और राज्यों को पूंजीगत खर्च में तेजी लाने तथा विकास एवं कल्याण से जुड़े व्यय के लिए धन उपलब्ध कराने के उद्देश्य से केंद्र सरकार ने कर हस्तांतरण की अग्रिम किस्त जारी की है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331028",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T21:40:27Z",
+      "lastSeenAt": "2026-10-31T21:40:27Z"
+    },
+    {
+      "id": "0f1d42a513ea2e25b8b4993c",
+      "title": "'माई भारत' के ‘विकसित भारत युवा संवाद: अपने वोट को जानें’ अभियान में 16 राज्यों/केंद्र शासित प्रदेशों में आयोजित 62 कार्यक्रमों के माध्यम से 11,000 से अधिक युवा जुड़े",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331030",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T21:40:27Z",
+      "lastSeenAt": "2026-10-31T21:40:27Z"
+    },
+    {
+      "id": "009ecfd2770b2cfbf6b2d158",
+      "title": "सेंट्रल क्रीनिकल(Central Chronicle) भोपाल में प्रकाशित समाचार दिनांक 31 अक्तूबर 2026 के संबंध में तथ्यात्मक प्रतिवेदन।",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330983",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T21:40:27Z",
+      "lastSeenAt": "2026-10-31T21:40:27Z"
+    },
+    {
+      "id": "d35d3517311c9fc7db2d9744",
+      "title": "स्कूली शिक्षा के लिए विद्यांजलि के माध्यम से राष्ट्रीय सीएसआर सम्मेलन का आयोजन",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331029",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T21:40:27Z",
+      "lastSeenAt": "2026-10-31T21:40:27Z"
+    },
+    {
+      "id": "cacf96d065d458c10cfb3940",
+      "title": "सर्बानंद सोनोवाल ने मंत्रालय के अधिकारियों, छात्र कैडेटों को राष्ट्रीय एकता की शपथ दिलाई",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331023",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T21:40:27Z",
+      "lastSeenAt": "2026-10-31T21:40:27Z"
+    },
+    {
+      "id": "3e1428658756cc34383df047",
+      "title": "एम एस एम ई मंत्रालय की हिंदी सलाहकार समिति की बैठक आयोजित, ‘उद्यमी मित्र’ और ‘उद्यम प्रभा’ पत्रिकाओं का विमोचन",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330941",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T21:40:27Z",
+      "lastSeenAt": "2026-10-31T21:40:27Z"
+    },
+    {
+      "id": "16af89e7040081dbc72e118c",
+      "title": "उपराष्ट्रपति श्री सी. पी. राधाकृष्णन ने उप-राष्ट्रपति भवन में ‘सरदार कथा’ कार्यक्रम में भाग लिया; राष्ट्रीय एकता दिवस पर सरदार वल्लभभाई पटेल को श्रद्धांजलि अर्पित की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330980",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T21:40:27Z",
+      "lastSeenAt": "2026-10-31T21:40:27Z"
+    },
+    {
+      "id": "7a69fb9483a6bf62aa7acdec",
+      "title": "राष्ट्रीय साधन-सह-योग्यता छात्रवृत्ति योजना के अंतर्गत शैक्षणिक सत्र 2026-27 के लिए आवेदन की अंतिम तिथि बढ़ाकर 15 नवंबर 2026 की गई",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330985",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T21:40:27Z",
+      "lastSeenAt": "2026-10-31T21:40:27Z"
+    },
+    {
+      "id": "e3d221201d7f40384026e5be",
+      "title": "15-दिवसीय ‘शिल्प समागम मेला 2026’ कल से नई दिल्ली के ‘दिल्ली हाट’ में शुरू होगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330984",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T21:40:27Z",
+      "lastSeenAt": "2026-10-31T21:40:27Z"
+    },
+    {
+      "id": "8a28fdb2ec08bbe3c36bc16f",
+      "title": "विधायी विभाग ने राष्ट्रीय एकता दिवस पर 'रन फॉर यूनिटी' में भाग लिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330964",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T21:40:27Z",
+      "lastSeenAt": "2026-10-31T21:40:27Z"
+    },
+    {
+      "id": "74a8b143e4246c66954efff3",
+      "title": "ईपीएफओ कल अपना नई दिल्ली में 74वाँ स्थापना दिवस मनाएगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330945",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T21:40:27Z",
+      "lastSeenAt": "2026-10-31T21:40:27Z"
+    },
+    {
+      "id": "4e525495e2eed5d04992dafd",
+      "title": "उपराष्ट्रपति श्री सी. पी. राधाकृष्णन ने आईआईपीए की 72वीं वार्षिक आम सभा को संबोधित किया। विकसित भारत @2047 को साकार करने के लिए लोक प्रशासन में परिवर्तनकारी सुधारों का आह्वान",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330990",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T21:40:27Z",
+      "lastSeenAt": "2026-10-31T21:40:27Z"
+    },
+    {
+      "id": "71cf402602801869597b85cb",
+      "title": "पहला बिम्सटेक समुद्री सुरक्षा अभ्यास",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330988",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T21:40:27Z",
+      "lastSeenAt": "2026-10-31T21:40:27Z"
+    },
+    {
+      "id": "9183d1f21c1afee209f4b1e5",
+      "title": "एयर चीफ मार्शल एपी सिंह देश की 42 वर्षों की विशिष्ट सेवा के बाद सेवानिवृत्त हुए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2330949",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-10-31T21:40:27Z",
+      "lastSeenAt": "2026-10-31T21:40:27Z"
+    },
     {
       "id": "887b439f7ea5d65d4fd0315e",
       "title": "आवासन और शहरी कार्य मंत्रालय ने स्वच्छ दिल्ली के लिए एक साझा रोडमैप तैयार करने हेतु सहभागी कार्यशाला आयोजित की",
@@ -43,7 +219,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-31T12:40:28Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "7372e53230403aaee784f515",
@@ -54,7 +230,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-31T12:40:28Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "9981490c7a320e574c67746a",
@@ -65,7 +241,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-31T12:40:28Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "212c22bc7a940de3b1c5bc0a",
@@ -76,7 +252,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-10-31T12:40:28Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "03ee2240ba5b5624b2dfbe75",
@@ -340,7 +516,7 @@
       "publishedAt": "2026-10-31T04:05:00+00:00",
       "sourceDateText": "Sat, 31 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-31T05:51:34Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "9552cd90bb07904d7cbd65d9",
@@ -571,7 +747,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 18:40:00",
       "firstSeenAt": "2026-10-30T22:25:34Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "41fa33a940a90fd4f50dce1c",
@@ -582,7 +758,7 @@
       "publishedAt": "2026-10-30T19:31:02+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 19:31:02 +0000",
       "firstSeenAt": "2026-10-30T22:25:34Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "9fe773cbfea8af218499ce45",
@@ -593,7 +769,7 @@
       "publishedAt": "2026-10-30T15:56:26+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 15:56:26 +0000",
       "firstSeenAt": "2026-10-30T22:25:34Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "7aa6dab0376044f6c887c5ca",
@@ -604,7 +780,7 @@
       "publishedAt": "2026-10-30T14:51:21+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 14:51:21 +0000",
       "firstSeenAt": "2026-10-30T22:25:34Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "0236ad4d2b46ae862ab7d84c",
@@ -802,7 +978,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 18:10:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "981f7206b94615c2650dd16b",
@@ -813,7 +989,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:40:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "be2014d70b6e4cfff4f2ac39",
@@ -824,7 +1000,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:35:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "3fe92c3d66f855d57b8d635c",
@@ -835,7 +1011,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:30:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "eaff7ec7e6b0a7188ed26953",
@@ -846,7 +1022,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:10:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "8513a545b70edde203d431b6",
@@ -857,7 +1033,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:00:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "8c08b1212e1fd1742613fbde",
@@ -868,7 +1044,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:00:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "6e95cd0102c52a7302612377",
@@ -879,7 +1055,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 15:40:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "9a9cda54fc737e514eed670a",
@@ -890,7 +1066,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 14:30:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "cf83ba876333ba2e913de39f",
@@ -901,7 +1077,7 @@
       "publishedAt": "2026-10-30T10:00:00+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 10:00:00 +0000",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "54bf7f64308abd73684cc366",
@@ -1011,7 +1187,7 @@
       "publishedAt": "2026-10-30T04:05:00+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "9917aa7e49dd71d1691678ce",
@@ -1022,7 +1198,7 @@
       "publishedAt": "2026-10-30T04:01:00+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 04:01:00 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "de440a44154745f5e3789dff",
@@ -1033,7 +1209,7 @@
       "publishedAt": "2026-10-30T00:07:39+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 00:07:39 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "9bbd0b7e75642bb10626ecd1",
@@ -1044,7 +1220,7 @@
       "publishedAt": "2026-10-29T23:32:35+00:00",
       "sourceDateText": "Thu, 29 Oct 2026 23:32:35 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "ed6e3d4d78aea9350fe3c6ab",
@@ -1055,7 +1231,7 @@
       "publishedAt": "2026-10-29T21:44:23+00:00",
       "sourceDateText": "Thu, 29 Oct 2026 21:44:23 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-10-31T12:40:28Z"
+      "lastSeenAt": "2026-10-31T21:40:27Z"
     },
     {
       "id": "4b2c059bd94e7ed8fd721e38",
