@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-01T06:14:39Z",
+  "checkedAt": "2026-11-01T13:36:30Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-11-01T06:14:39Z",
-      "lastSuccessAt": "2026-11-01T06:14:39Z",
+      "checkedAt": "2026-11-01T13:36:30Z",
+      "lastSuccessAt": "2026-11-01T13:36:30Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-01T06:14:39Z",
-      "lastSuccessAt": "2026-11-01T06:14:39Z",
+      "checkedAt": "2026-11-01T13:36:30Z",
+      "lastSuccessAt": "2026-11-01T13:36:30Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,233 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-11-01T06:14:39Z",
-      "lastSuccessAt": "2026-11-01T06:14:39Z",
+      "checkedAt": "2026-11-01T13:36:30Z",
+      "lastSuccessAt": "2026-11-01T13:36:30Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "665fb9a66bf003e665cc899f",
+      "title": "भारत की राष्ट्रपति कुरुक्षेत्र में स्वामी श्रद्धानंद जी के बलिदान शताब्दी समारोह में शामिल हुईं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331242",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-01T13:36:30Z",
+      "lastSeenAt": "2026-11-01T13:36:30Z"
+    },
+    {
+      "id": "62ee6fbaa1adfc5197fcc5f2",
+      "title": "भारत की राष्ट्रपति कुरुक्षेत्र में हरियाणा राज्य के गठन के 60वें वर्ष के उपलक्ष्य में आयोजित ‘हीरक जयंती’ समारोह में शामिल हुईं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331228",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-01T13:36:30Z",
+      "lastSeenAt": "2026-11-01T13:36:30Z"
+    },
+    {
+      "id": "ca8b0fe5a4520001faac8c50",
+      "title": "केंद्रीय संसदीय कार्य और अल्पसंख्यक कार्य मंत्री श्री किरेन रिजिजू ने भूटान में 108 स्तूपों की स्थापना समारोह में भाग लिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331263",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-01T13:36:30Z",
+      "lastSeenAt": "2026-11-01T13:36:30Z"
+    },
+    {
+      "id": "3303cbc43750f4d1fee769c1",
+      "title": "एयर चीफ मार्शल आशुतोष दीक्षित ने भारतीय वायुसेना के 29वें प्रमुख के रूप में कार्यभार ग्रहण किया; वायुसेना के भविष्य के लिए ‘वायु’ को मार्गदर्शक दृष्टिकोण के रूप में प्रस्तुत किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331270",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-01T13:36:30Z",
+      "lastSeenAt": "2026-11-01T13:36:30Z"
+    },
+    {
+      "id": "00118cdab2d43241d3d45324",
+      "title": "सात हवाई अड्डों पर अंतरराष्ट्रीय यात्रियों के लिए 'डिजी यात्रा' का ट्रायल शुरू",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331231",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-01T13:36:30Z",
+      "lastSeenAt": "2026-11-01T13:36:30Z"
+    },
+    {
+      "id": "ca1cb35f48d5d9370b249fc4",
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज चंडीगढ़ पुलिस के हीरक जयंती स्थापना समारोह में भाग लिया और चंडीगढ़ पुलिस के राष्ट्रपति निशान अलंकरण समारोह में मुख्य अतिथि के रूप में शामिल हुए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331194",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-01T13:36:30Z",
+      "lastSeenAt": "2026-11-01T13:36:30Z"
+    },
+    {
+      "id": "bb8df30455d31bdfa8941b9a",
+      "title": "सामाजिक न्याय और अधिकारिता मंत्रालय ने 31 अक्टूबर, 2026 को सेंट्रल क्रॉनिकल (भोपाल) में प्रकाशित एक रिपोर्ट में किए गए दावे के संबंध में तथ्यात्मक रिपोर्ट जारी की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331226",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-01T13:36:30Z",
+      "lastSeenAt": "2026-11-01T13:36:30Z"
+    },
+    {
+      "id": "deaaf9488fdd0cbba3623e87",
+      "title": "श्री दिनेश वी. गणवीर ने भारतीय भूवैज्ञानिक सर्वेक्षण के 55वें महानिदेशक के रूप में पदभार संभाला; खनिज सुरक्षा, वैज्ञानिक उत्कृष्टता और तकनीकी उन्नति पर ध्यान केंद्रित करने की प्रतिबद्धता दोहराई",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331205",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-01T13:36:30Z",
+      "lastSeenAt": "2026-11-01T13:36:30Z"
+    },
+    {
+      "id": "81cd0a62a331940f87332462",
+      "title": "लोक सभा अध्यक्ष तिरुवनंतपुरम में संसद तथा राज्य/संघ राज्य क्षेत्र विधानमंडलों की लोक लेखा समितियों के सभापतियों के सम्मेलन का उद्घाटन करेंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331152",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-01T13:36:30Z",
+      "lastSeenAt": "2026-11-01T13:36:30Z"
+    },
+    {
+      "id": "7fc58aab3a425335e40be8ae",
+      "title": "उपराष्ट्रपति ने ‘राष्ट्रीय अंग प्रत्यारोपण खेल 2026’ का उद्घाटन किया; अंगदान को 'महादान' बताया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331186",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-01T13:36:30Z",
+      "lastSeenAt": "2026-11-01T13:36:30Z"
+    },
+    {
+      "id": "0615aa79b7ad06e5b4423962",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने तमिलनाडु दिवस पर तमिलनाडु के लोगों को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331120",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-01T13:36:30Z",
+      "lastSeenAt": "2026-11-01T13:36:30Z"
+    },
+    {
+      "id": "edad156227e118c1c5132549",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने कन्नड़ राज्योत्सव पर कर्नाटक के लोगों को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331119",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-01T13:36:30Z",
+      "lastSeenAt": "2026-11-01T13:36:30Z"
+    },
+    {
+      "id": "d7caa91a79d14350aeecbb75",
+      "title": "प्रधानमंत्री ने केरल पिरवी के अवसर पर केरल के लोगों को शुभकामनाएं दीं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331111",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-01T13:36:30Z",
+      "lastSeenAt": "2026-11-01T13:36:30Z"
+    },
+    {
+      "id": "687e1dba2e349ae1c58c3f1c",
+      "title": "प्रधानमंत्री ने हरियाणा के स्थापना दिवस पर प्रदेशवासियों को शुभकामनाएं दीं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331116",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-01T13:36:30Z",
+      "lastSeenAt": "2026-11-01T13:36:30Z"
+    },
+    {
+      "id": "794b6d22998035f1c9c971ed",
+      "title": "प्रधानमंत्री ने छत्तीसगढ़ के स्थापना दिवस पर प्रदेशवासियों को शुभकामनाएं दीं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331112",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-01T13:36:30Z",
+      "lastSeenAt": "2026-11-01T13:36:30Z"
+    },
+    {
+      "id": "bd56373afbc53c1fbeba3193",
+      "title": "प्रधानमंत्री ने मध्य प्रदेश के स्थापना दिवस पर प्रदेशवासियों को शुभकामनाएं दीं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331117",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-01T13:36:30Z",
+      "lastSeenAt": "2026-11-01T13:36:30Z"
+    },
+    {
+      "id": "25d863ecb8eff5c8038e95b0",
+      "title": "केंद्रीय मंत्री श्री राजीव रंजन सिंह 2 नवंबर 2026 को सिक्किम के गंगटोक और मंगन जिलों का दौरा करेंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331220",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-01T13:36:30Z",
+      "lastSeenAt": "2026-11-01T13:36:30Z"
+    },
+    {
+      "id": "3ef51df5dfe42e5a297aee86",
+      "title": "कोयला मंत्रालय 2 नवंबर को रायपुर में आयोजित स्टार रेटिंग पुरस्कार समारोह में कोयला और लिग्नाइट खनन क्षेत्र की उत्कृष्ट उपलब्धियों को मान्यता देगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331086",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-01T13:36:30Z",
+      "lastSeenAt": "2026-11-01T13:36:30Z"
+    },
+    {
+      "id": "d60f9dc8618752e68e7b9780",
+      "title": "कोयले के आयात में अगस्त 2026 में 5.83 प्रतिशत की गिरावट, आयात पर निर्भरता में कमी का संकेत",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331204",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-01T13:36:30Z",
+      "lastSeenAt": "2026-11-01T13:36:30Z"
+    },
+    {
+      "id": "d17d7e5fad721a0b27de0cd5",
+      "title": "भारतीय नौसेना के पोत त्रिशूल का ग्रीस की सूडा खाड़ी में प्रवास",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331089",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-01T13:36:30Z",
+      "lastSeenAt": "2026-11-01T13:36:30Z"
+    },
     {
       "id": "060b16a2c77e26283ca6fb8d",
       "title": "केंद्रीय पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय और इसके संगठनों ने 'विशेष अभियान 6' को सफलतापूर्वक संपन्न किया",
@@ -131,7 +351,7 @@
       "publishedAt": "2026-11-01T04:05:00+00:00",
       "sourceDateText": "Sun, 01 Nov 2026 04:05:00 +0000",
       "firstSeenAt": "2026-11-01T06:14:39Z",
-      "lastSeenAt": "2026-11-01T06:14:39Z"
+      "lastSeenAt": "2026-11-01T13:36:30Z"
     },
     {
       "id": "03219281a1a5f1a6599f16e4",
@@ -615,7 +835,7 @@
       "publishedAt": "2026-10-31T04:05:00+00:00",
       "sourceDateText": "Sat, 31 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-31T05:51:34Z",
-      "lastSeenAt": "2026-11-01T06:14:39Z"
+      "lastSeenAt": "2026-11-01T13:36:30Z"
     },
     {
       "id": "9552cd90bb07904d7cbd65d9",
@@ -846,7 +1066,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 18:40:00",
       "firstSeenAt": "2026-10-30T22:25:34Z",
-      "lastSeenAt": "2026-11-01T06:14:39Z"
+      "lastSeenAt": "2026-11-01T13:36:30Z"
     },
     {
       "id": "41fa33a940a90fd4f50dce1c",
@@ -857,7 +1077,7 @@
       "publishedAt": "2026-10-30T19:31:02+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 19:31:02 +0000",
       "firstSeenAt": "2026-10-30T22:25:34Z",
-      "lastSeenAt": "2026-11-01T06:14:39Z"
+      "lastSeenAt": "2026-11-01T13:36:30Z"
     },
     {
       "id": "9fe773cbfea8af218499ce45",
@@ -868,7 +1088,7 @@
       "publishedAt": "2026-10-30T15:56:26+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 15:56:26 +0000",
       "firstSeenAt": "2026-10-30T22:25:34Z",
-      "lastSeenAt": "2026-11-01T06:14:39Z"
+      "lastSeenAt": "2026-11-01T13:36:30Z"
     },
     {
       "id": "7aa6dab0376044f6c887c5ca",
@@ -879,7 +1099,7 @@
       "publishedAt": "2026-10-30T14:51:21+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 14:51:21 +0000",
       "firstSeenAt": "2026-10-30T22:25:34Z",
-      "lastSeenAt": "2026-11-01T06:14:39Z"
+      "lastSeenAt": "2026-11-01T13:36:30Z"
     },
     {
       "id": "0236ad4d2b46ae862ab7d84c",
@@ -1077,7 +1297,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 18:10:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-11-01T06:14:39Z"
+      "lastSeenAt": "2026-11-01T13:36:30Z"
     },
     {
       "id": "981f7206b94615c2650dd16b",
@@ -1088,7 +1308,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:40:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-11-01T06:14:39Z"
+      "lastSeenAt": "2026-11-01T13:36:30Z"
     },
     {
       "id": "be2014d70b6e4cfff4f2ac39",
@@ -1099,7 +1319,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:35:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-11-01T06:14:39Z"
+      "lastSeenAt": "2026-11-01T13:36:30Z"
     },
     {
       "id": "3fe92c3d66f855d57b8d635c",
@@ -1110,7 +1330,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:30:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-11-01T06:14:39Z"
+      "lastSeenAt": "2026-11-01T13:36:30Z"
     },
     {
       "id": "eaff7ec7e6b0a7188ed26953",
@@ -1121,7 +1341,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:10:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-11-01T06:14:39Z"
+      "lastSeenAt": "2026-11-01T13:36:30Z"
     },
     {
       "id": "8513a545b70edde203d431b6",
@@ -1132,7 +1352,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:00:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-11-01T06:14:39Z"
+      "lastSeenAt": "2026-11-01T13:36:30Z"
     },
     {
       "id": "8c08b1212e1fd1742613fbde",
@@ -1143,7 +1363,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 17:00:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-11-01T06:14:39Z"
+      "lastSeenAt": "2026-11-01T13:36:30Z"
     },
     {
       "id": "6e95cd0102c52a7302612377",
@@ -1154,7 +1374,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 15:40:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-11-01T06:14:39Z"
+      "lastSeenAt": "2026-11-01T13:36:30Z"
     },
     {
       "id": "9a9cda54fc737e514eed670a",
@@ -1165,7 +1385,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 30 Oct 2026 14:30:00",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-11-01T06:14:39Z"
+      "lastSeenAt": "2026-11-01T13:36:30Z"
     },
     {
       "id": "cf83ba876333ba2e913de39f",
@@ -1176,7 +1396,7 @@
       "publishedAt": "2026-10-30T10:00:00+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 10:00:00 +0000",
       "firstSeenAt": "2026-10-30T13:02:23Z",
-      "lastSeenAt": "2026-11-01T06:14:39Z"
+      "lastSeenAt": "2026-11-01T13:36:30Z"
     },
     {
       "id": "54bf7f64308abd73684cc366",
@@ -1286,7 +1506,7 @@
       "publishedAt": "2026-10-30T04:05:00+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 04:05:00 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-11-01T06:14:39Z"
+      "lastSeenAt": "2026-11-01T13:36:30Z"
     },
     {
       "id": "9917aa7e49dd71d1691678ce",
@@ -1297,7 +1517,7 @@
       "publishedAt": "2026-10-30T04:01:00+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 04:01:00 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-11-01T06:14:39Z"
+      "lastSeenAt": "2026-11-01T13:36:30Z"
     },
     {
       "id": "de440a44154745f5e3789dff",
@@ -1308,7 +1528,7 @@
       "publishedAt": "2026-10-30T00:07:39+00:00",
       "sourceDateText": "Fri, 30 Oct 2026 00:07:39 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-11-01T06:14:39Z"
+      "lastSeenAt": "2026-11-01T13:36:30Z"
     },
     {
       "id": "9bbd0b7e75642bb10626ecd1",
@@ -1319,7 +1539,7 @@
       "publishedAt": "2026-10-29T23:32:35+00:00",
       "sourceDateText": "Thu, 29 Oct 2026 23:32:35 +0000",
       "firstSeenAt": "2026-10-30T05:55:05Z",
-      "lastSeenAt": "2026-11-01T06:14:39Z"
+      "lastSeenAt": "2026-11-01T13:36:30Z"
     },
     {
       "id": "ed6e3d4d78aea9350fe3c6ab",
