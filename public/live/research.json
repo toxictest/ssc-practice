@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-03T14:24:03Z",
+  "checkedAt": "2026-11-03T23:27:11Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-11-03T14:24:03Z",
-      "lastSuccessAt": "2026-11-03T14:24:03Z",
+      "checkedAt": "2026-11-03T23:27:11Z",
+      "lastSuccessAt": "2026-11-03T23:27:11Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-03T14:24:03Z",
-      "lastSuccessAt": "2026-11-03T14:24:03Z",
+      "checkedAt": "2026-11-03T23:27:11Z",
+      "lastSuccessAt": "2026-11-03T23:27:11Z",
       "count": 10,
       "error": null
     },
@@ -26,14 +26,234 @@
       "id": "nasa",
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
-      "ok": false,
-      "checkedAt": "2026-11-03T14:24:03Z",
-      "lastSuccessAt": "2026-11-02T06:16:00Z",
-      "count": 0,
-      "error": "Oversized XML or prohibited DTD/entity declaration"
+      "ok": true,
+      "checkedAt": "2026-11-03T23:27:11Z",
+      "lastSuccessAt": "2026-11-03T23:27:11Z",
+      "count": 10,
+      "error": null
     }
   ],
   "items": [
+    {
+      "id": "308caf2f331eb7395d2f6ff8",
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज रायपुर में छत्तीसगढ़ राज्योत्सव के समापन समारोह को संबोधित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332278",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-03T23:27:11Z",
+      "lastSeenAt": "2026-11-03T23:27:11Z"
+    },
+    {
+      "id": "85acb205694e43b8fd402a75",
+      "title": "सर्बानंद सोनोवाल ने 2047 तक तटीय और जलमार्ग माल ढुलाई (फ्रेट) हिस्सेदारी को दोगुना करके 12% करने की योजना प्रस्तुत की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332287",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-03T23:27:11Z",
+      "lastSeenAt": "2026-11-03T23:27:11Z"
+    },
+    {
+      "id": "a87b7461fc38de5ed18745a8",
+      "title": "शिल्प समागम मेला 2026 में पारंपरिक कला, हस्तशिल्प और सांस्कृतिक प्रस्तुतियों के माध्यम से भारत की सांस्कृतिक विविधता का उत्सव",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332290",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-03T23:27:11Z",
+      "lastSeenAt": "2026-11-03T23:27:11Z"
+    },
+    {
+      "id": "d95a76d3b248b65b3ba92464",
+      "title": "डीएएचडी का विशेष अभियान 6.0 सफलतापूर्वक संपन्न",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332285",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-03T23:27:11Z",
+      "lastSeenAt": "2026-11-03T23:27:11Z"
+    },
+    {
+      "id": "489d7c5a50391e4ffac15ca2",
+      "title": "श्रम एवं रोजगार मंत्रालय का विशेष अभियान 6 सफलतापूर्वक संपन्न",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332284",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-03T23:27:11Z",
+      "lastSeenAt": "2026-11-03T23:27:11Z"
+    },
+    {
+      "id": "a7e86607564471ee7c949972",
+      "title": "केंद्रीय स्वास्थ्य मंत्रालय ने दवा की खेप जारी करने के लिए योग्य कर्मियों को अधिकृत करने को अनिवार्य बनाने के लिए औषधि नियमावली, 1945 में संशोधन का प्रस्ताव रखा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332261",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-03T23:27:11Z",
+      "lastSeenAt": "2026-11-03T23:27:11Z"
+    },
+    {
+      "id": "5e4a3c3332c9905f8198c305",
+      "title": "आईपीआरडी-2026 का नई दिल्ली में शुभारंभ; वैज्ञानिक प्रगति को क्षेत्रीय सहयोग में रूपांतरित करने पर जोर",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332291",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-03T23:27:11Z",
+      "lastSeenAt": "2026-11-03T23:27:11Z"
+    },
+    {
+      "id": "640f83b7c9888ce5b4a7de33",
+      "title": "केंद्रीय स्वास्थ्य मंत्रालय की सचिव, श्रीमती पुण्य सलिला श्रीवास्तव ने राष्ट्रीय दंत चिकित्सा आयोग अधिनियम, 2023 के तहत निर्धारित प्रक्रिया के अनुसार ड्रॉ ऑफ लॉट्स के माध्यम से राष्ट्रीय दंत चिकित्सा आयोग और उसके स्वायत्त बोर्डों के अंशकालिक सदस्यों का चयन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332254",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-03T23:27:11Z",
+      "lastSeenAt": "2026-11-03T23:27:11Z"
+    },
+    {
+      "id": "cb0ef9fb0e91ec6beb67137b",
+      "title": "केन्द्रीय मंत्री श्री राजीव रंजन सिंह ने सिक्किम में माइक्रोबायोलॉजी प्रयोगशाला का उद्घाटन किया तथा ‘चुरपी ट्रेसेबिलिटी पहल’ एवं ‘फॉडर प्लस एफपीओ’ उत्पादों की शुरुआत की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332275",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-03T23:27:11Z",
+      "lastSeenAt": "2026-11-03T23:27:11Z"
+    },
+    {
+      "id": "26a34abc39f3607adcaf10af",
+      "title": "एनएलएमसी ने नई दिल्ली में एचआईएल (इंडिया) लिमिटेड की 5.119 एकड़ भूमि की ई-नीलामी हेतु बोली से पहले बैठक का आयोजन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332289",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-03T23:27:11Z",
+      "lastSeenAt": "2026-11-03T23:27:11Z"
+    },
+    {
+      "id": "cdc665ae512021ce9a601fcd",
+      "title": "Astronaut and Earth",
+      "url": "https://www.nasa.gov/image-article/astronaut-and-earth/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-03T16:37:42+00:00",
+      "sourceDateText": "Tue, 03 Nov 2026 16:37:42 +0000",
+      "firstSeenAt": "2026-11-03T23:27:11Z",
+      "lastSeenAt": "2026-11-03T23:27:11Z"
+    },
+    {
+      "id": "61bb1ccb077a93600c77c531",
+      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
+      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-03T15:35:14+00:00",
+      "sourceDateText": "Tue, 03 Nov 2026 15:35:14 +0000",
+      "firstSeenAt": "2026-11-03T23:27:11Z",
+      "lastSeenAt": "2026-11-03T23:27:11Z"
+    },
+    {
+      "id": "b37cbeabc38bcc2e04231181",
+      "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
+      "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-03T15:15:50+00:00",
+      "sourceDateText": "Tue, 03 Nov 2026 15:15:50 +0000",
+      "firstSeenAt": "2026-11-03T23:27:11Z",
+      "lastSeenAt": "2026-11-03T23:27:11Z"
+    },
+    {
+      "id": "5310136571feb643256858de",
+      "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-03T05:05:00+00:00",
+      "sourceDateText": "Tue, 03 Nov 2026 05:05:00 +0000",
+      "firstSeenAt": "2026-11-03T23:27:11Z",
+      "lastSeenAt": "2026-11-03T23:27:11Z"
+    },
+    {
+      "id": "647549f4c6fdd7b0f546af22",
+      "title": "The Pacific’s Busy Storm Season",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-03T05:01:00+00:00",
+      "sourceDateText": "Tue, 03 Nov 2026 05:01:00 +0000",
+      "firstSeenAt": "2026-11-03T23:27:11Z",
+      "lastSeenAt": "2026-11-03T23:27:11Z"
+    },
+    {
+      "id": "79724c5608b9242f4b5a0bf7",
+      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-02T21:35:59+00:00",
+      "sourceDateText": "Mon, 02 Nov 2026 21:35:59 +0000",
+      "firstSeenAt": "2026-11-03T23:27:11Z",
+      "lastSeenAt": "2026-11-03T23:27:11Z"
+    },
+    {
+      "id": "e20622db362ba46d33fa3f5f",
+      "title": "TB 26-09 Measured Hammer-Tap Inputs",
+      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-02T20:47:41+00:00",
+      "sourceDateText": "Mon, 02 Nov 2026 20:47:41 +0000",
+      "firstSeenAt": "2026-11-03T23:27:11Z",
+      "lastSeenAt": "2026-11-03T23:27:11Z"
+    },
+    {
+      "id": "8154aaa0c8274e11821a1c43",
+      "title": "NASA’s CHAPEA Crew “Returns” to Earth",
+      "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-02T18:50:42+00:00",
+      "sourceDateText": "Mon, 02 Nov 2026 18:50:42 +0000",
+      "firstSeenAt": "2026-11-03T23:27:11Z",
+      "lastSeenAt": "2026-11-03T23:27:11Z"
+    },
+    {
+      "id": "c1f7350195d9285030122e5b",
+      "title": "What’s Up: November 2026 Skywatching Tips from NASA",
+      "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-02T18:19:58+00:00",
+      "sourceDateText": "Mon, 02 Nov 2026 18:19:58 +0000",
+      "firstSeenAt": "2026-11-03T23:27:11Z",
+      "lastSeenAt": "2026-11-03T23:27:11Z"
+    },
+    {
+      "id": "9afd0129ac20e2508e44571f",
+      "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-02T17:33:22+00:00",
+      "sourceDateText": "Mon, 02 Nov 2026 17:33:22 +0000",
+      "firstSeenAt": "2026-11-03T23:27:11Z",
+      "lastSeenAt": "2026-11-03T23:27:11Z"
+    },
     {
       "id": "e683f7105a1ad0c9afd34d07",
       "title": "वित्तीय सहायता से शैक्षणिक उत्कृष्टता तक",
@@ -43,7 +263,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-03T14:24:03Z",
-      "lastSeenAt": "2026-11-03T14:24:03Z"
+      "lastSeenAt": "2026-11-03T23:27:11Z"
     },
     {
       "id": "4d7e98cec44bf031cb78998b",
@@ -54,7 +274,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-03T14:24:03Z",
-      "lastSeenAt": "2026-11-03T14:24:03Z"
+      "lastSeenAt": "2026-11-03T23:27:11Z"
     },
     {
       "id": "0c291d16534ab6bbb0cd8392",
@@ -65,7 +285,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-03T14:24:03Z",
-      "lastSeenAt": "2026-11-03T14:24:03Z"
+      "lastSeenAt": "2026-11-03T23:27:11Z"
     },
     {
       "id": "2ad54cad3feb06ee5b4f68d6",
@@ -76,7 +296,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-03T14:24:03Z",
-      "lastSeenAt": "2026-11-03T14:24:03Z"
+      "lastSeenAt": "2026-11-03T23:27:11Z"
     },
     {
       "id": "2cafde94c679e39742038172",
@@ -87,7 +307,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-03T14:24:03Z",
-      "lastSeenAt": "2026-11-03T14:24:03Z"
+      "lastSeenAt": "2026-11-03T23:27:11Z"
     },
     {
       "id": "93dac8bdfd3d08357ba3ebb5",
@@ -98,7 +318,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-03T14:24:03Z",
-      "lastSeenAt": "2026-11-03T14:24:03Z"
+      "lastSeenAt": "2026-11-03T23:27:11Z"
     },
     {
       "id": "9ee011070f3bba9e74a09ee5",
@@ -109,7 +329,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-03T14:24:03Z",
-      "lastSeenAt": "2026-11-03T14:24:03Z"
+      "lastSeenAt": "2026-11-03T23:27:11Z"
     },
     {
       "id": "964b921033071376403be0fd",
@@ -120,7 +340,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-03T14:24:03Z",
-      "lastSeenAt": "2026-11-03T14:24:03Z"
+      "lastSeenAt": "2026-11-03T23:27:11Z"
     },
     {
       "id": "e598b082a9dab0014a58a253",
@@ -131,7 +351,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-03T14:24:03Z",
-      "lastSeenAt": "2026-11-03T14:24:03Z"
+      "lastSeenAt": "2026-11-03T23:27:11Z"
     },
     {
       "id": "9d6438e13dd707a10c63c3d1",
@@ -142,7 +362,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-03T14:24:03Z",
-      "lastSeenAt": "2026-11-03T14:24:03Z"
+      "lastSeenAt": "2026-11-03T23:27:11Z"
     },
     {
       "id": "3efec7f87838ff3856e3fbfa",
@@ -263,7 +483,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 03 Nov 2026 19:10:00",
       "firstSeenAt": "2026-11-03T14:24:03Z",
-      "lastSeenAt": "2026-11-03T14:24:03Z"
+      "lastSeenAt": "2026-11-03T23:27:11Z"
     },
     {
       "id": "f81745ad660eae76d164e57f",
@@ -274,7 +494,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 03 Nov 2026 17:05:00",
       "firstSeenAt": "2026-11-03T14:24:03Z",
-      "lastSeenAt": "2026-11-03T14:24:03Z"
+      "lastSeenAt": "2026-11-03T23:27:11Z"
     },
     {
       "id": "0c12815215208a75a830e037",
@@ -285,7 +505,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 03 Nov 2026 17:00:00",
       "firstSeenAt": "2026-11-03T14:24:03Z",
-      "lastSeenAt": "2026-11-03T14:24:03Z"
+      "lastSeenAt": "2026-11-03T23:27:11Z"
     },
     {
       "id": "12cdb7fad87051ffb6a8569b",
@@ -296,7 +516,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 03 Nov 2026 17:00:00",
       "firstSeenAt": "2026-11-03T14:24:03Z",
-      "lastSeenAt": "2026-11-03T14:24:03Z"
+      "lastSeenAt": "2026-11-03T23:27:11Z"
     },
     {
       "id": "a9ef5b06bccf0cabd75f8ef8",
@@ -307,7 +527,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 03 Nov 2026 17:00:00",
       "firstSeenAt": "2026-11-03T14:24:03Z",
-      "lastSeenAt": "2026-11-03T14:24:03Z"
+      "lastSeenAt": "2026-11-03T23:27:11Z"
     },
     {
       "id": "ace4bac8d281a1061d39493c",
@@ -318,7 +538,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 03 Nov 2026 15:25:00",
       "firstSeenAt": "2026-11-03T14:24:03Z",
-      "lastSeenAt": "2026-11-03T14:24:03Z"
+      "lastSeenAt": "2026-11-03T23:27:11Z"
     },
     {
       "id": "31447cb291a129a607b84b3b",
@@ -329,7 +549,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 03 Nov 2026 11:35:00",
       "firstSeenAt": "2026-11-03T14:24:03Z",
-      "lastSeenAt": "2026-11-03T14:24:03Z"
+      "lastSeenAt": "2026-11-03T23:27:11Z"
     },
     {
       "id": "9bd505cb37cb62bc1ea5b9ad",
@@ -340,7 +560,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 03 Nov 2026 10:40:00",
       "firstSeenAt": "2026-11-03T14:24:03Z",
-      "lastSeenAt": "2026-11-03T14:24:03Z"
+      "lastSeenAt": "2026-11-03T23:27:11Z"
     },
     {
       "id": "17812de3171ba8d90c8ed928",
@@ -351,7 +571,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 03 Nov 2026 09:00:00",
       "firstSeenAt": "2026-11-03T14:24:03Z",
-      "lastSeenAt": "2026-11-03T14:24:03Z"
+      "lastSeenAt": "2026-11-03T23:27:11Z"
     },
     {
       "id": "312131317fe2456cb213ca9d",
@@ -659,7 +879,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 02 Nov 2026 18:25:00",
       "firstSeenAt": "2026-11-02T16:16:43Z",
-      "lastSeenAt": "2026-11-03T14:24:03Z"
+      "lastSeenAt": "2026-11-03T23:27:11Z"
     },
     {
       "id": "105bb579084e16f3541bd687",
