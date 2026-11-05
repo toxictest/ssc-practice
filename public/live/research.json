@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-05T06:54:57Z",
+  "checkedAt": "2026-11-05T20:00:20Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-11-05T06:54:57Z",
-      "lastSuccessAt": "2026-11-05T06:54:57Z",
+      "checkedAt": "2026-11-05T20:00:20Z",
+      "lastSuccessAt": "2026-11-05T20:00:20Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-05T06:54:57Z",
-      "lastSuccessAt": "2026-11-05T06:54:57Z",
+      "checkedAt": "2026-11-05T20:00:20Z",
+      "lastSuccessAt": "2026-11-05T20:00:20Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,365 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-11-05T06:54:57Z",
-      "lastSuccessAt": "2026-11-05T06:54:57Z",
+      "checkedAt": "2026-11-05T20:00:20Z",
+      "lastSuccessAt": "2026-11-05T20:00:20Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "a88ea1545e82280295778c79",
+      "title": "रेल मंत्रालय ने वंदे मातरम् के 150 वर्ष पूरे होने के उपलक्ष्य में साल भर चले समारोह का समापन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333369",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "9f9cacf08fad04896040b40b",
+      "title": "'नशा मुक्त युवा, विकसित भारत प्रश्नोत्तरी में 16,517 से अधिक नागरिकों ने भाग लिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333336",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "c13d4a924e89214c2b1f0d0e",
+      "title": "राष्ट्रीय रक्षा अकादमी और नौसेना अकादमी परीक्षा (I), 2026 – अंतिम परिणाम की घोषणा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333327",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "8e73dacb0b2f9f1eacb0f416",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने एशियाई पैरा गेम्स 2026 में भाग लेने वाले भारतीय दल से बातचीत की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333368",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "6e9731ef94dc600e0cf537c7",
+      "title": "डाक विभाग ने विशेष अभियान 6 को अंतिम छोर तक पहुंचाया - लक्ष्यों से बेहतर प्रदर्शन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333338",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "3fd2c1e60628860ca14c382c",
+      "title": "रक्षा अनुसंधान एवं विकास संगठन ने अर्ध-बैलिस्टिक मिसाइल ‘प्रलय’ का सफल उड़ान परीक्षण किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333323",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "e62e6ba02480c333323ebfba",
+      "title": "सिविल सेवा (मुख्य) परीक्षा, 2026 – लिखित परीक्षा का परिणाम",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333373",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "80e21dbea4e3bef074571b27",
+      "title": "संस्कृति मंत्रालय ने भारत की सांस्कृतिक विरासत का डिजिटलीकरण करने एवं उसे साझा करने के लिए 'गूगल आर्ट्स एंड कल्चर' के साथ एक समझौता ज्ञापन पर हस्ताक्षर किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333341",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "f501f6afba0c13126376e1a8",
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज हरियाणा के अंबाला में 1857 में आजादी की पहली लड़ाई के शहीद स्मारक का उद्घाटन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333267",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "f080ecd84069dac41349ad3e",
+      "title": "आईपीआरडी-2026 सहयोगात्मक महासागर शासन और जिम्मेदार समुद्री प्रौद्योगिकियों पर ध्यान केंद्रित करने के साथ संपन्न",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333316",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "939bf448bc376a835cbfb396",
+      "title": "एनएफएससी फेलोशिप के जरिए शैक्षिक उपलब्धि की यात्रा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333282",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "291706518191cbc3bd6c640b",
+      "title": "मत्स्यपालन विभाग ने स्वच्छता को संस्थागत बनाने और लंबित मामलों को कम करने के लिए विशेष अभियान 6 का सफलतापूर्वक समापन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333318",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "14beb9ec7f6c3c8f14b9bbf3",
+      "title": "नशे की लत से एक स्वस्थ और अधिक स्वतंत्र जीवन की ओर",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333266",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "d022d39494d762d4e0957604",
+      "title": "केंद्रीय मंत्री श्री जी. किशन रेड्डी ने भारत की ऊर्जा सुरक्षा को मजबूत करने के लिए त्वरित कोयला क्षेत्र सुधारों, कोयला गैसीकरण और प्रौद्योगिकी-संचालित खनन की अपील की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333287",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "a7d2b6b4d9ebdf37375fe2ba",
+      "title": "भारतीय नौसेना के पोत आईएनएस तरकश ने मॉरीशस के पोर्ट लुइस का अपना दौरा सफलतापूर्वक पूरा किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333274",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "cb9471d5a23f057b6d518616",
+      "title": "किम्बरली प्रोसेस प्लेनरी से पहले भारत ने वैश्विक हीरा उद्योग के एजेंडे को आगे बढ़ाया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333269",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "53de7873aeee43e659f812f4",
+      "title": "भारत के एशियाई पैरा गेम्स चैंपियनों के साथ बातचीत के दौरान प्रधानमंत्री के संबोधन का मूल पाठ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333227",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "d10367eef79712d71f59186f",
+      "title": "आने वाले त्यौहारी सीजन को देखते हुए और राज्यों को पूंजीगत खर्च में तेजी लाने और अपने विकास/ कल्याण संबंधी खर्च के वित्तपोषण में सहायता प्रदान करने हेतु, केंद्र सरकार ने राज्य सरकारों को अग्रिम तौर पर ₹1,09,019 करोड़ की नियमित कर राशि जारी की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333290",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "a481ccc0c9fd45fb85e2d0e9",
+      "title": "विज्ञान और प्रौद्योगिकी विभाग ने 'विशेष अभियान-6' को सफलतापूर्वक संपन्न किया, इसमें स्वच्छता, रिकॉर्ड प्रबंधन, लंबित मामलों को कम करने, रिकॉर्ड प्रबंधन में सुधार और कार्यालय स्थान के बेहतर उपयोग के क्षेत्रों में महत्वपूर्ण उपलब्धियां हासिल की गईं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333272",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "0b549cdc147376fb88d451bc",
+      "title": "ट्राई ने महाराष्ट्र (लाइसेंस प्राप्त सेवा क्षेत्र) के रत्नागिरी जिले में मोबाइल नेटवर्क की गुणवत्ता का आकलन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333335",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "208e5a5cb5ffd011e73c3bfb",
+      "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on November 06, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63932",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 05 Nov 2026 19:10:00",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "3269cf41541c7a34111af12c",
+      "title": "Auction of State Government Securities",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63931",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 05 Nov 2026 18:55:00",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "7b6127a772b57df9a05d1c58",
+      "title": "Foreign Exchange Turnover Data: October 26, 2026 – October 30, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63930",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 05 Nov 2026 17:30:00",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "c92f1302d9db0e657fcc203e",
+      "title": "Foreign Exchange Turnover Data: October 19, 2026 – October 23, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63929",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 05 Nov 2026 17:25:00",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "2cf29594772cced7c4d54916",
+      "title": "Foreign Exchange Turnover Data: October 12, 2026 – October 16, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63928",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 05 Nov 2026 17:20:00",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "55f61493290f1d5bd948ee6a",
+      "title": "Foreign Exchange Turnover Data: October 05, 2026 – October 09, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63927",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 05 Nov 2026 17:15:00",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "4d58edb6edc19ec1180f616f",
+      "title": "Foreign Exchange Turnover Data: September 28, 2026 – October 01, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63926",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 05 Nov 2026 17:10:00",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "b019d207265e99e26492a567",
+      "title": "Consolidation of Instructions Related to Priority Sector Lending – Drafts for Comments",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63925",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 05 Nov 2026 17:05:00",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "90bc5e6fffa5a2247feb50b6",
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Pusad Urban Co-operative Bank Ltd., Pusad, Dist. Yavatmal, Maharashtra – Extension of Period",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63924",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 05 Nov 2026 12:45:00",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "6ca3f20209661162f4e3a4fe",
+      "title": "Midwestern City Lights",
+      "url": "https://www.nasa.gov/image-article/midwestern-city-lights/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-05T15:17:19+00:00",
+      "sourceDateText": "Thu, 05 Nov 2026 15:17:19 +0000",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "e95078269422a6a1bfb4ebe4",
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-05T15:11:25+00:00",
+      "sourceDateText": "Thu, 05 Nov 2026 15:11:25 +0000",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
+    {
+      "id": "6b2496f9d25e39f25e7505f5",
+      "title": "Hubble Learns Galactic History From Stars",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-05T12:56:21+00:00",
+      "sourceDateText": "Thu, 05 Nov 2026 12:56:21 +0000",
+      "firstSeenAt": "2026-11-05T20:00:20Z",
+      "lastSeenAt": "2026-11-05T20:00:20Z"
+    },
     {
       "id": "690cce6fc2bc38d95333e984",
       "title": "प्रधानमंत्री ने सत्य, ज्ञान और सदाचार के महत्व पर जोर देते हुए एक संस्कृत सुभाषितम् साझा किया",
@@ -175,7 +527,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 05 Nov 2026 11:35:00",
       "firstSeenAt": "2026-11-05T06:54:57Z",
-      "lastSeenAt": "2026-11-05T06:54:57Z"
+      "lastSeenAt": "2026-11-05T20:00:20Z"
     },
     {
       "id": "7afa99681eda273065a7668a",
@@ -219,7 +571,7 @@
       "publishedAt": "2026-11-05T05:05:00+00:00",
       "sourceDateText": "Thu, 05 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-05T06:54:57Z",
-      "lastSeenAt": "2026-11-05T06:54:57Z"
+      "lastSeenAt": "2026-11-05T20:00:20Z"
     },
     {
       "id": "6b581cc17686d785e07eaa1a",
@@ -230,7 +582,7 @@
       "publishedAt": "2026-11-05T05:01:00+00:00",
       "sourceDateText": "Thu, 05 Nov 2026 05:01:00 +0000",
       "firstSeenAt": "2026-11-05T06:54:57Z",
-      "lastSeenAt": "2026-11-05T06:54:57Z"
+      "lastSeenAt": "2026-11-05T20:00:20Z"
     },
     {
       "id": "1522f10d7fdf55bdd9b7e0bd",
@@ -241,7 +593,7 @@
       "publishedAt": "2026-11-05T01:43:21+00:00",
       "sourceDateText": "Thu, 05 Nov 2026 01:43:21 +0000",
       "firstSeenAt": "2026-11-05T06:54:57Z",
-      "lastSeenAt": "2026-11-05T06:54:57Z"
+      "lastSeenAt": "2026-11-05T20:00:20Z"
     },
     {
       "id": "b3955db4dcd9334123334861",
@@ -252,7 +604,7 @@
       "publishedAt": "2026-11-04T21:04:10+00:00",
       "sourceDateText": "Wed, 04 Nov 2026 21:04:10 +0000",
       "firstSeenAt": "2026-11-05T06:54:57Z",
-      "lastSeenAt": "2026-11-05T06:54:57Z"
+      "lastSeenAt": "2026-11-05T20:00:20Z"
     },
     {
       "id": "cecc48d300159c504fd29c0f",
@@ -538,7 +890,7 @@
       "publishedAt": "2026-11-04T18:00:02+00:00",
       "sourceDateText": "Wed, 04 Nov 2026 18:00:02 +0000",
       "firstSeenAt": "2026-11-04T19:49:16Z",
-      "lastSeenAt": "2026-11-05T06:54:57Z"
+      "lastSeenAt": "2026-11-05T20:00:20Z"
     },
     {
       "id": "ab7f6159295de7e7d1d0f381",
@@ -549,7 +901,7 @@
       "publishedAt": "2026-11-04T16:52:43+00:00",
       "sourceDateText": "Wed, 04 Nov 2026 16:52:43 +0000",
       "firstSeenAt": "2026-11-04T19:49:16Z",
-      "lastSeenAt": "2026-11-05T06:54:57Z"
+      "lastSeenAt": "2026-11-05T20:00:20Z"
     },
     {
       "id": "c8e96499cc64f9630b45be31",
@@ -560,7 +912,7 @@
       "publishedAt": "2026-11-04T16:16:41+00:00",
       "sourceDateText": "Wed, 04 Nov 2026 16:16:41 +0000",
       "firstSeenAt": "2026-11-04T19:49:16Z",
-      "lastSeenAt": "2026-11-05T06:54:57Z"
+      "lastSeenAt": "2026-11-05T20:00:20Z"
     },
     {
       "id": "7075eb26867dc026e14c513a",
