@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-05T20:00:20Z",
+  "checkedAt": "2026-11-06T06:54:42Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-11-05T20:00:20Z",
-      "lastSuccessAt": "2026-11-05T20:00:20Z",
+      "checkedAt": "2026-11-06T06:54:42Z",
+      "lastSuccessAt": "2026-11-06T06:54:42Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-05T20:00:20Z",
-      "lastSuccessAt": "2026-11-05T20:00:20Z",
+      "checkedAt": "2026-11-06T06:54:42Z",
+      "lastSuccessAt": "2026-11-06T06:54:42Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,145 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-11-05T20:00:20Z",
-      "lastSuccessAt": "2026-11-05T20:00:20Z",
+      "checkedAt": "2026-11-06T06:54:42Z",
+      "lastSuccessAt": "2026-11-06T06:54:42Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "102fa5bdefd098d24c0d7b94",
+      "title": "प्रधानमंत्री ने झारखंड के खूंटी में हुए हादसे में लोगों की मौत पर दुख जताया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333449",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T06:54:42Z",
+      "lastSeenAt": "2026-11-06T06:54:42Z"
+    },
+    {
+      "id": "d77dea4de373418e057f25c4",
+      "title": "प्रधानमंत्री ने एशियाई पैरा खेलों में भारत के पदक जीतने की संख्या 14 से बढ़कर 114 तक पहुंचने की उल्लेखनीय उपलब्धि को रेखांकित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333400",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T06:54:42Z",
+      "lastSeenAt": "2026-11-06T06:54:42Z"
+    },
+    {
+      "id": "d7d8cef25055d2601899464e",
+      "title": "सामाजिक न्याय एवं अधिकारिता मंत्रालय के सचिव श्री सुधांश पंत ने दिल्ली के आईएनए स्थित दिल्ली हाट में आयोजित शिल्प समागम मेला 2026 का जायजा लिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333408",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T06:54:42Z",
+      "lastSeenAt": "2026-11-06T06:54:42Z"
+    },
+    {
+      "id": "699603962129240915fd5388",
+      "title": "खनन मंत्रियों के चौथे सम्मेलन के पहले दिन कई प्रमुख पहल, महत्वपूर्ण विचार-विमर्शों और केंद्र-राज्य समन्वय को मिला नया बढ़ावा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333405",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T06:54:42Z",
+      "lastSeenAt": "2026-11-06T06:54:42Z"
+    },
+    {
+      "id": "3f244b762a0be455df935655",
+      "title": "पीएम विश्वकर्मा कारीगरों के लिए बाजार पहुंच को मजबूत करने हेतु सूक्ष्म, लघु और मध्यम उद्यम मंत्रालय (एमएसएमई) ने ट्राइफेड के साथ समझौता ज्ञापन पर हस्ताक्षर किए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333409",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T06:54:42Z",
+      "lastSeenAt": "2026-11-06T06:54:42Z"
+    },
+    {
+      "id": "92c15fb49e30acd515512717",
+      "title": "सूक्ष्म, लघु और मध्यम उद्यम मंत्रालय (एमएसएमई) और सैमसंग इंडिया ने कौशल विकास और युवाओं की रोजगार क्षमता को मजबूत करने के लिए साझेदारी की है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333410",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T06:54:42Z",
+      "lastSeenAt": "2026-11-06T06:54:42Z"
+    },
+    {
+      "id": "e226b2f55d576755219693aa",
+      "title": "सात महीनों (अप्रैल-अक्टूबर 2026) में भारत के फिनिश्ड स्टील की खपत 100 एमटी के करीब पहुंची",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333407",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T06:54:42Z",
+      "lastSeenAt": "2026-11-06T06:54:42Z"
+    },
+    {
+      "id": "fe48b0dcbb072335d6676ade",
+      "title": "Result of the 3-day Variable Rate Reverse Repo (VRRR) auction held on November 06, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63935",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 06 Nov 2026 10:25:00",
+      "firstSeenAt": "2026-11-06T06:54:42Z",
+      "lastSeenAt": "2026-11-06T06:54:42Z"
+    },
+    {
+      "id": "293d42b806e5983310ac5124",
+      "title": "Result of Underwriting Auction conducted on November 06, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63934",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 06 Nov 2026 10:15:00",
+      "firstSeenAt": "2026-11-06T06:54:42Z",
+      "lastSeenAt": "2026-11-06T06:54:42Z"
+    },
+    {
+      "id": "f4db3c662acbf114f598c7b8",
+      "title": "Money Market Operations as on November 05, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63933",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 06 Nov 2026 09:00:00",
+      "firstSeenAt": "2026-11-06T06:54:42Z",
+      "lastSeenAt": "2026-11-06T06:54:42Z"
+    },
+    {
+      "id": "ef462061cde94afcd33801b2",
+      "title": "APOD: 2026 November 6 – A Farewell to Swift",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-06T05:05:00+00:00",
+      "sourceDateText": "Fri, 06 Nov 2026 05:05:00 +0000",
+      "firstSeenAt": "2026-11-06T06:54:42Z",
+      "lastSeenAt": "2026-11-06T06:54:42Z"
+    },
+    {
+      "id": "ba58adb142417f99981a3202",
+      "title": "Taking a Gander at Utah’s Goosenecks",
+      "url": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-06T05:01:00+00:00",
+      "sourceDateText": "Fri, 06 Nov 2026 05:01:00 +0000",
+      "firstSeenAt": "2026-11-06T06:54:42Z",
+      "lastSeenAt": "2026-11-06T06:54:42Z"
+    },
     {
       "id": "a88ea1545e82280295778c79",
       "title": "रेल मंत्रालय ने वंदे मातरम् के 150 वर्ष पूरे होने के उपलक्ष्य में साल भर चले समारोह का समापन किया",
@@ -43,7 +175,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "9f9cacf08fad04896040b40b",
@@ -54,7 +186,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "c13d4a924e89214c2b1f0d0e",
@@ -65,7 +197,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "8e73dacb0b2f9f1eacb0f416",
@@ -76,7 +208,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "6e9731ef94dc600e0cf537c7",
@@ -87,7 +219,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "3fd2c1e60628860ca14c382c",
@@ -98,7 +230,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "e62e6ba02480c333323ebfba",
@@ -109,7 +241,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "80e21dbea4e3bef074571b27",
@@ -120,7 +252,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "f501f6afba0c13126376e1a8",
@@ -131,7 +263,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "f080ecd84069dac41349ad3e",
@@ -142,7 +274,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "939bf448bc376a835cbfb396",
@@ -153,7 +285,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "291706518191cbc3bd6c640b",
@@ -164,7 +296,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "14beb9ec7f6c3c8f14b9bbf3",
@@ -186,7 +318,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "a7d2b6b4d9ebdf37375fe2ba",
@@ -263,7 +395,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 05 Nov 2026 19:10:00",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "3269cf41541c7a34111af12c",
@@ -274,7 +406,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 05 Nov 2026 18:55:00",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "7b6127a772b57df9a05d1c58",
@@ -285,7 +417,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 05 Nov 2026 17:30:00",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "c92f1302d9db0e657fcc203e",
@@ -296,7 +428,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 05 Nov 2026 17:25:00",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "2cf29594772cced7c4d54916",
@@ -307,7 +439,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 05 Nov 2026 17:20:00",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "55f61493290f1d5bd948ee6a",
@@ -318,7 +450,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 05 Nov 2026 17:15:00",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "4d58edb6edc19ec1180f616f",
@@ -329,7 +461,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 05 Nov 2026 17:10:00",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "b019d207265e99e26492a567",
@@ -362,7 +494,7 @@
       "publishedAt": "2026-11-05T15:17:19+00:00",
       "sourceDateText": "Thu, 05 Nov 2026 15:17:19 +0000",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "e95078269422a6a1bfb4ebe4",
@@ -373,7 +505,7 @@
       "publishedAt": "2026-11-05T15:11:25+00:00",
       "sourceDateText": "Thu, 05 Nov 2026 15:11:25 +0000",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "6b2496f9d25e39f25e7505f5",
@@ -384,7 +516,7 @@
       "publishedAt": "2026-11-05T12:56:21+00:00",
       "sourceDateText": "Thu, 05 Nov 2026 12:56:21 +0000",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "690cce6fc2bc38d95333e984",
@@ -571,7 +703,7 @@
       "publishedAt": "2026-11-05T05:05:00+00:00",
       "sourceDateText": "Thu, 05 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-05T06:54:57Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "6b581cc17686d785e07eaa1a",
@@ -582,7 +714,7 @@
       "publishedAt": "2026-11-05T05:01:00+00:00",
       "sourceDateText": "Thu, 05 Nov 2026 05:01:00 +0000",
       "firstSeenAt": "2026-11-05T06:54:57Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "1522f10d7fdf55bdd9b7e0bd",
@@ -593,7 +725,7 @@
       "publishedAt": "2026-11-05T01:43:21+00:00",
       "sourceDateText": "Thu, 05 Nov 2026 01:43:21 +0000",
       "firstSeenAt": "2026-11-05T06:54:57Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "b3955db4dcd9334123334861",
@@ -604,7 +736,7 @@
       "publishedAt": "2026-11-04T21:04:10+00:00",
       "sourceDateText": "Wed, 04 Nov 2026 21:04:10 +0000",
       "firstSeenAt": "2026-11-05T06:54:57Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "cecc48d300159c504fd29c0f",
@@ -890,7 +1022,7 @@
       "publishedAt": "2026-11-04T18:00:02+00:00",
       "sourceDateText": "Wed, 04 Nov 2026 18:00:02 +0000",
       "firstSeenAt": "2026-11-04T19:49:16Z",
-      "lastSeenAt": "2026-11-05T20:00:20Z"
+      "lastSeenAt": "2026-11-06T06:54:42Z"
     },
     {
       "id": "ab7f6159295de7e7d1d0f381",
