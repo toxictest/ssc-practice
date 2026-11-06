@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-06T06:54:42Z",
+  "checkedAt": "2026-11-06T19:27:57Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-11-06T06:54:42Z",
-      "lastSuccessAt": "2026-11-06T06:54:42Z",
+      "checkedAt": "2026-11-06T19:27:57Z",
+      "lastSuccessAt": "2026-11-06T19:27:57Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-06T06:54:42Z",
-      "lastSuccessAt": "2026-11-06T06:54:42Z",
+      "checkedAt": "2026-11-06T19:27:57Z",
+      "lastSuccessAt": "2026-11-06T19:27:57Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,332 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-11-06T06:54:42Z",
-      "lastSuccessAt": "2026-11-06T06:54:42Z",
+      "checkedAt": "2026-11-06T19:27:57Z",
+      "lastSuccessAt": "2026-11-06T19:27:57Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "e0d15cfaf90739bb363ef210",
+      "title": "केंद्रीय रेल मंत्री श्री अश्विनी वैष्णव ने नई दिल्ली रेलवे स्टेशन पर यात्री सुविधाओं और सुरक्षा व्यवस्थाओं का जायजा लिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333786",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "9fae54b6eb98fe1fa828379e",
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज देहरादून में उत्तराखंड पुलिस को राष्ट्रपति निशान (President’s Colour) प्रदान किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333756",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "b1ff91be9ee46f48cf7da763",
+      "title": "भारतीय वायुसेना के सॉफ्टवेयर डेवलपमेंट इंस्टीट्यूट और आईआईटी मद्रास प्रवर्तक टेक्नोलॉजीज फाउंडेशन ने हवाई प्लेटफॉर्म के लिए स्वदेशी डिजिटल सुरक्षित संचार प्रणाली विकसित करने के उद्देश्य से एक समझौता ज्ञापन पर हस्ताक्षर किए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333792",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "c7092bc7d9b7604a9211821d",
+      "title": "वित्त मंत्रालय के राजस्व विभाग ने स्वच्छता को संस्थागत रूप देने और लंबित मामले कम करने के लिए चलाए गए विशेष अभियान 6 का सफलतापूर्वक समापन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333784",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "c0646f1a4dd1dd8da9e0bf3e",
+      "title": "उर्वरक विभाग और उसके सार्वजनिक क्षेत्र के उपक्रमों ने विशेष अभियान-6 के अंतर्गत महत्वपूर्ण प्रगति की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333774",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "6c3bb4b833c4d2adeb5d995e",
+      "title": "प्रधान वैज्ञानिक सलाहकार के कार्यालय और 'उद्योग और आंतरिक व्यापार संवर्धन विभाग ने राष्ट्रीय अनुसंधान बुनियादी ढांचे तक पहुंच मजबूत करने के लिए 'स्टार्टअप इंडिया' और 'I-STEM' पोर्टलों के बीच एपीआई एकीकरण की शुरुआत की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333761",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "6011f4c8915b87dc11c8a3ef",
+      "title": "अंडमान और निकोबार कमान में पहले बिम्सटेक समुद्री सुरक्षा अभ्यास का सफलतापूर्वक समापन",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333778",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "c827c468df2e8005a2c52c55",
+      "title": "संयुक्त आशुलिपिक (ग्रेड ‘बी’/ग्रेड-‘I’) सीमित विभागीय प्रतियोगी परीक्षा, 2019, 2020 और 2021",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333806",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "9a41777b4a328ef21f9b974c",
+      "title": "केंद्रीय मंत्री श्री अश्विनी वैष्णव ने सेमीकॉन 2.0 वेब एप्लिकेशन पोर्टल लॉन्च किया और इलेक्ट्रॉनिक्स कंपोनेंट्स मैन्युफैक्चरिंग स्कीम के तहत 12 स्वीकृत आवेदकों की घोषणा की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333813",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "a4c9bd165f26646660966109",
+      "title": "विधि और न्याय मंत्रालय के न्याय विभाग ने सरकारी कार्यालयों में स्वच्छता को बढ़ावा देने और लंबित मामलों को कम करने के लिए विशेष अभियान 6 सफलतापूर्वक पूरा किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333780",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "45bda2a059cc50c44e68d2d6",
+      "title": "भारत और म्यांमार ने पहली त्रि-सेवा संयुक्त एचएडीआर अभ्यास ‘राहत मित्र’ की शुरुआत की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333746",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "d0c7db53fa2f74505c44e3cc",
+      "title": "चार देशों के दूतों ने भारत की राष्ट्रपति को अपने परिचय-पत्र प्रस्तुत किए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333705",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "5141db4d532392ff340a0a55",
+      "title": "तेलंगाना में संशोधित भारतनेट कार्यक्रम के कार्यान्वयन के लिए डीबीएन (डिजिटल भारत निधि), दूरसंचार विभाग, तेलंगाना सरकार, टीआरआईआईसीएल, बीएसएनएल और टी-फाइबर के बीच समझौते पर हस्ताक्षर",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333732",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "041ed33c9f6d2b1a63a9d861",
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज देहरादून में उत्तराखंड राज्योत्सव समारोह को संबोधित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333675",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "b28d027e6e81b56165a4c032",
+      "title": "चार लेन और उससे अधिक के लेन वाले राष्ट्रीय राजमार्गों पर मल्टी-लेन फ्री फ्लो टोलिंग के लिए डिजाइन और बुनियादी ढांचे को मानकीकृत करने के लिए भारतीय राष्ट्रीय राजमार्ग प्राधिकरण के दिशानिर्देश",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333718",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "0d4108c4f149c3143f73515b",
+      "title": "तमिलनाडु के राज्यपाल ने प्रधानमंत्री से मुलाकात की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333686",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "b55e5755f5a1d728e359ba9f",
+      "title": "डॉ. जितेंद्र सिंह ने कहा कि डीएलसी अभियान 5.0 के पहले पांच दिनों में लगभग 40 लाख प्रमाणपत्र उत्पन्न होने से चेहरा प्रमाणीकरण अपनाने की संख्या 80% तक बढ़ गई है।",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333729",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "ff3d5624ade50838dcd36ae5",
+      "title": "सरकार ने 2026-27 के लिए OMSS (D) के तहत चावल की बिक्री का लक्ष्य 25 LMT से दोगुना करके 50 LMT किया, 31 अक्टूबर 2026 तक ई-नीलामी के ज़रिए 25 LMT चावल पहले ही बेचा जा चुका है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333687",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "295b02c0a0e2c603cbe90eaa",
+      "title": "आईएनएस त्रिशूल ने ग्रीस के सौडा बे में पोर्ट कॉल पूरा किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333722",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "d37ee77eb98be86d2f16200f",
+      "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on November 09, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63943",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 06 Nov 2026 19:10:00",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "ab109eed8e1ee60e94748261",
+      "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63942",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 06 Nov 2026 17:55:00",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "bb428b16109729def7e9932f",
+      "title": "Census on Foreign Liabilities and Assets of Indian Direct Investment Entities for 2025-26",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63941",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 06 Nov 2026 17:30:00",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "04f9792cbed8535ea1374c42",
+      "title": "Sectoral Deployment of Credit by NBFC – September 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63940",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 06 Nov 2026 17:00:00",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "3808eb96cb616dad1f0affe9",
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63939",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 06 Nov 2026 17:00:00",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "65c23f2b292217c01bb6739f",
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Sri Guru Raghavendra Sahakara Bank Niyamitha, Bengaluru - Extension of Period",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63938",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 06 Nov 2026 16:20:00",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "078fc5a447da21bf0222dc41",
+      "title": "Government Stock - Full Auction Results",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63937",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 06 Nov 2026 15:00:00",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "66d2f04974422eb19d3d075a",
+      "title": "Government Stock - Auction Results: Cut-off",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63936",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 06 Nov 2026 14:20:00",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "83b8b7ae95d54e1d19c799f9",
+      "title": "M30’s Sparkling Stars",
+      "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-06T16:23:41+00:00",
+      "sourceDateText": "Fri, 06 Nov 2026 16:23:41 +0000",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
+    {
+      "id": "e90733f65aaa56b649cd28a9",
+      "title": "Supercomputing Tech Demo Schedule",
+      "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-06T16:03:52+00:00",
+      "sourceDateText": "Fri, 06 Nov 2026 16:03:52 +0000",
+      "firstSeenAt": "2026-11-06T19:27:57Z",
+      "lastSeenAt": "2026-11-06T19:27:57Z"
+    },
     {
       "id": "102fa5bdefd098d24c0d7b94",
       "title": "प्रधानमंत्री ने झारखंड के खूंटी में हुए हादसे में लोगों की मौत पर दुख जताया",
@@ -120,7 +439,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 06 Nov 2026 10:25:00",
       "firstSeenAt": "2026-11-06T06:54:42Z",
-      "lastSeenAt": "2026-11-06T06:54:42Z"
+      "lastSeenAt": "2026-11-06T19:27:57Z"
     },
     {
       "id": "293d42b806e5983310ac5124",
@@ -131,7 +450,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 06 Nov 2026 10:15:00",
       "firstSeenAt": "2026-11-06T06:54:42Z",
-      "lastSeenAt": "2026-11-06T06:54:42Z"
+      "lastSeenAt": "2026-11-06T19:27:57Z"
     },
     {
       "id": "f4db3c662acbf114f598c7b8",
@@ -153,7 +472,7 @@
       "publishedAt": "2026-11-06T05:05:00+00:00",
       "sourceDateText": "Fri, 06 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-06T06:54:42Z",
-      "lastSeenAt": "2026-11-06T06:54:42Z"
+      "lastSeenAt": "2026-11-06T19:27:57Z"
     },
     {
       "id": "ba58adb142417f99981a3202",
@@ -164,7 +483,7 @@
       "publishedAt": "2026-11-06T05:01:00+00:00",
       "sourceDateText": "Fri, 06 Nov 2026 05:01:00 +0000",
       "firstSeenAt": "2026-11-06T06:54:42Z",
-      "lastSeenAt": "2026-11-06T06:54:42Z"
+      "lastSeenAt": "2026-11-06T19:27:57Z"
     },
     {
       "id": "a88ea1545e82280295778c79",
@@ -494,7 +813,7 @@
       "publishedAt": "2026-11-05T15:17:19+00:00",
       "sourceDateText": "Thu, 05 Nov 2026 15:17:19 +0000",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-06T06:54:42Z"
+      "lastSeenAt": "2026-11-06T19:27:57Z"
     },
     {
       "id": "e95078269422a6a1bfb4ebe4",
@@ -505,7 +824,7 @@
       "publishedAt": "2026-11-05T15:11:25+00:00",
       "sourceDateText": "Thu, 05 Nov 2026 15:11:25 +0000",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-06T06:54:42Z"
+      "lastSeenAt": "2026-11-06T19:27:57Z"
     },
     {
       "id": "6b2496f9d25e39f25e7505f5",
@@ -516,7 +835,7 @@
       "publishedAt": "2026-11-05T12:56:21+00:00",
       "sourceDateText": "Thu, 05 Nov 2026 12:56:21 +0000",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-06T06:54:42Z"
+      "lastSeenAt": "2026-11-06T19:27:57Z"
     },
     {
       "id": "690cce6fc2bc38d95333e984",
@@ -703,7 +1022,7 @@
       "publishedAt": "2026-11-05T05:05:00+00:00",
       "sourceDateText": "Thu, 05 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-05T06:54:57Z",
-      "lastSeenAt": "2026-11-06T06:54:42Z"
+      "lastSeenAt": "2026-11-06T19:27:57Z"
     },
     {
       "id": "6b581cc17686d785e07eaa1a",
@@ -714,7 +1033,7 @@
       "publishedAt": "2026-11-05T05:01:00+00:00",
       "sourceDateText": "Thu, 05 Nov 2026 05:01:00 +0000",
       "firstSeenAt": "2026-11-05T06:54:57Z",
-      "lastSeenAt": "2026-11-06T06:54:42Z"
+      "lastSeenAt": "2026-11-06T19:27:57Z"
     },
     {
       "id": "1522f10d7fdf55bdd9b7e0bd",
@@ -725,7 +1044,7 @@
       "publishedAt": "2026-11-05T01:43:21+00:00",
       "sourceDateText": "Thu, 05 Nov 2026 01:43:21 +0000",
       "firstSeenAt": "2026-11-05T06:54:57Z",
-      "lastSeenAt": "2026-11-06T06:54:42Z"
+      "lastSeenAt": "2026-11-06T19:27:57Z"
     },
     {
       "id": "b3955db4dcd9334123334861",
