@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-08T06:09:55Z",
+  "checkedAt": "2026-11-08T13:31:32Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-11-08T06:09:55Z",
-      "lastSuccessAt": "2026-11-08T06:09:55Z",
+      "checkedAt": "2026-11-08T13:31:32Z",
+      "lastSuccessAt": "2026-11-08T13:31:32Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-08T06:09:55Z",
-      "lastSuccessAt": "2026-11-08T06:09:55Z",
+      "checkedAt": "2026-11-08T13:31:32Z",
+      "lastSuccessAt": "2026-11-08T13:31:32Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,112 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-11-08T06:09:55Z",
-      "lastSuccessAt": "2026-11-08T06:09:55Z",
+      "checkedAt": "2026-11-08T13:31:32Z",
+      "lastSuccessAt": "2026-11-08T13:31:32Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "033b854100c7bf271d8b0094",
+      "title": "रक्षा मंत्री ने सिक्किम के अग्रिम मोर्चों पर तैनात सैनिकों के साथ दीपावली मनाई",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334152",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-08T13:31:32Z",
+      "lastSeenAt": "2026-11-08T13:31:32Z"
+    },
+    {
+      "id": "1c6799663ce0d103c15ac46f",
+      "title": "छत्तीसगढ़ के बस्तर में सुरक्षा बलों के साथ बातचीत के दौरान प्रधानमंत्री के भाषण का मूल पाठ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334109",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-08T13:31:32Z",
+      "lastSeenAt": "2026-11-08T13:31:32Z"
+    },
+    {
+      "id": "da483b44ee102f819424368f",
+      "title": "अरुणाचल प्रदेश के तवांग में 31,000 श्रद्धालुओं ने शाक्यमुनि बुद्ध के पवित्र अवशेषों के दर्शन किए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334131",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-08T13:31:32Z",
+      "lastSeenAt": "2026-11-08T13:31:32Z"
+    },
+    {
+      "id": "a7dccfa6035a7a8301dffca7",
+      "title": "प्रधानमंत्री बस्तर में सुरक्षाकर्मियों के साथ दीपावली मनाएंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334130",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-08T13:31:32Z",
+      "lastSeenAt": "2026-11-08T13:31:32Z"
+    },
+    {
+      "id": "2571019aa4aa40fceb5050c9",
+      "title": "प्रधानमंत्री ने किसानों के साथ दीपावली मनाने के महाराष्ट्र के मुख्यमंत्री श्री देवेंद्र फडणवीस के संवेदनशील कदम की सराहना की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334120",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-08T13:31:32Z",
+      "lastSeenAt": "2026-11-08T13:31:32Z"
+    },
+    {
+      "id": "6a2f01e0f62adb65afaff13a",
+      "title": "श्रम संवाद: मध्य प्रदेश के देवास में श्रम संहिता पर जिला स्तरीय क्षमता निर्माण और जागरूकता कार्यक्रम आयोजित किया गया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334092",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-08T13:31:32Z",
+      "lastSeenAt": "2026-11-08T13:31:32Z"
+    },
+    {
+      "id": "5f8f0e694d43c319e613e6fd",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने भारत रत्न श्री लाल कृष्ण आडवाणी जी को अपने जीवन के 100वें वर्ष में प्रवेश करने पर बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334087",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-08T13:31:32Z",
+      "lastSeenAt": "2026-11-08T13:31:32Z"
+    },
+    {
+      "id": "7d774a3b9ea9258526b52f03",
+      "title": "प्रधानमंत्री ने सभी देशवासियों को दीपावली की शुभकामनाएँ दीं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334118",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-08T13:31:32Z",
+      "lastSeenAt": "2026-11-08T13:31:32Z"
+    },
+    {
+      "id": "436542e69c36fa018dfe5bf0",
+      "title": "उपराष्ट्रपति श्री सी. पी. राधाकृष्णन ने अयोध्या में दीपोत्सव 2026 समारोह का उद्घाटन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334125",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-08T13:31:32Z",
+      "lastSeenAt": "2026-11-08T13:31:32Z"
+    },
     {
       "id": "0322b206352e4b81831425b1",
       "title": "रक्षा राज्य मंत्री ने सैनिक स्कूल बीजापुर में आयोजित अखिल भारतीय सैनिक स्कूल राष्ट्रीय खेल प्रतियोगिता 2026 के समापन समारोह में भाग लिया",
@@ -43,7 +142,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-08T06:09:55Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "8ed887c98decb33285072d79",
@@ -54,7 +153,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-08T06:09:55Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "b85661f96e0e40c253df1a3f",
@@ -65,7 +164,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-08T06:09:55Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "4b964b146a7587e2200d5b03",
@@ -76,7 +175,7 @@
       "publishedAt": "2026-11-08T05:05:00+00:00",
       "sourceDateText": "Sun, 08 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-08T06:09:55Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "7723ccbf8c3a4f1abae0737e",
@@ -87,7 +186,7 @@
       "publishedAt": "2026-11-07T22:47:03+00:00",
       "sourceDateText": "Sat, 07 Nov 2026 22:47:03 +0000",
       "firstSeenAt": "2026-11-08T06:09:55Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "76f8c378152e25baa13a72a1",
@@ -98,7 +197,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-07T21:55:53Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "af70cbfe23078f15029eea2f",
@@ -109,7 +208,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-07T21:55:53Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "8c8172d47a61a3eb64611ccf",
@@ -120,7 +219,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-07T21:55:53Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "a419cfeea85e8fe9d8fb116b",
@@ -131,7 +230,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-07T21:55:53Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "44a6b3793253ee6a4d103fcb",
@@ -142,7 +241,7 @@
       "publishedAt": "2026-11-07T18:11:57+00:00",
       "sourceDateText": "Sat, 07 Nov 2026 18:11:57 +0000",
       "firstSeenAt": "2026-11-07T21:55:53Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "86fdafb3eced481da19a977e",
@@ -153,7 +252,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-07T13:10:11Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "7c8c29b660d6bb4d1d22ac8d",
@@ -164,7 +263,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-07T13:10:11Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "099458c291130c3b36beebf4",
@@ -175,7 +274,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-07T13:10:11Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "18daf50a893897e0e671d189",
@@ -186,7 +285,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-07T13:10:11Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "6363abffe00bed05b66b7553",
@@ -296,7 +395,7 @@
       "publishedAt": "2026-11-07T05:05:00+00:00",
       "sourceDateText": "Sat, 07 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-07T06:05:44Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "e0d15cfaf90739bb363ef210",
@@ -516,7 +615,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 06 Nov 2026 19:10:00",
       "firstSeenAt": "2026-11-06T19:27:57Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "ab109eed8e1ee60e94748261",
@@ -527,7 +626,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 06 Nov 2026 17:55:00",
       "firstSeenAt": "2026-11-06T19:27:57Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "bb428b16109729def7e9932f",
@@ -538,7 +637,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 06 Nov 2026 17:30:00",
       "firstSeenAt": "2026-11-06T19:27:57Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "04f9792cbed8535ea1374c42",
@@ -549,7 +648,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 06 Nov 2026 17:00:00",
       "firstSeenAt": "2026-11-06T19:27:57Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "3808eb96cb616dad1f0affe9",
@@ -560,7 +659,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 06 Nov 2026 17:00:00",
       "firstSeenAt": "2026-11-06T19:27:57Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "65c23f2b292217c01bb6739f",
@@ -571,7 +670,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 06 Nov 2026 16:20:00",
       "firstSeenAt": "2026-11-06T19:27:57Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "078fc5a447da21bf0222dc41",
@@ -582,7 +681,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 06 Nov 2026 15:00:00",
       "firstSeenAt": "2026-11-06T19:27:57Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "66d2f04974422eb19d3d075a",
@@ -593,7 +692,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 06 Nov 2026 14:20:00",
       "firstSeenAt": "2026-11-06T19:27:57Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "83b8b7ae95d54e1d19c799f9",
@@ -604,7 +703,7 @@
       "publishedAt": "2026-11-06T16:23:41+00:00",
       "sourceDateText": "Fri, 06 Nov 2026 16:23:41 +0000",
       "firstSeenAt": "2026-11-06T19:27:57Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "e90733f65aaa56b649cd28a9",
@@ -615,7 +714,7 @@
       "publishedAt": "2026-11-06T16:03:52+00:00",
       "sourceDateText": "Fri, 06 Nov 2026 16:03:52 +0000",
       "firstSeenAt": "2026-11-06T19:27:57Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "102fa5bdefd098d24c0d7b94",
@@ -703,7 +802,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 06 Nov 2026 10:25:00",
       "firstSeenAt": "2026-11-06T06:54:42Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "293d42b806e5983310ac5124",
@@ -714,7 +813,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 06 Nov 2026 10:15:00",
       "firstSeenAt": "2026-11-06T06:54:42Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "f4db3c662acbf114f598c7b8",
@@ -736,7 +835,7 @@
       "publishedAt": "2026-11-06T05:05:00+00:00",
       "sourceDateText": "Fri, 06 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-06T06:54:42Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "ba58adb142417f99981a3202",
@@ -747,7 +846,7 @@
       "publishedAt": "2026-11-06T05:01:00+00:00",
       "sourceDateText": "Fri, 06 Nov 2026 05:01:00 +0000",
       "firstSeenAt": "2026-11-06T06:54:42Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "a88ea1545e82280295778c79",
@@ -1077,7 +1176,7 @@
       "publishedAt": "2026-11-05T15:17:19+00:00",
       "sourceDateText": "Thu, 05 Nov 2026 15:17:19 +0000",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "e95078269422a6a1bfb4ebe4",
@@ -1088,7 +1187,7 @@
       "publishedAt": "2026-11-05T15:11:25+00:00",
       "sourceDateText": "Thu, 05 Nov 2026 15:11:25 +0000",
       "firstSeenAt": "2026-11-05T20:00:20Z",
-      "lastSeenAt": "2026-11-08T06:09:55Z"
+      "lastSeenAt": "2026-11-08T13:31:32Z"
     },
     {
       "id": "6b2496f9d25e39f25e7505f5",
