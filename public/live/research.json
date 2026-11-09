@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-09T06:43:54Z",
+  "checkedAt": "2026-11-09T22:26:05Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
-      "ok": true,
-      "checkedAt": "2026-11-09T06:43:54Z",
+      "ok": false,
+      "checkedAt": "2026-11-09T22:26:05Z",
       "lastSuccessAt": "2026-11-09T06:43:54Z",
-      "count": 20,
-      "error": null
+      "count": 0,
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "rbi",
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-09T06:43:54Z",
-      "lastSuccessAt": "2026-11-09T06:43:54Z",
+      "checkedAt": "2026-11-09T22:26:05Z",
+      "lastSuccessAt": "2026-11-09T22:26:05Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,156 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-11-09T06:43:54Z",
-      "lastSuccessAt": "2026-11-09T06:43:54Z",
+      "checkedAt": "2026-11-09T22:26:05Z",
+      "lastSuccessAt": "2026-11-09T22:26:05Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "4ea86854fbdc27966acf8b85",
+      "title": "Auction of Government of India Dated Security",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63952",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Mon, 09 Nov 2026 18:55:00",
+      "firstSeenAt": "2026-11-09T22:26:05Z",
+      "lastSeenAt": "2026-11-09T22:26:05Z"
+    },
+    {
+      "id": "8b9c5acdeb3e61844e24224c",
+      "title": "Supersession of Board of Directors of Abhyudaya Co-operative Bank Ltd., Mumbai - Extension of period",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63951",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Mon, 09 Nov 2026 18:50:00",
+      "firstSeenAt": "2026-11-09T22:26:05Z",
+      "lastSeenAt": "2026-11-09T22:26:05Z"
+    },
+    {
+      "id": "fb703dbc9d62b4c7cd0f4c2d",
+      "title": "State Government Securities - Full Auction Result",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63950",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Mon, 09 Nov 2026 16:25:00",
+      "firstSeenAt": "2026-11-09T22:26:05Z",
+      "lastSeenAt": "2026-11-09T22:26:05Z"
+    },
+    {
+      "id": "c26521461effbc1266ea2c0e",
+      "title": "Reserve Bank cancels Certificate of Registration of Gandhinagar Leasing and Finance Ltd.",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63949",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Mon, 09 Nov 2026 16:10:00",
+      "firstSeenAt": "2026-11-09T22:26:05Z",
+      "lastSeenAt": "2026-11-09T22:26:05Z"
+    },
+    {
+      "id": "25394fece503763e111f35f8",
+      "title": "Result of Yield/Price Based Auction of State Government Securities",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63948",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Mon, 09 Nov 2026 14:55:00",
+      "firstSeenAt": "2026-11-09T22:26:05Z",
+      "lastSeenAt": "2026-11-09T22:26:05Z"
+    },
+    {
+      "id": "49e50de3c508947d2ceae0da",
+      "title": "La NASA busca a la próxima generación de astronautas",
+      "url": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-09T19:27:20+00:00",
+      "sourceDateText": "Mon, 09 Nov 2026 19:27:20 +0000",
+      "firstSeenAt": "2026-11-09T22:26:05Z",
+      "lastSeenAt": "2026-11-09T22:26:05Z"
+    },
+    {
+      "id": "0d8ff19bcb0ddd77978b684e",
+      "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-09T18:55:50+00:00",
+      "sourceDateText": "Mon, 09 Nov 2026 18:55:50 +0000",
+      "firstSeenAt": "2026-11-09T22:26:05Z",
+      "lastSeenAt": "2026-11-09T22:26:05Z"
+    },
+    {
+      "id": "317077845281ce2d4d38b42d",
+      "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-09T17:42:42+00:00",
+      "sourceDateText": "Mon, 09 Nov 2026 17:42:42 +0000",
+      "firstSeenAt": "2026-11-09T22:26:05Z",
+      "lastSeenAt": "2026-11-09T22:26:05Z"
+    },
+    {
+      "id": "677dc7b812a3d2ee96a8be75",
+      "title": "La NASA destina un millón de dólares al reto estudiantil Base Lunar",
+      "url": "https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-09T17:36:33+00:00",
+      "sourceDateText": "Mon, 09 Nov 2026 17:36:33 +0000",
+      "firstSeenAt": "2026-11-09T22:26:05Z",
+      "lastSeenAt": "2026-11-09T22:26:05Z"
+    },
+    {
+      "id": "9f5952064b41927c98a3cca8",
+      "title": "Astronauts Across Generations Share the Stage",
+      "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-09T16:56:29+00:00",
+      "sourceDateText": "Mon, 09 Nov 2026 16:56:29 +0000",
+      "firstSeenAt": "2026-11-09T22:26:05Z",
+      "lastSeenAt": "2026-11-09T22:26:05Z"
+    },
+    {
+      "id": "a7fbc1af55fcfab12792ea99",
+      "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
+      "url": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-09T16:07:10+00:00",
+      "sourceDateText": "Mon, 09 Nov 2026 16:07:10 +0000",
+      "firstSeenAt": "2026-11-09T22:26:05Z",
+      "lastSeenAt": "2026-11-09T22:26:05Z"
+    },
+    {
+      "id": "958853ca35a14b58cc6542dc",
+      "title": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
+      "url": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-09T16:01:47+00:00",
+      "sourceDateText": "Mon, 09 Nov 2026 16:01:47 +0000",
+      "firstSeenAt": "2026-11-09T22:26:05Z",
+      "lastSeenAt": "2026-11-09T22:26:05Z"
+    },
+    {
+      "id": "ffc125749edfcb4289e78d2d",
+      "title": "CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-09T11:00:00+00:00",
+      "sourceDateText": "Mon, 09 Nov 2026 11:00:00 +0000",
+      "firstSeenAt": "2026-11-09T22:26:05Z",
+      "lastSeenAt": "2026-11-09T22:26:05Z"
+    },
     {
       "id": "5e586d7782d417c7b80592de",
       "title": "प्रधानमंत्री ने उत्तराखंड के लोगों को राज्य स्थापना दिवस पर शुभकामनाएं दीं",
@@ -65,7 +208,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 09 Nov 2026 11:40:00",
       "firstSeenAt": "2026-11-09T06:43:54Z",
-      "lastSeenAt": "2026-11-09T06:43:54Z"
+      "lastSeenAt": "2026-11-09T22:26:05Z"
     },
     {
       "id": "8f026458a54ce69726c59756",
@@ -76,7 +219,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 09 Nov 2026 11:35:00",
       "firstSeenAt": "2026-11-09T06:43:54Z",
-      "lastSeenAt": "2026-11-09T06:43:54Z"
+      "lastSeenAt": "2026-11-09T22:26:05Z"
     },
     {
       "id": "9565be3565ab192a969259fc",
@@ -87,7 +230,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 09 Nov 2026 10:45:00",
       "firstSeenAt": "2026-11-09T06:43:54Z",
-      "lastSeenAt": "2026-11-09T06:43:54Z"
+      "lastSeenAt": "2026-11-09T22:26:05Z"
     },
     {
       "id": "09903666e068d7f1955d1c4c",
@@ -98,7 +241,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 09 Nov 2026 09:00:00",
       "firstSeenAt": "2026-11-09T06:43:54Z",
-      "lastSeenAt": "2026-11-09T06:43:54Z"
+      "lastSeenAt": "2026-11-09T22:26:05Z"
     },
     {
       "id": "fec79c17fae28b283191c72e",
@@ -109,7 +252,7 @@
       "publishedAt": "2026-11-09T05:05:00+00:00",
       "sourceDateText": "Mon, 09 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-09T06:43:54Z",
-      "lastSeenAt": "2026-11-09T06:43:54Z"
+      "lastSeenAt": "2026-11-09T22:26:05Z"
     },
     {
       "id": "7133c96a2678442bfc87483f",
@@ -120,7 +263,7 @@
       "publishedAt": "2026-11-09T05:00:00+00:00",
       "sourceDateText": "Mon, 09 Nov 2026 05:00:00 +0000",
       "firstSeenAt": "2026-11-09T06:43:54Z",
-      "lastSeenAt": "2026-11-09T06:43:54Z"
+      "lastSeenAt": "2026-11-09T22:26:05Z"
     },
     {
       "id": "36e8b2076284d3e462644a7f",
@@ -780,7 +923,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 06 Nov 2026 19:10:00",
       "firstSeenAt": "2026-11-06T19:27:57Z",
-      "lastSeenAt": "2026-11-09T06:43:54Z"
+      "lastSeenAt": "2026-11-09T22:26:05Z"
     },
     {
       "id": "ab109eed8e1ee60e94748261",
