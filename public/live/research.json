@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-10T07:25:04Z",
+  "checkedAt": "2026-11-10T19:47:35Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-11-10T07:25:04Z",
-      "lastSuccessAt": "2026-11-10T07:25:04Z",
+      "checkedAt": "2026-11-10T19:47:35Z",
+      "lastSuccessAt": "2026-11-10T19:47:35Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-10T07:25:04Z",
-      "lastSuccessAt": "2026-11-10T07:25:04Z",
+      "checkedAt": "2026-11-10T19:47:35Z",
+      "lastSuccessAt": "2026-11-10T19:47:35Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,277 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-11-10T07:25:04Z",
-      "lastSuccessAt": "2026-11-10T07:25:04Z",
+      "checkedAt": "2026-11-10T19:47:35Z",
+      "lastSuccessAt": "2026-11-10T19:47:35Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "c35442c23c803bc6bfc22678",
+      "title": "दिल्ली हाट में आयोजित ‘शिल्प समागम मेला 2026’ में कुल 64.52 लाख रुपये से अधिक की बिक्री हुई, जो लोगों की शानदार प्रतिक्रिया और कारीगरों के लिए बाजार के बढ़ते अवसरों को दर्शाती है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334869",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "491887d5d5da4781e88e6c82",
+      "title": "आर्थिक तंगी से लेकर वैश्विक स्तर की शिक्षा के अवसर तक का सफर",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334818",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "339555ae40071d84b4d92ba2",
+      "title": "व्यावसायिक जोखिम से सुरक्षित आजीविका तक",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334805",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "54d30a57d0ffa92346662e6e",
+      "title": "सैन्य मामलों के विभाग ने विशेष अभियान के छठे चरण को सफलतापूर्वक पूरा किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334847",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "a82e8234f016ae1b3c4b8411",
+      "title": "चिकित्सा उपकरणों के उत्पादन से जुड़ी प्रोत्साहन योजना के तहत नए आवेदन आमंत्रित",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334792",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "8ec3054018131812b794cf4e",
+      "title": "ओडिशा ने मोटे अनाज आधारित कृषि परिवर्तन के लिए एक राष्ट्रीय रोडमैप तैयार किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334836",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "17fae07d48357e6e1e2ee310",
+      "title": "सूक्ष्म, लघु और मध्यम उद्यम मंत्रालय (एमएसएमई) ने एससी/एसटी सूक्ष्म और लघु उद्यमों से खरीद बढ़ाने के लिए सीपीएसई के साथ एक गोलमेज चर्चा का आयोजन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334795",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "45f8233d9260c28dd6695717",
+      "title": "‘नशा मुक्त युवा, विकसित भारत क्विज़’ में 25 हजार 607 से अधिक लोग शामिल हुए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334789",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "ead9e2c73f4adf9fa9889888",
+      "title": "नए एम्स में 2021-22 से अब तक 6 करोड़ से अधिक ओपीडी परामर्श, देशभर में विशेषज्ञतापूर्ण तृतीयक स्वास्थ्य सेवाओं की पहुंच का विस्तार",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334829",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "1dbc667bea52edbd519d5144",
+      "title": "यमुना मनोरंजक क्रूज़ सेवा के शुभारंभ के साथ दिल्ली में रिवर टूरिज्म यानी नदी पर्यटन की शुरुआत",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334784",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "c695279a526c697afa54d9c4",
+      "title": "सम्मिलित रक्षा सेवा परीक्षा (I), 2026, अंतिम परिणाम की घोषणा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334722",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "6787fbf444e915696040cdf8",
+      "title": "रक्षा उत्पादन विभाग ने विशेष अभियान 6.0 सफलतापूर्वक पूरा किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334828",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "c25e3026fc03bc2f45ac8657",
+      "title": "केंद्रीय मंत्री डॉ. जितेंद्र सिंह ने ईएसएससी की सामान्य निकाय बैठक की अध्यक्षता की, भारत की वैज्ञानिक उपलब्धियों को प्रदर्शित करने के लिए नागरिक-केंद्रित विज्ञान संचार पर बल दिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334782",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "ab3e3ef49289a3927bd51e61",
+      "title": "केंद्रीय कृषि एवं किसान कल्याण राज्य मंत्री श्री रामनाथ ठाकुर ने उत्तर 24 परगना में खेत बचाओ अभियान में भाग लिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334790",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "57d16f4e6c192ff74ce15025",
+      "title": "जैव प्रौद्योगिकी अनुसंधान एवं नवाचार परिषद का तीसरा स्थापना दिवस राष्ट्रीय प्रतिरक्षा विज्ञान संस्थान में आयोजित",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334776",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "d35f4707ab8044c350d37bf2",
+      "title": "आर्थिक बाधाओं से शैक्षणिक प्रगति तक",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334774",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "8a76f45bee0985e561c4ea76",
+      "title": "भारतीय डाक और इंडिगो ने मिलकर 15 उड़ानों में डिजिटल डिटॉक्स द्वितीय चरण संचालित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334760",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "e99d9eb0d35081e638045f2b",
+      "title": "गृह मंत्रालय ने विशेष अभियान 6 को सफलतापूर्वक पूरा किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334708",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "3ae7a98b139f877d03d9fb6b",
+      "title": "37,500 करोड़ रुपये की कोयला/लिग्नाइट सतह आधारित गैसीकरण परियोजनाओं को बढ़ावा देने की योजना का दूसरा चरण सम्‍पन्‍न; एनटीपीसी लिमिटेड की ओर से दो आवेदन प्राप्त, तीसरा चरण आज से आरम्‍भ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334719",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "aa7407c8d90373366ad1bbe1",
+      "title": "आवधिक श्रम बल सर्वेक्षण (पीएलएफएस) त्रैमासिक बुलेटिन जुलाई-सितंबर 2026 पर प्रेस नोट",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334749",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "7b10e9232fe65cdcc88d8c82",
+      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-10T19:22:45+00:00",
+      "sourceDateText": "Tue, 10 Nov 2026 19:22:45 +0000",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "b5609a4ae8c29f7f29e6161a",
+      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+      "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-10T18:06:33+00:00",
+      "sourceDateText": "Tue, 10 Nov 2026 18:06:33 +0000",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "da1062e1d2731614bf76b2cf",
+      "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+      "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-10T16:00:26+00:00",
+      "sourceDateText": "Tue, 10 Nov 2026 16:00:26 +0000",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
+    {
+      "id": "c157a233561d8cc013150f58",
+      "title": "CHAPEA Crew Leaves a Mark",
+      "url": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-10T14:57:55+00:00",
+      "sourceDateText": "Tue, 10 Nov 2026 14:57:55 +0000",
+      "firstSeenAt": "2026-11-10T19:47:35Z",
+      "lastSeenAt": "2026-11-10T19:47:35Z"
+    },
     {
       "id": "f519799ee8748bd4fa1d1db8",
       "title": "सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय (एमओएसपीआई) ने विशेष अभियान 6 का सफलतापूर्वक समापन किया",
@@ -263,7 +527,7 @@
       "publishedAt": "2026-11-10T05:05:00+00:00",
       "sourceDateText": "Tue, 10 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-10T07:25:04Z",
-      "lastSeenAt": "2026-11-10T07:25:04Z"
+      "lastSeenAt": "2026-11-10T19:47:35Z"
     },
     {
       "id": "b783817529d18a6e2b8e8f5b",
@@ -274,7 +538,7 @@
       "publishedAt": "2026-11-10T05:00:00+00:00",
       "sourceDateText": "Tue, 10 Nov 2026 05:00:00 +0000",
       "firstSeenAt": "2026-11-10T07:25:04Z",
-      "lastSeenAt": "2026-11-10T07:25:04Z"
+      "lastSeenAt": "2026-11-10T19:47:35Z"
     },
     {
       "id": "d307aed87f270a70c9687d40",
@@ -285,7 +549,7 @@
       "publishedAt": "2026-11-10T01:07:45+00:00",
       "sourceDateText": "Tue, 10 Nov 2026 01:07:45 +0000",
       "firstSeenAt": "2026-11-10T07:25:04Z",
-      "lastSeenAt": "2026-11-10T07:25:04Z"
+      "lastSeenAt": "2026-11-10T19:47:35Z"
     },
     {
       "id": "544574f0c6a06c0442f35cc1",
@@ -296,7 +560,7 @@
       "publishedAt": "2026-11-10T01:05:48+00:00",
       "sourceDateText": "Tue, 10 Nov 2026 01:05:48 +0000",
       "firstSeenAt": "2026-11-10T07:25:04Z",
-      "lastSeenAt": "2026-11-10T07:25:04Z"
+      "lastSeenAt": "2026-11-10T19:47:35Z"
     },
     {
       "id": "ef36c729bdb5bede0a40cc6d",
@@ -307,7 +571,7 @@
       "publishedAt": "2026-11-09T22:27:12+00:00",
       "sourceDateText": "Mon, 09 Nov 2026 22:27:12 +0000",
       "firstSeenAt": "2026-11-10T07:25:04Z",
-      "lastSeenAt": "2026-11-10T07:25:04Z"
+      "lastSeenAt": "2026-11-10T19:47:35Z"
     },
     {
       "id": "3a40c45dc22035677c30b722",
@@ -318,7 +582,7 @@
       "publishedAt": "2026-11-09T22:25:52+00:00",
       "sourceDateText": "Mon, 09 Nov 2026 22:25:52 +0000",
       "firstSeenAt": "2026-11-10T07:25:04Z",
-      "lastSeenAt": "2026-11-10T07:25:04Z"
+      "lastSeenAt": "2026-11-10T19:47:35Z"
     },
     {
       "id": "4ea86854fbdc27966acf8b85",
@@ -329,7 +593,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 09 Nov 2026 18:55:00",
       "firstSeenAt": "2026-11-09T22:26:05Z",
-      "lastSeenAt": "2026-11-10T07:25:04Z"
+      "lastSeenAt": "2026-11-10T19:47:35Z"
     },
     {
       "id": "8b9c5acdeb3e61844e24224c",
@@ -340,7 +604,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 09 Nov 2026 18:50:00",
       "firstSeenAt": "2026-11-09T22:26:05Z",
-      "lastSeenAt": "2026-11-10T07:25:04Z"
+      "lastSeenAt": "2026-11-10T19:47:35Z"
     },
     {
       "id": "fb703dbc9d62b4c7cd0f4c2d",
@@ -351,7 +615,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 09 Nov 2026 16:25:00",
       "firstSeenAt": "2026-11-09T22:26:05Z",
-      "lastSeenAt": "2026-11-10T07:25:04Z"
+      "lastSeenAt": "2026-11-10T19:47:35Z"
     },
     {
       "id": "c26521461effbc1266ea2c0e",
@@ -362,7 +626,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 09 Nov 2026 16:10:00",
       "firstSeenAt": "2026-11-09T22:26:05Z",
-      "lastSeenAt": "2026-11-10T07:25:04Z"
+      "lastSeenAt": "2026-11-10T19:47:35Z"
     },
     {
       "id": "25394fece503763e111f35f8",
@@ -373,7 +637,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 09 Nov 2026 14:55:00",
       "firstSeenAt": "2026-11-09T22:26:05Z",
-      "lastSeenAt": "2026-11-10T07:25:04Z"
+      "lastSeenAt": "2026-11-10T19:47:35Z"
     },
     {
       "id": "49e50de3c508947d2ceae0da",
@@ -494,7 +758,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 09 Nov 2026 11:40:00",
       "firstSeenAt": "2026-11-09T06:43:54Z",
-      "lastSeenAt": "2026-11-10T07:25:04Z"
+      "lastSeenAt": "2026-11-10T19:47:35Z"
     },
     {
       "id": "8f026458a54ce69726c59756",
@@ -505,7 +769,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 09 Nov 2026 11:35:00",
       "firstSeenAt": "2026-11-09T06:43:54Z",
-      "lastSeenAt": "2026-11-10T07:25:04Z"
+      "lastSeenAt": "2026-11-10T19:47:35Z"
     },
     {
       "id": "9565be3565ab192a969259fc",
@@ -516,7 +780,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 09 Nov 2026 10:45:00",
       "firstSeenAt": "2026-11-09T06:43:54Z",
-      "lastSeenAt": "2026-11-10T07:25:04Z"
+      "lastSeenAt": "2026-11-10T19:47:35Z"
     },
     {
       "id": "09903666e068d7f1955d1c4c",
@@ -527,7 +791,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 09 Nov 2026 09:00:00",
       "firstSeenAt": "2026-11-09T06:43:54Z",
-      "lastSeenAt": "2026-11-10T07:25:04Z"
+      "lastSeenAt": "2026-11-10T19:47:35Z"
     },
     {
       "id": "fec79c17fae28b283191c72e",
@@ -1209,7 +1473,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 06 Nov 2026 19:10:00",
       "firstSeenAt": "2026-11-06T19:27:57Z",
-      "lastSeenAt": "2026-11-10T07:25:04Z"
+      "lastSeenAt": "2026-11-10T19:47:35Z"
     },
     {
       "id": "ab109eed8e1ee60e94748261",
