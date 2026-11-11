@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-11T06:34:05Z",
+  "checkedAt": "2026-11-11T19:39:56Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-11-11T06:34:05Z",
-      "lastSuccessAt": "2026-11-11T06:34:05Z",
+      "checkedAt": "2026-11-11T19:39:56Z",
+      "lastSuccessAt": "2026-11-11T19:39:56Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-11T06:34:05Z",
-      "lastSuccessAt": "2026-11-11T06:34:05Z",
+      "checkedAt": "2026-11-11T19:39:56Z",
+      "lastSuccessAt": "2026-11-11T19:39:56Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,277 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-11-11T06:34:05Z",
-      "lastSuccessAt": "2026-11-11T06:34:05Z",
+      "checkedAt": "2026-11-11T19:39:56Z",
+      "lastSuccessAt": "2026-11-11T19:39:56Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "b6dd250961540a45521e728b",
+      "title": "भारत की राष्‍ट्रपति ने स्वच्छ सर्वेक्षण पुरस्कार प्रदान किए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335230",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "a5b54d33dbbba9e9c48c0952",
+      "title": "सर्बानंद सोनोवाल ने विशाखापत्तनम बंदरगाह में 560 करोड़ रुपये की परियोजनाओं की आधारशिला रखी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335251",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "6bbb8a8d480ea15daaa4bb05",
+      "title": "भारतीय नौसेना और ओमान रॉयल नेवी ने 15वें द्विपक्षीय समुद्री अभ्यास 'नसीम अल बहर' (सी ब्रीज़) का आयोजन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335237",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "6eb03fb5fd4ad03af972c15b",
+      "title": "भारतीय नौसेना के पोत त्रिशूल ने मिस्र के सफागा बंदरगाह पर अपना प्रवास सफलतापूर्वक पूरा किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335225",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "5fd6cce093d64faf16719c7e",
+      "title": "8वां भारत-म्यांमार नौसैनिक अभ्यास (इमनेक्स-26) विशाखापत्तनम में शुरू हुआ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335233",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "e416120bba01f08e7378cd62",
+      "title": "भारत जनजातीय कार्य मंत्रालय द्वारा 12–13 नवंबर 2026 को नई दिल्ली में राष्ट्रीय जनजातीय साहित्य महोत्सव का आयोजन किया जाएगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335228",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "d7f269271989ef172f0fdfd0",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी जी के नेतृत्व और केन्द्रीय गृह मंत्री श्री अमित शाह के मार्गदर्शन में भारत सरकार ने भारतीय वीजा व्यवस्था को और सरल बनाया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335185",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "6752d45e5d6361385538439f",
+      "title": "सशक्त और अधिक समृद्ध भारत के निर्माण के लिए प्रभावी संस्थाओं और लोक सेवकों की आवश्यकता है: लोक सभा अध्यक्ष",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335180",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "0b4934c3ec971155f8714486",
+      "title": "विशेष अभियान 6.0 के अंतर्गत महिला और बाल विकास मंत्रालय की उपलब्धियां",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335197",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "5057b08bbfceb11f7c47bbfe",
+      "title": "साइबर खतरों की कोई सीमा नहीं होती, इसलिए सहयोग भी सीमाओं से बंधा नहीं होना चाहिए: केन्द्रीय संचार राज्यमंत्री डॉ. चंद्रशेखर पेम्मासानी का आईटीयू पीपी-26 में संबोधन",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335204",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "76179699dec93a804f2dc8c4",
+      "title": "हाशिए से नेतृत्व तक",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335181",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "ed2cdc52df9e4bc047fd5196",
+      "title": "वित्तीय रुकावटों से वैश्विक शैक्षणिक उत्कृष्टता तक",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335183",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "18f61b90c0c0f6a08efaf5ff",
+      "title": "थल सेनाध्यक्ष ने यंत्रीकृत सैन्य संगोष्ठी 2026 में कैवलरी स्मृति व्याख्यान दिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335195",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "399ee613aade9b9fd1edcf29",
+      "title": "सरकार ने 4-जी संतृप्त परियोजना' के माध्यम से ग्रामीण क्षेत्रों में 4-जी कनेक्टिविटी को मज़बूत किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335171",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "dbdb7813f047880fe65e7c09",
+      "title": "नशे पर निर्भरता से आत्मनिर्भरता तक",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335169",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "00051d0cb809e3211350e445",
+      "title": "गुजरात के एकता नगर में ‘भारत पर्व 2026’ के माध्यम से भारत की समृद्ध सांस्कृतिक विरासत और विविधता हुई प्रदर्शित",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335152",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "2259f1e54fd26c61a9f74a2f",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी 13-14 नवंबर को कर्नाटक और गुजरात का दौरा करेंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335161",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "91759f92eb531931dbec8acc",
+      "title": "बिम्सटेक स्वास्थ्य मंत्रियों की पहली बैठक में कोलंबो में सर्वसम्मति से संयुक्त मंत्रिस्तरीय वक्तव्य लागू होने के साथ ही भारत ने क्षेत्रीय स्वास्थ्य साझेदारी को मजबूती दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335158",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "b5a69ed4356383fa76f2bf25",
+      "title": "सड़क उपयोगकर्ता के साथ दुर्व्यवहार करने पर भारतीय राष्ट्रीय राजमार्ग प्राधिकरण (एनएचएआई) ने बिजवासन उपयोगकर्ता शुल्क संग्रहण एजेंसी को एक महीने के लिए प्रतिबंधित कर दिया है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335090",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "f275ee741e71812752549b1a",
+      "title": "विशेष अभियान 6.0 का समापन: पेयजल एवं स्वच्छता विभाग में स्वच्छता को संस्थागत रूप देने और लंबित मामलों के निपटारे में मिली महत्वपूर्ण सफलता",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335100",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "f2a695cb0f242accfa56db25",
+      "title": "Conversion/Switch of Government of India Securities",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63958",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 11 Nov 2026 18:10:00",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "ed77869b49e0f8cf50222105",
+      "title": "Reserve Money and Money Supply for the fortnight ended on October 31, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63957",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 11 Nov 2026 17:25:00",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "68325418f3344f2cdab0a0fc",
+      "title": "Treasury Bills: Full Auction Result",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63956",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 11 Nov 2026 13:40:00",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
+    {
+      "id": "ab69e79d6beaad00c7a8053b",
+      "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63955",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 11 Nov 2026 12:55:00",
+      "firstSeenAt": "2026-11-11T19:39:56Z",
+      "lastSeenAt": "2026-11-11T19:39:56Z"
+    },
     {
       "id": "22b1ba88a25ed03126cd1dd5",
       "title": "प्रधानमंत्री ने एक प्रगतिशील देश के सामर्थ्य और शक्ति के आधार को दर्शाने वाले संस्कृत सुभाषितम् को साझा किया",
@@ -76,7 +340,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 11 Nov 2026 11:30:00",
       "firstSeenAt": "2026-11-11T06:34:05Z",
-      "lastSeenAt": "2026-11-11T06:34:05Z"
+      "lastSeenAt": "2026-11-11T19:39:56Z"
     },
     {
       "id": "903a3813dacb8ef5f2f3bef6",
@@ -87,7 +351,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 11 Nov 2026 09:00:00",
       "firstSeenAt": "2026-11-11T06:34:05Z",
-      "lastSeenAt": "2026-11-11T06:34:05Z"
+      "lastSeenAt": "2026-11-11T19:39:56Z"
     },
     {
       "id": "55b3e3aad90939b0fab29e05",
@@ -98,7 +362,7 @@
       "publishedAt": "2026-11-11T05:05:00+00:00",
       "sourceDateText": "Wed, 11 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-11T06:34:05Z",
-      "lastSeenAt": "2026-11-11T06:34:05Z"
+      "lastSeenAt": "2026-11-11T19:39:56Z"
     },
     {
       "id": "0fa3434ce5fe3dd3ff52ab7b",
@@ -109,7 +373,7 @@
       "publishedAt": "2026-11-11T05:01:00+00:00",
       "sourceDateText": "Wed, 11 Nov 2026 05:01:00 +0000",
       "firstSeenAt": "2026-11-11T06:34:05Z",
-      "lastSeenAt": "2026-11-11T06:34:05Z"
+      "lastSeenAt": "2026-11-11T19:39:56Z"
     },
     {
       "id": "c35442c23c803bc6bfc22678",
@@ -340,7 +604,7 @@
       "publishedAt": "2026-11-10T19:22:45+00:00",
       "sourceDateText": "Tue, 10 Nov 2026 19:22:45 +0000",
       "firstSeenAt": "2026-11-10T19:47:35Z",
-      "lastSeenAt": "2026-11-11T06:34:05Z"
+      "lastSeenAt": "2026-11-11T19:39:56Z"
     },
     {
       "id": "b5609a4ae8c29f7f29e6161a",
@@ -351,7 +615,7 @@
       "publishedAt": "2026-11-10T18:06:33+00:00",
       "sourceDateText": "Tue, 10 Nov 2026 18:06:33 +0000",
       "firstSeenAt": "2026-11-10T19:47:35Z",
-      "lastSeenAt": "2026-11-11T06:34:05Z"
+      "lastSeenAt": "2026-11-11T19:39:56Z"
     },
     {
       "id": "da1062e1d2731614bf76b2cf",
@@ -362,7 +626,7 @@
       "publishedAt": "2026-11-10T16:00:26+00:00",
       "sourceDateText": "Tue, 10 Nov 2026 16:00:26 +0000",
       "firstSeenAt": "2026-11-10T19:47:35Z",
-      "lastSeenAt": "2026-11-11T06:34:05Z"
+      "lastSeenAt": "2026-11-11T19:39:56Z"
     },
     {
       "id": "c157a233561d8cc013150f58",
@@ -373,7 +637,7 @@
       "publishedAt": "2026-11-10T14:57:55+00:00",
       "sourceDateText": "Tue, 10 Nov 2026 14:57:55 +0000",
       "firstSeenAt": "2026-11-10T19:47:35Z",
-      "lastSeenAt": "2026-11-11T06:34:05Z"
+      "lastSeenAt": "2026-11-11T19:39:56Z"
     },
     {
       "id": "f519799ee8748bd4fa1d1db8",
@@ -604,7 +868,7 @@
       "publishedAt": "2026-11-10T05:05:00+00:00",
       "sourceDateText": "Tue, 10 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-10T07:25:04Z",
-      "lastSeenAt": "2026-11-11T06:34:05Z"
+      "lastSeenAt": "2026-11-11T19:39:56Z"
     },
     {
       "id": "b783817529d18a6e2b8e8f5b",
@@ -615,7 +879,7 @@
       "publishedAt": "2026-11-10T05:00:00+00:00",
       "sourceDateText": "Tue, 10 Nov 2026 05:00:00 +0000",
       "firstSeenAt": "2026-11-10T07:25:04Z",
-      "lastSeenAt": "2026-11-11T06:34:05Z"
+      "lastSeenAt": "2026-11-11T19:39:56Z"
     },
     {
       "id": "d307aed87f270a70c9687d40",
@@ -626,7 +890,7 @@
       "publishedAt": "2026-11-10T01:07:45+00:00",
       "sourceDateText": "Tue, 10 Nov 2026 01:07:45 +0000",
       "firstSeenAt": "2026-11-10T07:25:04Z",
-      "lastSeenAt": "2026-11-11T06:34:05Z"
+      "lastSeenAt": "2026-11-11T19:39:56Z"
     },
     {
       "id": "544574f0c6a06c0442f35cc1",
@@ -637,7 +901,7 @@
       "publishedAt": "2026-11-10T01:05:48+00:00",
       "sourceDateText": "Tue, 10 Nov 2026 01:05:48 +0000",
       "firstSeenAt": "2026-11-10T07:25:04Z",
-      "lastSeenAt": "2026-11-11T06:34:05Z"
+      "lastSeenAt": "2026-11-11T19:39:56Z"
     },
     {
       "id": "ef36c729bdb5bede0a40cc6d",
@@ -670,7 +934,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 09 Nov 2026 18:55:00",
       "firstSeenAt": "2026-11-09T22:26:05Z",
-      "lastSeenAt": "2026-11-11T06:34:05Z"
+      "lastSeenAt": "2026-11-11T19:39:56Z"
     },
     {
       "id": "8b9c5acdeb3e61844e24224c",
@@ -681,7 +945,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 09 Nov 2026 18:50:00",
       "firstSeenAt": "2026-11-09T22:26:05Z",
-      "lastSeenAt": "2026-11-11T06:34:05Z"
+      "lastSeenAt": "2026-11-11T19:39:56Z"
     },
     {
       "id": "fb703dbc9d62b4c7cd0f4c2d",
@@ -692,7 +956,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 09 Nov 2026 16:25:00",
       "firstSeenAt": "2026-11-09T22:26:05Z",
-      "lastSeenAt": "2026-11-11T06:34:05Z"
+      "lastSeenAt": "2026-11-11T19:39:56Z"
     },
     {
       "id": "c26521461effbc1266ea2c0e",
@@ -703,7 +967,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 09 Nov 2026 16:10:00",
       "firstSeenAt": "2026-11-09T22:26:05Z",
-      "lastSeenAt": "2026-11-11T06:34:05Z"
+      "lastSeenAt": "2026-11-11T19:39:56Z"
     },
     {
       "id": "25394fece503763e111f35f8",
