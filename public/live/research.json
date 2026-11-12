@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-12T07:18:07Z",
+  "checkedAt": "2026-11-12T19:59:11Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
-      "ok": true,
-      "checkedAt": "2026-11-12T07:18:07Z",
+      "ok": false,
+      "checkedAt": "2026-11-12T19:59:11Z",
       "lastSuccessAt": "2026-11-12T07:18:07Z",
-      "count": 20,
-      "error": null
+      "count": 0,
+      "error": "Oversized XML or prohibited DTD/entity declaration"
     },
     {
       "id": "rbi",
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-12T07:18:07Z",
-      "lastSuccessAt": "2026-11-12T07:18:07Z",
+      "checkedAt": "2026-11-12T19:59:11Z",
+      "lastSuccessAt": "2026-11-12T19:59:11Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,79 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-11-12T07:18:07Z",
-      "lastSuccessAt": "2026-11-12T07:18:07Z",
+      "checkedAt": "2026-11-12T19:59:11Z",
+      "lastSuccessAt": "2026-11-12T19:59:11Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "c73ef55e87a417742afd40e2",
+      "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on November 13, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63965",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 12 Nov 2026 19:05:00",
+      "firstSeenAt": "2026-11-12T19:59:11Z",
+      "lastSeenAt": "2026-11-12T19:59:11Z"
+    },
+    {
+      "id": "a75324255c783b0f63c810f5",
+      "title": "Final redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for final redemption of SGB 2018-19 Series-III due on November 13, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63964",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 12 Nov 2026 18:35:00",
+      "firstSeenAt": "2026-11-12T19:59:11Z",
+      "lastSeenAt": "2026-11-12T19:59:11Z"
+    },
+    {
+      "id": "232bcb44e39c5ca7d2f622e2",
+      "title": "Heart in the Sky at NASA Kennedy",
+      "url": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-12T19:12:49+00:00",
+      "sourceDateText": "Thu, 12 Nov 2026 19:12:49 +0000",
+      "firstSeenAt": "2026-11-12T19:59:11Z",
+      "lastSeenAt": "2026-11-12T19:59:11Z"
+    },
+    {
+      "id": "4c4249a6d228ba8455ff4a1e",
+      "title": "NASA Ames Stars of the Month: November 2026",
+      "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-12T17:54:32+00:00",
+      "sourceDateText": "Thu, 12 Nov 2026 17:54:32 +0000",
+      "firstSeenAt": "2026-11-12T19:59:11Z",
+      "lastSeenAt": "2026-11-12T19:59:11Z"
+    },
+    {
+      "id": "f082ac21290184caf26508fd",
+      "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-12T13:18:40+00:00",
+      "sourceDateText": "Thu, 12 Nov 2026 13:18:40 +0000",
+      "firstSeenAt": "2026-11-12T19:59:11Z",
+      "lastSeenAt": "2026-11-12T19:59:11Z"
+    },
+    {
+      "id": "814222d0921ad1f69c5234dd",
+      "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-12T13:00:00+00:00",
+      "sourceDateText": "Thu, 12 Nov 2026 13:00:00 +0000",
+      "firstSeenAt": "2026-11-12T19:59:11Z",
+      "lastSeenAt": "2026-11-12T19:59:11Z"
+    },
     {
       "id": "823bb5ac9017fd09454ed6ff",
       "title": "एक राष्‍ट्र, एक राशन कार्ड",
@@ -98,7 +164,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 12 Nov 2026 11:50:00",
       "firstSeenAt": "2026-11-12T07:18:07Z",
-      "lastSeenAt": "2026-11-12T07:18:07Z"
+      "lastSeenAt": "2026-11-12T19:59:11Z"
     },
     {
       "id": "2dd5c1884bc5296afb9fc140",
@@ -109,7 +175,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 12 Nov 2026 11:40:00",
       "firstSeenAt": "2026-11-12T07:18:07Z",
-      "lastSeenAt": "2026-11-12T07:18:07Z"
+      "lastSeenAt": "2026-11-12T19:59:11Z"
     },
     {
       "id": "4d24e7acced8300780b18a00",
@@ -120,7 +186,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 12 Nov 2026 11:35:00",
       "firstSeenAt": "2026-11-12T07:18:07Z",
-      "lastSeenAt": "2026-11-12T07:18:07Z"
+      "lastSeenAt": "2026-11-12T19:59:11Z"
     },
     {
       "id": "b22b1b3af0cd0832572a9655",
@@ -131,7 +197,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 12 Nov 2026 10:15:00",
       "firstSeenAt": "2026-11-12T07:18:07Z",
-      "lastSeenAt": "2026-11-12T07:18:07Z"
+      "lastSeenAt": "2026-11-12T19:59:11Z"
     },
     {
       "id": "82d11b5c180e40ed85127a08",
@@ -142,7 +208,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 12 Nov 2026 09:00:00",
       "firstSeenAt": "2026-11-12T07:18:07Z",
-      "lastSeenAt": "2026-11-12T07:18:07Z"
+      "lastSeenAt": "2026-11-12T19:59:11Z"
     },
     {
       "id": "5308c7ed8c13ac56bdeb0782",
@@ -153,7 +219,7 @@
       "publishedAt": "2026-11-12T05:05:00+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-12T07:18:07Z",
-      "lastSeenAt": "2026-11-12T07:18:07Z"
+      "lastSeenAt": "2026-11-12T19:59:11Z"
     },
     {
       "id": "767e3a9da7a4c4b5635fecd1",
@@ -164,7 +230,7 @@
       "publishedAt": "2026-11-12T05:01:00+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 05:01:00 +0000",
       "firstSeenAt": "2026-11-12T07:18:07Z",
-      "lastSeenAt": "2026-11-12T07:18:07Z"
+      "lastSeenAt": "2026-11-12T19:59:11Z"
     },
     {
       "id": "aea73d7c1048ff9dd916e9c6",
@@ -175,7 +241,7 @@
       "publishedAt": "2026-11-12T00:41:35+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 00:41:35 +0000",
       "firstSeenAt": "2026-11-12T07:18:07Z",
-      "lastSeenAt": "2026-11-12T07:18:07Z"
+      "lastSeenAt": "2026-11-12T19:59:11Z"
     },
     {
       "id": "b6dd250961540a45521e728b",
@@ -406,7 +472,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 11 Nov 2026 18:10:00",
       "firstSeenAt": "2026-11-11T19:39:56Z",
-      "lastSeenAt": "2026-11-12T07:18:07Z"
+      "lastSeenAt": "2026-11-12T19:59:11Z"
     },
     {
       "id": "ed77869b49e0f8cf50222105",
@@ -417,7 +483,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 11 Nov 2026 17:25:00",
       "firstSeenAt": "2026-11-11T19:39:56Z",
-      "lastSeenAt": "2026-11-12T07:18:07Z"
+      "lastSeenAt": "2026-11-12T19:59:11Z"
     },
     {
       "id": "68325418f3344f2cdab0a0fc",
@@ -428,7 +494,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 11 Nov 2026 13:40:00",
       "firstSeenAt": "2026-11-11T19:39:56Z",
-      "lastSeenAt": "2026-11-12T07:18:07Z"
+      "lastSeenAt": "2026-11-12T19:59:11Z"
     },
     {
       "id": "ab69e79d6beaad00c7a8053b",
@@ -505,7 +571,7 @@
       "publishedAt": "2026-11-11T05:05:00+00:00",
       "sourceDateText": "Wed, 11 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-11T06:34:05Z",
-      "lastSeenAt": "2026-11-12T07:18:07Z"
+      "lastSeenAt": "2026-11-12T19:59:11Z"
     },
     {
       "id": "0fa3434ce5fe3dd3ff52ab7b",
@@ -516,7 +582,7 @@
       "publishedAt": "2026-11-11T05:01:00+00:00",
       "sourceDateText": "Wed, 11 Nov 2026 05:01:00 +0000",
       "firstSeenAt": "2026-11-11T06:34:05Z",
-      "lastSeenAt": "2026-11-12T07:18:07Z"
+      "lastSeenAt": "2026-11-12T19:59:11Z"
     },
     {
       "id": "c35442c23c803bc6bfc22678",
@@ -747,7 +813,7 @@
       "publishedAt": "2026-11-10T19:22:45+00:00",
       "sourceDateText": "Tue, 10 Nov 2026 19:22:45 +0000",
       "firstSeenAt": "2026-11-10T19:47:35Z",
-      "lastSeenAt": "2026-11-12T07:18:07Z"
+      "lastSeenAt": "2026-11-12T19:59:11Z"
     },
     {
       "id": "b5609a4ae8c29f7f29e6161a",
