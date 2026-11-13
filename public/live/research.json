@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-13T06:51:39Z",
+  "checkedAt": "2026-11-13T19:46:52Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
-      "ok": true,
-      "checkedAt": "2026-11-13T06:51:39Z",
+      "ok": false,
+      "checkedAt": "2026-11-13T19:46:52Z",
       "lastSuccessAt": "2026-11-13T06:51:39Z",
-      "count": 20,
-      "error": null
+      "count": 0,
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "rbi",
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-13T06:51:39Z",
-      "lastSuccessAt": "2026-11-13T06:51:39Z",
+      "checkedAt": "2026-11-13T19:46:52Z",
+      "lastSuccessAt": "2026-11-13T19:46:52Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,123 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-11-13T06:51:39Z",
-      "lastSuccessAt": "2026-11-13T06:51:39Z",
+      "checkedAt": "2026-11-13T19:46:52Z",
+      "lastSuccessAt": "2026-11-13T19:46:52Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "836ab343c370df37b3f3e612",
+      "title": "Auction of State Government Securities",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63976",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 13 Nov 2026 17:50:00",
+      "firstSeenAt": "2026-11-13T19:46:52Z",
+      "lastSeenAt": "2026-11-13T19:46:52Z"
+    },
+    {
+      "id": "6bfe36db0a678d64abef2dd6",
+      "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63975",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 13 Nov 2026 17:45:00",
+      "firstSeenAt": "2026-11-13T19:46:52Z",
+      "lastSeenAt": "2026-11-13T19:46:52Z"
+    },
+    {
+      "id": "506ed583c6e92037be1ef231",
+      "title": "Developments in India’s Balance of Payments for the Month of September 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63974",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 13 Nov 2026 17:30:00",
+      "firstSeenAt": "2026-11-13T19:46:52Z",
+      "lastSeenAt": "2026-11-13T19:46:52Z"
+    },
+    {
+      "id": "14fbb46683d0b367eca71829",
+      "title": "Reserve Bank of India imposes monetary penalty on One Mobikwik Systems Limited",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63973",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 13 Nov 2026 17:30:00",
+      "firstSeenAt": "2026-11-13T19:46:52Z",
+      "lastSeenAt": "2026-11-13T19:46:52Z"
+    },
+    {
+      "id": "220dc5bf5a899a4bdf2b82c3",
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63972",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 13 Nov 2026 17:00:00",
+      "firstSeenAt": "2026-11-13T19:46:52Z",
+      "lastSeenAt": "2026-11-13T19:46:52Z"
+    },
+    {
+      "id": "709520144804b2b28beef312",
+      "title": "Scheduled Banks’ Statement of Position in India as on October 31, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63971",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 13 Nov 2026 14:55:00",
+      "firstSeenAt": "2026-11-13T19:46:52Z",
+      "lastSeenAt": "2026-11-13T19:46:52Z"
+    },
+    {
+      "id": "eb5b72533dafdefec8568c5c",
+      "title": "Government Stock - Full Auction Results",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63970",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 13 Nov 2026 13:50:00",
+      "firstSeenAt": "2026-11-13T19:46:52Z",
+      "lastSeenAt": "2026-11-13T19:46:52Z"
+    },
+    {
+      "id": "0aa64bc7ea75413cda49da1d",
+      "title": "Government Stock - Auction Results: Cut-off",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63969",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 13 Nov 2026 13:10:00",
+      "firstSeenAt": "2026-11-13T19:46:52Z",
+      "lastSeenAt": "2026-11-13T19:46:52Z"
+    },
+    {
+      "id": "e714212c469467e26a1ac6dc",
+      "title": "Outbursts from a Massive Star",
+      "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-13T16:39:33+00:00",
+      "sourceDateText": "Fri, 13 Nov 2026 16:39:33 +0000",
+      "firstSeenAt": "2026-11-13T19:46:52Z",
+      "lastSeenAt": "2026-11-13T19:46:52Z"
+    },
+    {
+      "id": "43fbd5f391f2a6654b0ae349",
+      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+      "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-13T16:05:54+00:00",
+      "sourceDateText": "Fri, 13 Nov 2026 16:05:54 +0000",
+      "firstSeenAt": "2026-11-13T19:46:52Z",
+      "lastSeenAt": "2026-11-13T19:46:52Z"
+    },
     {
       "id": "c5991a59fda983ebe770ec1a",
       "title": "प्रधानमंत्री ने चार दिवसीय छठ महापर्व की शुरुआत पर देशवासियों को हार्दिक शुभकामनाएं दीं",
@@ -263,7 +373,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 10:20:00",
       "firstSeenAt": "2026-11-13T06:51:39Z",
-      "lastSeenAt": "2026-11-13T06:51:39Z"
+      "lastSeenAt": "2026-11-13T19:46:52Z"
     },
     {
       "id": "7fdd9b95ae307999b5047d2c",
@@ -274,7 +384,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 09:55:00",
       "firstSeenAt": "2026-11-13T06:51:39Z",
-      "lastSeenAt": "2026-11-13T06:51:39Z"
+      "lastSeenAt": "2026-11-13T19:46:52Z"
     },
     {
       "id": "f910d9cc709b5018dc53a2ea",
@@ -296,7 +406,7 @@
       "publishedAt": "2026-11-13T05:05:00+00:00",
       "sourceDateText": "Fri, 13 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-13T06:51:39Z",
-      "lastSeenAt": "2026-11-13T06:51:39Z"
+      "lastSeenAt": "2026-11-13T19:46:52Z"
     },
     {
       "id": "ce083db142efafaa3734e800",
@@ -307,7 +417,7 @@
       "publishedAt": "2026-11-13T05:01:00+00:00",
       "sourceDateText": "Fri, 13 Nov 2026 05:01:00 +0000",
       "firstSeenAt": "2026-11-13T06:51:39Z",
-      "lastSeenAt": "2026-11-13T06:51:39Z"
+      "lastSeenAt": "2026-11-13T19:46:52Z"
     },
     {
       "id": "2b062e211d835d104e73a59c",
@@ -318,7 +428,7 @@
       "publishedAt": "2026-11-12T20:10:02+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 20:10:02 +0000",
       "firstSeenAt": "2026-11-13T06:51:39Z",
-      "lastSeenAt": "2026-11-13T06:51:39Z"
+      "lastSeenAt": "2026-11-13T19:46:52Z"
     },
     {
       "id": "c73ef55e87a417742afd40e2",
@@ -351,7 +461,7 @@
       "publishedAt": "2026-11-12T19:12:49+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 19:12:49 +0000",
       "firstSeenAt": "2026-11-12T19:59:11Z",
-      "lastSeenAt": "2026-11-13T06:51:39Z"
+      "lastSeenAt": "2026-11-13T19:46:52Z"
     },
     {
       "id": "4c4249a6d228ba8455ff4a1e",
@@ -362,7 +472,7 @@
       "publishedAt": "2026-11-12T17:54:32+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 17:54:32 +0000",
       "firstSeenAt": "2026-11-12T19:59:11Z",
-      "lastSeenAt": "2026-11-13T06:51:39Z"
+      "lastSeenAt": "2026-11-13T19:46:52Z"
     },
     {
       "id": "f082ac21290184caf26508fd",
@@ -373,7 +483,7 @@
       "publishedAt": "2026-11-12T13:18:40+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 13:18:40 +0000",
       "firstSeenAt": "2026-11-12T19:59:11Z",
-      "lastSeenAt": "2026-11-13T06:51:39Z"
+      "lastSeenAt": "2026-11-13T19:46:52Z"
     },
     {
       "id": "814222d0921ad1f69c5234dd",
@@ -384,7 +494,7 @@
       "publishedAt": "2026-11-12T13:00:00+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 13:00:00 +0000",
       "firstSeenAt": "2026-11-12T19:59:11Z",
-      "lastSeenAt": "2026-11-13T06:51:39Z"
+      "lastSeenAt": "2026-11-13T19:46:52Z"
     },
     {
       "id": "823bb5ac9017fd09454ed6ff",
@@ -505,7 +615,7 @@
       "publishedAt": "2026-11-12T05:05:00+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-12T07:18:07Z",
-      "lastSeenAt": "2026-11-13T06:51:39Z"
+      "lastSeenAt": "2026-11-13T19:46:52Z"
     },
     {
       "id": "767e3a9da7a4c4b5635fecd1",
