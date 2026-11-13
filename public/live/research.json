@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-12T19:59:11Z",
+  "checkedAt": "2026-11-13T06:51:39Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
-      "ok": false,
-      "checkedAt": "2026-11-12T19:59:11Z",
-      "lastSuccessAt": "2026-11-12T07:18:07Z",
-      "count": 0,
-      "error": "Oversized XML or prohibited DTD/entity declaration"
+      "ok": true,
+      "checkedAt": "2026-11-13T06:51:39Z",
+      "lastSuccessAt": "2026-11-13T06:51:39Z",
+      "count": 20,
+      "error": null
     },
     {
       "id": "rbi",
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-12T19:59:11Z",
-      "lastSuccessAt": "2026-11-12T19:59:11Z",
+      "checkedAt": "2026-11-13T06:51:39Z",
+      "lastSuccessAt": "2026-11-13T06:51:39Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,299 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-11-12T19:59:11Z",
-      "lastSuccessAt": "2026-11-12T19:59:11Z",
+      "checkedAt": "2026-11-13T06:51:39Z",
+      "lastSuccessAt": "2026-11-13T06:51:39Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "c5991a59fda983ebe770ec1a",
+      "title": "प्रधानमंत्री ने चार दिवसीय छठ महापर्व की शुरुआत पर देशवासियों को हार्दिक शुभकामनाएं दीं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335691",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "4b30797a3da43d7447578d1a",
+      "title": "प्रधानमंत्री ने संस्कृत सुभाषितम् साझा किया, जिसमें धर्म, धन, भोजन, गुरु की शिक्षाओं और औषधि को उचित रूप से अपनाने के महत्व पर ज़ोर दिया गया है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335692",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "a3d950b1f0dd90126cca73ef",
+      "title": "प्रधानमंत्री का मनीला, फिलीपींस दौरा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335676",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "066e23b729aeedd8777e0f58",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने 'किसान तक भारत कृषि सम्मेलन 2026' में भाग लिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335667",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "4a66d7ce6ecff07fdd9c283f",
+      "title": "किसान तक भारत कृषि सम्मेलन में प्रधानमंत्री के संबोधन का मूल पाठ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335658",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "56d72193ff01046d898a609a",
+      "title": "57वां इफ्फी: 20 से 28 नवंबर 2026 तक गोवा में दुनिया भर के सिनेमा और रचनात्मक आवाज़ों का संगम",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335660",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "0cd8420211fe188887763190",
+      "title": "कैब को किराए पर लेने से संबंधित प्रस्तावित सुधारों से व्यावसायिक अवसर बढ़ेंगे और यात्री सेवाओं में सुधार होगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335669",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "66712b6c486d6f9d10a341fb",
+      "title": "भारत ने टीबी उन्मूलन की दिशा में उल्‍लेखनीय प्रगति हासिल की : टीबी से होने वाली मौतों में 38 प्रतिशत की कमी, 94 प्रतिशत की उपचार सफलता दर",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335668",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "196b74e6c9ec3195941aadc6",
+      "title": "राष्ट्रीय जनजातीय साहित्य महोत्सव 2026 का दूसरा संस्करण नई दिल्ली में शुरू: “मौखिक परंपरा से समकालीन जनजातीय साहित्य तक”",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335655",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "fa759e884e2b092526c48595",
+      "title": "केंद्रीय जल शक्ति मंत्री श्री सी. आर. पाटिल ने तिरुचिरापल्ली में जेजेएम 2.0 पर आयोजित पहले क्षेत्रीय सम्मेलन को संबोधित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335662",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "8a8bae446e869e040c282edf",
+      "title": "आंध्र प्रदेश बंदरगाहों और जहाज निर्माण के लिए प्रमुख ध्यान देने के साथ वैश्विक समुद्री केंद्र की स्थिति की निगरानी कर रहा है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335606",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "058e9bf0ba08e37ae141873c",
+      "title": "त्रिपुरा में भगिनी निवेदिता छात्रावास",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335611",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "ded4328da34c34b3e9fbdb99",
+      "title": "राष्ट्रीय डिजिटल जीवन प्रमाणपत्र अभियान 5.0 के तहत 20 लाख से अधिक रक्षा पेंशनभोगियों ने अपना डिजिटल जीवन प्रमाणन सत्यापित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335670",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "b316c12c16b752d66209cd74",
+      "title": "जनजातीय कार्य मंत्रालय ने 13 राज्यों/केंद्र शासित प्रदेशों में फैले 16 जनजातीय हॉटस्पॉट में औषधीय पौधों के संरक्षण और सतत आजीविका को बढ़ावा देने के लिए राष्ट्रीय पहल का शुभारंभ किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335614",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "32d9f9c1deccc319a7da9b31",
+      "title": "जोखिम से सम्मान तक",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335607",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "7e29d1fbb73423fcdb2957d3",
+      "title": "डीआरआई ने चेन्नई बंदरगाह पर लाल चंदन की तस्करी करने वाले गिरोह का भंडाफोड़ किया; 7.72 करोड़ रुपये मूल्य का लगभग 13,000 किलोग्राम लाल चंदन जब्त किया; तीन लोग गिरफ्तार किए गए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335556",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "aaa0c855b913bfe013a1b4cf",
+      "title": "राजस्व खुफिया निदेशालय के अधिकारियों ने सिएरा लियोन से नई दिल्ली पहुंची एक महिला यात्री के कब्ज़े से 22 किलोग्राम कोकीन जब्त की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335557",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "d9757c307ea6392896fcdf20",
+      "title": "भारत के राष्ट्रपति ने राष्ट्रपति भवन में एकलव्य आदर्श आवासीय विद्यालय के मेधावी विद्यार्थियों से संवाद किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335571",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "fad852fb1e20f0284f269c19",
+      "title": "केंद्रीय पर्यावरण मंत्री ने लीडआईटी के उद्योग सदस्यों और परियोजना के भागीदारों से बातचीत की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335563",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "e919d73fc1692c4caa69d0c2",
+      "title": "अनुसूचित जाति के विद्यार्थियों के लिए राष्ट्रीय फैलोशिप से शोधार्थी ने आनुवंशिकी एवं पादप प्रजनन में पीएच.डी. पूरी की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335539",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "d8305db1e08ee991abc0adac",
+      "title": "Result of the 3-day Variable Rate Reverse Repo (VRRR) auction held on November 13, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63968",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 13 Nov 2026 10:20:00",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "7fdd9b95ae307999b5047d2c",
+      "title": "Result of Underwriting Auction conducted on November 13, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63967",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 13 Nov 2026 09:55:00",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "f910d9cc709b5018dc53a2ea",
+      "title": "Money Market Operations as on November 12, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63966",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 13 Nov 2026 09:00:00",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "f8746cf4ef0b0e34bb328b63",
+      "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-13T05:05:00+00:00",
+      "sourceDateText": "Fri, 13 Nov 2026 05:05:00 +0000",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "ce083db142efafaa3734e800",
+      "title": "A Global Rebound for Mangroves",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-13T05:01:00+00:00",
+      "sourceDateText": "Fri, 13 Nov 2026 05:01:00 +0000",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
+    {
+      "id": "2b062e211d835d104e73a59c",
+      "title": "I Am Artemis Katie Spicer",
+      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-12T20:10:02+00:00",
+      "sourceDateText": "Thu, 12 Nov 2026 20:10:02 +0000",
+      "firstSeenAt": "2026-11-13T06:51:39Z",
+      "lastSeenAt": "2026-11-13T06:51:39Z"
+    },
     {
       "id": "c73ef55e87a417742afd40e2",
       "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on November 13, 2026",
@@ -43,7 +329,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 12 Nov 2026 19:05:00",
       "firstSeenAt": "2026-11-12T19:59:11Z",
-      "lastSeenAt": "2026-11-12T19:59:11Z"
+      "lastSeenAt": "2026-11-13T06:51:39Z"
     },
     {
       "id": "a75324255c783b0f63c810f5",
@@ -54,7 +340,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 12 Nov 2026 18:35:00",
       "firstSeenAt": "2026-11-12T19:59:11Z",
-      "lastSeenAt": "2026-11-12T19:59:11Z"
+      "lastSeenAt": "2026-11-13T06:51:39Z"
     },
     {
       "id": "232bcb44e39c5ca7d2f622e2",
@@ -65,7 +351,7 @@
       "publishedAt": "2026-11-12T19:12:49+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 19:12:49 +0000",
       "firstSeenAt": "2026-11-12T19:59:11Z",
-      "lastSeenAt": "2026-11-12T19:59:11Z"
+      "lastSeenAt": "2026-11-13T06:51:39Z"
     },
     {
       "id": "4c4249a6d228ba8455ff4a1e",
@@ -76,7 +362,7 @@
       "publishedAt": "2026-11-12T17:54:32+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 17:54:32 +0000",
       "firstSeenAt": "2026-11-12T19:59:11Z",
-      "lastSeenAt": "2026-11-12T19:59:11Z"
+      "lastSeenAt": "2026-11-13T06:51:39Z"
     },
     {
       "id": "f082ac21290184caf26508fd",
@@ -87,7 +373,7 @@
       "publishedAt": "2026-11-12T13:18:40+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 13:18:40 +0000",
       "firstSeenAt": "2026-11-12T19:59:11Z",
-      "lastSeenAt": "2026-11-12T19:59:11Z"
+      "lastSeenAt": "2026-11-13T06:51:39Z"
     },
     {
       "id": "814222d0921ad1f69c5234dd",
@@ -98,7 +384,7 @@
       "publishedAt": "2026-11-12T13:00:00+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 13:00:00 +0000",
       "firstSeenAt": "2026-11-12T19:59:11Z",
-      "lastSeenAt": "2026-11-12T19:59:11Z"
+      "lastSeenAt": "2026-11-13T06:51:39Z"
     },
     {
       "id": "823bb5ac9017fd09454ed6ff",
@@ -164,7 +450,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 12 Nov 2026 11:50:00",
       "firstSeenAt": "2026-11-12T07:18:07Z",
-      "lastSeenAt": "2026-11-12T19:59:11Z"
+      "lastSeenAt": "2026-11-13T06:51:39Z"
     },
     {
       "id": "2dd5c1884bc5296afb9fc140",
@@ -175,7 +461,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 12 Nov 2026 11:40:00",
       "firstSeenAt": "2026-11-12T07:18:07Z",
-      "lastSeenAt": "2026-11-12T19:59:11Z"
+      "lastSeenAt": "2026-11-13T06:51:39Z"
     },
     {
       "id": "4d24e7acced8300780b18a00",
@@ -186,7 +472,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 12 Nov 2026 11:35:00",
       "firstSeenAt": "2026-11-12T07:18:07Z",
-      "lastSeenAt": "2026-11-12T19:59:11Z"
+      "lastSeenAt": "2026-11-13T06:51:39Z"
     },
     {
       "id": "b22b1b3af0cd0832572a9655",
@@ -197,7 +483,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 12 Nov 2026 10:15:00",
       "firstSeenAt": "2026-11-12T07:18:07Z",
-      "lastSeenAt": "2026-11-12T19:59:11Z"
+      "lastSeenAt": "2026-11-13T06:51:39Z"
     },
     {
       "id": "82d11b5c180e40ed85127a08",
@@ -208,7 +494,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 12 Nov 2026 09:00:00",
       "firstSeenAt": "2026-11-12T07:18:07Z",
-      "lastSeenAt": "2026-11-12T19:59:11Z"
+      "lastSeenAt": "2026-11-13T06:51:39Z"
     },
     {
       "id": "5308c7ed8c13ac56bdeb0782",
@@ -219,7 +505,7 @@
       "publishedAt": "2026-11-12T05:05:00+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-12T07:18:07Z",
-      "lastSeenAt": "2026-11-12T19:59:11Z"
+      "lastSeenAt": "2026-11-13T06:51:39Z"
     },
     {
       "id": "767e3a9da7a4c4b5635fecd1",
@@ -230,7 +516,7 @@
       "publishedAt": "2026-11-12T05:01:00+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 05:01:00 +0000",
       "firstSeenAt": "2026-11-12T07:18:07Z",
-      "lastSeenAt": "2026-11-12T19:59:11Z"
+      "lastSeenAt": "2026-11-13T06:51:39Z"
     },
     {
       "id": "aea73d7c1048ff9dd916e9c6",
@@ -241,7 +527,7 @@
       "publishedAt": "2026-11-12T00:41:35+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 00:41:35 +0000",
       "firstSeenAt": "2026-11-12T07:18:07Z",
-      "lastSeenAt": "2026-11-12T19:59:11Z"
+      "lastSeenAt": "2026-11-13T06:51:39Z"
     },
     {
       "id": "b6dd250961540a45521e728b",
