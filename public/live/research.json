@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-14T06:33:05Z",
+  "checkedAt": "2026-11-14T18:11:15Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-11-14T06:33:05Z",
-      "lastSuccessAt": "2026-11-14T06:33:05Z",
+      "checkedAt": "2026-11-14T18:11:15Z",
+      "lastSuccessAt": "2026-11-14T18:11:15Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-14T06:33:05Z",
-      "lastSuccessAt": "2026-11-14T06:33:05Z",
+      "checkedAt": "2026-11-14T18:11:15Z",
+      "lastSuccessAt": "2026-11-14T18:11:15Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,233 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-11-14T06:33:05Z",
-      "lastSuccessAt": "2026-11-14T06:33:05Z",
+      "checkedAt": "2026-11-14T18:11:15Z",
+      "lastSuccessAt": "2026-11-14T18:11:15Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "62ad50351cb8e5ded18af920",
+      "title": "केंद्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह महाराष्ट्र के पुणे में एनएचईसी मल्टी स्टेट सहकारी संस्था का भूमि पूजन करेंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336333",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-14T18:11:15Z",
+      "lastSeenAt": "2026-11-14T18:11:15Z"
+    },
+    {
+      "id": "bf3060323dedfaf2c8e5af15",
+      "title": "सामाजिक न्याय एवं अधिकारिता मंत्रालय ने 45वें भारत अंतरराष्ट्रीय व्यापार मेले 2026 में कारीगरों के उत्पादों का प्रदर्शन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336362",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-14T18:11:15Z",
+      "lastSeenAt": "2026-11-14T18:11:15Z"
+    },
+    {
+      "id": "1e148cf80e16f3dfe1b703c7",
+      "title": "बेल्जियम नौसेना के कमांडर रियर एडमिरल टैंगी बॉटमैन ने भारत का दौरा किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336315",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-14T18:11:15Z",
+      "lastSeenAt": "2026-11-14T18:11:15Z"
+    },
+    {
+      "id": "6e58fb653638fa7b7d196192",
+      "title": "बंटे हुए वतन का सफर: गोवा में वैश्विक सिनेमाई उत्सव की शुरुआत पावेल पावलिकोव्स्की की फिल्म 'फादरलैंड' से होगी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336319",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-14T18:11:15Z",
+      "lastSeenAt": "2026-11-14T18:11:15Z"
+    },
+    {
+      "id": "3d020d24f0db79ab80e99dd1",
+      "title": "असम में डीआरआई ने एक टिपर ट्रक के खास तरीके से बनाए गई खाली जगह में छिपाई गई 20 किलो मेथ टैबलेट जब्त कीं; एक शख्स गिरफ्तार",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336337",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-14T18:11:15Z",
+      "lastSeenAt": "2026-11-14T18:11:15Z"
+    },
+    {
+      "id": "2df1df74c34a46f49d791183",
+      "title": "देशभर के छावनी बोर्डों में वरिष्ठ नागरिक कल्याण योजनाओं के विस्तार के लिए सामाजिक न्याय और अधिकारिता विभाग तथा रक्षा संपदा महानिदेशालय के बीच समझौता ज्ञापन पर हस्ताक्षर होंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336310",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-14T18:11:15Z",
+      "lastSeenAt": "2026-11-14T18:11:15Z"
+    },
+    {
+      "id": "54ddb3246d4f9c6e7b8c916a",
+      "title": "सीसीआई ने रसमलाई लिमिटेड द्वारा यथार्थ हॉस्पिटल एंड ट्रॉमा केयर सर्विसेज लिमिटेड की कुछ हिस्सेदारी के अधिग्रहण को मंजूरी दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336276",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-14T18:11:15Z",
+      "lastSeenAt": "2026-11-14T18:11:15Z"
+    },
+    {
+      "id": "1922db872f6aec16ff575bd5",
+      "title": "नई दिल्ली में आईआईसीए द्वारा हितधारक परामर्श बैठक आयोजित, विशेषज्ञों ने कहा—सार्वजनिक नीति में ‘नियंत्रण से विश्वास’ की ओर बदलाव आवश्यक",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336299",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-14T18:11:15Z",
+      "lastSeenAt": "2026-11-14T18:11:15Z"
+    },
+    {
+      "id": "2be7042a62843d285c8c8d87",
+      "title": "डॉ. जितेंद्र सिंह ने इटली में भारतीय प्रवासियों की उत्साहपूर्ण भागीदारी के साथ विश्व मधुमेह दिवस मनाया; भारत की वैज्ञानिक और स्वास्थ्य सेवा संबंधी प्रगति को रेखांकित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336322",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-14T18:11:15Z",
+      "lastSeenAt": "2026-11-14T18:11:15Z"
+    },
+    {
+      "id": "dd23fbb13a8c8a522394fb58",
+      "title": "मादक पदार्थों के दुरुपयोग के खिलाफ युवाओं को एकजुट करने के लिए एनएसएस की ओर से देशभर में ब्लॉक-स्तरीय खेल प्रतियोगिताओं का आयोजन",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336283",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-14T18:11:15Z",
+      "lastSeenAt": "2026-11-14T18:11:15Z"
+    },
+    {
+      "id": "cbe4bb6b80926b0b095afee4",
+      "title": "57वें भारत अंतर्राष्ट्रीय फिल्म महोत्सव में इंडियन पैनोरमा के अंतर्गत 25 फीचर फिल्म और 20 नॉन-फीचर फिल्म का प्रदर्शन किया जाएगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336360",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-14T18:11:15Z",
+      "lastSeenAt": "2026-11-14T18:11:15Z"
+    },
+    {
+      "id": "e32e52e57c731dde65bb4133",
+      "title": "भारत की राष्ट्रपति की छठ पूजा पर शुभकामनाएं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336232",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-14T18:11:15Z",
+      "lastSeenAt": "2026-11-14T18:11:15Z"
+    },
+    {
+      "id": "d1e83302aec3f0fbbc58035b",
+      "title": "57वें इंटरनेशनल फिल्म फेस्टिवल ऑफ़ इंडिया में दुनिया भर की 21 फिल्मों के साथ ब्रिक्‍स सिनेमा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336262",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-14T18:11:15Z",
+      "lastSeenAt": "2026-11-14T18:11:15Z"
+    },
+    {
+      "id": "ec3d2032c86771489065a58d",
+      "title": "प्रधानमंत्री 15 नवंबर को ‘जनजातीय गौरव दिवस’ कार्यक्रम में हिस्सा लेंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336251",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-14T18:11:15Z",
+      "lastSeenAt": "2026-11-14T18:11:15Z"
+    },
+    {
+      "id": "ae712e6d985ae5dc7810bc6f",
+      "title": "भारतीय रेलवे ने नेपाल में जनकपुर धाम को भारत में अयोध्या से जोड़ने वाली साप्ताहिक ट्रेन सेवा को मंजूरी दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336250",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-14T18:11:15Z",
+      "lastSeenAt": "2026-11-14T18:11:15Z"
+    },
+    {
+      "id": "eb90de9d2c2a92a23a5e5f6c",
+      "title": "ओडिशा के हर गरीब को मिलेगा पक्का घर, केंद्रीय मंत्री श्री शिवराज सिंह चौहान ने दी तत्काल 5 लाख पीएम आवास की सौगात",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336211",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-14T18:11:15Z",
+      "lastSeenAt": "2026-11-14T18:11:15Z"
+    },
+    {
+      "id": "56220f12fcf1dc01762070da",
+      "title": "ओडिशा के हर गरीब को मिलेगा पक्का घर, केंद्रीय मंत्री श्री शिवराज सिंह चौहान ने दी तत्काल 5 लाख पीएम आवास की सौगात",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336210",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-14T18:11:15Z",
+      "lastSeenAt": "2026-11-14T18:11:15Z"
+    },
+    {
+      "id": "c37fe18b9148d5e2450c76e3",
+      "title": "'आई मैटर': अपनी पहचान, अपनापन और दूसरा मौका मिलने की एक शानदार कहानी, जिसे इफ्फी 2026 में मिड-फेस्ट फिल्म के तौर पर प्रदर्शित किया जाएगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336268",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-14T18:11:15Z",
+      "lastSeenAt": "2026-11-14T18:11:15Z"
+    },
+    {
+      "id": "afa45ed5c9a08551a97fb816",
+      "title": "तिरुचिरापल्ली में 'जल जीवन मिशन 2.0' पर पहला क्षेत्रीय सम्मेलन संपन्न; ‘सतत’ पेयजल सेवाओं और सामुदायिक स्वामित्व पर जोर",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336267",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-14T18:11:15Z",
+      "lastSeenAt": "2026-11-14T18:11:15Z"
+    },
+    {
+      "id": "5a0d0255b3b1c54d04560e58",
+      "title": "लोकसभा अध्यक्ष ने पंडित जवाहरलाल नेहरू को श्रद्धांजलि अर्पित की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336194",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-14T18:11:15Z",
+      "lastSeenAt": "2026-11-14T18:11:15Z"
+    },
     {
       "id": "3d01b838f28d3dc6083ba429",
       "title": "प्रधानमंत्री जनजातीय विकास मिशन",
@@ -263,7 +483,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 17:50:00",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-14T06:33:05Z"
+      "lastSeenAt": "2026-11-14T18:11:15Z"
     },
     {
       "id": "6bfe36db0a678d64abef2dd6",
@@ -274,7 +494,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 17:45:00",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-14T06:33:05Z"
+      "lastSeenAt": "2026-11-14T18:11:15Z"
     },
     {
       "id": "506ed583c6e92037be1ef231",
@@ -285,7 +505,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 17:30:00",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-14T06:33:05Z"
+      "lastSeenAt": "2026-11-14T18:11:15Z"
     },
     {
       "id": "14fbb46683d0b367eca71829",
@@ -296,7 +516,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 17:30:00",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-14T06:33:05Z"
+      "lastSeenAt": "2026-11-14T18:11:15Z"
     },
     {
       "id": "220dc5bf5a899a4bdf2b82c3",
@@ -307,7 +527,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 17:00:00",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-14T06:33:05Z"
+      "lastSeenAt": "2026-11-14T18:11:15Z"
     },
     {
       "id": "709520144804b2b28beef312",
@@ -318,7 +538,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 14:55:00",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-14T06:33:05Z"
+      "lastSeenAt": "2026-11-14T18:11:15Z"
     },
     {
       "id": "eb5b72533dafdefec8568c5c",
@@ -329,7 +549,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 13:50:00",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-14T06:33:05Z"
+      "lastSeenAt": "2026-11-14T18:11:15Z"
     },
     {
       "id": "0aa64bc7ea75413cda49da1d",
@@ -340,7 +560,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 13:10:00",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-14T06:33:05Z"
+      "lastSeenAt": "2026-11-14T18:11:15Z"
     },
     {
       "id": "e714212c469467e26a1ac6dc",
@@ -351,7 +571,7 @@
       "publishedAt": "2026-11-13T16:39:33+00:00",
       "sourceDateText": "Fri, 13 Nov 2026 16:39:33 +0000",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-14T06:33:05Z"
+      "lastSeenAt": "2026-11-14T18:11:15Z"
     },
     {
       "id": "43fbd5f391f2a6654b0ae349",
@@ -362,7 +582,7 @@
       "publishedAt": "2026-11-13T16:05:54+00:00",
       "sourceDateText": "Fri, 13 Nov 2026 16:05:54 +0000",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-14T06:33:05Z"
+      "lastSeenAt": "2026-11-14T18:11:15Z"
     },
     {
       "id": "c5991a59fda983ebe770ec1a",
@@ -593,7 +813,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 10:20:00",
       "firstSeenAt": "2026-11-13T06:51:39Z",
-      "lastSeenAt": "2026-11-14T06:33:05Z"
+      "lastSeenAt": "2026-11-14T18:11:15Z"
     },
     {
       "id": "7fdd9b95ae307999b5047d2c",
@@ -604,7 +824,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 09:55:00",
       "firstSeenAt": "2026-11-13T06:51:39Z",
-      "lastSeenAt": "2026-11-14T06:33:05Z"
+      "lastSeenAt": "2026-11-14T18:11:15Z"
     },
     {
       "id": "f910d9cc709b5018dc53a2ea",
@@ -626,7 +846,7 @@
       "publishedAt": "2026-11-13T05:05:00+00:00",
       "sourceDateText": "Fri, 13 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-13T06:51:39Z",
-      "lastSeenAt": "2026-11-14T06:33:05Z"
+      "lastSeenAt": "2026-11-14T18:11:15Z"
     },
     {
       "id": "ce083db142efafaa3734e800",
@@ -637,7 +857,7 @@
       "publishedAt": "2026-11-13T05:01:00+00:00",
       "sourceDateText": "Fri, 13 Nov 2026 05:01:00 +0000",
       "firstSeenAt": "2026-11-13T06:51:39Z",
-      "lastSeenAt": "2026-11-14T06:33:05Z"
+      "lastSeenAt": "2026-11-14T18:11:15Z"
     },
     {
       "id": "2b062e211d835d104e73a59c",
@@ -648,7 +868,7 @@
       "publishedAt": "2026-11-12T20:10:02+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 20:10:02 +0000",
       "firstSeenAt": "2026-11-13T06:51:39Z",
-      "lastSeenAt": "2026-11-14T06:33:05Z"
+      "lastSeenAt": "2026-11-14T18:11:15Z"
     },
     {
       "id": "c73ef55e87a417742afd40e2",
@@ -681,7 +901,7 @@
       "publishedAt": "2026-11-12T19:12:49+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 19:12:49 +0000",
       "firstSeenAt": "2026-11-12T19:59:11Z",
-      "lastSeenAt": "2026-11-14T06:33:05Z"
+      "lastSeenAt": "2026-11-14T18:11:15Z"
     },
     {
       "id": "4c4249a6d228ba8455ff4a1e",
@@ -692,7 +912,7 @@
       "publishedAt": "2026-11-12T17:54:32+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 17:54:32 +0000",
       "firstSeenAt": "2026-11-12T19:59:11Z",
-      "lastSeenAt": "2026-11-14T06:33:05Z"
+      "lastSeenAt": "2026-11-14T18:11:15Z"
     },
     {
       "id": "f082ac21290184caf26508fd",
@@ -703,7 +923,7 @@
       "publishedAt": "2026-11-12T13:18:40+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 13:18:40 +0000",
       "firstSeenAt": "2026-11-12T19:59:11Z",
-      "lastSeenAt": "2026-11-14T06:33:05Z"
+      "lastSeenAt": "2026-11-14T18:11:15Z"
     },
     {
       "id": "814222d0921ad1f69c5234dd",
@@ -714,7 +934,7 @@
       "publishedAt": "2026-11-12T13:00:00+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 13:00:00 +0000",
       "firstSeenAt": "2026-11-12T19:59:11Z",
-      "lastSeenAt": "2026-11-14T06:33:05Z"
+      "lastSeenAt": "2026-11-14T18:11:15Z"
     },
     {
       "id": "823bb5ac9017fd09454ed6ff",
@@ -835,7 +1055,7 @@
       "publishedAt": "2026-11-12T05:05:00+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-12T07:18:07Z",
-      "lastSeenAt": "2026-11-14T06:33:05Z"
+      "lastSeenAt": "2026-11-14T18:11:15Z"
     },
     {
       "id": "767e3a9da7a4c4b5635fecd1",
