@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-15T06:41:13Z",
+  "checkedAt": "2026-11-15T18:54:37Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-11-15T06:41:13Z",
-      "lastSuccessAt": "2026-11-15T06:41:13Z",
+      "checkedAt": "2026-11-15T18:54:37Z",
+      "lastSuccessAt": "2026-11-15T18:54:37Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-15T06:41:13Z",
-      "lastSuccessAt": "2026-11-15T06:41:13Z",
+      "checkedAt": "2026-11-15T18:54:37Z",
+      "lastSuccessAt": "2026-11-15T18:54:37Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,233 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-11-15T06:41:13Z",
-      "lastSuccessAt": "2026-11-15T06:41:13Z",
+      "checkedAt": "2026-11-15T18:54:37Z",
+      "lastSuccessAt": "2026-11-15T18:54:37Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "08e2fea91a2dc364a266a9af",
+      "title": "आकाशवाणी ने युवा संगीत प्रतिभाओं को राष्ट्रीय मंच देने के लिए ‘एआईआर उभरते सितारे’ कार्यक्रम का शुभारंभ किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336700",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-15T18:54:37Z",
+      "lastSeenAt": "2026-11-15T18:54:37Z"
+    },
+    {
+      "id": "58b4d62733d1c9bca0c0dc57",
+      "title": "राष्ट्रीय प्राणी उद्यान ने नागरिक विज्ञान एवं जैव विविधता के दस्तावेजीकरण को बढ़ावा देने के लिए 21 वी संडे बर्ड वॉक का आयोजन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336699",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-15T18:54:37Z",
+      "lastSeenAt": "2026-11-15T18:54:37Z"
+    },
+    {
+      "id": "f0b9386d6379c24f17edf871",
+      "title": "केंद्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने महाराष्ट्र के पुणे में एनएचईसी मल्टी स्टेट सहकारी संस्था का भूमि पूजन, डिजिटल माध्यम से सहकारी समितियों के केंद्रीय पंजीयक के पश्चिमी क्षेत्रीय कार्यालय का उद्घाटन तथा भारत टैक्सी सेवाओं का शुभारंभ किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336636",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-15T18:54:37Z",
+      "lastSeenAt": "2026-11-15T18:54:37Z"
+    },
+    {
+      "id": "c1df24a21e93e63749ab24e7",
+      "title": "जलवायु शिखर सम्मेलन में भारत ने रविवार को साइकिल चलाने की पहल का संदेश दिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336675",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-15T18:54:37Z",
+      "lastSeenAt": "2026-11-15T18:54:37Z"
+    },
+    {
+      "id": "058eba60aa079ac93417893e",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने उपराष्ट्रपति श्री सी. पी. राधाकृष्णन का एक लेख साझा किया है, जिसमें जनजातीय विद्यार्थियों को सशक्त बनाने में 'एकलव्य आदर्श आवासीय विद्यालयों' की भूमिका का उल्लेख किया गया है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336616",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-15T18:54:37Z",
+      "lastSeenAt": "2026-11-15T18:54:37Z"
+    },
+    {
+      "id": "8b70c714ba50df6ca5c916ed",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने संसद भवन परिसर में भगवान बिरसा मुंडा की जयंती पर श्रद्धांजलि अर्पित की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336653",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-15T18:54:37Z",
+      "lastSeenAt": "2026-11-15T18:54:37Z"
+    },
+    {
+      "id": "d9a414a83d15a8b01a31fbee",
+      "title": "57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव में चार फिल्मों के विशेष प्रदर्शन के माध्यम से भागीदार देश रूस के साथ सिनेमाई संबंधों का उत्सव मनाया जाएगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336676",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-15T18:54:37Z",
+      "lastSeenAt": "2026-11-15T18:54:37Z"
+    },
+    {
+      "id": "e2b257f6b729405d6aec321d",
+      "title": "केंद्रीय मंत्री डॉ. जितेंद्र सिंह ने कहा कि भारत इटली के 'इंटरनेशनल फिजिक्स सेंटर' के साथ संबंधों को मजबूत करेगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336602",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-15T18:54:37Z",
+      "lastSeenAt": "2026-11-15T18:54:37Z"
+    },
+    {
+      "id": "562641a6b30456c517f55987",
+      "title": "प्रधानमंत्री ने छठ महापर्व के संध्या अर्घ्य पर देशवासियों को शुभकामनाएं दीं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336539",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-15T18:54:37Z",
+      "lastSeenAt": "2026-11-15T18:54:37Z"
+    },
+    {
+      "id": "9665bc8592d933e356d4b808",
+      "title": "केंद्रीय खेल मंत्री डॉ. मनसुख मांडविया और तेलंगाना के मुख्यमंत्री ए. रेवंत रेड्डी ने खेलो इंडिया यूथ गेम्स 2026 के 8वें संस्करण के लोगो और शुभंकर का अनावरण किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336572",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-15T18:54:37Z",
+      "lastSeenAt": "2026-11-15T18:54:37Z"
+    },
+    {
+      "id": "4614e68fa99d95b315f41f0a",
+      "title": "उपराष्ट्रपति 16 नवंबर, 2026 को ओडिशा का दौरा करेंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336531",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-15T18:54:37Z",
+      "lastSeenAt": "2026-11-15T18:54:37Z"
+    },
+    {
+      "id": "2aef4cdefc4696bb39488c7a",
+      "title": "प्रधानमंत्री ने भगवान बिरसा मुंडा को उनकी जयंती पर श्रद्धांजलि अर्पित की और जनजातीय गौरव दिवस की शुभकामनाएं दीं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336537",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-15T18:54:37Z",
+      "lastSeenAt": "2026-11-15T18:54:37Z"
+    },
+    {
+      "id": "79636994a0f567919457d55c",
+      "title": "प्रधानमंत्री ने झारखंड के लोगों को राज्य स्थापना दिवस पर शुभकामनाएं दीं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336527",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-15T18:54:37Z",
+      "lastSeenAt": "2026-11-15T18:54:37Z"
+    },
+    {
+      "id": "1773f01188cbc4d734e40972",
+      "title": "तेलंगाना के मुख्यमंत्री, तेलंगाना सरकार के मंत्रियों और केंद्रीय मंत्री ने प्रधानमंत्री से मुलाकात की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336533",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-15T18:54:37Z",
+      "lastSeenAt": "2026-11-15T18:54:37Z"
+    },
+    {
+      "id": "fb5b842292162aa9eb02807a",
+      "title": "प्रधानमंत्री श्री नरेन्‍द्र मोदी ने महाराष्ट्र के गढ़चिरौली में जनजातीय गौरव दिवस कार्यक्रम में भाग लिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336554",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-15T18:54:37Z",
+      "lastSeenAt": "2026-11-15T18:54:37Z"
+    },
+    {
+      "id": "2d5ca4265427697e2ee88a25",
+      "title": "भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (आईएफएफआई)-2026 में मलयालम सिनेमा का उत्सव मनाया जाएगा, प्रेम नजीर की विरासत को याद किया जाएगा और नई पीढ़ी के फिल्मकारों पर ध्यान केन्द्रित किया जाएगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336571",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-15T18:54:37Z",
+      "lastSeenAt": "2026-11-15T18:54:37Z"
+    },
+    {
+      "id": "39be74f2b8c616e02627fc4d",
+      "title": "वेव्स फिल्म बाजार का भारतीय सिनेमा को वैश्विक फिल्म उद्योग से जोड़ने के दो दशक पूरे होने का उत्सव",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336638",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-15T18:54:37Z",
+      "lastSeenAt": "2026-11-15T18:54:37Z"
+    },
+    {
+      "id": "cd862a24234deb3ec5e8628f",
+      "title": "57वें इफ्फी में सम्मानित देश होगा स्पेन: समकालीन स्पेनिश सिनेमा और कहानी कहने की कला का उत्सव",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336555",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-15T18:54:37Z",
+      "lastSeenAt": "2026-11-15T18:54:37Z"
+    },
+    {
+      "id": "a15155516e98edd110273d9a",
+      "title": "लोक सभा अध्यक्ष श्री ओम बिरला बेंगलुरु में राष्ट्रमंडल महिला सांसदों के भारत क्षेत्रीय सम्मेलन का उद्घाटन करेंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336481",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-15T18:54:37Z",
+      "lastSeenAt": "2026-11-15T18:54:37Z"
+    },
+    {
+      "id": "d4b1a50eca6c14cedc401ea7",
+      "title": "सरकारी स्वास्थ्य व्यय तीन गुना बढ़ा, परिवारों के अपनी जेब से होने वाले खर्च (आउट-ऑफ-पॉकेट एक्सपेंडिचर) की हिस्सेदारी में तेज़ गिरावट: राष्ट्रीय स्वास्थ्य लेखा 2023–24",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336552",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-15T18:54:37Z",
+      "lastSeenAt": "2026-11-15T18:54:37Z"
+    },
     {
       "id": "ecfe8491185a1f0566969080",
       "title": "युगे युगीन भारत संग्रहालय",
@@ -538,7 +758,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 17:50:00",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-15T06:41:13Z"
+      "lastSeenAt": "2026-11-15T18:54:37Z"
     },
     {
       "id": "6bfe36db0a678d64abef2dd6",
@@ -549,7 +769,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 17:45:00",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-15T06:41:13Z"
+      "lastSeenAt": "2026-11-15T18:54:37Z"
     },
     {
       "id": "506ed583c6e92037be1ef231",
@@ -560,7 +780,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 17:30:00",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-15T06:41:13Z"
+      "lastSeenAt": "2026-11-15T18:54:37Z"
     },
     {
       "id": "14fbb46683d0b367eca71829",
@@ -571,7 +791,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 17:30:00",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-15T06:41:13Z"
+      "lastSeenAt": "2026-11-15T18:54:37Z"
     },
     {
       "id": "220dc5bf5a899a4bdf2b82c3",
@@ -582,7 +802,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 17:00:00",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-15T06:41:13Z"
+      "lastSeenAt": "2026-11-15T18:54:37Z"
     },
     {
       "id": "709520144804b2b28beef312",
@@ -593,7 +813,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 14:55:00",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-15T06:41:13Z"
+      "lastSeenAt": "2026-11-15T18:54:37Z"
     },
     {
       "id": "eb5b72533dafdefec8568c5c",
@@ -604,7 +824,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 13:50:00",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-15T06:41:13Z"
+      "lastSeenAt": "2026-11-15T18:54:37Z"
     },
     {
       "id": "0aa64bc7ea75413cda49da1d",
@@ -615,7 +835,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 13:10:00",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-15T06:41:13Z"
+      "lastSeenAt": "2026-11-15T18:54:37Z"
     },
     {
       "id": "e714212c469467e26a1ac6dc",
@@ -626,7 +846,7 @@
       "publishedAt": "2026-11-13T16:39:33+00:00",
       "sourceDateText": "Fri, 13 Nov 2026 16:39:33 +0000",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-15T06:41:13Z"
+      "lastSeenAt": "2026-11-15T18:54:37Z"
     },
     {
       "id": "43fbd5f391f2a6654b0ae349",
@@ -637,7 +857,7 @@
       "publishedAt": "2026-11-13T16:05:54+00:00",
       "sourceDateText": "Fri, 13 Nov 2026 16:05:54 +0000",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-15T06:41:13Z"
+      "lastSeenAt": "2026-11-15T18:54:37Z"
     },
     {
       "id": "c5991a59fda983ebe770ec1a",
@@ -868,7 +1088,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 10:20:00",
       "firstSeenAt": "2026-11-13T06:51:39Z",
-      "lastSeenAt": "2026-11-15T06:41:13Z"
+      "lastSeenAt": "2026-11-15T18:54:37Z"
     },
     {
       "id": "7fdd9b95ae307999b5047d2c",
@@ -879,7 +1099,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 09:55:00",
       "firstSeenAt": "2026-11-13T06:51:39Z",
-      "lastSeenAt": "2026-11-15T06:41:13Z"
+      "lastSeenAt": "2026-11-15T18:54:37Z"
     },
     {
       "id": "f910d9cc709b5018dc53a2ea",
@@ -901,7 +1121,7 @@
       "publishedAt": "2026-11-13T05:05:00+00:00",
       "sourceDateText": "Fri, 13 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-13T06:51:39Z",
-      "lastSeenAt": "2026-11-15T06:41:13Z"
+      "lastSeenAt": "2026-11-15T18:54:37Z"
     },
     {
       "id": "ce083db142efafaa3734e800",
@@ -912,7 +1132,7 @@
       "publishedAt": "2026-11-13T05:01:00+00:00",
       "sourceDateText": "Fri, 13 Nov 2026 05:01:00 +0000",
       "firstSeenAt": "2026-11-13T06:51:39Z",
-      "lastSeenAt": "2026-11-15T06:41:13Z"
+      "lastSeenAt": "2026-11-15T18:54:37Z"
     },
     {
       "id": "2b062e211d835d104e73a59c",
@@ -923,7 +1143,7 @@
       "publishedAt": "2026-11-12T20:10:02+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 20:10:02 +0000",
       "firstSeenAt": "2026-11-13T06:51:39Z",
-      "lastSeenAt": "2026-11-15T06:41:13Z"
+      "lastSeenAt": "2026-11-15T18:54:37Z"
     },
     {
       "id": "c73ef55e87a417742afd40e2",
@@ -956,7 +1176,7 @@
       "publishedAt": "2026-11-12T19:12:49+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 19:12:49 +0000",
       "firstSeenAt": "2026-11-12T19:59:11Z",
-      "lastSeenAt": "2026-11-15T06:41:13Z"
+      "lastSeenAt": "2026-11-15T18:54:37Z"
     },
     {
       "id": "4c4249a6d228ba8455ff4a1e",
@@ -967,7 +1187,7 @@
       "publishedAt": "2026-11-12T17:54:32+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 17:54:32 +0000",
       "firstSeenAt": "2026-11-12T19:59:11Z",
-      "lastSeenAt": "2026-11-15T06:41:13Z"
+      "lastSeenAt": "2026-11-15T18:54:37Z"
     },
     {
       "id": "f082ac21290184caf26508fd",
@@ -978,7 +1198,7 @@
       "publishedAt": "2026-11-12T13:18:40+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 13:18:40 +0000",
       "firstSeenAt": "2026-11-12T19:59:11Z",
-      "lastSeenAt": "2026-11-15T06:41:13Z"
+      "lastSeenAt": "2026-11-15T18:54:37Z"
     },
     {
       "id": "814222d0921ad1f69c5234dd",
@@ -989,7 +1209,7 @@
       "publishedAt": "2026-11-12T13:00:00+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 13:00:00 +0000",
       "firstSeenAt": "2026-11-12T19:59:11Z",
-      "lastSeenAt": "2026-11-15T06:41:13Z"
+      "lastSeenAt": "2026-11-15T18:54:37Z"
     },
     {
       "id": "823bb5ac9017fd09454ed6ff",
@@ -1110,7 +1330,7 @@
       "publishedAt": "2026-11-12T05:05:00+00:00",
       "sourceDateText": "Thu, 12 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-12T07:18:07Z",
-      "lastSeenAt": "2026-11-15T06:41:13Z"
+      "lastSeenAt": "2026-11-15T18:54:37Z"
     },
     {
       "id": "767e3a9da7a4c4b5635fecd1",
