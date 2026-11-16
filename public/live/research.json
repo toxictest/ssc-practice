@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-16T06:38:57Z",
+  "checkedAt": "2026-11-16T22:11:37Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-11-16T06:38:57Z",
-      "lastSuccessAt": "2026-11-16T06:38:57Z",
+      "checkedAt": "2026-11-16T22:11:37Z",
+      "lastSuccessAt": "2026-11-16T22:11:37Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-16T06:38:57Z",
-      "lastSuccessAt": "2026-11-16T06:38:57Z",
+      "checkedAt": "2026-11-16T22:11:37Z",
+      "lastSuccessAt": "2026-11-16T22:11:37Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,332 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-11-16T06:38:57Z",
-      "lastSuccessAt": "2026-11-16T06:38:57Z",
+      "checkedAt": "2026-11-16T22:11:37Z",
+      "lastSuccessAt": "2026-11-16T22:11:37Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "deed445b2f8bf3dc3767ca7a",
+      "title": "केंद्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने पुणे स्थित केंद्रीय सहकारी समितियों के रजिस्ट्रार (CRCS) के क्षेत्रीय कार्यालय का दौरा कर कामकाज एवं विभिन्न पहलों की प्रगति की समीक्षा की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337224",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "c320903c879f86a5dc00b6b0",
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज आंध्र प्रदेश के विजयवाड़ा में रामोजी एक्सीलेंस अवार्ड्स समारोह - 2026 को संबोधित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337202",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "8e72c83fcf83ee0128b786af",
+      "title": "भारत ने अंताल्या (तुर्किये) में आयोजित कॉप-31 में देश-आधारित जस्ट ट्रांजिशन मैकेनिज्म (न्यायसंगत परिवर्तन तंत्र) की मांग की; विकासशील देशों के लिए पर्याप्त वित्तपोषण, प्रौद्योगिकी हस्तांतरण और क्षमता विकास पर जोर दिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337228",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "a98be6a602580d3f2d6b2c3d",
+      "title": "एनसीपीसीआर ने रांची में 14 वर्षीय नाबालिग आदिवासी बालिका के कथित यौन उत्पीड़न का स्वतः संज्ञान लिया; आयोग की टीम 17 नवंबर को रांची का दौरा करेगी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337157",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "43f9398ff28c5ad8deeab3f5",
+      "title": "संयुक्त अनुसंधान, नवाचार और प्रौद्योगिकी विकास को बढ़ावा देने के लिए वैज्ञानिक एवं औद्योगिक अनुसंधान परिषद (सी एस आई आर) और बेलारूस की राष्ट्रीय विज्ञान अकादमी (एन ए एस बी ) ने वैज्ञानिक साझेदारी को नवीनीकृत किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337167",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "3d1d661a4b56ad99b1e3408a",
+      "title": "45वें इंटरनैशनल ट्रैड फेयर 2026 में सामाजिक न्याय एवं अधिकारिता मंत्रालय की भागीदारी समावेशी आर्थिक सशक्तिकरण, उद्यमिता और स्थायी आजीविका के प्रति प्रतिबद्धता को मज़बूत करती है",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337231",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "95416e675b546ce28abe2486",
+      "title": "भारत और थाईलैंड ने थाईलैंड के नोंथाबुरी में आयोजित 14वीं संयुक्त व्यापार समिति की बैठक में द्विपक्षीय व्यापार और आर्थिक सहयोग की समीक्षा की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337211",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "74afc2412a9c019f00b520aa",
+      "title": "भारतीय अंतरराष्ट्रीय व्यापार मेले (आईआईटीएफ) 2026 में ‘विकास और विरासत’ थीम पर आधारित विशेष हथकरघा एवं हस्तशिल्प प्रदर्शनी का केंद्रीय वस्त्र मंत्री श्री गिरिराज सिंह ने किया उद्घाटन",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337120",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "2223d448799c4d84e6d57039",
+      "title": "सीबीडीटी अध्यक्ष श्री रवि अग्रवाल ने विकास और विरासत की भावना का उत्सव मनाते हुए, इंडिया इंटरनेशनल ट्रेड फेयर (आईआईटीएफ) 2026 में करदाता लाउंज का उद्घाटन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337207",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "a1930410efeaf079d5f23a42",
+      "title": "सर्बानंद सोनोवाल ने वैश्विक समुद्री क्षेत्र में अग्रणी देशों के समक्ष 10 अरब डॉलर के जहाज निर्माण अवसर प्रस्तुत किए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337175",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "4a933abc6f10fdbdb68a8a95",
+      "title": "शराब की लत से आर्थिक स्थिरता तक",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337150",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "5792359607afeba975ddfc3d",
+      "title": "केंद्रीय रेशम बोर्ड की अनुसंधान समन्वय समिति की 72वीं बैठक आयोजित की गई",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337130",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "5c2692f4bfe5aaf8c8fc9c60",
+      "title": "भारत-बेलारूस अंतर-सरकारी आयोग का 12वां सत्र नई दिल्ली में आयोजित किया गया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337159",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "b8a218700aadb17d0cfb2945",
+      "title": "सामाजिक न्याय एवं अधिकारिता मंत्रालय (एमओएसजेई) और रक्षा मंत्रालय ने देशभर के छावनी क्षेत्रों में वरिष्ठ नागरिकों के कल्याण को सुदृढ़ करने के लिए हाथ मिलाया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337132",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "b4e54428770e91bf9b5611c4",
+      "title": "गोवा, उत्तर प्रदेश, पंजाब और उत्तराखंड के गैर-हिमाच्छादित वाले क्षेत्रों में जनगणना 2027 के दूसरे चरण के लिए स्व-गणना (Self-Enumeration) शुरू",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337058",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "62c6171410b2468c0cd1b5bf",
+      "title": "अल्पसंख्यक मामले मंत्रालय ने एआई-सक्षम शासन को सुदृढ़ करने हेतु ‘डिजिटल परिवर्तन के लिए कृत्रिम बुद्धिमत्ता’ पर कार्यशाला आयोजित की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337117",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "82217b865b0fcbf364fcda0a",
+      "title": "देवेश चतुर्वेदी और पुष्पेंद्र कुमार गर्ग ने राष्ट्रीय खेल बोर्ड (एनएसबी) के अध्यक्ष एवं सदस्य के रूप में पदभार ग्रहण किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337098",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "33a9d120829bf73943eb770e",
+      "title": "57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (इफ्फी) में 10 फिल्में ‘आईसीएफटी-यूनेस्को गांधी पदक’ के लिए प्रतिस्पर्धा करेंगी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337153",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "44f2d2e499e2315d8f5816ca",
+      "title": "57वें इफ्फी में मराठी सिनेमा पर खास फोकस",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337134",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "277ce7ae91c6579cc3488d6d",
+      "title": "रेल मंत्री श्री अश्विनी वैष्णव और कानपुर के सांसद श्री रमेश अवस्थी ने कानपुर सेंट्रल और आनंद विहार टर्मिनल के बीच नई कानपुर एक्सप्रेस को हरी झंडी दिखाकर रवाना किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337107",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "27309254c945e7efe064c82a",
+      "title": "RBI to conduct 2-day Variable Rate Reverse Repo (VRRR) auction under LAF on November 17, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63984",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Mon, 16 Nov 2026 19:25:00",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "0095a6aabeff903515a4d037",
+      "title": "Auction of Government of India Dated Securities",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63983",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Mon, 16 Nov 2026 17:45:00",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "794462cc14ac32c31676dc3f",
+      "title": "Result: Conversion/Switch Auction of Government of India Securities",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63982",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Mon, 16 Nov 2026 14:55:00",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "0f68dd1faa869c6c25d55468",
+      "title": "Money Market Operations as on November 15, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63981",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Mon, 16 Nov 2026 12:05:00",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "66e93c9a17cd2cd4f3873181",
+      "title": "Money Market Operations as on November 14, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63980",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Mon, 16 Nov 2026 12:00:00",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "9cb60120da34165ea91eaed9",
+      "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
+      "url": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-16T20:30:40+00:00",
+      "sourceDateText": "Mon, 16 Nov 2026 20:30:40 +0000",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "0af0bf2a120cdb552f3c43ab",
+      "title": "Sentinel-6B in Orbit Around Earth",
+      "url": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-16T18:52:32+00:00",
+      "sourceDateText": "Mon, 16 Nov 2026 18:52:32 +0000",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "fec4adae7029caf998b7dce7",
+      "title": "Thunderbirds in Formation",
+      "url": "https://www.nasa.gov/image-article/thunderbirds-in-formation/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-16T18:34:47+00:00",
+      "sourceDateText": "Mon, 16 Nov 2026 18:34:47 +0000",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
+    {
+      "id": "b7edde03a56702f6ff0700f2",
+      "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-16T15:22:09+00:00",
+      "sourceDateText": "Mon, 16 Nov 2026 15:22:09 +0000",
+      "firstSeenAt": "2026-11-16T22:11:37Z",
+      "lastSeenAt": "2026-11-16T22:11:37Z"
+    },
     {
       "id": "1ca66ce2114b784c149cce96",
       "title": "प्रधानमंत्री ने चार दिवसीय छठ महापर्व के समापन पर शुभकामनाएं दीं",
@@ -109,7 +428,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 16 Nov 2026 11:05:00",
       "firstSeenAt": "2026-11-16T06:38:57Z",
-      "lastSeenAt": "2026-11-16T06:38:57Z"
+      "lastSeenAt": "2026-11-16T22:11:37Z"
     },
     {
       "id": "6469bd15d660a63f547ba1a3",
@@ -120,7 +439,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 16 Nov 2026 11:00:00",
       "firstSeenAt": "2026-11-16T06:38:57Z",
-      "lastSeenAt": "2026-11-16T06:38:57Z"
+      "lastSeenAt": "2026-11-16T22:11:37Z"
     },
     {
       "id": "8ec6a579be34a6e3edc44f4d",
@@ -131,7 +450,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 16 Nov 2026 09:00:00",
       "firstSeenAt": "2026-11-16T06:38:57Z",
-      "lastSeenAt": "2026-11-16T06:38:57Z"
+      "lastSeenAt": "2026-11-16T22:11:37Z"
     },
     {
       "id": "78cb1b8a86590c94e437434e",
@@ -142,7 +461,7 @@
       "publishedAt": "2026-11-16T05:05:00+00:00",
       "sourceDateText": "Mon, 16 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-16T06:38:57Z",
-      "lastSeenAt": "2026-11-16T06:38:57Z"
+      "lastSeenAt": "2026-11-16T22:11:37Z"
     },
     {
       "id": "5115c9a08542f6d8eb1b74e8",
@@ -153,7 +472,7 @@
       "publishedAt": "2026-11-16T05:00:00+00:00",
       "sourceDateText": "Mon, 16 Nov 2026 05:00:00 +0000",
       "firstSeenAt": "2026-11-16T06:38:57Z",
-      "lastSeenAt": "2026-11-16T06:38:57Z"
+      "lastSeenAt": "2026-11-16T22:11:37Z"
     },
     {
       "id": "08e2fea91a2dc364a266a9af",
@@ -879,7 +1198,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 17:50:00",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-16T06:38:57Z"
+      "lastSeenAt": "2026-11-16T22:11:37Z"
     },
     {
       "id": "6bfe36db0a678d64abef2dd6",
@@ -890,7 +1209,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 13 Nov 2026 17:45:00",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-16T06:38:57Z"
+      "lastSeenAt": "2026-11-16T22:11:37Z"
     },
     {
       "id": "506ed583c6e92037be1ef231",
@@ -967,7 +1286,7 @@
       "publishedAt": "2026-11-13T16:39:33+00:00",
       "sourceDateText": "Fri, 13 Nov 2026 16:39:33 +0000",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-16T06:38:57Z"
+      "lastSeenAt": "2026-11-16T22:11:37Z"
     },
     {
       "id": "43fbd5f391f2a6654b0ae349",
@@ -978,7 +1297,7 @@
       "publishedAt": "2026-11-13T16:05:54+00:00",
       "sourceDateText": "Fri, 13 Nov 2026 16:05:54 +0000",
       "firstSeenAt": "2026-11-13T19:46:52Z",
-      "lastSeenAt": "2026-11-16T06:38:57Z"
+      "lastSeenAt": "2026-11-16T22:11:37Z"
     },
     {
       "id": "c5991a59fda983ebe770ec1a",
@@ -1242,7 +1561,7 @@
       "publishedAt": "2026-11-13T05:05:00+00:00",
       "sourceDateText": "Fri, 13 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-13T06:51:39Z",
-      "lastSeenAt": "2026-11-16T06:38:57Z"
+      "lastSeenAt": "2026-11-16T22:11:37Z"
     },
     {
       "id": "ce083db142efafaa3734e800",
@@ -1253,7 +1572,7 @@
       "publishedAt": "2026-11-13T05:01:00+00:00",
       "sourceDateText": "Fri, 13 Nov 2026 05:01:00 +0000",
       "firstSeenAt": "2026-11-13T06:51:39Z",
-      "lastSeenAt": "2026-11-16T06:38:57Z"
+      "lastSeenAt": "2026-11-16T22:11:37Z"
     },
     {
       "id": "2b062e211d835d104e73a59c",
