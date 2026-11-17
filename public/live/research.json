@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-17T07:59:48Z",
+  "checkedAt": "2026-11-17T20:59:34Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
-      "ok": false,
-      "checkedAt": "2026-11-17T07:59:48Z",
-      "lastSuccessAt": "2026-11-16T22:11:37Z",
-      "count": 0,
-      "error": "HTTP Error 404: Not Found"
+      "ok": true,
+      "checkedAt": "2026-11-17T20:59:34Z",
+      "lastSuccessAt": "2026-11-17T20:59:34Z",
+      "count": 20,
+      "error": null
     },
     {
       "id": "rbi",
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-17T07:59:48Z",
-      "lastSuccessAt": "2026-11-17T07:59:48Z",
+      "checkedAt": "2026-11-17T20:59:34Z",
+      "lastSuccessAt": "2026-11-17T20:59:34Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,365 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-11-17T07:59:48Z",
-      "lastSuccessAt": "2026-11-17T07:59:48Z",
+      "checkedAt": "2026-11-17T20:59:34Z",
+      "lastSuccessAt": "2026-11-17T20:59:34Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "a3d836d53c5981880cf6d0f8",
+      "title": "सीएसआईआर-एसईआरसी एवं सीएमसी में हिंदी पखवाड़ा समारोह–2026 का समापन एवं पुरस्कार वितरण",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337677",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "fb8ec0cb7120b3c180df6131",
+      "title": "आईएफएफआई 2026 में हिमालयी क्षितिज की चमक: लद्दाखी और कश्मीरी कहानियाँ बनीं आकर्षण का केंद्र",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337692",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "2a96b4b0bffbacd665296e23",
+      "title": "दूरसंचार (प्रसारण और केबल) सेवाओं के डीआरएम-आधारित डिजिटल एड्रेसेबल सिस्टम ऑडिट मैनुअल, 2026 मसौदा पर हितधारकों से टिप्पणियां जमा करने की अंतिम तिथि बढ़ाई गई",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337683",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "1cca7a64d20c539549b3215d",
+      "title": "एपीडा (APEDA) ने वाराणसी से मेडागास्कर के लिए बिस्कुट की पहली खेप के निर्यात में मदद की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337669",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "469c0ac5b7911c4bdb5a5a63",
+      "title": "दिल्ली-एनसीआर में वायु गुणवत्ता में सुधार के बाद सीएक्यूएम ने ग्रैप के तीसरे चरण के प्रतिबंध हटाए, दूसरे चरण के उपाय जारी रहेंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337679",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "af2cbd0049c1a12b8e601187",
+      "title": "सामाजिक न्याय और अधिकारिता मंत्रालय का 45वें भारतीय अंतरराष्ट्रीय व्यापार मेले 2026 में मंडप",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337682",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "3e46478c18594a4b670e1828",
+      "title": "भारत कम-कार्बन की ओर परिवर्तन को गति देने, निवेश आकर्षित करने और घरेलू क्षमताओं को सुदृढ़ करने के लिए जापान के साथ संयुक्त ऋण तंत्र का लाभ उठाएगा: अंताल्या (तुर्किये) में सीओपी31 में श्री भूपेंद्र यादव",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337641",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "ba9046f300113f685b384fcb",
+      "title": "परिणामों की सूची: प्रधानमंत्री की मनीला, फिलीपींस यात्रा (16–17 नवंबर, 2026)",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337644",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "8fc42536712d4be36d4d9e90",
+      "title": "केंद्रीय वाणिज्य और उद्योग मंत्री श्री पीयूष गोयल द्विपक्षीय आर्थिक साझेदारी को मजबूत करने के लिए 17-18 नवंबर 2026 को इटली की आधिकारिक यात्रा करेंगे",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337625",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "92f94eb218bff01cc31da9f8",
+      "title": "“खेत बचाओ अभियान” के तहत पंजाब के समराला पहुंचे केंद्रीय कृषि मंत्री श्री शिवराज सिंह चौहान, कहा- दिल्ली में बैठकर नहीं, खेतों में जाकर बनेगी किसानों की योजना",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337605",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "ac0c8cc849b8a499e70adee9",
+      "title": "डॉ. राजेश शर्मा ने एनसीवीईटी में कार्यकारी सदस्य के रूप में कार्यभार संभाला",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337618",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "eb0e222e86ba4b3af7eb4df7",
+      "title": "राष्ट्रपति ने आईसीएमआर–राष्ट्रीय मलेरिया अनुसंधान संस्थान के स्वर्ण जयंती समारोह का उद्घाटन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337640",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "3b1e4ccea0643b70bf0e6b68",
+      "title": "'समावेशी नीति संकल्प' के लिए मंच तैयार: सामाजिक न्याय और अधिकारिता मंत्रालय राज्यों, केंद्र शासित प्रदेशों के प्रतिनिधियों के दो दिवसीय विभागीय शिखर सम्मेलन के स्वागत को तैयार",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337609",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "b3afad72b9759825f3e62495",
+      "title": "विकासशील देशों के बीच कृषि सहयोग और ज्ञान के आदान-प्रदान को सुदृढ़ बनाने के लिए आईसीएआर और आरआईएस ने समझौता ज्ञापन पर हस्ताक्षर किए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337607",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "0680b052799ab45fe1f11f95",
+      "title": "जनजातीय समुदाय जैव विविधता के संरक्षक रहे हैं: केंद्रीय मंत्री डॉ. जितेंद्र सिंह",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337604",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "af9bf2ce50976f5c80181a80",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने मनीला में आसियान शिखर सम्मेलन के अवसर पर फिलीपींस के राष्ट्रपति से मुलाकात की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337524",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "9d06200eab7070f13dbcfa5f",
+      "title": "भारत गतिशील तटीय क्षेत्रों और महासागरों के लिए छोटे द्वीपीय विकासशील देशों (एसआईडीएस) के साथ साझेदारी को और गहरा करने के लिए प्रतिबद्ध है: अंताल्या (तुर्किये) में आयोजित सीओपी31 में श्री भूपेंद्र यादव का संबोधन",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337582",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "8f869f812b2df2f3102475d3",
+      "title": "प्रधानमंत्री ने मनीला में 21वें पूर्वी एशिया शिखर सम्मेलन को संबोधित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337471",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "59281747b1c1e4f706fcf62f",
+      "title": "21वें पूर्वी एशिया शिखर सम्मेलन के दौरान प्रधानमंत्री का वक्तव्य",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337430",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "6bf5b437d6f5577372819c3e",
+      "title": "प्रधानमंत्री ने मनीला में आयोजित आसियान शिखर सम्मेलन के अवसर पर थाईलैंड के प्रधानमंत्री से मुलाकात की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337484",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "7c92e78e16324564cd2457c8",
+      "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on November 18, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63991",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Tue, 17 Nov 2026 19:05:00",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "6e57b444bd392abc7fdf2490",
+      "title": "Premature redemption under Sovereign Gold Bond (SGB) Scheme - Redemption Price for premature redemption of SGB 2020-21 Series VIII due on November 18, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63990",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Tue, 17 Nov 2026 18:00:00",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "de51acd35018c1b65d3f5e6a",
+      "title": "State Government Securities - Full Auction Result",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63989",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Tue, 17 Nov 2026 16:40:00",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "ba30c78d6703067874cd35ac",
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Nagar Sahakari Bank Ltd., Etawah – Extension of Period",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63988",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Tue, 17 Nov 2026 15:15:00",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "1bd3b6a24074f2a01d134abd",
+      "title": "Result of Yield/Price Based Auction of State Government Securities",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63987",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Tue, 17 Nov 2026 15:05:00",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "53d25b480876e42d20223c75",
+      "title": "BPS Digital AVATAR Challenge",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-17T20:39:38+00:00",
+      "sourceDateText": "Tue, 17 Nov 2026 20:39:38 +0000",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "b303a77c1ce3638981f9a361",
+      "title": "New Album of Baby Star Sounds Shared by NASA’s Chandra",
+      "url": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-17T20:26:17+00:00",
+      "sourceDateText": "Tue, 17 Nov 2026 20:26:17 +0000",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "f7f34b27e3ae136b6d152bb9",
+      "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
+      "url": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-17T19:16:22+00:00",
+      "sourceDateText": "Tue, 17 Nov 2026 19:16:22 +0000",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "ab512ff5041d7997c74fb5d5",
+      "title": "NICER Status Updates",
+      "url": "https://www.nasa.gov/missions/station/nicer-status-updates/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-17T18:18:16+00:00",
+      "sourceDateText": "Tue, 17 Nov 2026 18:18:16 +0000",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "68462eb75b7afb01c378d993",
+      "title": "Curiosity Blog, Sols 5072-5076: The Return of the Polygons",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5072-5076-the-return-of-the-polygons/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-17T17:06:07+00:00",
+      "sourceDateText": "Tue, 17 Nov 2026 17:06:07 +0000",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "6ce8a8b2fa0cf8c55a20193b",
+      "title": "NASA Invites Media, Public to View Roman Telescope’s First Images",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-17T17:00:29+00:00",
+      "sourceDateText": "Tue, 17 Nov 2026 17:00:29 +0000",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
+    {
+      "id": "9ec024039839e374ab41e9b4",
+      "title": "Space Selfie",
+      "url": "https://www.nasa.gov/image-article/space-selfie-2/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-17T16:51:14+00:00",
+      "sourceDateText": "Tue, 17 Nov 2026 16:51:14 +0000",
+      "firstSeenAt": "2026-11-17T20:59:34Z",
+      "lastSeenAt": "2026-11-17T20:59:34Z"
+    },
     {
       "id": "9bfea8eced713ef4d87480a4",
       "title": "Result of the 2-day Variable Rate Reverse Repo (VRRR) auction held on November 17, 2026",
@@ -43,7 +395,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 17 Nov 2026 10:35:00",
       "firstSeenAt": "2026-11-17T07:59:48Z",
-      "lastSeenAt": "2026-11-17T07:59:48Z"
+      "lastSeenAt": "2026-11-17T20:59:34Z"
     },
     {
       "id": "9e8613a57d0fc92bc1f7ea77",
@@ -54,7 +406,7 @@
       "publishedAt": null,
       "sourceDateText": "Tue, 17 Nov 2026 09:00:00",
       "firstSeenAt": "2026-11-17T07:59:48Z",
-      "lastSeenAt": "2026-11-17T07:59:48Z"
+      "lastSeenAt": "2026-11-17T20:59:34Z"
     },
     {
       "id": "063950235b8e06aeab16b962",
@@ -65,7 +417,7 @@
       "publishedAt": "2026-11-17T05:05:00+00:00",
       "sourceDateText": "Tue, 17 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-17T07:59:48Z",
-      "lastSeenAt": "2026-11-17T07:59:48Z"
+      "lastSeenAt": "2026-11-17T20:59:34Z"
     },
     {
       "id": "a2ffe63805297beb312f88f9",
@@ -76,7 +428,7 @@
       "publishedAt": "2026-11-17T05:01:00+00:00",
       "sourceDateText": "Tue, 17 Nov 2026 05:01:00 +0000",
       "firstSeenAt": "2026-11-17T07:59:48Z",
-      "lastSeenAt": "2026-11-17T07:59:48Z"
+      "lastSeenAt": "2026-11-17T20:59:34Z"
     },
     {
       "id": "02f78e404b5929479e0b821f",
@@ -329,7 +681,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 16 Nov 2026 19:25:00",
       "firstSeenAt": "2026-11-16T22:11:37Z",
-      "lastSeenAt": "2026-11-17T07:59:48Z"
+      "lastSeenAt": "2026-11-17T20:59:34Z"
     },
     {
       "id": "0095a6aabeff903515a4d037",
@@ -340,7 +692,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 16 Nov 2026 17:45:00",
       "firstSeenAt": "2026-11-16T22:11:37Z",
-      "lastSeenAt": "2026-11-17T07:59:48Z"
+      "lastSeenAt": "2026-11-17T20:59:34Z"
     },
     {
       "id": "794462cc14ac32c31676dc3f",
@@ -351,7 +703,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 16 Nov 2026 14:55:00",
       "firstSeenAt": "2026-11-16T22:11:37Z",
-      "lastSeenAt": "2026-11-17T07:59:48Z"
+      "lastSeenAt": "2026-11-17T20:59:34Z"
     },
     {
       "id": "0f68dd1faa869c6c25d55468",
@@ -14813,10 +15165,10 @@
       "url": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
       "sourceId": "nasa",
       "sourceName": "NASA",
-      "publishedAt": "2026-10-20T20:21:36+00:00",
-      "sourceDateText": "Tue, 20 Oct 2026 20:21:36 +0000",
+      "publishedAt": "2026-11-17T17:12:20+00:00",
+      "sourceDateText": "Tue, 17 Nov 2026 17:12:20 +0000",
       "firstSeenAt": "2026-10-15T21:27:58Z",
-      "lastSeenAt": "2026-10-21T21:46:27Z"
+      "lastSeenAt": "2026-11-17T20:59:34Z"
     },
     {
       "id": "4071bf79af1fe83d5836bb01",
