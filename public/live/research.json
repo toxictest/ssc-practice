@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-16T22:11:37Z",
+  "checkedAt": "2026-11-17T07:59:48Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
-      "ok": true,
-      "checkedAt": "2026-11-16T22:11:37Z",
+      "ok": false,
+      "checkedAt": "2026-11-17T07:59:48Z",
       "lastSuccessAt": "2026-11-16T22:11:37Z",
-      "count": 20,
-      "error": null
+      "count": 0,
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "id": "rbi",
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-16T22:11:37Z",
-      "lastSuccessAt": "2026-11-16T22:11:37Z",
+      "checkedAt": "2026-11-17T07:59:48Z",
+      "lastSuccessAt": "2026-11-17T07:59:48Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,79 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-11-16T22:11:37Z",
-      "lastSuccessAt": "2026-11-16T22:11:37Z",
+      "checkedAt": "2026-11-17T07:59:48Z",
+      "lastSuccessAt": "2026-11-17T07:59:48Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "9bfea8eced713ef4d87480a4",
+      "title": "Result of the 2-day Variable Rate Reverse Repo (VRRR) auction held on November 17, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63986",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Tue, 17 Nov 2026 10:35:00",
+      "firstSeenAt": "2026-11-17T07:59:48Z",
+      "lastSeenAt": "2026-11-17T07:59:48Z"
+    },
+    {
+      "id": "9e8613a57d0fc92bc1f7ea77",
+      "title": "Money Market Operations as on November 16, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63985",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Tue, 17 Nov 2026 09:00:00",
+      "firstSeenAt": "2026-11-17T07:59:48Z",
+      "lastSeenAt": "2026-11-17T07:59:48Z"
+    },
+    {
+      "id": "063950235b8e06aeab16b962",
+      "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-17T05:05:00+00:00",
+      "sourceDateText": "Tue, 17 Nov 2026 05:05:00 +0000",
+      "firstSeenAt": "2026-11-17T07:59:48Z",
+      "lastSeenAt": "2026-11-17T07:59:48Z"
+    },
+    {
+      "id": "a2ffe63805297beb312f88f9",
+      "title": "Tossing Fireworks from Cloud to Cloud",
+      "url": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-17T05:01:00+00:00",
+      "sourceDateText": "Tue, 17 Nov 2026 05:01:00 +0000",
+      "firstSeenAt": "2026-11-17T07:59:48Z",
+      "lastSeenAt": "2026-11-17T07:59:48Z"
+    },
+    {
+      "id": "02f78e404b5929479e0b821f",
+      "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
+      "url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-16T23:12:45+00:00",
+      "sourceDateText": "Mon, 16 Nov 2026 23:12:45 +0000",
+      "firstSeenAt": "2026-11-17T07:59:48Z",
+      "lastSeenAt": "2026-11-17T07:59:48Z"
+    },
+    {
+      "id": "530c470764109a8f57bff7f8",
+      "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
+      "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-16T22:05:23+00:00",
+      "sourceDateText": "Mon, 16 Nov 2026 22:05:23 +0000",
+      "firstSeenAt": "2026-11-17T07:59:48Z",
+      "lastSeenAt": "2026-11-17T07:59:48Z"
+    },
     {
       "id": "deed445b2f8bf3dc3767ca7a",
       "title": "केंद्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने पुणे स्थित केंद्रीय सहकारी समितियों के रजिस्ट्रार (CRCS) के क्षेत्रीय कार्यालय का दौरा कर कामकाज एवं विभिन्न पहलों की प्रगति की समीक्षा की",
@@ -263,7 +329,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 16 Nov 2026 19:25:00",
       "firstSeenAt": "2026-11-16T22:11:37Z",
-      "lastSeenAt": "2026-11-16T22:11:37Z"
+      "lastSeenAt": "2026-11-17T07:59:48Z"
     },
     {
       "id": "0095a6aabeff903515a4d037",
@@ -274,7 +340,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 16 Nov 2026 17:45:00",
       "firstSeenAt": "2026-11-16T22:11:37Z",
-      "lastSeenAt": "2026-11-16T22:11:37Z"
+      "lastSeenAt": "2026-11-17T07:59:48Z"
     },
     {
       "id": "794462cc14ac32c31676dc3f",
@@ -285,7 +351,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 16 Nov 2026 14:55:00",
       "firstSeenAt": "2026-11-16T22:11:37Z",
-      "lastSeenAt": "2026-11-16T22:11:37Z"
+      "lastSeenAt": "2026-11-17T07:59:48Z"
     },
     {
       "id": "0f68dd1faa869c6c25d55468",
@@ -296,7 +362,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 16 Nov 2026 12:05:00",
       "firstSeenAt": "2026-11-16T22:11:37Z",
-      "lastSeenAt": "2026-11-16T22:11:37Z"
+      "lastSeenAt": "2026-11-17T07:59:48Z"
     },
     {
       "id": "66e93c9a17cd2cd4f3873181",
@@ -307,7 +373,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 16 Nov 2026 12:00:00",
       "firstSeenAt": "2026-11-16T22:11:37Z",
-      "lastSeenAt": "2026-11-16T22:11:37Z"
+      "lastSeenAt": "2026-11-17T07:59:48Z"
     },
     {
       "id": "9cb60120da34165ea91eaed9",
@@ -318,7 +384,7 @@
       "publishedAt": "2026-11-16T20:30:40+00:00",
       "sourceDateText": "Mon, 16 Nov 2026 20:30:40 +0000",
       "firstSeenAt": "2026-11-16T22:11:37Z",
-      "lastSeenAt": "2026-11-16T22:11:37Z"
+      "lastSeenAt": "2026-11-17T07:59:48Z"
     },
     {
       "id": "0af0bf2a120cdb552f3c43ab",
@@ -329,7 +395,7 @@
       "publishedAt": "2026-11-16T18:52:32+00:00",
       "sourceDateText": "Mon, 16 Nov 2026 18:52:32 +0000",
       "firstSeenAt": "2026-11-16T22:11:37Z",
-      "lastSeenAt": "2026-11-16T22:11:37Z"
+      "lastSeenAt": "2026-11-17T07:59:48Z"
     },
     {
       "id": "fec4adae7029caf998b7dce7",
@@ -340,7 +406,7 @@
       "publishedAt": "2026-11-16T18:34:47+00:00",
       "sourceDateText": "Mon, 16 Nov 2026 18:34:47 +0000",
       "firstSeenAt": "2026-11-16T22:11:37Z",
-      "lastSeenAt": "2026-11-16T22:11:37Z"
+      "lastSeenAt": "2026-11-17T07:59:48Z"
     },
     {
       "id": "b7edde03a56702f6ff0700f2",
@@ -351,7 +417,7 @@
       "publishedAt": "2026-11-16T15:22:09+00:00",
       "sourceDateText": "Mon, 16 Nov 2026 15:22:09 +0000",
       "firstSeenAt": "2026-11-16T22:11:37Z",
-      "lastSeenAt": "2026-11-16T22:11:37Z"
+      "lastSeenAt": "2026-11-17T07:59:48Z"
     },
     {
       "id": "1ca66ce2114b784c149cce96",
@@ -428,7 +494,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 16 Nov 2026 11:05:00",
       "firstSeenAt": "2026-11-16T06:38:57Z",
-      "lastSeenAt": "2026-11-16T22:11:37Z"
+      "lastSeenAt": "2026-11-17T07:59:48Z"
     },
     {
       "id": "6469bd15d660a63f547ba1a3",
@@ -439,7 +505,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 16 Nov 2026 11:00:00",
       "firstSeenAt": "2026-11-16T06:38:57Z",
-      "lastSeenAt": "2026-11-16T22:11:37Z"
+      "lastSeenAt": "2026-11-17T07:59:48Z"
     },
     {
       "id": "8ec6a579be34a6e3edc44f4d",
@@ -450,7 +516,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 16 Nov 2026 09:00:00",
       "firstSeenAt": "2026-11-16T06:38:57Z",
-      "lastSeenAt": "2026-11-16T22:11:37Z"
+      "lastSeenAt": "2026-11-17T07:59:48Z"
     },
     {
       "id": "78cb1b8a86590c94e437434e",
@@ -461,7 +527,7 @@
       "publishedAt": "2026-11-16T05:05:00+00:00",
       "sourceDateText": "Mon, 16 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-16T06:38:57Z",
-      "lastSeenAt": "2026-11-16T22:11:37Z"
+      "lastSeenAt": "2026-11-17T07:59:48Z"
     },
     {
       "id": "5115c9a08542f6d8eb1b74e8",
@@ -472,7 +538,7 @@
       "publishedAt": "2026-11-16T05:00:00+00:00",
       "sourceDateText": "Mon, 16 Nov 2026 05:00:00 +0000",
       "firstSeenAt": "2026-11-16T06:38:57Z",
-      "lastSeenAt": "2026-11-16T22:11:37Z"
+      "lastSeenAt": "2026-11-17T07:59:48Z"
     },
     {
       "id": "08e2fea91a2dc364a266a9af",
