@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-19T07:31:25Z",
+  "checkedAt": "2026-11-19T20:42:51Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-11-19T07:31:25Z",
-      "lastSuccessAt": "2026-11-19T07:31:25Z",
+      "checkedAt": "2026-11-19T20:42:51Z",
+      "lastSuccessAt": "2026-11-19T20:42:51Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-19T07:31:25Z",
-      "lastSuccessAt": "2026-11-19T07:31:25Z",
+      "checkedAt": "2026-11-19T20:42:51Z",
+      "lastSuccessAt": "2026-11-19T20:42:51Z",
       "count": 10,
       "error": null
     },
@@ -26,14 +26,388 @@
       "id": "nasa",
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
-      "ok": false,
-      "checkedAt": "2026-11-19T07:31:25Z",
-      "lastSuccessAt": "2026-11-18T07:36:30Z",
-      "count": 0,
-      "error": "Oversized XML or prohibited DTD/entity declaration"
+      "ok": true,
+      "checkedAt": "2026-11-19T20:42:51Z",
+      "lastSuccessAt": "2026-11-19T20:42:51Z",
+      "count": 10,
+      "error": null
     }
   ],
   "items": [
+    {
+      "id": "5ffecbf8b64e38074ff8ac1f",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने 'समावेशी नीति संकल्प 2026' के पूर्ण सत्र की अध्यक्षता की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338850",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "2d1538c7644b5fdbc52ebe79",
+      "title": "प्रधानमंत्री ने सामाजिक न्याय और अधिकारिता विभाग के सम्मेलन के समापन सत्र की अध्यक्षता की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338845",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "805b2741988f39f1b3ac9010",
+      "title": "ویوز فلم بازار عالمی فلمی تعاون کو فروغ دینے کے 20 سال مکمل ہونے کی نشان دہی کرتا ہے",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338801",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "49eeec758be2eb6602bacc6f",
+      "title": "सिनेमा की भाषा की गहरी समझ: इफ्फी 2026 से पहले पीआईबी-एफटीआईआई का फिल्म एप्रिसिएशन कोर्स में फिल्म निर्माण की कला, तकनीक और अभिव्यक्ति के विभिन्न पहलुओं से परिचित कराएगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338799",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "58e8e26aa2a65b532fd63bf6",
+      "title": "केंद्रीय पर्यवेक्षी बोर्ड की 32वीं बैठक में पीसी एंड पीएनडीटी अधिनियम, 1994 के कार्यान्वयन की समीक्षा की गई",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338790",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "227f57a48161f0ce8eac9e1f",
+      "title": "45वें आईआईटीएफ 2026 में सामाजिक न्याय और अधिकारिता मंत्रालय के मंडप में कुल 44.55 लाख रुपये की बिक्री दर्ज की गई",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338810",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "a39e2803d26810ffa011badd",
+      "title": "गोवा में कल से 57वें इफ्फी (IFFI) का शुभारंभ, जीवंत होंगी 'सरहदों से परे की कहानियां'",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338795",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "ef83d43dc4d2efc51b911dc3",
+      "title": "रक्षा मंत्री और जापान के रक्षा मंत्री ने टोक्यो में द्विपक्षीय वार्ता की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338749",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "5f5b584f1c65691a4501f114",
+      "title": "एनएपीडीडीआर के माध्यम से पुनर्वास और आजीविका के अवसरों को सुदृढ़ करना",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338770",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "43bce08168cb8abd89f39685",
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज नई दिल्ली में दो दिवसीय आतंकवाद-रोधी सम्मेलन के उद्घाटन सत्र को संबोधित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338697",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "bc359721c5c26374eae5a352",
+      "title": "वैश्विक सांख्यिकीय साझेदारियों को बढ़ावा देना: ज्ञान के आदान-प्रदान और संस्थागत सहयोग के लिए सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय(एमओएसपीआई) का विजन",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338768",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "2d53f2cd7d804981ad8892d3",
+      "title": "केंद्रीय मंत्री श्री नितिन गडकरी ने सड़क सुरक्षा, निर्माण गुणवत्ता और टिकाऊ तकनीकों पर अधिक ध्यान देने का आह्वान किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338784",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "5948de36c3df8257d926e3e9",
+      "title": "लेंस के ज़रिए: गोवा के पणजी में 57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव (इफ्फी) की मेज़बानी के लिए तैयारियाँ ज़ोरों पर",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338738",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "7e472e667b8429cc16a99437",
+      "title": "डॉ. मनसुख मांडविया ने ईपीएफ के केंद्रीय न्यासी बोर्ड (सीबीटी) की 240वीं बैठक की अध्यक्षता की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338767",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "e1cfd2a14f61f93cb211b296",
+      "title": "रायपुर में उच्चस्तरीय बैठक में बस्तर क्षेत्र की व्यापक विकास योजना की समीक्षा की गई",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338704",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "8a47fe4205e35ec808637a87",
+      "title": "अनुसूचित जाति के छात्रों के लिए राष्ट्रीय फेलोशिप के ज़रिए शैक्षणिक और शोध के अवसरों को और बेहतर बनाना",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338729",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "def25000e4cb8093764134ee",
+      "title": "लोकसभा अध्यक्ष ने श्रीमती इंदिरा गांधी को पुष्पांजलि अर्पित की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338628",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "5fe02fab20b68c31c6478fea",
+      "title": "सामाजिक न्याय और अधिकारिता मंत्रालय ने गुणवत्तापूर्ण आवासीय शिक्षा तक पहुंच बढ़ाने के लिए श्रेष्ठ 2027 की राष्ट्रीय प्रवेश परीक्षा (एनआटीएस) के लिए ऑनलाइन पंजीकरण शुरू किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338700",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "eb59f07cd5141d422c429b77",
+      "title": "अपोलो मेडस्किल्स, न्यूलैंड फाउंडेशन, जेन टेक्नोलॉजीज और श्री सिद्धार्थ इंफ्राटेक एंड सर्विसेज ने तेलंगाना में 1,011 करोड़ रुपये की लागत वाली आईटीआई में बदलाव से संबंधित परियोजनाओं के लिए पीएम-सेतु के तहत सरकार के साथ एसएचए पर हस्ताक्षर किए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338739",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "38df259cb45cede1b597ac90",
+      "title": "ग्वालियर के दूरसंचार विनिर्माण क्षेत्र को मिली गति, 25 कंपनियों को आशय पत्र वितरित",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338677",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "fb5fc13fbede0a23f619efde",
+      "title": "Auction of State Government Securities",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64004",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 19 Nov 2026 19:05:00",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "4f9222ac66ac959bfbbfb00d",
+      "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on November 20, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64003",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 19 Nov 2026 19:00:00",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "812237ab385352da2e4a67af",
+      "title": "Finances of Panchayati Raj Institutions",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64002",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 19 Nov 2026 17:35:00",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "1d4286c85692b5c42e9ab5c9",
+      "title": "Overseas Direct Investment for October 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64001",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Thu, 19 Nov 2026 16:40:00",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "58a8acf48ab8c7a1f9ff51fb",
+      "title": "Challenge: Public Input on Life and the World in 2075",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-19T19:34:20+00:00",
+      "sourceDateText": "Thu, 19 Nov 2026 19:34:20 +0000",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "016ac8483c2005397c688f2b",
+      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+      "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-19T15:33:55+00:00",
+      "sourceDateText": "Thu, 19 Nov 2026 15:33:55 +0000",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "72ab3b40ae04dda7372a5331",
+      "title": "Lake Pelku",
+      "url": "https://www.nasa.gov/image-article/lake-pelku/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-19T15:32:39+00:00",
+      "sourceDateText": "Thu, 19 Nov 2026 15:32:39 +0000",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "4ed2e9bef49fec0c238852ed",
+      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+      "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-19T14:44:39+00:00",
+      "sourceDateText": "Thu, 19 Nov 2026 14:44:39 +0000",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "b71681db2cca441f2d92679e",
+      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-19T14:31:15+00:00",
+      "sourceDateText": "Thu, 19 Nov 2026 14:31:15 +0000",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "2e20115a61007f76b4a3d2ab",
+      "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-19T05:05:00+00:00",
+      "sourceDateText": "Thu, 19 Nov 2026 05:05:00 +0000",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "b41c4de3e0f28efd9a0dea75",
+      "title": "El Niño Rains Paint the Atacama",
+      "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-19T05:00:00+00:00",
+      "sourceDateText": "Thu, 19 Nov 2026 05:00:00 +0000",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "162c5c6a72fe29aa979360a9",
+      "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-18T22:19:17+00:00",
+      "sourceDateText": "Wed, 18 Nov 2026 22:19:17 +0000",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "9d57f4dbe2e389059c581779",
+      "title": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
+      "url": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-18T18:58:27+00:00",
+      "sourceDateText": "Wed, 18 Nov 2026 18:58:27 +0000",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
+    {
+      "id": "946586051f9fd3c7eed6d3e5",
+      "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-18T18:12:32+00:00",
+      "sourceDateText": "Wed, 18 Nov 2026 18:12:32 +0000",
+      "firstSeenAt": "2026-11-19T20:42:51Z",
+      "lastSeenAt": "2026-11-19T20:42:51Z"
+    },
     {
       "id": "037bd1361856ce47cd1fc940",
       "title": "भविष्य के फिल्मकारों को संवारने की पहल: CMOT ने 57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (इफ्फी) में 100 युवा रचनात्मक प्रतिभाओं को मंच प्रदान किया",
@@ -76,7 +450,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 19 Nov 2026 11:25:00",
       "firstSeenAt": "2026-11-19T07:31:25Z",
-      "lastSeenAt": "2026-11-19T07:31:25Z"
+      "lastSeenAt": "2026-11-19T20:42:51Z"
     },
     {
       "id": "4ef2a1eb5dc4b67a9b644ff8",
@@ -87,7 +461,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 19 Nov 2026 11:15:00",
       "firstSeenAt": "2026-11-19T07:31:25Z",
-      "lastSeenAt": "2026-11-19T07:31:25Z"
+      "lastSeenAt": "2026-11-19T20:42:51Z"
     },
     {
       "id": "ecc9a7da74c7b6e2b5183bf3",
@@ -98,7 +472,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 19 Nov 2026 09:00:00",
       "firstSeenAt": "2026-11-19T07:31:25Z",
-      "lastSeenAt": "2026-11-19T07:31:25Z"
+      "lastSeenAt": "2026-11-19T20:42:51Z"
     },
     {
       "id": "d68abfd5228dc81ae907ffe6",
@@ -329,7 +703,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 18 Nov 2026 19:00:00",
       "firstSeenAt": "2026-11-18T20:37:30Z",
-      "lastSeenAt": "2026-11-19T07:31:25Z"
+      "lastSeenAt": "2026-11-19T20:42:51Z"
     },
     {
       "id": "2002b41f81b0d6007686206e",
@@ -340,7 +714,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 18 Nov 2026 17:55:00",
       "firstSeenAt": "2026-11-18T20:37:30Z",
-      "lastSeenAt": "2026-11-19T07:31:25Z"
+      "lastSeenAt": "2026-11-19T20:42:51Z"
     },
     {
       "id": "426923a6f8d543b552c7a93d",
@@ -351,7 +725,7 @@
       "publishedAt": null,
       "sourceDateText": "Wed, 18 Nov 2026 14:40:00",
       "firstSeenAt": "2026-11-18T20:37:30Z",
-      "lastSeenAt": "2026-11-19T07:31:25Z"
+      "lastSeenAt": "2026-11-19T20:42:51Z"
     },
     {
       "id": "9482d97cbc28c5f16d10daf5",
