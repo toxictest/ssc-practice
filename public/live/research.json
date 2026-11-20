@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-19T20:42:51Z",
+  "checkedAt": "2026-11-20T07:23:52Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-11-19T20:42:51Z",
-      "lastSuccessAt": "2026-11-19T20:42:51Z",
+      "checkedAt": "2026-11-20T07:23:52Z",
+      "lastSuccessAt": "2026-11-20T07:23:52Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-19T20:42:51Z",
-      "lastSuccessAt": "2026-11-19T20:42:51Z",
+      "checkedAt": "2026-11-20T07:23:52Z",
+      "lastSuccessAt": "2026-11-20T07:23:52Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,178 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-11-19T20:42:51Z",
-      "lastSuccessAt": "2026-11-19T20:42:51Z",
+      "checkedAt": "2026-11-20T07:23:52Z",
+      "lastSuccessAt": "2026-11-20T07:23:52Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "7f948df76d13ba0abcdda19c",
+      "title": "भारतीय खेतों से वैश्विक बाज़ारों तक: कृषि निर्यात में आई तेज़ी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338909",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-20T07:23:52Z",
+      "lastSeenAt": "2026-11-20T07:23:52Z"
+    },
+    {
+      "id": "2ea5b996eb7e920edcc90b80",
+      "title": "जल शक्ति मंत्रालय ने विश्व शौचालय दिवस 2026 के अवसर पर ‘स्वच्छ शौचालय– गरिमामय भविष्य’ (एसएसजीबी) अभियान शुरू किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338902",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-20T07:23:52Z",
+      "lastSeenAt": "2026-11-20T07:23:52Z"
+    },
+    {
+      "id": "062df930aaa37bb25666259a",
+      "title": "श्री सर्बानंद सोनोवाल ने वाणिज्यिक जहाजों पर हुए हमलों की निंदा की; जोखिम भरे समुद्री इलाकों से गुजरने वाले भारतीय नाविकों के लिए समुद्री सुरक्षा और कड़ी करने के निर्देश दिए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338856",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-20T07:23:52Z",
+      "lastSeenAt": "2026-11-20T07:23:52Z"
+    },
+    {
+      "id": "44d243ea89da38d28661ee4a",
+      "title": "भारत का पैमाना, प्रतिभा और निर्माण क्षमता अमेरिका की पूंजी, प्रौद्योगिकी और नवाचार क्षमता की पूरक हैं: केंद्रीय वाणिज्य एवं उद्योग मंत्री श्री पीयूष गोयल",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338854",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-20T07:23:52Z",
+      "lastSeenAt": "2026-11-20T07:23:52Z"
+    },
+    {
+      "id": "bca44fa5dac66e3f391b19ae",
+      "title": "भारत और इंडोनेशिया ने व्यापार एवं निवेश से संबंधित कार्य समूह की नई दिल्ली में संपन्‍न दूसरी बैठक में व्यापार और आर्थिक सहयोग की समीक्षा की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338855",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-20T07:23:52Z",
+      "lastSeenAt": "2026-11-20T07:23:52Z"
+    },
+    {
+      "id": "66891565f5c4795cc721ffff",
+      "title": "केन्द्रीय वाणिज्य एवं उद्योग मंत्री श्री पीयूष गोयल ने फिक्की से एक वैश्विक चैंबर के रूप में उभरने और भारत की वैश्विक आर्थिक भागीदारी को मजबूत करने का आह्वान किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338857",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-20T07:23:52Z",
+      "lastSeenAt": "2026-11-20T07:23:52Z"
+    },
+    {
+      "id": "0c8468284331a50045f93691",
+      "title": "वेव्स फिल्म बाजार ने वैश्विक फिल्म सहयोग को बढ़ावा देने के 20 साल पूरे किए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338842",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-20T07:23:52Z",
+      "lastSeenAt": "2026-11-20T07:23:52Z"
+    },
+    {
+      "id": "47d13af38c6f931baaef9a58",
+      "title": "नमस्ते योजना के माध्यम से कर्नाटक के मैसूरु में स्वच्छता कर्मी श्री रोशन कुमार की व्यावसायिक सुरक्षा और गरिमा को सशक्त बनाना",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338852",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-20T07:23:52Z",
+      "lastSeenAt": "2026-11-20T07:23:52Z"
+    },
+    {
+      "id": "f54ed9bcde32044dc3882fdd",
+      "title": "औषधि विभाग ने आईआईटीएफ 2026 में भारतीय फार्मा एवं मेडटेक नवाचारों का किया प्रदर्शन",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338853",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-20T07:23:52Z",
+      "lastSeenAt": "2026-11-20T07:23:52Z"
+    },
+    {
+      "id": "6657602e8664b87b6ccfdb0c",
+      "title": "RBI to conduct Second 3-day Variable Rate Repo (VRR) auction under LAF on November 20, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64008",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 20 Nov 2026 12:35:00",
+      "firstSeenAt": "2026-11-20T07:23:52Z",
+      "lastSeenAt": "2026-11-20T07:23:52Z"
+    },
+    {
+      "id": "b992b7de5b9b835ae8a6d4fb",
+      "title": "Result of the 3-day Variable Rate Repo (VRR) auction held on November 20, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64007",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 20 Nov 2026 10:20:00",
+      "firstSeenAt": "2026-11-20T07:23:52Z",
+      "lastSeenAt": "2026-11-20T07:23:52Z"
+    },
+    {
+      "id": "278591e23df1c1412239eed7",
+      "title": "Result of Underwriting Auction conducted on November 20, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64006",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 20 Nov 2026 09:50:00",
+      "firstSeenAt": "2026-11-20T07:23:52Z",
+      "lastSeenAt": "2026-11-20T07:23:52Z"
+    },
+    {
+      "id": "211b0fa3f66f1b1a4e155681",
+      "title": "Money Market Operations as on November 19, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64005",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Fri, 20 Nov 2026 09:15:00",
+      "firstSeenAt": "2026-11-20T07:23:52Z",
+      "lastSeenAt": "2026-11-20T07:23:52Z"
+    },
+    {
+      "id": "bd57de37da4bccfe79fe38e3",
+      "title": "APOD: 2026 November 20 – V-G-R",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-20T05:05:00+00:00",
+      "sourceDateText": "Fri, 20 Nov 2026 05:05:00 +0000",
+      "firstSeenAt": "2026-11-20T07:23:52Z",
+      "lastSeenAt": "2026-11-20T07:23:52Z"
+    },
+    {
+      "id": "0b5bf03985b7b83509a92940",
+      "title": "The Stormy Southwest Pacific",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-20T05:01:00+00:00",
+      "sourceDateText": "Fri, 20 Nov 2026 05:01:00 +0000",
+      "firstSeenAt": "2026-11-20T07:23:52Z",
+      "lastSeenAt": "2026-11-20T07:23:52Z"
+    },
     {
       "id": "5ffecbf8b64e38074ff8ac1f",
       "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने 'समावेशी नीति संकल्प 2026' के पूर्ण सत्र की अध्यक्षता की",
@@ -43,7 +208,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "2d1538c7644b5fdbc52ebe79",
@@ -54,7 +219,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "805b2741988f39f1b3ac9010",
@@ -76,7 +241,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "58e8e26aa2a65b532fd63bf6",
@@ -87,7 +252,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "227f57a48161f0ce8eac9e1f",
@@ -98,7 +263,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "a39e2803d26810ffa011badd",
@@ -109,7 +274,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "ef83d43dc4d2efc51b911dc3",
@@ -120,7 +285,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "5f5b584f1c65691a4501f114",
@@ -131,7 +296,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "43bce08168cb8abd89f39685",
@@ -142,7 +307,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "bc359721c5c26374eae5a352",
@@ -153,7 +318,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "2d53f2cd7d804981ad8892d3",
@@ -164,7 +329,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "5948de36c3df8257d926e3e9",
@@ -263,7 +428,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 19 Nov 2026 19:05:00",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "4f9222ac66ac959bfbbfb00d",
@@ -274,7 +439,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 19 Nov 2026 19:00:00",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "812237ab385352da2e4a67af",
@@ -285,7 +450,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 19 Nov 2026 17:35:00",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "1d4286c85692b5c42e9ab5c9",
@@ -296,7 +461,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 19 Nov 2026 16:40:00",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "58a8acf48ab8c7a1f9ff51fb",
@@ -307,7 +472,7 @@
       "publishedAt": "2026-11-19T19:34:20+00:00",
       "sourceDateText": "Thu, 19 Nov 2026 19:34:20 +0000",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "016ac8483c2005397c688f2b",
@@ -318,7 +483,7 @@
       "publishedAt": "2026-11-19T15:33:55+00:00",
       "sourceDateText": "Thu, 19 Nov 2026 15:33:55 +0000",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "72ab3b40ae04dda7372a5331",
@@ -329,7 +494,7 @@
       "publishedAt": "2026-11-19T15:32:39+00:00",
       "sourceDateText": "Thu, 19 Nov 2026 15:32:39 +0000",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "4ed2e9bef49fec0c238852ed",
@@ -340,7 +505,7 @@
       "publishedAt": "2026-11-19T14:44:39+00:00",
       "sourceDateText": "Thu, 19 Nov 2026 14:44:39 +0000",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "b71681db2cca441f2d92679e",
@@ -351,7 +516,7 @@
       "publishedAt": "2026-11-19T14:31:15+00:00",
       "sourceDateText": "Thu, 19 Nov 2026 14:31:15 +0000",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "2e20115a61007f76b4a3d2ab",
@@ -362,7 +527,7 @@
       "publishedAt": "2026-11-19T05:05:00+00:00",
       "sourceDateText": "Thu, 19 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "b41c4de3e0f28efd9a0dea75",
@@ -373,7 +538,7 @@
       "publishedAt": "2026-11-19T05:00:00+00:00",
       "sourceDateText": "Thu, 19 Nov 2026 05:00:00 +0000",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "162c5c6a72fe29aa979360a9",
@@ -384,7 +549,7 @@
       "publishedAt": "2026-11-18T22:19:17+00:00",
       "sourceDateText": "Wed, 18 Nov 2026 22:19:17 +0000",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "9d57f4dbe2e389059c581779",
@@ -450,7 +615,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 19 Nov 2026 11:25:00",
       "firstSeenAt": "2026-11-19T07:31:25Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "4ef2a1eb5dc4b67a9b644ff8",
@@ -461,7 +626,7 @@
       "publishedAt": null,
       "sourceDateText": "Thu, 19 Nov 2026 11:15:00",
       "firstSeenAt": "2026-11-19T07:31:25Z",
-      "lastSeenAt": "2026-11-19T20:42:51Z"
+      "lastSeenAt": "2026-11-20T07:23:52Z"
     },
     {
       "id": "ecc9a7da74c7b6e2b5183bf3",
