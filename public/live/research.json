@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-21T07:16:59Z",
+  "checkedAt": "2026-11-21T19:22:07Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-11-21T07:16:59Z",
-      "lastSuccessAt": "2026-11-21T07:16:59Z",
+      "checkedAt": "2026-11-21T19:22:07Z",
+      "lastSuccessAt": "2026-11-21T19:22:07Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-21T07:16:59Z",
-      "lastSuccessAt": "2026-11-21T07:16:59Z",
+      "checkedAt": "2026-11-21T19:22:07Z",
+      "lastSuccessAt": "2026-11-21T19:22:07Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,233 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-11-21T07:16:59Z",
-      "lastSuccessAt": "2026-11-21T07:16:59Z",
+      "checkedAt": "2026-11-21T19:22:07Z",
+      "lastSuccessAt": "2026-11-21T19:22:07Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "0cad253bcc04549427ad4a27",
+      "title": "केंद्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज ईटानगर में एक उच्च स्तरीय बैठक में अरुणाचल प्रदेश में कानून-व्यवस्था, आंतरिक सुरक्षा एवं सीमा प्रबंधन की समीक्षा की; प्रदेश के विकास कार्यों की भी समीक्षा बैठक की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339823",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-21T19:22:07Z",
+      "lastSeenAt": "2026-11-21T19:22:07Z"
+    },
+    {
+      "id": "ebe71b6100e5349136b364a3",
+      "title": "उत्तर प्रदेश के लखनऊ में 'कौशल दीक्षांत समारोह' में भाग लेने के दौरान प्रधानमंत्री के संबोधन का मूल पाठ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339783",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-21T19:22:07Z",
+      "lastSeenAt": "2026-11-21T19:22:07Z"
+    },
+    {
+      "id": "570254426d0775b9a6c16de4",
+      "title": "इफ्फी 2026 में ‘धुरंधर’ की प्रेस कॉन्फ्रेंस के दौरान जाने-माने अभिनेता राकेश बेदी ने किरदारों को गढ़ने और उन्हें जीवंत बनाने की कला पर अपने विचार साझा किए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339816",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-21T19:22:07Z",
+      "lastSeenAt": "2026-11-21T19:22:07Z"
+    },
+    {
+      "id": "c027b569c1a84d72edb89f3f",
+      "title": "सूचना एवं प्रसारण मंत्रालय के सचिव श्री चंचल कुमार ने गोवा में 57वें इफ़्फी में प्रकाशन विभाग के स्टॉल का उद्घाटन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339788",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-21T19:22:07Z",
+      "lastSeenAt": "2026-11-21T19:22:07Z"
+    },
+    {
+      "id": "1fc5cc790c7bfcd6eaf03922",
+      "title": "एनआईएसडी ने सामाजिक रक्षा संबंधी पहलों को सुदृढ़ बनाने के लिए देशभर के विश्वविद्यालयों और संस्थानों के साथ हस्ताक्षरित 23 समझौता ज्ञापनों का आदान-प्रदान किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339819",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-21T19:22:07Z",
+      "lastSeenAt": "2026-11-21T19:22:07Z"
+    },
+    {
+      "id": "548854cb7cc6274998574443",
+      "title": "प्रसार भारती ने इफ़्फी (आईएफएफआई) 57 में भारतीय कथा-कथन की नई प्रतिभाओं को खोजने के लिए ‘पेज से पिच तक’ की शुरुआत की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339769",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-21T19:22:07Z",
+      "lastSeenAt": "2026-11-21T19:22:07Z"
+    },
+    {
+      "id": "4c1569bb4f549ac9542f06e1",
+      "title": "भारत-कनाडा सीईपीए वार्ता का छठा दौर नई दिल्ली में संपन्न",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339776",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-21T19:22:07Z",
+      "lastSeenAt": "2026-11-21T19:22:07Z"
+    },
+    {
+      "id": "607e66d4317a89ee6e3284c4",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने लखनऊ, उत्तर प्रदेश में 5वें कौशल दीक्षांत समारोह में भाग लिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339779",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-21T19:22:07Z",
+      "lastSeenAt": "2026-11-21T19:22:07Z"
+    },
+    {
+      "id": "d15a7b157aaa6348948ec35d",
+      "title": "“बिकमिंग एक आध्यात्मिक यात्रा है, जो हर पल चलती रहती है”: 57वें इफ्फी में निर्देशक लीना यादव",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339775",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-21T19:22:07Z",
+      "lastSeenAt": "2026-11-21T19:22:07Z"
+    },
+    {
+      "id": "cf5e512dda9916ad982432ff",
+      "title": "\"डॉक्यूमेंट्री फिल्म निर्माण अत्यंत व्यक्तिगत प्रक्रिया है\": IFFI 57 में जूली बर्टुसेली ने विश्वास, नैतिकता और सामाजिक जिम्मेदारी पर बात की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339789",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-21T19:22:07Z",
+      "lastSeenAt": "2026-11-21T19:22:07Z"
+    },
+    {
+      "id": "574052589abb09ce2aa4aed6",
+      "title": "काशी तमिल संगमम 5.0 से पहले अस्सी घाट पर रंगोली प्रतियोगिता का आयोजन",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339666",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-21T19:22:07Z",
+      "lastSeenAt": "2026-11-21T19:22:07Z"
+    },
+    {
+      "id": "996f768f3c2be2884cc2a96d",
+      "title": "“हमारी कोशिश थी कि सिनेमा के माध्यम से भारत को उसके सच्चे रूप में प्रस्तुत किया जाए”: गैर-फीचर जूरी अध्यक्ष हिमांशु शेखर खटुआ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339782",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-21T19:22:07Z",
+      "lastSeenAt": "2026-11-21T19:22:07Z"
+    },
+    {
+      "id": "826cacf349ecb45c4a098544",
+      "title": "भाषिणी ने वैश्विक डिजिटल स्वास्थ्य शिखर सम्मेलन 2026 में भागीदारी की। समावेशी और संवेदनशील स्वास्थ्य सेवा के निर्माण में बहुभाषी कृत्रिम बुद्धिमत्ता(ए आई) की भूमिका को रेखांकित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339726",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-21T19:22:07Z",
+      "lastSeenAt": "2026-11-21T19:22:07Z"
+    },
+    {
+      "id": "3f63a1e1630e86b326cae1f1",
+      "title": "उपराष्ट्रपति ने चेन्नई में नेल्लई नादर मैट्रिकुलेशन हायर सेकेंडरी स्कूल के 42वें वार्षिक दिवस समारोह में शिरकत की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339703",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-21T19:22:07Z",
+      "lastSeenAt": "2026-11-21T19:22:07Z"
+    },
+    {
+      "id": "955c8f56e0b97d5fb7e32cce",
+      "title": "“हास्य जीवन को देखने का एक बुद्धिमत्तापूर्ण नजरिया है”: स्पेन की फिल्म ‘लुकिंग फॉर माइकल’ का 57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (इफ्फी) में वर्ल्ड प्रीमियर हुआ",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339693",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-21T19:22:07Z",
+      "lastSeenAt": "2026-11-21T19:22:07Z"
+    },
+    {
+      "id": "2c828fe59295fa687d2529b7",
+      "title": "आईटीआरए, जामनगर ने तीन राष्ट्रीय सीएमई कार्यक्रमों का आयोजन किया, 13 राज्यों के 90 आयुर्वेद संकाय सदस्य शामिल हुए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339680",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-21T19:22:07Z",
+      "lastSeenAt": "2026-11-21T19:22:07Z"
+    },
+    {
+      "id": "11b11b5ca35d1df3ec204e90",
+      "title": "स्क्रीन से परे: भारत की सिनेमाई विरासत को पन्नों पर उतारता IFFI 2026",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339670",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-21T19:22:07Z",
+      "lastSeenAt": "2026-11-21T19:22:07Z"
+    },
+    {
+      "id": "993882a483e69bf7e3f27031",
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने ड्रग्स की सीमा पार तस्करी रोकने के लिए संयुक्त रूप से चलाए गए 'ऑपरेशन मॉनसून थंडर' की शानदार सफलता पर NCB और US DEA को बधाई दी",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339604",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-21T19:22:07Z",
+      "lastSeenAt": "2026-11-21T19:22:07Z"
+    },
+    {
+      "id": "566e659a228f0a74db185a7b",
+      "title": "“मुझे किसी और के पैमानों के हिसाब से बेहतर क्यों होना चाहिए?”: गिरीश कासरवल्ली ने इफ्फी 57 में सांस्कृतिक प्रमाणिकता की वकालत की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339640",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-21T19:22:07Z",
+      "lastSeenAt": "2026-11-21T19:22:07Z"
+    },
+    {
+      "id": "40160b12f2b63a34540848ae",
+      "title": "केंद्रीय मंत्री डॉ. जितेंद्र सिंह ने दिल्ली विश्वविद्यालय और जेएनयू के जम्मू-कश्मीर, अधिकतर जम्मू क्षेत्र, से आने वाले विद्यार्थियों के लिए दोपहर के भोज का आयोजन किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339624",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-21T19:22:07Z",
+      "lastSeenAt": "2026-11-21T19:22:07Z"
+    },
     {
       "id": "e08d0aef6a77f8b26ee997e7",
       "title": "एयर कार्गो इम्पोर्ट, दिल्ली सीमा शुल्क विभाग ने नई दिल्ली के एयर कार्गो कॉम्प्लेक्स में लगभग 5 करोड़ रुपये मूल्य की कोकीन की तस्करी की कोशिश को नाकाम किया",
@@ -120,7 +340,7 @@
       "publishedAt": "2026-11-21T05:05:00+00:00",
       "sourceDateText": "Sat, 21 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-21T07:16:59Z",
-      "lastSeenAt": "2026-11-21T07:16:59Z"
+      "lastSeenAt": "2026-11-21T19:22:07Z"
     },
     {
       "id": "e5281c84a0df00fec8e35d00",
@@ -131,7 +351,7 @@
       "publishedAt": "2026-11-20T22:27:05+00:00",
       "sourceDateText": "Fri, 20 Nov 2026 22:27:05 +0000",
       "firstSeenAt": "2026-11-21T07:16:59Z",
-      "lastSeenAt": "2026-11-21T07:16:59Z"
+      "lastSeenAt": "2026-11-21T19:22:07Z"
     },
     {
       "id": "ace204e07fc03ce412e0d097",
@@ -142,7 +362,7 @@
       "publishedAt": "2026-11-20T20:46:14+00:00",
       "sourceDateText": "Fri, 20 Nov 2026 20:46:14 +0000",
       "firstSeenAt": "2026-11-21T07:16:59Z",
-      "lastSeenAt": "2026-11-21T07:16:59Z"
+      "lastSeenAt": "2026-11-21T19:22:07Z"
     },
     {
       "id": "fd7123c5cd268ccdea37b1e2",
@@ -373,7 +593,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 20 Nov 2026 19:45:00",
       "firstSeenAt": "2026-11-20T20:26:58Z",
-      "lastSeenAt": "2026-11-21T07:16:59Z"
+      "lastSeenAt": "2026-11-21T19:22:07Z"
     },
     {
       "id": "14a33bea40902909f4887e0d",
@@ -384,7 +604,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 20 Nov 2026 19:25:00",
       "firstSeenAt": "2026-11-20T20:26:58Z",
-      "lastSeenAt": "2026-11-21T07:16:59Z"
+      "lastSeenAt": "2026-11-21T19:22:07Z"
     },
     {
       "id": "d3720da5861c598575703389",
@@ -395,7 +615,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 20 Nov 2026 17:35:00",
       "firstSeenAt": "2026-11-20T20:26:58Z",
-      "lastSeenAt": "2026-11-21T07:16:59Z"
+      "lastSeenAt": "2026-11-21T19:22:07Z"
     },
     {
       "id": "5b8645e20957ce6d4f6e5571",
@@ -406,7 +626,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 20 Nov 2026 17:20:00",
       "firstSeenAt": "2026-11-20T20:26:58Z",
-      "lastSeenAt": "2026-11-21T07:16:59Z"
+      "lastSeenAt": "2026-11-21T19:22:07Z"
     },
     {
       "id": "8937621336a9cc79b7f6ec6c",
@@ -417,7 +637,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 20 Nov 2026 17:00:00",
       "firstSeenAt": "2026-11-20T20:26:58Z",
-      "lastSeenAt": "2026-11-21T07:16:59Z"
+      "lastSeenAt": "2026-11-21T19:22:07Z"
     },
     {
       "id": "4e176afb02c339df3177b2e6",
@@ -428,7 +648,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 20 Nov 2026 15:30:00",
       "firstSeenAt": "2026-11-20T20:26:58Z",
-      "lastSeenAt": "2026-11-21T07:16:59Z"
+      "lastSeenAt": "2026-11-21T19:22:07Z"
     },
     {
       "id": "028ff19ce0a02a92f73bf8c5",
@@ -439,7 +659,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 20 Nov 2026 14:00:00",
       "firstSeenAt": "2026-11-20T20:26:58Z",
-      "lastSeenAt": "2026-11-21T07:16:59Z"
+      "lastSeenAt": "2026-11-21T19:22:07Z"
     },
     {
       "id": "ba346f90c09796065ae6b0df",
@@ -450,7 +670,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 20 Nov 2026 13:40:00",
       "firstSeenAt": "2026-11-20T20:26:58Z",
-      "lastSeenAt": "2026-11-21T07:16:59Z"
+      "lastSeenAt": "2026-11-21T19:22:07Z"
     },
     {
       "id": "82e21072b4b39a5010be91f2",
@@ -461,7 +681,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 20 Nov 2026 13:15:00",
       "firstSeenAt": "2026-11-20T20:26:58Z",
-      "lastSeenAt": "2026-11-21T07:16:59Z"
+      "lastSeenAt": "2026-11-21T19:22:07Z"
     },
     {
       "id": "668a9e048b9e72134c8872d3",
@@ -472,7 +692,7 @@
       "publishedAt": "2026-11-20T16:27:46+00:00",
       "sourceDateText": "Fri, 20 Nov 2026 16:27:46 +0000",
       "firstSeenAt": "2026-11-20T20:26:58Z",
-      "lastSeenAt": "2026-11-21T07:16:59Z"
+      "lastSeenAt": "2026-11-21T19:22:07Z"
     },
     {
       "id": "90af90b972375528e60441c6",
@@ -483,7 +703,7 @@
       "publishedAt": "2026-11-20T15:53:24+00:00",
       "sourceDateText": "Fri, 20 Nov 2026 15:53:24 +0000",
       "firstSeenAt": "2026-11-20T20:26:58Z",
-      "lastSeenAt": "2026-11-21T07:16:59Z"
+      "lastSeenAt": "2026-11-21T19:22:07Z"
     },
     {
       "id": "7f948df76d13ba0abcdda19c",
@@ -593,7 +813,7 @@
       "publishedAt": null,
       "sourceDateText": "Fri, 20 Nov 2026 12:35:00",
       "firstSeenAt": "2026-11-20T07:23:52Z",
-      "lastSeenAt": "2026-11-21T07:16:59Z"
+      "lastSeenAt": "2026-11-21T19:22:07Z"
     },
     {
       "id": "b992b7de5b9b835ae8a6d4fb",
@@ -637,7 +857,7 @@
       "publishedAt": "2026-11-20T05:05:00+00:00",
       "sourceDateText": "Fri, 20 Nov 2026 05:05:00 +0000",
       "firstSeenAt": "2026-11-20T07:23:52Z",
-      "lastSeenAt": "2026-11-21T07:16:59Z"
+      "lastSeenAt": "2026-11-21T19:22:07Z"
     },
     {
       "id": "0b5bf03985b7b83509a92940",
@@ -648,7 +868,7 @@
       "publishedAt": "2026-11-20T05:01:00+00:00",
       "sourceDateText": "Fri, 20 Nov 2026 05:01:00 +0000",
       "firstSeenAt": "2026-11-20T07:23:52Z",
-      "lastSeenAt": "2026-11-21T07:16:59Z"
+      "lastSeenAt": "2026-11-21T19:22:07Z"
     },
     {
       "id": "5ffecbf8b64e38074ff8ac1f",
@@ -923,7 +1143,7 @@
       "publishedAt": "2026-11-19T19:34:20+00:00",
       "sourceDateText": "Thu, 19 Nov 2026 19:34:20 +0000",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-21T07:16:59Z"
+      "lastSeenAt": "2026-11-21T19:22:07Z"
     },
     {
       "id": "016ac8483c2005397c688f2b",
@@ -934,7 +1154,7 @@
       "publishedAt": "2026-11-19T15:33:55+00:00",
       "sourceDateText": "Thu, 19 Nov 2026 15:33:55 +0000",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-21T07:16:59Z"
+      "lastSeenAt": "2026-11-21T19:22:07Z"
     },
     {
       "id": "72ab3b40ae04dda7372a5331",
@@ -945,7 +1165,7 @@
       "publishedAt": "2026-11-19T15:32:39+00:00",
       "sourceDateText": "Thu, 19 Nov 2026 15:32:39 +0000",
       "firstSeenAt": "2026-11-19T20:42:51Z",
-      "lastSeenAt": "2026-11-21T07:16:59Z"
+      "lastSeenAt": "2026-11-21T19:22:07Z"
     },
     {
       "id": "4ed2e9bef49fec0c238852ed",
