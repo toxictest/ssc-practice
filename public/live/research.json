@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-23T23:57:52Z",
+  "checkedAt": "2026-11-24T09:59:27Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-11-23T23:57:52Z",
-      "lastSuccessAt": "2026-11-23T23:57:52Z",
+      "checkedAt": "2026-11-24T09:59:27Z",
+      "lastSuccessAt": "2026-11-24T09:59:27Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-23T23:57:52Z",
-      "lastSuccessAt": "2026-11-23T23:57:52Z",
+      "checkedAt": "2026-11-24T09:59:27Z",
+      "lastSuccessAt": "2026-11-24T09:59:27Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,134 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": false,
-      "checkedAt": "2026-11-23T23:57:52Z",
+      "checkedAt": "2026-11-24T09:59:27Z",
       "lastSuccessAt": "2026-11-23T07:46:44Z",
       "count": 0,
       "error": "Oversized XML or prohibited DTD/entity declaration"
     }
   ],
   "items": [
+    {
+      "id": "48041831e9c971058d355f11",
+      "title": "श्री गुरु नानक देव जी के प्रकाश पर्व पर उपराष्ट्रपति श्री सी. पी. राधाकृष्णन गुरुद्वारा रकाब गंज साहिब गए",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340788",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-24T09:59:27Z",
+      "lastSeenAt": "2026-11-24T09:59:27Z"
+    },
+    {
+      "id": "7bf7dbc58da6e9739e8dcb3d",
+      "title": "नक्सल-मुक्त भारत",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340786",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-24T09:59:27Z",
+      "lastSeenAt": "2026-11-24T09:59:27Z"
+    },
+    {
+      "id": "ef0cbe0a7c89b57f407ef8d9",
+      "title": "इंडियन सोसाइटी ऑफ एयरोस्पेस मेडिसिन (आईएसएएम) का 65वां वार्षिक सम्मेलन 26 और 27 नवंबर 2026 को आयोजित किया जाएगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340790",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-24T09:59:27Z",
+      "lastSeenAt": "2026-11-24T09:59:27Z"
+    },
+    {
+      "id": "c1a3133088d22a3455e81022",
+      "title": "एपीडा ने वाराणसी में हितधारकों के साथ संवाद कार्यक्रम आयोजित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340780",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-24T09:59:27Z",
+      "lastSeenAt": "2026-11-24T09:59:27Z"
+    },
+    {
+      "id": "e86176309bc1c3a60d33260b",
+      "title": "प्रधानमंत्री ने देवी गंगा का आह्वान करते हुए संस्कृत सुभाषितम् साझा किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340779",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-24T09:59:27Z",
+      "lastSeenAt": "2026-11-24T09:59:27Z"
+    },
+    {
+      "id": "04e4ffad29d160c207033b8a",
+      "title": "प्रधानमंत्री ने श्री गुरु नानक देव जी के प्रकाश पर्व के पावन अवसर पर शुभकामनाएं दीं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340729",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-24T09:59:27Z",
+      "lastSeenAt": "2026-11-24T09:59:27Z"
+    },
+    {
+      "id": "b9ce7073c94dc9ab980d424c",
+      "title": "प्रधानमंत्री ने लाचित दिवस पर महान लाचित बोरफुकन को श्रद्धांजलि अर्पित की",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340730",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-24T09:59:27Z",
+      "lastSeenAt": "2026-11-24T09:59:27Z"
+    },
+    {
+      "id": "17f49ad4fc64d857e5191cdb",
+      "title": "प्रधानमंत्री ने कार्तिक पूर्णिमा और देव दीपावली की शुभकामनाएं दीं",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340731",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-24T09:59:27Z",
+      "lastSeenAt": "2026-11-24T09:59:27Z"
+    },
+    {
+      "id": "79679e6046714954fac384a9",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने श्री गुरु नानक देव जी के प्रकाश पर्व पर शबद कीर्तन में भाग लिया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340719",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-24T09:59:27Z",
+      "lastSeenAt": "2026-11-24T09:59:27Z"
+    },
+    {
+      "id": "a11d9ef18b225ba62c3adf06",
+      "title": "पनडुब्बी रोधी युद्धक उथले पानी का पोत ‘अशंक’ (यार्ड 3036) नौसेना को सौंपा गया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340722",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-24T09:59:27Z",
+      "lastSeenAt": "2026-11-24T09:59:27Z"
+    },
+    {
+      "id": "8dab039dc7b76ebdb4098d43",
+      "title": "‘नशा मुक्त युवा, विकसित भारत’ अभियान के 10वें सप्ताह के दौरान माय भारत (MY Bharat) ने 36 राज्यों/केंद्रशासित प्रदेशों में 95,000 से अधिक प्रतिभागियों को संगठित किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340718",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-24T09:59:27Z",
+      "lastSeenAt": "2026-11-24T09:59:27Z"
+    },
     {
       "id": "d844d36181c8966dcce3603f",
       "title": "नेपाल के प्रधानमंत्री की भारत की राजकीय यात्रा के दौरान प्राप्‍त उपलब्धियों की सूची",
@@ -43,7 +164,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-23T23:57:52Z"
+      "lastSeenAt": "2026-11-24T09:59:27Z"
     },
     {
       "id": "6f5eee5da59c3f378f296375",
@@ -54,7 +175,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-23T23:57:52Z"
+      "lastSeenAt": "2026-11-24T09:59:27Z"
     },
     {
       "id": "ed41edf5a27d35e572d402bb",
@@ -65,7 +186,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-23T23:57:52Z"
+      "lastSeenAt": "2026-11-24T09:59:27Z"
     },
     {
       "id": "38a544389cb9ed4269b5768c",
@@ -76,7 +197,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-23T23:57:52Z"
+      "lastSeenAt": "2026-11-24T09:59:27Z"
     },
     {
       "id": "fc2c747e73555642f6a7665d",
@@ -87,7 +208,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-23T23:57:52Z"
+      "lastSeenAt": "2026-11-24T09:59:27Z"
     },
     {
       "id": "e5dcc5859290bedf2341f49c",
@@ -98,7 +219,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-23T23:57:52Z"
+      "lastSeenAt": "2026-11-24T09:59:27Z"
     },
     {
       "id": "4b52000302e9df8c896ba813",
@@ -109,7 +230,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-23T23:57:52Z"
+      "lastSeenAt": "2026-11-24T09:59:27Z"
     },
     {
       "id": "23cfe004d9a695317471bc13",
@@ -120,7 +241,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-23T23:57:52Z"
+      "lastSeenAt": "2026-11-24T09:59:27Z"
     },
     {
       "id": "7a78eccefa5ed5168df1df6e",
@@ -131,7 +252,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-23T23:57:52Z"
+      "lastSeenAt": "2026-11-24T09:59:27Z"
     },
     {
       "id": "3715f086afccd56155d7ec1e",
@@ -263,7 +384,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 23 Nov 2026 19:25:00",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-23T23:57:52Z"
+      "lastSeenAt": "2026-11-24T09:59:27Z"
     },
     {
       "id": "6d0e8bb3b8497ad00f35b6b7",
@@ -274,7 +395,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 23 Nov 2026 19:20:00",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-23T23:57:52Z"
+      "lastSeenAt": "2026-11-24T09:59:27Z"
     },
     {
       "id": "48be356cdc5af472c6346616",
@@ -285,7 +406,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 23 Nov 2026 19:15:00",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-23T23:57:52Z"
+      "lastSeenAt": "2026-11-24T09:59:27Z"
     },
     {
       "id": "cd73a5f999979184b54dbfbf",
@@ -296,7 +417,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 23 Nov 2026 18:10:00",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-23T23:57:52Z"
+      "lastSeenAt": "2026-11-24T09:59:27Z"
     },
     {
       "id": "58834320b1fd9b2356301bbc",
@@ -307,7 +428,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 23 Nov 2026 17:45:00",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-23T23:57:52Z"
+      "lastSeenAt": "2026-11-24T09:59:27Z"
     },
     {
       "id": "9c8538fde873d68d9fd62c9c",
@@ -318,7 +439,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 23 Nov 2026 17:00:00",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-23T23:57:52Z"
+      "lastSeenAt": "2026-11-24T09:59:27Z"
     },
     {
       "id": "0515af8f1edbb5effe549441",
@@ -329,7 +450,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 23 Nov 2026 16:50:00",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-23T23:57:52Z"
+      "lastSeenAt": "2026-11-24T09:59:27Z"
     },
     {
       "id": "149ea118b285270ee64758e4",
@@ -340,7 +461,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 23 Nov 2026 16:35:00",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-23T23:57:52Z"
+      "lastSeenAt": "2026-11-24T09:59:27Z"
     },
     {
       "id": "e80b86a25cf1f22cc048d1a7",
@@ -351,7 +472,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 23 Nov 2026 16:30:00",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-23T23:57:52Z"
+      "lastSeenAt": "2026-11-24T09:59:27Z"
     },
     {
       "id": "43608eb9f494bd19b55fcc5a",
@@ -362,7 +483,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 23 Nov 2026 15:05:00",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-23T23:57:52Z"
+      "lastSeenAt": "2026-11-24T09:59:27Z"
     },
     {
       "id": "3bbc2d94ff9a7b9e4154479c",
