@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-24T22:31:12Z",
+  "checkedAt": "2026-11-25T08:43:15Z",
   "sources": [
     {
       "id": "pib",
       "name": "Press Information Bureau",
       "feedUrl": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
       "ok": true,
-      "checkedAt": "2026-11-24T22:31:12Z",
-      "lastSuccessAt": "2026-11-24T22:31:12Z",
+      "checkedAt": "2026-11-25T08:43:15Z",
+      "lastSuccessAt": "2026-11-25T08:43:15Z",
       "count": 20,
       "error": null
     },
@@ -17,8 +17,8 @@
       "name": "Reserve Bank of India",
       "feedUrl": "https://www.rbi.org.in/pressreleases_rss.xml",
       "ok": true,
-      "checkedAt": "2026-11-24T22:31:12Z",
-      "lastSuccessAt": "2026-11-24T22:31:12Z",
+      "checkedAt": "2026-11-25T08:43:15Z",
+      "lastSuccessAt": "2026-11-25T08:43:15Z",
       "count": 10,
       "error": null
     },
@@ -27,13 +27,145 @@
       "name": "NASA",
       "feedUrl": "https://www.nasa.gov/news-release/feed/",
       "ok": true,
-      "checkedAt": "2026-11-24T22:31:12Z",
-      "lastSuccessAt": "2026-11-24T22:31:12Z",
+      "checkedAt": "2026-11-25T08:43:15Z",
+      "lastSuccessAt": "2026-11-25T08:43:15Z",
       "count": 10,
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "358154e1412b770c2a2afa48",
+      "title": "सेवा क्षेत्र के अनंतिम उत्पादक मूल्य सूचकांक (आधार वर्ष 2022-23)",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341112",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-25T08:43:15Z",
+      "lastSeenAt": "2026-11-25T08:43:15Z"
+    },
+    {
+      "id": "654b5dd04ccfb714b638399e",
+      "title": "काशी तमिल संगमम 5.0",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341041",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-25T08:43:15Z",
+      "lastSeenAt": "2026-11-25T08:43:15Z"
+    },
+    {
+      "id": "6f7faa2bacc9b551425ae151",
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने सर्वोच्च आध्यात्मिक प्राप्ति के मार्ग पर प्रकाश डालने वाला संस्कृत सुभाषितम् साझा किया",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341059",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-25T08:43:15Z",
+      "lastSeenAt": "2026-11-25T08:43:15Z"
+    },
+    {
+      "id": "c832c23e7a73fc6756105b78",
+      "title": "डॉ. आंबेडकर फाउंडेशन 26 नवंबर, गुरुवार को संविधान दिवस समारोह का आयोजन करेगा",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341038",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-25T08:43:15Z",
+      "lastSeenAt": "2026-11-25T08:43:15Z"
+    },
+    {
+      "id": "70f254677207e18cbf48a892",
+      "title": "आईएफएफआई मास्टरक्लास में सौरभ सचदेवा ने कलाकारों से डर से निपटने, जोखिम उठाने और अपने लक्ष्यों के अनुरूप कार्य करने का किया आग्रह",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341037",
+      "sourceId": "pib",
+      "sourceName": "Press Information Bureau",
+      "publishedAt": null,
+      "sourceDateText": "",
+      "firstSeenAt": "2026-11-25T08:43:15Z",
+      "lastSeenAt": "2026-11-25T08:43:15Z"
+    },
+    {
+      "id": "e8378561da399c80362a2102",
+      "title": "Result of the Second Overnight Variable Rate Repo (VRR) auction held on November 25, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64038",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 25 Nov 2026 12:50:00",
+      "firstSeenAt": "2026-11-25T08:43:15Z",
+      "lastSeenAt": "2026-11-25T08:43:15Z"
+    },
+    {
+      "id": "c5044daa8a25b48c946034de",
+      "title": "RBI to conduct Second Overnight Variable Rate Repo (VRR) auction under LAF on November 25, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64037",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 25 Nov 2026 11:30:00",
+      "firstSeenAt": "2026-11-25T08:43:15Z",
+      "lastSeenAt": "2026-11-25T08:43:15Z"
+    },
+    {
+      "id": "04622244483a879c058d8de9",
+      "title": "Money Market Operations as on November 24, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64036",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 25 Nov 2026 10:40:00",
+      "firstSeenAt": "2026-11-25T08:43:15Z",
+      "lastSeenAt": "2026-11-25T08:43:15Z"
+    },
+    {
+      "id": "a9822bd3639bcf2ac6d5c43b",
+      "title": "Result of the Overnight Variable Rate Repo (VRR) auction held on November 25, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64035",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 25 Nov 2026 10:25:00",
+      "firstSeenAt": "2026-11-25T08:43:15Z",
+      "lastSeenAt": "2026-11-25T08:43:15Z"
+    },
+    {
+      "id": "2dd512f7a1b9829cbfa6420c",
+      "title": "Money Market Operations as on November 23, 2026",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64034",
+      "sourceId": "rbi",
+      "sourceName": "Reserve Bank of India",
+      "publishedAt": null,
+      "sourceDateText": "Wed, 25 Nov 2026 09:00:00",
+      "firstSeenAt": "2026-11-25T08:43:15Z",
+      "lastSeenAt": "2026-11-25T08:43:15Z"
+    },
+    {
+      "id": "964f8076eb89b77bfd52fcfe",
+      "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-25T05:05:00+00:00",
+      "sourceDateText": "Wed, 25 Nov 2026 05:05:00 +0000",
+      "firstSeenAt": "2026-11-25T08:43:15Z",
+      "lastSeenAt": "2026-11-25T08:43:15Z"
+    },
+    {
+      "id": "300f60bf03097ee10904c8c3",
+      "title": "Georgia’s Pecan Belt",
+      "url": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "publishedAt": "2026-11-25T05:00:00+00:00",
+      "sourceDateText": "Wed, 25 Nov 2026 05:00:00 +0000",
+      "firstSeenAt": "2026-11-25T08:43:15Z",
+      "lastSeenAt": "2026-11-25T08:43:15Z"
+    },
     {
       "id": "0927522c7b3d71d1b98e8a12",
       "title": "प्रधानमंत्री ने वाराणसी में देव दीपावली की तस्वीरें साझा कीं",
@@ -43,7 +175,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "1a81ed5e30db22791eff783a",
@@ -54,7 +186,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "fa53ab513e9760947f9b4b2f",
@@ -65,7 +197,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "f5c170208b13f90e5566634c",
@@ -76,7 +208,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "2c5446bc27ccc5b111f87bbe",
@@ -87,7 +219,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "7d53a263dbe95025765d36cb",
@@ -98,7 +230,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "e8dc804eb6ed65b3d94ea742",
@@ -109,7 +241,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "29931abcadc36243bf01e84d",
@@ -120,7 +252,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "2104873afacd57d6fc2ec769",
@@ -131,7 +263,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "c5090c894f173671a6567775",
@@ -142,7 +274,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "2146529c7a520d895e321f67",
@@ -153,7 +285,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "0f4b18fcacf1a8dc87f85493",
@@ -164,7 +296,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "176773f358fd71dcbb57bb43",
@@ -175,7 +307,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "6a869a9eb014a501df62a56d",
@@ -186,7 +318,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "ec36e353948f836b79edd920",
@@ -197,7 +329,7 @@
       "publishedAt": null,
       "sourceDateText": "",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "7d6148e7aab74aeb8fd92693",
@@ -263,7 +395,7 @@
       "publishedAt": "2026-11-24T21:14:36+00:00",
       "sourceDateText": "Tue, 24 Nov 2026 21:14:36 +0000",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "ecbc64e7d02a7a442820c6f6",
@@ -274,7 +406,7 @@
       "publishedAt": "2026-11-24T21:04:32+00:00",
       "sourceDateText": "Tue, 24 Nov 2026 21:04:32 +0000",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "9a1b702ffeda61444b354946",
@@ -285,7 +417,7 @@
       "publishedAt": "2026-11-24T19:19:52+00:00",
       "sourceDateText": "Tue, 24 Nov 2026 19:19:52 +0000",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "5257e4b96b7100c003d21108",
@@ -296,7 +428,7 @@
       "publishedAt": "2026-11-24T19:09:16+00:00",
       "sourceDateText": "Tue, 24 Nov 2026 19:09:16 +0000",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "eabc7310045fb3c5f8b2eeb6",
@@ -307,7 +439,7 @@
       "publishedAt": "2026-11-24T18:55:42+00:00",
       "sourceDateText": "Tue, 24 Nov 2026 18:55:42 +0000",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "7e146f3772423b4d384f785e",
@@ -318,7 +450,7 @@
       "publishedAt": "2026-11-24T16:51:27+00:00",
       "sourceDateText": "Tue, 24 Nov 2026 16:51:27 +0000",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "1411284531cd5d7833e1ee47",
@@ -329,7 +461,7 @@
       "publishedAt": "2026-11-24T15:44:38+00:00",
       "sourceDateText": "Tue, 24 Nov 2026 15:44:38 +0000",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "4546006c5b1c4a06316ac6db",
@@ -340,7 +472,7 @@
       "publishedAt": "2026-11-24T13:58:28+00:00",
       "sourceDateText": "Tue, 24 Nov 2026 13:58:28 +0000",
       "firstSeenAt": "2026-11-24T22:31:12Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "a659db74de57d17ab12e1bae",
@@ -714,7 +846,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 23 Nov 2026 19:25:00",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "6d0e8bb3b8497ad00f35b6b7",
@@ -725,7 +857,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 23 Nov 2026 19:20:00",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "48be356cdc5af472c6346616",
@@ -736,7 +868,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 23 Nov 2026 19:15:00",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "cd73a5f999979184b54dbfbf",
@@ -747,7 +879,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 23 Nov 2026 18:10:00",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "58834320b1fd9b2356301bbc",
@@ -758,7 +890,7 @@
       "publishedAt": null,
       "sourceDateText": "Mon, 23 Nov 2026 17:45:00",
       "firstSeenAt": "2026-11-23T23:57:52Z",
-      "lastSeenAt": "2026-11-24T22:31:12Z"
+      "lastSeenAt": "2026-11-25T08:43:15Z"
     },
     {
       "id": "9c8538fde873d68d9fd62c9c",
